@@ -1,104 +1,113 @@
-# Wiki Schema: Digital China Studies
+---
+title: Digital China Wiki — Schema
+type: schema
+---
 
-## Domain
-Digital resources for China studies — databases, websites, archives, tools, and platforms useful for researching Chinese history, literature, politics, society, and culture. Covers PRC, Taiwan, Hong Kong, and the global Chinese diaspora.
+# Digital China Wiki — Schema
 
-## Conventions
-- File names: lowercase, hyphens, no spaces (e.g., `academia-sinica-digital-archives.md`)
-- Every wiki page starts with YAML frontmatter (see below)
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
-- When updating a page, always bump the `updated` date
-- Every new page must be added to `index.md` under the correct section
-- Every action must be appended to `log.md`
-- Bilingual content: include both English and 中文 summaries where applicable
+A structured knowledge base of digital resources for Chinese studies.
 
-## Frontmatter
+## Directory Structure
+
+```
+digital-china-wiki/
+├── resources/        # 916 resource pages (databases, archives, tools, etc.)
+├── topics/           # 25 conceptual/topic pages (e.g., digital humanities in China)
+├── institutions/     # 14 institutional profiles
+├── regions/          # 5 region pages (PRC, Taiwan, Hong Kong, Japan, Korea)
+├── glossary/         # 10 glossary redirect pages
+├── index.md          # Master index
+├── SCHEMA.md         # This file
+├── TAG_TAXONOMY.md   # Controlled tag vocabulary
+└── scripts/          # Utility scripts
+```
+
+## Page Frontmatter
+
+### Resource Pages (`resources/`)
+
 ```yaml
 ---
-title: "Page Title"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-type: website | database | news | maps | tool | institution | region | concept | glossary
-url: canonical URL (for resources)
-language: en | zh | ja | multilingual
-region: prc | taiwan | hong_kong | japan | global
-tags: [from taxonomy below]
-subjects: [from taxonomy below]
-sources: [discovery source]
+title: "Full Title"
+url: https://example.com
+description: Brief description of the resource.
+language: zh          # ISO 639-1
+region: prc           # from Region axis
+tags: [database, statistical, prc]
+created: 2026-04-18
+updated: 2026-04-18
+---
+```
+
+**Fields:**
+- `title` (required) — Full display name
+- `url` (required) — Canonical URL
+- `description` (required) — 1-3 sentence summary
+- `language` — Primary language(s) of the resource
+- `region` — Primary geographic focus
+- `tags` — Controlled vocabulary (see below). Min 1, typically 2-4 tags.
+- `created` / `updated` — ISO date
+- `access_via_harvard` — Harvard EZProxy URL (if applicable)
+- `site_status` — `live` | `dead` | `unreachable` | `restricted` | `unknown`
+- `source_id` — Original ID from source data
+
+### Topic Pages (`topics/`)
+
+```yaml
+---
+title: "Topic Name"
+type: topic
+tags: [digital_humanities, prc]
+created: 2026-04-18
+---
+```
+
+### Institution Pages (`institutions/`)
+
+```yaml
+---
+title: "Institution Name"
+type: institution
+url: https://example.edu
+tags: [catalog]
+region: prc
+---
+```
+
+### Region Pages (`regions/`)
+
+```yaml
+---
+title: "Region Name"
+type: region
+aliases: [alias1, alias2]
 ---
 ```
 
 ## Tag Taxonomy
 
-### Resource Types
-website, database, news, maps, code_host, reference, ebook_platform, bookstore, library_catalog, video_playlist, bibliography, policy, social
+Tags follow a 3-axis controlled vocabulary. All tags must come from the
+validated set in `TAG_TAXONOMY.md`.
 
-### Content Domains
-archives, rare_books, manuscripts, newspapers, ejournals, ebooks, government_records, primary_sources, academic_resources, digital_humanities, digital_libraries, digital_collections, digital_archive, library_services, special_collections, museum
+### Axis 1: Resource Type (20 tags)
+`archive` · `bibliography` · `catalog` · `database` · `dictionary` ·
+`ebook` · `film_video` · `full_text` · `gis` · `guide` · `map` ·
+`newspaper` · `organization` · `periodical` · `photo` · `platform` ·
+`statistical` · `tool` · `social_media` · `website`
 
-### Disciplines
-chinese_history, chinese_studies, taiwan_studies, east_asian_studies, chinese_intellectual_history, political_history, book_history, literature, philosophy, social_sciences, media_studies, library_science, research_methods, art_history, archaeology, religion, law, economics, linguistics
+### Axis 2: Content Topic (30 tags)
+`art_history` · `book_history` · `buddhism` · `christianity` · `classics` ·
+`cold_war` · `colonialism` · `digital_humanities` · `economic_history` ·
+`epigraphy` · `film_studies` · `genealogy` · `geography` ·
+`intellectual_history` · `language` · `legal_history` · `literature` ·
+`maritime` · `medicine` · `military_history` · `music` · `museum_studies` ·
+`newspaper_studies` · `open_access` · `philosophy` · `political_science` ·
+`rare_books` · `religion` · `social_history` · `statistics`
 
-### Regions
-prc, taiwan, hong_kong, japan, korea, southeast_asia, global
+### Axis 3: Region (6 tags)
+`prc` · `taiwan` · `japan` · `hong_kong` · `korea` · `global`
 
-### Languages
-en, zh, ja, ko, multilingual
+## Wikilinks
 
-### Access
-open_access, subscription, institutional, registration_required
-
-### Institutions
-academia_sinica, harvard, yale, stanford, princeton, columbia, national_diet_library, loc, ncl_taiwan
-
-## Page Types
-
-### Resource Pages (websites/, databases/, news/, maps/)
-One page per digital resource. Include:
-- Title (English + Chinese where applicable)
-- Summary / description
-- 中文摘要 where applicable
-- Canonical URL + access notes
-- Key pages / sections of the resource
-- Cross-references to [[topic]], [[region]], [[institution]] pages
-- Source of discovery
-
-### Concept Pages (concepts/, topics/)
-Thematic or topical groupings. Include:
-- Definition / scope
-- Key resources in this area (linked)
-- Related concepts
-- Research methods commonly used
-
-### Region Pages (regions/)
-Geographic or political entity pages. Include:
-- Overview of digital resources for this region
-- Major institutions
-- Key databases and archives
-- Related regions
-
-### Institution Pages (institutions/)
-Universities, libraries, archives, research centers. Include:
-- Overview
-- Key digital collections / platforms hosted
-- Related institutions and resources
-
-### Glossary Pages (glossary/)
-Chinese/English term pairs and concept definitions. Include:
-- English term
-- Chinese equivalent (simplified + traditional)
-- Definition
-- Related terms
-
-## Page Thresholds
-- **Create a page** when a resource has a unique URL and identifiable purpose
-- **Add to existing page** when a resource is a subsection or feature of an already-documented resource
-- **DON'T create a page** for dead links or placeholder entries
-- **Split a page** when it exceeds ~200 lines
-- **Archive a page** when its URL is confirmed dead and no replacement exists
-
-## Update Policy
-- New resources: create page, add to index
-- URL changes: update canonical_url, note old URL
-- Dead links: mark as deprecated in frontmatter, add "Status: Inactive" note
-- Conflicting info: note both positions with dates and sources
+Pages link to each other using `[[dir/filename|display text]]` syntax.
+Only link to existing pages. No free-form tags — use only the controlled vocabulary above.
