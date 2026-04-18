@@ -15,7 +15,7 @@ Academic databases, research platforms, and scholarly resources for China studie
 
 - [[airiti-ainosco-search-ainoscosearch.com-4b68da29|Airiti. Ainosco Search 是科探索]]
 - [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊，論文，圖書全文檢索平台]]
-- [[airitilibrary-com|Airiti Library 華藝台灣電子期刊]]
+- [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊]]
 - [[airitilibrary-com-search-aljnlbrowse|Airiti Library Journal Search]]
 - [[airiti-chinese-electronic-proceedings-services-nrs.harvard.edu-2a3a991c|Airiti Chinese Electronic Proceedings Services 華藝中文會議論文資料庫]]
 - [[book-douban-com|Douban Books (豆瓣读书)]]

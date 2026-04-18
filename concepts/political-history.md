@@ -13,7 +13,7 @@ Digital resources for the study of Chinese political history including governmen
 
 ## Key Resources (6 total)
 
-- [[ahonline-drnh-gov-tw|Dr. NH Online]]
+- [[resource-ahonline.drnh.gov.tw-2f8a911b|Dr. NH Online]]
 - [[archives-kmt-org-tw-gs32-kmt-index-htm|Kuomintang Party Archives System 中國國民黨黨史館館藏檔案目錄檢索系統]]
 - [[aa-archives-gov-tw|National Archives Information Network (Taiwan) 國家檔案資訊網]]
 - [[dangshi-dachengdata-com|History of the Party Database 中共党史期刊数据库]]

@@ -21,7 +21,7 @@ Digital library platforms and portals providing access to Chinese-language mater
 - [[rro-routledge-resources-online-chinese-studies-new-go.openathens.net-eb2f45e2|RRO. Routledge Resources Online: Chinese Studies NEW]]
 - [[apabi-com-stanford|Apabi China Digital Library: Newspapers (中华数字书苑报纸库)]]
 - [[da-lib-ntnu-edu-tw-rarebook-ug-0-jsp|Digital Archive of Rare Books（善本古籍數位典藏系統）]]
-- [[ahonline-drnh-gov-tw|Dr. NH Online]]
+- [[resource-ahonline.drnh.gov.tw-2f8a911b|Dr. NH Online]]
 - [[1989-a-voa-news-project-projects.voanews.com-32f6a006|Opening the 1989 Tiananmen Time Capsule - VOA News Project]]
 - [[library-pitt-edu-eal-request-form-chinese|Request Form]]
 - [[library-yale-edu-about-us|About Us - Yale University Library]]

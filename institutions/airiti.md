@@ -16,7 +16,7 @@ Taiwan-based academic database platform providing access to Chinese-language ele
 - [[airitibooks-com|Airiti Books 華藝圖書]]
 - [[airiti-ainosco-search-ainoscosearch.com-4b68da29|Airiti. Ainosco Search 是科探索]]
 - [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊，論文，圖書全文檢索平台]]
-- [[airitilibrary-com|Airiti Library 華藝台灣電子期刊]]
+- [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊]]
 - [[airiti-iread-ebook-hu-airitibooks-com.us1.proxy.openathens.net-46fda572|Airiti iRead eBook 華藝中文電子書]]
 - [[airitilibrary-com-search-aljnlbrowse|Airiti Library Journal Search]]
 - [[airiti-chinese-electronic-proceedings-services-nrs.harvard.edu-2a3a991c|Airiti Chinese Electronic Proceedings Services 華藝中文會議論文資料庫]]

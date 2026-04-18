@@ -21,7 +21,7 @@ Digital newspaper and periodical databases covering Chinese-language news media 
 - [[nlc-modern-newspaper-in-china-1840-1949-1-8-bz.nlcpress.com-4e2765b7|NLC.Modern Newspaper in China, 1840-1949 中国历史文献总库- 近代报纸数据库 (1-8 辑）]]
 - [[en-wikipedia-org-wiki-newspapers-of-hong-kong|List of newspaper sites in Hong Kong]]
 - [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊，論文，圖書全文檢索平台]]
-- [[airitilibrary-com|Airiti Library 華藝台灣電子期刊]]
+- [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊]]
 - [[airitilibrary-com-search-aljnlbrowse|Airiti Library Journal Search]]
 - [[aisixiang-com|愛思想 aisixiang.com]]
 

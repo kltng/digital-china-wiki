@@ -6,14 +6,14 @@ updated: 2026-04-18
 
 # Digital China Studies Wiki — Master Index
 
-> Auto-generated index of all wiki pages. 985 pages, 1031 wikilinks, 1107 KB total.
+> Auto-generated index of all wiki pages. 969 pages, 1023 wikilinks, 1091 KB total.
 
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| websites | 822 |
-| databases | 72 |
+| websites | 807 |
+| databases | 71 |
 | concepts | 25 |
 | institutions | 14 |
 | tools | 14 |
@@ -22,20 +22,17 @@ updated: 2026-04-18
 | maps | 10 |
 | regions | 5 |
 
-| **Total** | **985** |
+| **Total** | **969** |
 
 ### Site Status
 
-- live: 777
-- unreachable: 74
+- live: 763
+- unreachable: 73
 - unknown: 46
 - access_restricted: 44
-- dead: 44
+- dead: 43
 
-## Pages by Category
-
-
-### Concepts (25)
+## Concepts (25)
 
 - ✅ [[academic-research|Academic Research 学术研究]] — 
 - ✅ [[archives|Archives and Primary Sources 档案与一手史料]] — 
@@ -63,7 +60,7 @@ updated: 2026-04-18
 - ✅ [[taiwan-history|Taiwan History 台湾史]] — 
 - ✅ [[taiwan-studies|Taiwan Studies 台湾研究]] — 
 
-### Databases (72)
+## Databases (71)
 
 - ✅ [[202-96-31-78-xlsworkbench-publish|National Ancient Books Census Basic Database 全國古籍普查登記基本數據庫]] — 
 - ✅ [[academia-edu-37490636-ancient-chinese-civilization-bibliography-of-materials-in-|Ancient Chinese Civilization: Bibliography of Materials in Western Languages]] — 
@@ -72,7 +69,6 @@ updated: 2026-04-18
 - ✅ [[airiti-iread-ebook-hu-airitibooks-com.us1.proxy.openathens.net-46fda572|Airiti iRead eBook 華藝中文電子書]] — 
 - ✅ [[airiti-library-www-airitilibrary-com.ezp-prod1.hul.harvard.edu-6263469e|Airiti Library 華藝台灣電子期刊，論文，圖書全文檢索平台]] — 
 - ✅ [[airitilibrary-com-search-aljnlbrowse|Airiti Library Journal Search]] — 
-- ✅ [[airitilibrary-com|Airiti Library 華藝台灣電子期刊]] — 
 - ✅ [[aleweb-ncl-edu-tw-f|National Central Library (Taipei) 國家圖書館（臺北）]] — 
 - ✅ [[apabi-china-digital-library-not-available-nrs.harvard.edu-7cd19703|Apabi China Digital Library (Not Available)]] — 
 - ✅ [[apabi-china-reference-book-resources-database-not-avalable-nrs.harvard.edu-e127a254|Apabi China Reference Book Resources Database (Not Available)]] — 
@@ -138,7 +134,7 @@ updated: 2026-04-18
 - ✅ [[zhang-letian-fieldwork-database-zlt.eastview.com.ezp-prod1.hul.harvard.edu-a9ac82fd|Zhang Letian Fieldwork Database 张乐天联民村数据库]] — 【生产数据】 1972年红江公社联民大队主要农机具拥有量 【家庭档案】 周生康笔记1963年6月6日 【家庭档案】 周生康笔记1963年6月5日 【家庭档案】 周生康笔记1963年2月9日 复旦大学社
 - ✅ [[zhuanji-wenxue-digital-archive-1962-2016-p.udpweb.com-b2af5383|Zhuanji Wenxue Digital Archive 傳記文學全文資料庫 (1962-2016)]] — United Digital Publications (UDP) provides access to digital archives and databases covering Chinese
 
-### Glossary (10)
+## Glossary (10)
 
 - ✅ [[academic-libraries|Academic Libraries]] — 
 - ✅ [[academic-resources|Academic Resources]] — 
@@ -151,7 +147,7 @@ updated: 2026-04-18
 - ✅ [[primary-sources|Primary Sources]] — 
 - ✅ [[special-collections|Special Collections]] — 
 
-### Institutions (14)
+## Institutions (14)
 
 - ✅ [[academia-sinica|Academia Sinica 中央研究院]] — 
 - ✅ [[airiti|Airiti Library 華藝]] — 
@@ -168,7 +164,7 @@ updated: 2026-04-18
 - ✅ [[stanford-library|Stanford University Libraries 斯坦福大学图书馆]] — 
 - ✅ [[yale-library|Yale University Library 耶鲁大学图书馆]] — 
 
-### Maps (10)
+## Maps (10)
 
 - ✅ [[digital-maps-china-japan-korea-vietnam-taiwan-hong-kong-macau-hollis.harvard.edu-a1954c99|Digital Maps- China, Japan, Korea, Vietnam, Taiwan, Hong Kong, Macau 数字地圖]] — Digital Maps- China, Japan, Korea, Vietnam, Taiwan, Hong Kong, Macau 数字地圖, provided by Harvard Unive
 - ✅ [[harvard-curiosity-collections-scanned-maps-curiosity.lib.harvard.edu-f4f38555|Harvard Curiosity collections Scanned Maps]] — Thousands of the Harvard Map Collection's maps and atlases from around the world are available onlin
@@ -181,7 +177,7 @@ updated: 2026-04-18
 - ✅ [[old-maps-online-the-search-engine-for-historical-maps-open-access-oldmapsonline.org-8b01253e|Old Maps Online- the search engine for historical maps 旧地图分享平台 OPEN ACCESS]] — The easy-to-use getaway to historical maps in libraries around the world.
 - ✅ [[the-american-geographical-society-library-digital-map-collection-uwm.edu-633fdf63|The American Geographical Society Library Digital Map Collection]] — Browse this collection The American Geographical Society Library Digital Map Collection contains ove
 
-### News (13)
+## News (13)
 
 - ✅ [[1989-a-voa-news-project-projects.voanews.com-32f6a006|Opening the 1989 Tiananmen Time Capsule - VOA News Project]] — 
 - ❓ [[bksy-chinese-and-english-newspaper-of-modern-china-1-2-www-cnbksy-com.ezp-prod1.hul.harvard.edu-f0912c85|BKSY. Chinese and English Newspaper of Modern China- 字林洋行中英文报纸，新聞報，盛京時報，時事新報，時報，神州日報，小報， 報紙綜合專輯1-2]] — BKSY. Chinese and English Newspaper of Modern China- 字林洋行中英文报纸，新聞報，盛京時報，時事新報，時報，神州日報，小報， 報紙綜合專輯1-2. 
@@ -197,7 +193,7 @@ updated: 2026-04-18
 - ✅ [[old-hong-kong-newspapers-open-access-mmis.hkpl.gov.hk-b1f26ea3|Old Hong Kong Newspapers 香港舊報紙 Open Access]] — Old Hong Kong Newspapers 香港舊報紙 Open Access with a focus on mainland China.
 - ✅ [[xinjiang-minority-language-newspapers-hollis.harvard.edu-0f70435f|Xinjiang Minority-Language Newspapers 新疆少数民族语报紙]] — Xinjiang Minority-Language Newspapers 新疆少数民族语报紙, provided by Harvard University, is a catalog with a
 
-### Regions (5)
+## Regions (5)
 
 - ✅ [[global|Global / International 全球]] — 
 - ✅ [[hong-kong|Hong Kong 香港]] — 
@@ -205,7 +201,7 @@ updated: 2026-04-18
 - ✅ [[prc|People's Republic of China 中华人民共和国]] — 
 - ✅ [[taiwan|Taiwan 台湾]] — 
 
-### Tools (14)
+## Tools (14)
 
 - ✅ [[cbdb-api-github.com-c308e5f1|CBDB API]] — CBDB 在线系统主服务器. Contribute to cbdb-project/cbdb-online-main-server development by creating an account
 - ✅ [[chinese-maritime-trade-customs-datasets-open-access-github.com-04ec7a39|Chinese Maritime Trade Customs Datasets 中国旧海关贸易资料数据集 OPEN ACCESS]] — Curation scripts used for processing datasets from: https://dataverse.harvard.edu/dataverse/chinese_
@@ -222,7 +218,7 @@ updated: 2026-04-18
 - ✅ [[github-com-awesome|Github Com Awesome]] — 😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome
 - ✅ [[github-com-rbooks|Github Com Rbooks]] — A curated list of #rstats books. Contribute to romantseg/rbooks development by creating an account o
 
-### Websites (822)
+## Websites (807)
 
 - ✅ [[124-33-215-236-gazou-chinamap-chinamaplist-php|Toyo Bunko Image Database: Maps of the Chinese Empire and East Asia]] — 
 - ✅ [[aa-archives-gov-tw|National Archives Information Network (Taiwan) 國家檔案資訊網]] — 
@@ -232,7 +228,6 @@ updated: 2026-04-18
 - ✅ [[adho-org|Adho Org]] — Global support for digital humanitiesresearch,collaboration, andeducation Upcoming conferences will 
 - ✅ [[adminguide-stanford-edu-chapter-1-subchapter-5-policy-1-5-4|Stanford Trademark Policy (Guide Memo)]] — 
 - ✅ [[afe-easia-columbia-edu|Afe Easia Columbia Edu]] — Asia for Educators (AFE) is an initiative of Columbia University's Weatherhead East Asian Institute 
-- ✅ [[ahonline-drnh-gov-tw|Dr. NH Online]] — 
 - ✅ [[airiti-ainosco-search-ainoscosearch.com-4b68da29|Airiti. Ainosco Search 是科探索]] — Airiti. Ainosco Search 是科探索. A digital resource for Chinese and East Asian studies.
 - ✅ [[airitibooks-com|Airiti Books 華藝圖書]] — 
 - ✅ [[aisixiang-com|愛思想 aisixiang.com]] — 
@@ -310,7 +305,6 @@ updated: 2026-04-18
 - ✅ [[ccrd-usc-cuhk-edu-hk|中國當代政治運動史數據庫 (Databases on the History of Contemporary Chinese Political Movements)]] — 中国大跃进-大饥荒数据库，1958-1962 中国五十年代初中期的政治运动数据库：从土地改革到公私合营，1949-1956
 - ⚠️ [[ccs-ncl-edu-tw-expertdb-aspx|臺灣漢學研究中心專題資料庫 Center for Chinese Studies (Taiwan) Subject Databases]] — 臺灣漢學研究中心專題資料庫 Center for Chinese Studies (Taiwan) Subject Databases. focusing on Taiwan. The site ma
 - ⚠️ [[ccs-ncl-edu-tw-g0107-database3-aspx|典藏國際漢學博士論文摘要資料庫 (International Chinese Studies Doctoral Dissertation Abstracts Database)]] — 典藏國際漢學博士論文摘要資料庫 (International Chinese Studies Doctoral Dissertation Abstracts Database). focusing o
-- ❌ [[ccts-ascc-net-index-php|Chinese Civilization in Time and Space]] — Chinese Civilization in Time and Space. The original site appears to be no longer available (404 err
 - ✅ [[ccts-ascc-net|Ccts Ascc Net]] — Ccts Ascc Net. provided by Academia Sinica. focusing on Taiwan.
 - ❓ [[ceic-data-library.hbs.edu-1504eb4b|CEIC Data]] — CEIC Data with a focus on global scope.
 - ✅ [[censtatd-gov-hk|(香港)政府統計處 (Hong Kong) Census and Statistics Department]] — 
@@ -512,7 +506,6 @@ updated: 2026-04-18
 - ⚠️ [[gmrb-egreenapple-com|Guangming Ribao 光明日报]] — Guangming Ribao 光明日报. The site may be intermittently unavailable or geo-restricted.
 - ✅ [[gmw-cn|Guangming Daily]] — Guangming Daily. A digital resource for Chinese and East Asian studies.
 - ✅ [[go-galegroup-com-gdsc-i-do|The Chinese Recorder and the Protestant Missionary Community in China, 1867-1941]] — Don’t know how to login? Depending on this location’s preferences, the log-in process could include 
-- ✅ [[gongjushu-oversea-cnki-net-oversea|CNKI: China Reference Works Online 中国工具书网络出版总库]] — CNKI: China Reference Works Online 中国工具书网络出版总库, provided by CNKI (China National Knowledge Infrastru
 - ✅ [[guang-ming-ri-bao-1949-2013-nrs.harvard.edu-e2563429|Guang ming ri bao 光明日报 1949 - 2013]] — Sign in with your account to access OpenAthens Upgrade now by installing the OneDrive for Business N
 - ✅ [[guides-library-harvard-edu-chinese|Guides Library Harvard Edu Chinese]] — This guide provides tools and selected electronic resources for conducting research on Chinese studi
 - ✅ [[guides-library-harvard-edu-chineselegalresearch|Guides Library Harvard Edu Chineselegalresearch]] — This guide provides an overview of some of the best resources for Chinese legal research in both Chi
@@ -557,7 +550,6 @@ updated: 2026-04-18
 - ✅ [[h-net-org-reviews-home-php|H-Net Reviews]] — AboutMore about this networkContact H-Net ReviewsBrowse/Search All H-Net ReviewsReviews by CategoryH
 - ✅ [[han-cloud-search-platform-nrs.harvard.edu-a8f81b30|Han Cloud Search Platform 漢雲平台]] — Sign in with your account to access OpenAthens Upgrade now by installing the OneDrive for Business N
 - ✅ [[han-viet-com|Han Viet Com]] — vny2k.com, ziendan.com, hocthuat.com, sangtac.com, Han-Viet.com
-- ✅ [[hanchi-ihp-sinica-edu-tw-hanji-htm|Hanchi Ihp Sinica Edu Tw Hanji Htm]] — A resource from Academia Sinica. focusing on Taiwan.
 - ✅ [[hanji-sinica-edu-tw|Han dian quanwen jiansuo xitong 瀚典全文檢索系統]] — Han dian quanwen jiansuo xitong 瀚典全文檢索系統, provided by Academia Sinica, Taiwan with a focus on Taiwan
 - ✅ [[hanyu-dacidian-apabi.com.ezp-prod1.hul.harvard.edu-391eeecd|Hanyu Dacidian 汉语大词典]] — 管理自己的借阅、检索器、评论、打分、推荐等个人信息。 您的IP是：172.93.50.206，您尚未登录。 该资源已收录于中华数字书苑，请正确检索资源
 - ✅ [[hart-collection-open-access-hollis.harvard.edu-1ed90c50|Hart Collection 哈特教授藏書 OPEN ACCESS]] — Hart Collection 哈特教授藏書 OPEN ACCESS, provided by Harvard University, is a catalog with a focus on mai
@@ -576,7 +568,6 @@ updated: 2026-04-18
 - ✅ [[harvard-yenching-library-online-photographs-hollis.harvard.edu-c6f75f40|Harvard-Yenching Library Online Photographs]] — Harvard-Yenching Library Online Photographs, provided by Harvard University, is a catalog with a foc
 - ✅ [[harvard-yenching-online-photo-collections-through-hollis-images-images.hollis.harvard.edu-e7d96eb6|Harvard-Yenching Online Photo collections through Hollis Images]] — Harvard-Yenching Online Photo collections through Hollis Images, provided by Harvard University, is 
 - ✅ [[harvard-yenching-org-research-type-book-reviews|New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Book Reviews)]] — New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Book Reviews). A digital resource f
-- ✅ [[harvardartmuseums-org-collections|Harvardartmuseums Org Collections]] — Explore our collections: approximately 250,000 objects from the Fogg, Busch-Reisinger, and Arthur M.
 - ✅ [[hathitrust-org-digital-library|HathiTrust Digital Library]] — 
 - ✅ [[hdl-handle-net-10079-yuldb-yuldb1111|ProQuest News & Newspapers]] — If you have a Yale University ID then log in here: If you have a Yale New Haven Hospital ID and DO N
 - ✅ [[hdl-handle-net-10079-yuldb-yuldb22|Academic Search Premier]] — If you have a Yale University ID then log in here: If you have a Yale New Haven Hospital ID and DO N
@@ -631,7 +622,6 @@ updated: 2026-04-18
 - ✅ [[ivy-plus-libraries-digital-projects-on-east-asia-guides.library.duke.edu-63e69272|Ivy Plus Libraries' Digital Projects on East Asia 常春藤高校聯盟數字建設項目匯總]] — This guide is for librarians in Ivy plus libraries to share their digital projects related to China.
 - ✅ [[jamesclear-com-atomic-habits|Jamesclear Com Atomic Habits]] — Packed with evidence-based strategies, Atomic Habits will teach you how to make small changes that w
 - ✅ [[japanese-rare-books-hollis.harvard.edu-0b90924e|Japanese Rare Books 日文善本古籍]] — Japanese Rare Books 日文善本古籍, provided by Harvard University, is a catalog with a focus on Japan.
-- ✅ [[jiangjin-datahistory-cn-pc|Jiangjin Datahistory Cn Pc]] — Jiangjin Datahistory Cn Pc with a focus on global scope.
 - ✅ [[jihewang-buddhist-documents-related-to-foreign-buddhism-in-past-dynasties-go.openathens.net-032ef7a8|JiHeWang. Buddhist Documents Related to Foreign Buddhism in Past Dynasties 籍合網. 歷代教外涉佛文獻數據庫]] — JiHeWang. Buddhist Documents Related to Foreign Buddhism in Past Dynasties 籍合網. 歷代教外涉佛文獻數據庫 with a f
 - ✅ [[jihewang-yinxu-oracle-bone-inscription-go.openathens.net-86eba2f8|JiHeWang. Yinxu Oracle Bone Inscription 籍合網. 殷墟甲骨文數據庫]] — 东京大学东洋文化研究所[补救S] DBJS 东京大学东洋文化研究所[补荃S] DBQS 瑞典斯德哥尔摩远东古物博物馆[附] RDF 台北中央研究院历史语言研究所[李启生拾得甲骨] SGS ©2018-
 - ✅ [[joseph-f-rock-collection-library.harvard.edu-6393e3a4|Joseph F. Rock Collection 约瑟夫.洛克中国老照片]] — View historic photographs of China taken by explorer Joseph Francis Charles Rock.
@@ -639,7 +629,6 @@ updated: 2026-04-18
 - ✅ [[journal-of-taiwan-law-nrs.harvard.edu-22d962bc|Journal of Taiwan Law 台法月報]] — Sign in with your account to access OpenAthens Upgrade now by installing the OneDrive for Business N
 - ✅ [[journeys-of-the-soul-urldefense.proofpoint.com-44150681|Journeys of the soul 心灵之旅]] — You are seeing this because the administrator of this website has set up Anubis to protect the serve
 - ✅ [[kangxizidian-com-index2-php|康熙字典網上版 Kangxi Zidian]] — 
-- ✅ [[kanji-zinbun-kyoto-u-ac-jp-kanseki|Kanji Zinbun Kyoto U Ac Jp Kanseki]] — 一橋大三康中央大九大九大 旧六本松二松學舎京大人文研 本館京大人文研 東方京大文京大法京大附図京府大京産大伊那市立 高遠町佐賀県図佐野市郷博八戸市立公文書館 内閣文庫前田育徳会 尊経閣千葉県立 中央名
 - ✅ [[kanripo-org|Kanripo Org]] — More...Find related textsAdvanced searchJump to page [2016-03-10]First public release of the website
 - ✅ [[keledge-e-book-platform-i.keledge.com-46052f2b|Keledge E-Book Platform 可知电子书平台]] — Keledge E-Book Platform 可知电子书平台. focusing on mainland China.
 - ✅ [[kmgzj-com-index-aspx|Kmgzj Com Index Aspx]] — 孔庙占地22000平方米，有三进院落。中轴线上的建筑依次为先师门、大成门、大成殿、崇圣祠。前院东面有碑亭、神厨、省牲亭、井亭；西面有碑亭、致斋所，并有持敬…详细 国子监是元明清三代国家设立的最高学府和
@@ -694,7 +683,6 @@ updated: 2026-04-18
 - ✅ [[mfa-org-asia|Museum of Fine Arts Boston - Art of Asia]] — 
 - ✅ [[mg-nlcpress-com|Early Twentieth Century Books in China (1912-1949) 民国图书数据库]] — Early Twentieth Century Books in China (1912-1949) 民国图书数据库.
 - ✅ [[mgebooks-cn|中国近代华文书籍数据库 Modern Chinese Books Database]] — 中国近代华文书籍数据库 Modern Chinese Books Database with a focus on global scope.
-- ✅ [[mhdb-mh-sinica-edu-tw-index-php|Mhdb Mh Sinica Edu Tw Index Php]] — 進入Enter跨資料庫檢索Cross database retrieval Institute of Modern History, Academia Sinica 地址：台北市11529南港區研究院
 - ✅ [[ming-daoist-canon-1452-56-1278-2-open-access-db2.sido.keio.ac.jp-4f163b0b|Ming Daoist Canon 道藏經 [1452種 續56種 ]存 1278種，續2種 / 明闕名奉勑編 Open Access]] — 元始无量度人上品妙經直音１卷 / □闕名撰 太上无極緫眞文昌大洞仙經５卷（当部配本） / □闕名撰 上清大洞眞經６卷（当部配本） / □闕名撰 元始五老赤書玉篇眞文天書經３卷 / □闕名撰 太上九天延
 - ✅ [[ming-qing-womens-writings-mcgill-university-library-open-access-hollis.harvard.edu-41b69717|Ming-Qing Women's Writings 明清婦女著作 (McGill University Library 合作項目) OPEN ACCESS]] — Ming-Qing Women's Writings 明清婦女著作 (McGill University Library 合作項目) OPEN ACCESS, provided by Harvard 
 - ❓ [[ming-qing-womens-writings-open-access-nrs.harvard.edu-8aa46040|Ming Qing Women's Writings 明清婦女著作 OPEN ACCESS]] — Ming Qing Women's Writings 明清婦女著作 OPEN ACCESS. a Harvard University resource. focusing on mainland C
@@ -711,8 +699,6 @@ updated: 2026-04-18
 - ✅ [[mof-gov-cn-gkml-caizhengshuju|Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access]] — Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access.
 - ✅ [[mongolian-rare-books-open-access-hollis.harvard.edu-93b10833|Mongolian Rare Books 蒙文古籍 OPEN ACCESS]] — Mongolian Rare Books 蒙文古籍 OPEN ACCESS, provided by Harvard University, is a catalog with a focus on 
 - ❓ [[more--643e5ec2|more...]] — more... with a focus on global scope.
-- ✅ [[mp-weixin-qq-com-qrcode-2|Mp Weixin Qq Com Qrcode 2]] — Mp Weixin Qq Com Qrcode 2. This resource provides non-HTML content (possibly a data API or file down
-- ✅ [[mp-weixin-qq-com-qrcode|Mp Weixin Qq Com Qrcode]] — Mp Weixin Qq Com Qrcode. This resource provides non-HTML content (possibly a data API or file downlo
 - ✅ [[muse-jhu-edu-browse|Project Muse]] — SNF Agora Institute at Johns Hopkins University has developed this series of Case Studies on Democra
 - ⚠️ [[mylib-nlc-gov-cn-web-guest-boshilunwen|中国国家图书馆博士论文 (National Library of China Dissertations Database)]] — 中国国家图书馆博士论文 (National Library of China Dissertations Database). a Chinese government resource. The s
 - ⚠️ [[mylib-nlc-gov-cn-web-guest-minguotushu|中国国家图书馆-民国图书 (Republican Materials in the National Library of China)]] — 中国国家图书馆-民国图书 (Republican Materials in the National Library of China). a Chinese government resource.
@@ -738,7 +724,6 @@ updated: 2026-04-18
 - ✅ [[new-go.openathens.net-97d5d241|唐五代墓志专目数据库 New]] — 《唐五代墓志专目数据库》由复旦大学仇鹿鸣教授主编，是唐五代时期墓志类资源专题目录索引数据库。数据库集中类聚了12300余方墓志信息，对题名，志主（主题词），作者、书丹者、刻工等墓志撰作过程中的相关人员
 - ✅ [[new-go.openathens.net-da965f27|汉魏六朝石刻专目数据库 New]] — 《汉魏六朝石刻专目数据库》是汇录、整合汉魏至隋代各类石刻文献相关信息的石刻目录索引数据库。数据库共集合了9000余篇石刻材料的条目信息，通过广泛搜集和精细整理，逐一提取了石刻文献题名、主题词（包括墓志
 - ✅ [[new-go.openathens.net-eab5845b|宋代墓志铭数据库.三编 New]] — 宋代墓志铭数据库.三编 New with a focus on mainland China.
-- ✅ [[newarchive-ihp-sinica-edu-tw-mcttp-index-html|Grand Secretariat Archives 内閣大庫檔案]] — Grand Secretariat Archives 内閣大庫檔案. provided by Academia Sinica. focusing on Taiwan.
 - ✅ [[newarchive-ihp-sinica-edu-tw-sncaccgi-sncacftp|人名權威-人物傳記資料庫 Database of Names and Biographies]] — 人名權威-人物傳記資料庫 Database of Names and Biographies. provided by Academia Sinica. focusing on Taiwan.
 - ✅ [[newbooks-asia|newbooks.asia]] — We love reading books, we love reading about books. Here you can find the latest reviews of new Asia
 - ✅ [[newbooksnetwork-com-category-east-asian-studies|New Books in East Asian Studies]] — Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en Españolon Patreon | VisitNew Book
@@ -755,14 +740,11 @@ updated: 2026-04-18
 - ✅ [[open-access-kanji.zinbun.kyoto-u.ac.jp-a9e79168|東方學圖書館- 京都大學漢籍古籍全文圖像資料庫 OPEN ACCESS]] — 東方學圖書館- 京都大學漢籍古籍全文圖像資料庫 OPEN ACCESS. focusing on Japan.
 - ⚠️ [[open-access-modernhistory.org.cn-a2a7d30f|抗日战争与近代中日关系文献数据平台 OPEN ACCESS]] — 抗日战争与近代中日关系文献数据平台 OPEN ACCESS. focusing on mainland China. The site may be intermittently unavailabl
 - ✅ [[open-access-nara-wu.ac.jp-ae27ae2d|註妙法蓮華經卷第四（奈良朝寫）Open Access]] — Copyright (C) 2024 Sakamoto Ryumon Bunko & Nara Women's University Academic Information Center.
-- ✅ [[open-access-newarchive.ihp.sinica.edu.tw-4154c7eb|人名權威-人物傳記資料庫 OPEN ACCESS]] — 人名權威-人物傳記資料庫 OPEN ACCESS. provided by Academia Sinica. focusing on Taiwan.
 - ⚠️ [[open-access-ris.gov.tw-27823fd8|台灣人口統計資料庫 OPEN ACCESS]] — 台灣人口統計資料庫 OPEN ACCESS. focusing on Taiwan. The site may be intermittently unavailable or geo-restric
 - ✅ [[open-access-shanben.ioc.u-tokyo.ac.jp-59c1aa59|東京大學東洋文化研究所藏漢籍善本全文影像資料庫 OPEN ACCESS]] — 東京大學東洋文化研究所藏漢籍善本全文影像資料庫 OPEN ACCESS. A digital resource for Chinese and East Asian studies.
 - ✅ [[open-access-ssop.digital.ntu.edu.tw-11bce8c1|清季職官表查詢系統 OPEN ACCESS]] — 清季職官表查詢系統 OPEN ACCESS. focusing on Taiwan.
 - ✅ [[open-access-tcsd.lib.ntu.edu.tw-db373d9f|台灣日治時期統計資料庫 OPEN ACCESS]] — 台灣日治時期統計資料庫 OPEN ACCESS. focusing on Taiwan.
 - ✅ [[open-logart-rare-local-gazetteers-at-harvard-yenching-library-open-access-collec-mpiwg-berlin.mpg.de-f3018a0f|Open LoGaRT- Rare Local Gazetteers at Harvard-Yenching Library: Open Access Collection]] — Dagmar SchäferShih-Pei ChenSean WangCalvin Yeh Cooperation Partners: Harvard-Yenching Library Local 
-- ⚠️ [[open-weixin-qq-com-code-2|Open Weixin Qq Com Code 2]] — Open Weixin Qq Com Code 2. The site may be intermittently unavailable or geo-restricted.
-- ✅ [[open-weixin-qq-com-code|Open Weixin Qq Com Code]] — Open Weixin Qq Com Code. This resource provides non-HTML content (possibly a data API or file downlo
 - ✅ [[opendata-pku-edu-cn-dataverse-csda|China Survey Data Archive (CSDA) - Peking University Open Research Data Platform]] — 
 - ✅ [[openmuseum-tw-muse-curation-13eee80a832308720d6213d698b76cd4|數位方輿 Reading Digital Atlas]] — 數位方輿 Reading Digital Atlas with a focus on Taiwan.
 - ❓ [[orbis-library-yale-edu-vwebv|Orbis]] — Orbis. a Yale University resource.
@@ -1028,7 +1010,6 @@ updated: 2026-04-18
 - ✅ [[wikisource-the-free-library-zh.wikisource.org-7d1bbde3|Wikisource- The Free Library 维基文库]] — 维基文库自由的圖書館是一个由志愿者在线收集自由内容文本的站点。访问社区可以帮助您也开始参与这个计划。您可以在写字间询问有关维基文库的相关问题，并且可以在沙盒中进行实验来学习怎样使用这个网站。维基文库当
 - ✅ [[wilsoncenter-org-publication-researching-the-history-the-peoples-republic-china|Researching the History of the People’s Republic of China]] — What can scholars do to prepare for researching in China? How can scholars mitigate the bureaucratic
 - ✅ [[wind-com-cn|Wind 万得数据]] — Headquartered in Shanghai International Financial Center in Lujiazui, Wind Information Co., Ltd. is 
-- ✅ [[wire-china-hvd.userservices.exlibrisgroup.com-0e0f1ada|Wire China]] — The Wire is a digital news magazine dedicated to understanding one of the biggest stories of our tim
 - ⚠️ [[wisersone-com|WiseNews]] — WiseNews. The site may be intermittently unavailable or geo-restricted.
 - ✅ [[wisesearch-wisesearch6-wisers-net.ezp-prod1.hul.harvard.edu-9960c595|WiseSearch]] — WiseSearch with a focus on global scope.
 - ✅ [[worldjournal-com|World Journal]] — 世界新聞網提供全球華人關心的即時新聞；除美、中、台與港澳等地的政經、社會、生活、理財等新聞與深度報導外，更關切國際現勢與紐約、洛杉磯、舊金山等美國主要城市的社區動態。

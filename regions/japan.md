@@ -27,7 +27,7 @@ Japanese institutions hold extensive collections of Chinese materials, including
 - [[bibliography-of-oriental-studies-on-the-web-open-ccess-corpus.kanji.zinbun.kyoto-u.ac.jp-6cc60f30|Bibliography of Oriental Studies on the Web 東洋学文献類目検索 OPENＡCCESS]]
 - [[tkb-zinbun-kyoto-u-ac-jp|漢學文典 Thesaurus Linguae Sericae (open access)]]
 - [[cultural-japan-cultural.jp-97126956|Cultural Japan]]
-- [[kanji-zinbun-kyoto-u-ac-jp-kanseki|Kanji Zinbun Kyoto U Ac Jp Kanseki]]
+- [[premodern-chinese-books-in-japan-open-access-kanji.zinbun.kyoto-u.ac.jp-92bc22ee|Kanji Zinbun Kyoto U Ac Jp Kanseki]]
 - [[premodern-chinese-books-in-japan-open-access-kanji.zinbun.kyoto-u.ac.jp-92bc22ee|Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS]]
 - [[early-photography-of-japan-on-curiosity-curiosity.lib.harvard.edu-582160c2|Early Photography of Japan on CURIOSity]]
 - [[open-access-nara-wu.ac.jp-ae27ae2d|註妙法蓮華經卷第四（奈良朝寫）Open Access]]

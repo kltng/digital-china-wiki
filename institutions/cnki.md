@@ -18,7 +18,7 @@ China's largest academic database platform, providing access to journals, disser
 - [[tongji-oversea-cnki-net-npcc-navi-navidefault-aspx|National population census of China 中国人口普查数据库]]
 - [[eng-oversea-cnki-net|CNKI: China Yearbooks 中国年鉴数据库]]
 - [[data-oversea-cnki-net-chn|CNKI: China Statistical Yearbooks 中国统计年鉴数据库]]
-- [[gongjushu-oversea-cnki-net-oversea|CNKI: China Reference Works Online 中国工具书网络出版总库]]
+- [[cnki-chinese-reference-works-online-crwo-gongjushu-oversea-cnki-net.ezp-prod1.hul.harvard.edu-2430fb03|CNKI: China Reference Works Online 中国工具书网络出版总库]]
 - [[book-oversea-cnki-net-ccgbweb-book-index|CNKI Overseas Book Database]]
 - [[cnki-china-core-newspaper-database-ccnd-2000-present-oversea.cnki.net-ce8d43f6|CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present]]
 - [[cnki-china-monographic-series-database-oversea.cnki.net-d8d8e75f|CNKI. China Monographic Series Database 中国学术辑刊全文数据库]]

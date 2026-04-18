@@ -21,7 +21,7 @@ Digital resources for the study of Taiwan, covering the island's history from in
 ## Key Digital Resources (126 total)
 
 - [[stfb-ntl-edu-tw-cgi-bin-gs32-gsweb-cgi-login|Image System for Books of Japanese Ruled Period 日治時期圖書全文影像系統]]
-- [[ahonline-drnh-gov-tw|Dr. NH Online]]
+- [[resource-ahonline.drnh.gov.tw-2f8a911b|Dr. NH Online]]
 - [[culture-teldap-tw-culture-index-php|Taiwan Digital Archives（典藏臺灣）]]
 - [[authority-dila-edu-tw-catalog|Authority Dila Edu Tw Catalog]]
 - [[rbook-ncl-edu-tw-nclsearch-search-index-0|國家圖書館 (臺北) 古籍與特藏文獻資源]]
@@ -31,7 +31,7 @@ Digital resources for the study of Taiwan, covering the island's history from in
 - [[elib-infolinker-com-tw-login-twlaw-htm|臺法月報 Taihō geppo]]
 - [[husscat-hss-ntu-edu-tw-xmlui|Husscat Hss Ntu Edu Tw Xmlui]]
 - [[chinese-western-calendar-conversion-tool-open-access-sinocal.sinica.edu.tw-47be2edd|Chinese - Western Calendar Conversion Tool 兩千年中西曆轉換 OPEN ACCESS]]
-- [[open-access-newarchive.ihp.sinica.edu.tw-4154c7eb|人名權威-人物傳記資料庫 OPEN ACCESS]]
+- [[newarchive-ihp-sinica-edu-tw-sncaccgi-sncacftp|人名權威-人物傳記資料庫 OPEN ACCESS]]
 - [[npmhost-npm-gov-tw-ttswebnpm|Npmhost Npm Gov Tw Ttswebnpm]]
 - [[contentdm-lib-nccu-edu-tw-digital-collection-38clip|民國38年前重要剪報資料庫]]
 - [[teldap-tw-index-html|Teldap Tw Index Html]]

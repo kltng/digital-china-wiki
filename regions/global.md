@@ -22,7 +22,7 @@ International digital resources for China studies hosted outside of Chinese-spea
 
 - [[stanford-edu-search|Search Stanford]]
 - [[ccaa-nju-edu-cn-html-index-html|中国商业广告档案库 Chinese Commercial Advertisement Archive (1870-1940)]]
-- [[jiangjin-datahistory-cn-pc|Jiangjin Datahistory Cn Pc]]
+- [[database-of-chinese-judicial-files-jiangjin-part-jiangjin.datahistory.cn.ezp-prod1.hul.harvard.edu-849932d3|Jiangjin Datahistory Cn Pc]]
 - [[macaudata-mo|澳門虛擬圖書館 Biblioteca Virtual de Macau]]
 - [[langsphere-com-benji|Langsphere Com Benji]]
 - [[east-asian-gateway-service-and-user-guides-library.pitt.edu-5e3f643b|East Asian Gateway Service and User Guides]]
