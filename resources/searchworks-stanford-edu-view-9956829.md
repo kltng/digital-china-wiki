@@ -14,10 +14,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-9956829
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: '2010 China province population census data with GIS maps [electronic
+  resource]. In English and Chinese. - Version (I) ; (Aug. - [Beijing] : All China
+  Marketing Research Co. ; Ann Arbor, MI : Distributed by University of Michigan,
+  China Data Center, 2012. Creators/Contributors'
 ---
+
 # 2010 China province population census data with GIS maps 2010中国人口普查省级资料与地图 on CD
 
 **URL:** https://searchworks.stanford.edu/view/9956829
@@ -26,5 +28,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+2010 China province population census data with GIS maps [electronic resource]. In English and Chinese. - Version (I) ; (Aug. - [Beijing] : All China Marketing Research Co. ; Ann Arbor, MI : Distributed by University of Michigan, China Data Center, 2012. Creators/Contributors
 

@@ -19,9 +19,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: mingstudies-arts-ubc-ca-resources
-description: This page links to resources for scholars, teachers, and students of
-  the history and culture of the Ming period.
+description: 'This page links to resources for scholars, teachers, and students of
+  the history and culture of the Ming period. We encourage visitors to contact us
+  to send additional material or suggestions, and will gladly include primary or secondary
+  documents, pedagogical material, etc. Currently, these resources include: - The
+  reference volume Ming History: An Introductory Guide to Research - A Synchronic
+  Chinese-Western Daily Calendar, 1341-1661 A.'
 ---
+
 # The Society for Ming Studies -- Resources
 
 **URL:** https://mingstudies.arts.ubc.ca/resources
@@ -30,5 +35,5 @@ description: This page links to resources for scholars, teachers, and students o
 
 ## Summary
 
-This page links to resources for scholars, teachers, and students of the history and culture of the Ming period. We encourage visitors to contact us to send additional material or suggestions, and will gladly include primary or secondary documents, pedagogical material, etc. Currently, these resources include: The reference volume Ming History: An Introductory Guide to Research […]
+This page links to resources for scholars, teachers, and students of the history and culture of the Ming period. We encourage visitors to contact us to send additional material or suggestions, and will gladly include primary or secondary documents, pedagogical material, etc. Currently, these resources include: - The reference volume Ming History: An Introductory Guide to Research - A Synchronic Chinese-Western Daily Calendar, 1341-1661 A.
 

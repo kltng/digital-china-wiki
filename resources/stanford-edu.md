@@ -16,9 +16,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: stanford-edu
-description: Our mission of discovery and learning is energized by a spirit of optimism
-  and possibility that dates to our founding.
+description: At Stanford, our mission of discovery and learning is energized by a
+  spirit of optimism and possibility that dates to our founding. Here you’ll find
+  a place of intellectual expansiveness, wide-ranging perspectives, and freedom to
+  explore new lines of thinking. Buzzing with ideas and innovation, approaching questions
+  with openness and curiosity, pursuing excellence in all we do – this is Stanford.
 ---
+
 # Stanford Home
 
 **URL:** https://www.stanford.edu/
@@ -27,5 +31,5 @@ description: Our mission of discovery and learning is energized by a spirit of o
 
 ## Summary
 
-Our mission of discovery and learning is energized by a spirit of optimism and possibility that dates to our founding.
+At Stanford, our mission of discovery and learning is energized by a spirit of optimism and possibility that dates to our founding. Here you’ll find a place of intellectual expansiveness, wide-ranging perspectives, and freedom to explore new lines of thinking. Buzzing with ideas and innovation, approaching questions with openness and curiosity, pursuing excellence in all we do – this is Stanford.
 

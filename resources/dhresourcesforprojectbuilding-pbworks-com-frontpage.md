@@ -15,10 +15,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: dhresourcesforprojectbuilding-pbworks-com-frontpage
-description: dhresourcesforprojectbuilding ViewEditTo edit this page,request accessto
-  the workspace.Already have an account?Log in!FrontPagePage historylast edited byAlan
-  Liu11 months, 2 weeks agoDHToychestDigital...
+description: Digital Humanities Resources for Project Building (DH Toychest started
+  2013; last update 2017) Guides to Digital Humanities | Tutorials | Tools | Examples
+  | Data Collections & Datasets Guides, tools, and other resources for practical work
+  in the digital humanities by researchers, teachers, and students. Curated by Alan
+  Liu, University of California, Santa Barbara.
 ---
+
 # Dhresourcesforprojectbuilding Pbworks Com Frontpage
 
 **URL:** http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage
@@ -27,5 +30,5 @@ description: dhresourcesforprojectbuilding ViewEditTo edit this page,request acc
 
 ## Summary
 
-dhresourcesforprojectbuilding ViewEditTo edit this page,request accessto the workspace.Already have an account?Log in!FrontPagePage historylast edited byAlan Liu11 months, 2 weeks agoDHToychestDigital Humanities Resources for Project Building(curated byAlan Liu)(DH Toychest started 2013; last update 2017)Guides to Digital Humanities|Tutorials|Tools|Examples|Data Collections & DatasetsGuides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated byAlan Liu, University of California, Santa Barbara.
+Digital Humanities Resources for Project Building (DH Toychest started 2013; last update 2017) Guides to Digital Humanities | Tutorials | Tools | Examples | Data Collections & Datasets Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by Alan Liu, University of California, Santa Barbara.
 

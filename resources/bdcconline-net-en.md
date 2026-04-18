@@ -13,10 +13,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: bdcconline-net-en
-description: About BDCCStories of Chinese ChristianityRecording the life stories of
-  significant figures in Chinese Christianity across the centuries and around the
-  world.
+description: 'Medical doctor, church planter, itinerant evangelist, seminary professor,
+  translator, writer and publisher, and supporter of numerous mercy ministries. Said
+  to have been the longest-serving Southern Baptist missionary in China. Guidelines
+  for Writers Contribute a story for the BDCC Choice of Biographical Subjects As you
+  choose a biographical subject for your story, please take into account the following
+  guidelines:'
 ---
+
 # Bdcconline Net En
 
 **URL:** https://www.bdcconline.net/en
@@ -25,5 +29,5 @@ description: About BDCCStories of Chinese ChristianityRecording the life stories
 
 ## Summary
 
-About BDCCStories of Chinese ChristianityRecording the life stories of significant figures in Chinese Christianity across the centuries and around the world.Learn more Recording the life stories of significant figures in Chinese Christianity across the centuries and around the world. Featured StoryWilliam MilneSecond Protestant missionary to China; with Robert Morrison, co-translator of the Bible into Chinese; engaged in pioneer evangelism. Mentor of Liang Fa, China’s first evangelist.
+Medical doctor, church planter, itinerant evangelist, seminary professor, translator, writer and publisher, and supporter of numerous mercy ministries. Said to have been the longest-serving Southern Baptist missionary in China. Guidelines for Writers Contribute a story for the BDCC Choice of Biographical Subjects As you choose a biographical subject for your story, please take into account the following guidelines:
 

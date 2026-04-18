@@ -19,8 +19,11 @@ china_relevance: null
 source_id: web-library-yale-edu-divinity-special-collections-china-collections
 description: Welcome to the Yale Divinity Library Projects and Guides portal. We created
   this website as a repository for information and content that has not (yet) transferred
-  to a more permanent Yale Library web...
+  to a more permanent Yale Library website. It includes digitized archival materials,
+  research guides, and historical resources related to world Christianity, mission
+  history, and theological scholarship.
 ---
+
 # China Resources at the Yale Divinity School Library
 
 **URL:** http://web.library.yale.edu/divinity/special-collections/china-collections

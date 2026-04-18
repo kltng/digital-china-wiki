@@ -13,10 +13,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-7913308
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo wu ci xian ji ren kou pu cha shu ju [electronic resource] =
+  Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000
+  中国五次县级人口普查数据 [electronic resource] = Historical county population census data with
+  maps : 1953, 1964, 1982, 1990, 2000 In Chinese and English. - [Beijing, China] :
+  All China Marketing Research Co.'
 ---
+
 # Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000 中国五次县级人口普查数据
 
 **URL:** https://searchworks.stanford.edu/view/7913308
@@ -25,5 +28,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo wu ci xian ji ren kou pu cha shu ju [electronic resource] = Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000 中国五次县级人口普查数据 [electronic resource] = Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000 In Chinese and English. - [Beijing, China] : All China Marketing Research Co.
 

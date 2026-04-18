@@ -10,8 +10,11 @@ tags:
 china_relevance: null
 source_id: newbooks-asia
 description: We love reading books, we love reading about books. Here you can find
-  the latest reviews of new Asian Studies publications.
+  the latest reviews of new Asian Studies publications. The International Institute
+  for Asian Studies IIAS promotes critical, humanistic, and collaborative work on,
+  with, in, and beyond Asia.
 ---
+
 # newbooks.asia
 
 **URL:** https://newbooks.asia/
@@ -20,5 +23,5 @@ description: We love reading books, we love reading about books. Here you can fi
 
 ## Summary
 
-We love reading books, we love reading about books. Here you can find the latest reviews of new Asian Studies publications.
+We love reading books, we love reading about books. Here you can find the latest reviews of new Asian Studies publications. The International Institute for Asian Studies IIAS promotes critical, humanistic, and collaborative work on, with, in, and beyond Asia.
 

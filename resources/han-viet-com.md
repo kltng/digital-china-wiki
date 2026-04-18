@@ -14,8 +14,12 @@ tags:
 - medicine
 china_relevance: null
 source_id: han-viet-com
-description: vny2k.com, ziendan.com, hocthuat.com, sangtac.com, Han-Viet.com
+description: While in pursuit of searching for Chinese-Vietnamese etymology, this
+  website proactively advocates smart polysyllabic writing systems for both Vietnamese
+  and Chinese, i. , 'hệthống chữviết tiếngViệt đaâmtiết' and '中文 多音節 系統 Zhōngwén duōyīnjié
+  xìtǒng', respectively, as they are illustrated in examples throughout this website.
 ---
+
 # Han Viet Com
 
 **URL:** http://vny2k.com/hannom/index.aspx
@@ -24,5 +28,5 @@ description: vny2k.com, ziendan.com, hocthuat.com, sangtac.com, Han-Viet.com
 
 ## Summary
 
-vny2k.com, ziendan.com, hocthuat.com, sangtac.com, Han-Viet.com
+While in pursuit of searching for Chinese-Vietnamese etymology, this website proactively advocates smart polysyllabic writing systems for both Vietnamese and Chinese, i. , 'hệthống chữviết tiếngViệt đaâmtiết' and '中文 多音節 系統 Zhōngwén duōyīnjié xìtǒng', respectively, as they are illustrated in examples throughout this website.
 

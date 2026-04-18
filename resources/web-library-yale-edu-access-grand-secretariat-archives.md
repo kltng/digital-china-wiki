@@ -1,7 +1,7 @@
 ---
 title: Grand Secretariat Archives (內閣大庫檔案) - Yale University Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://web.library.yale.edu/access-grand-secretariat-archives
 language: null
 region: global
@@ -11,6 +11,9 @@ tags:
 - social_history
 china_relevance: null
 source_id: web-library-yale-edu-access-grand-secretariat-archives
+description: 'Central Authentication Service Make sure your session is secure Before
+  entering your NetID and password, verify that the URL for this page begins with:
+  https://secure.'
 ---
 
 # Grand Secretariat Archives (內閣大庫檔案) - Yale University Library
@@ -21,7 +24,7 @@ source_id: web-library-yale-edu-access-grand-secretariat-archives
 
 ## Summary
 
-Access page for the Grand Secretariat Archives (內閣大庫檔案), a major collection of Qing dynasty government documents held by Yale University Library. The archives contain official records from the Grand Secretariat (Neige), the central administrative body of the Qing imperial government, spanning from the Ming-Qing transition through the end of the Qing dynasty (1644-1911). Materials include edicts, memorials, imperial decrees, and administrative documents that provide firsthand documentation of imperial bureaucracy, foreign relations, internal administration, and major historical events. This collection represents one of the most important primary source collections for Qing dynasty studies outside China. Access requires authentication through the Yale University library system.
+Central Authentication Service Make sure your session is secure Before entering your NetID and password, verify that the URL for this page begins with: https://secure.
 
 ## 摘要
 

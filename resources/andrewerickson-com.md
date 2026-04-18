@@ -14,10 +14,14 @@ tags:
 - periodical
 china_relevance: null
 source_id: andrewerickson-com
-description: About Andrew Erickson China's rapid development is reshaping the world
-  in all dimensions. Chinese language open sources offer insights into these critical
-  trends.
+description: 'Great news—thanks to our loyal readers! Honored to see that CMSI has
+  contributed 6 of the Naval War College’s top 10 most popular publications, with
+  two great offerings by Prof. Ian Easton, as well as inputs from Prof. Ryan Martinson,
+  Director Chris Sharman, and CMSI Affiliate Conor Kennedy. #1, the just-released
+  Spring issue of the CMSI Quarterly […] Erickson is Professor of Strategy (tenured
+  full professor) in the U.'
 ---
+
 # Andrewerickson Com
 
 **URL:** https://www.andrewerickson.com/
@@ -26,5 +30,5 @@ description: About Andrew Erickson China's rapid development is reshaping the wo
 
 ## Summary
 
-About Andrew Erickson China's rapid development is reshaping the world in all dimensions. Chinese language open sources offer insights into these critical trends. While such materials are increasing constantly in number, diversity, and sophistication, only a fraction is available in English.
+Great news—thanks to our loyal readers! Honored to see that CMSI has contributed 6 of the Naval War College’s top 10 most popular publications, with two great offerings by Prof. Ian Easton, as well as inputs from Prof. Ryan Martinson, Director Chris Sharman, and CMSI Affiliate Conor Kennedy. #1, the just-released Spring issue of the CMSI Quarterly […] Erickson is Professor of Strategy (tenured full professor) in the U.
 

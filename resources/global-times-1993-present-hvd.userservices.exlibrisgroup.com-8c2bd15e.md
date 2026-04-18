@@ -18,8 +18,12 @@ tags:
 china_relevance: primary
 source_id: global-times-1993-present-hvd.userservices.exlibrisgroup.com-8c2bd15e
 description: China Military Bugle, an official media account under the Chinese People's
-  Liberation Army (PLA) News Media Center, posted ...
+  Liberation Army (PLA) News Media Center, posted . The UK and France will lead a
+  multinational mission to protect commercial shipping routes in the Strait of . A
+  video clip published by the website of China Central Television (CCTV), which has
+  been widely shared online .
 ---
+
 # Global Times 环球时报 1993- present
 
 **URL:** https://www.globaltimes.cn/
@@ -30,5 +34,5 @@ description: China Military Bugle, an official media account under the Chinese P
 
 ## Summary
 
-China Military Bugle, an official media account under the Chinese People's Liberation Army (PLA) News Media Center, posted ... The UK and France will lead a multinational mission to protect commercial shipping routes in the Strait of ... A video clip published by the website of China Central Television (CCTV), which has been widely shared online ...
+China Military Bugle, an official media account under the Chinese People's Liberation Army (PLA) News Media Center, posted . The UK and France will lead a multinational mission to protect commercial shipping routes in the Strait of . A video clip published by the website of China Central Television (CCTV), which has been widely shared online .
 

@@ -1,7 +1,7 @@
 ---
 title: Airiti Books 華藝圖書
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://www.airitibooks.com/
 language: zh
 region: taiwan
@@ -12,6 +12,9 @@ tags:
 - taiwan
 china_relevance: primary
 source_id: airitibooks-com
+description: iRead eBooks华艺电子书特色功能 全新APP，整合期刊、论文和电子书，轻松查找、阅读华艺所有的在线资源 透过书籍页面的计量资料，读者可了解该书在国际市场的传播力与影响力，作为借阅参考。
+  内容横跨学术专业与休闲潮流，与近3000家出版社合作，收录超过140,000本中文电子书。 华艺精选优质学术书或畅销好书，协助图书馆包装主题书展并进行营销推广。
+  延伸检索帮助读者迅速找到相关主题内容，另提供画线、笔记、阅读设定等功能。
 ---
 
 # Airiti Books 華藝圖書
@@ -24,7 +27,7 @@ source_id: airitibooks-com
 
 ## Summary
 
-Airiti Books is a Chinese online bookstore specializing in academic and scholarly publications from Taiwan and international publishers. The platform offers books across various disciplines including humanities, social sciences, natural sciences, and professional fields. Users can browse and purchase books in Chinese language, supporting researchers, students, and libraries seeking to acquire scholarly works. The bookstore likely features works related to Chinese studies, Taiwan studies, and academic publications from Taiwanese universities and research institutions.
+iRead eBooks华艺电子书特色功能 全新APP，整合期刊、论文和电子书，轻松查找、阅读华艺所有的在线资源 透过书籍页面的计量资料，读者可了解该书在国际市场的传播力与影响力，作为借阅参考。 内容横跨学术专业与休闲潮流，与近3000家出版社合作，收录超过140,000本中文电子书。 华艺精选优质学术书或畅销好书，协助图书馆包装主题书展并进行营销推广。 延伸检索帮助读者迅速找到相关主题内容，另提供画线、笔记、阅读设定等功能。
 
 ## 摘要
 

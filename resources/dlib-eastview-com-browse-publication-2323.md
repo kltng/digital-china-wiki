@@ -1,7 +1,7 @@
 ---
 title: People's Liberation Army (PLA) Daily 解放军报
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://dlib.eastview.com/browse/publication/2323
 language: zh
 region: prc
@@ -12,6 +12,9 @@ tags:
 - political_science
 china_relevance: primary
 source_id: dlib-eastview-com-browse-publication-2323
+description: East View offers a broad range of library services and databases of global
+  authoritative content, including numerous collections from Russia and the former
+  Soviet states, East Asia, and the Middle East.
 ---
 
 # People's Liberation Army (PLA) Daily 解放军报
@@ -24,7 +27,7 @@ source_id: dlib-eastview-com-browse-publication-2323
 
 ## Summary
 
-Digitized archive of PLA Daily (解放军报), the official newspaper of the People's Liberation Army of China. As the primary mouthpiece for China's military establishment, this newspaper provides official coverage of military affairs, national defense policies, international military developments, and ideological education within the armed forces. The archive offers valuable primary source material for researchers studying Chinese military history, civil-military relations, defense policy, and state media coverage of security issues. Content includes military news, commentary on strategic affairs, coverage of international conflicts from a Chinese perspective, and official interpretations of military developments.
+East View offers a broad range of library services and databases of global authoritative content, including numerous collections from Russia and the former Soviet states, East Asia, and the Middle East.
 
 ## 摘要
 

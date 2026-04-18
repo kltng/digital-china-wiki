@@ -17,10 +17,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: publishing-cdlib-org-ucpressebooks
-description: UC Press E-Books Collection, 1982-2004formerly eScholarship Editions
-  HomeSearchBrowseBookbagAbout UsHelp AuthorTitleSubjectQuick Title Search:Enter any
-  word of title:Refried Elvis or Elvis or RefriedB...
+description: UC Press E-Books Collection, 1982-2004 UC Press E-Books Collection, 1982-2004,
+  includes almost 2,000 books from academic presses on a range of topics, including
+  art, science, history, music, religion, and fiction. Access to the entire collection
+  of electronic books is open to all University of California faculty, staff, and
+  students, while more than 700 of the titles are available to the public.
 ---
+
 # UC Press E-Books Collection, 1982-2004
 
 **URL:** http://publishing.cdlib.org/ucpressebooks
@@ -29,5 +32,5 @@ description: UC Press E-Books Collection, 1982-2004formerly eScholarship Edition
 
 ## Summary
 
-UC Press E-Books Collection, 1982-2004formerly eScholarship Editions HomeSearchBrowseBookbagAbout UsHelp AuthorTitleSubjectQuick Title Search:Enter any word of title:Refried Elvis or Elvis or RefriedBrowse All TitlesBrowse Public TitlesFeatured Titles:Speaking with Vampires /WhiteMother Without Child /HansenBorder Correspondent /SalazarCeremonial Costumes of the Pueblo Indians /RoedigerPutting Islam to Work /StarrettVisionaries /ChristianHigh Culture Fever /YangA Medieval Mirror /WilsonMuslim Rulers and Rebels /McKennaAt the Heart of the Empire /BurtonSea Cliffs, Beaches, and Coastal Valleys o...
+UC Press E-Books Collection, 1982-2004 UC Press E-Books Collection, 1982-2004, includes almost 2,000 books from academic presses on a range of topics, including art, science, history, music, religion, and fiction. Access to the entire collection of electronic books is open to all University of California faculty, staff, and students, while more than 700 of the titles are available to the public.
 

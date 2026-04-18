@@ -18,10 +18,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: library-stanford-edu
-description: We have over fiftysubject specialistswho can help. Chat, email, call,
-  or visit us in person. From quiet spaces for one to fully equipped conference rooms
-  for ten,find a place at the library.
+description: 'Stanford University Libraries The Albert Bender Collections Stanford
+  University Libraries presents Finely Printed Books: Albert Bender and the Birth
+  of Stanford Special Collections, on view February 26 through May 17, 2026, in the
+  Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.'
 ---
+
 # Stanford University Libraries
 
 **URL:** https://library.stanford.edu/
@@ -30,5 +32,5 @@ description: We have over fiftysubject specialistswho can help. Chat, email, cal
 
 ## Summary
 
-We have over fiftysubject specialistswho can help. Chat, email, call, or visit us in person. From quiet spaces for one to fully equipped conference rooms for ten,find a place at the library.
+Stanford University Libraries The Albert Bender Collections Stanford University Libraries presents Finely Printed Books: Albert Bender and the Birth of Stanford Special Collections, on view February 26 through May 17, 2026, in the Peterson Gallery and Munger Rotunda, Cecil H. Green Library, Bing Wing.
 

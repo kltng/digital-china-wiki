@@ -11,10 +11,10 @@ tags:
 - guide
 china_relevance: null
 source_id: hdl-handle-net-10079-yuldb-yuldb22
-description: 'If you have a Yale University ID then log in here: If you have a Yale
-  New Haven Hospital ID and DO NOT have a Yale University ID then please log in here:
-  If you would like to attempt to access this re...'
+description: If you would like to attempt to access this resource without authenticating,
+  navigate directly to the resource website.
 ---
+
 # Academic Search Premier
 
 **URL:** http://hdl.handle.net/10079/yuldb/yuldb22
@@ -23,5 +23,5 @@ description: 'If you have a Yale University ID then log in here: If you have a Y
 
 ## Summary
 
-If you have a Yale University ID then log in here: If you have a Yale New Haven Hospital ID and DO NOT have a Yale University ID then please log in here: If you would like to attempt to access this resource without authenticating, navigate directly to theresource website.
+If you would like to attempt to access this resource without authenticating, navigate directly to the resource website.
 

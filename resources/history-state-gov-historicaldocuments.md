@@ -11,10 +11,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: history-state-gov-historicaldocuments
-description: TheForeign Relations of the United States(FRUS) series presents the official
-  documentary historical record of major U.S. foreign policy decisions and significant
-  diplomatic activity.
+description: 'The Foreign Relations of the United States (FRUS) series presents the
+  official documentary historical record of major U. foreign policy decisions and
+  significant diplomatic activity. Search within the volumes or browse volume titles
+  by administration: About the Foreign Relations of the United States Series The Department
+  of State has published the Foreign Relations of the United States (FRUS) series,
+  the official documentary record of U.'
 ---
+
 # Foreign Relations of the United States
 
 **URL:** https://history.state.gov/historicaldocuments
@@ -23,5 +27,5 @@ description: TheForeign Relations of the United States(FRUS) series presents the
 
 ## Summary
 
-TheForeign Relations of the United States(FRUS) series presents the official documentary historical record of major U.S. foreign policy decisions and significant diplomatic activity. Searchwithin the volumesor browse volume titles by administration: About theForeign RelationsSeries Status of theForeign RelationsSeries History of theForeign RelationsSeries Foreign RelationsEbooks Other Electronic Resources Guide to Sources on Vietnam, 1969-1975 Citing theForeign Relationsseries
+The Foreign Relations of the United States (FRUS) series presents the official documentary historical record of major U. foreign policy decisions and significant diplomatic activity. Search within the volumes or browse volume titles by administration: About the Foreign Relations of the United States Series The Department of State has published the Foreign Relations of the United States (FRUS) series, the official documentary record of U.
 

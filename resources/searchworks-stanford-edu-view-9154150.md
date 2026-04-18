@@ -10,10 +10,14 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-9154150
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'This resource is a part of the larger IMF website. It contains IMF reports,
+  including the IMF country reports series, and publications arranged alphabetically
+  by country. Includes: annual meetings speeches; Article IV staff reports; heavily
+  indebted poor countries (HIPC) documents; joint staff assessments; joint staff advisory
+  notes; International Monetary and Financial Committee (IMFC) statements; letters
+  of intent; news briefs; policy framework...'
 ---
+
 # Country information: IMF reports and publications arranged by country
 
 **URL:** https://searchworks.stanford.edu/view/9154150
@@ -22,5 +26,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+This resource is a part of the larger IMF website. It contains IMF reports, including the IMF country reports series, and publications arranged alphabetically by country. Includes: annual meetings speeches; Article IV staff reports; heavily indebted poor countries (HIPC) documents; joint staff assessments; joint staff advisory notes; International Monetary and Financial Committee (IMFC) statements; letters of intent; news briefs; policy framework...
 

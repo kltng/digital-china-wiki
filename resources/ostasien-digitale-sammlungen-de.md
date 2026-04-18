@@ -1,7 +1,7 @@
 ---
 title: Digital East Asia Collections - Bavarian State Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://ostasien.digitale-sammlungen.de/
 language: null
 region: global
@@ -12,6 +12,10 @@ tags:
 - rare_books
 china_relevance: null
 source_id: ostasien-digitale-sammlungen-de
+description: Willkommen bei den DIGITALEN SAMMLUNGEN OSTASIEN der Bayerischen Staatsbibliothek!
+  Hier finden Sie digitalisierte chinesische, japanische und koreanische Handschriften
+  und Drucke aus dem Bestand der Bayerischen Staatsbibliothek (BSB), entstanden zwischen
+  dem 7. Insgesamt haben Sie Zugriff auf über 2 Millionen Einzelimages.
 ---
 
 # Digital East Asia Collections - Bavarian State Library
@@ -20,7 +24,7 @@ source_id: ostasien-digitale-sammlungen-de
 
 ## Summary
 
-The Digital East Asia Collections (Digitale Sammlungen Ostasien) provides access to over 2 million digital images of Chinese, Japanese, and Korean manuscripts and printed works from the 7th to 19th centuries, held by the Bavarian State Library (Bayerische Staatsbibliothek) in Munich, Germany. The digitization project, funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) between 2011 and 2015, makes these rare East Asian materials available to scholars worldwide. The platform offers two access modes: a browse mode for systematic exploration of the collections and a search function for targeted queries, with detailed help documentation available for users.
+Willkommen bei den DIGITALEN SAMMLUNGEN OSTASIEN der Bayerischen Staatsbibliothek! Hier finden Sie digitalisierte chinesische, japanische und koreanische Handschriften und Drucke aus dem Bestand der Bayerischen Staatsbibliothek (BSB), entstanden zwischen dem 7. Insgesamt haben Sie Zugriff auf über 2 Millionen Einzelimages.
 
 ## 摘要
 

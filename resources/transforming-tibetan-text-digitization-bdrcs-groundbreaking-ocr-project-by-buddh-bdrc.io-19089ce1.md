@@ -23,9 +23,13 @@ tags:
 - statistical
 china_relevance: primary
 source_id: transforming-tibetan-text-digitization-bdrcs-groundbreaking-ocr-project-by-buddh-bdrc.io-19089ce1
-description: BDRC is proud to announce an exciting project that will contribute a
-  powerful new app and millions of pages of primary materials to Tibetan Studies.
+description: The Buddhist Digital Resource Center is proud to announce an exciting
+  project that will contribute a powerful new app and millions of pages of primary
+  materials to Tibetan Studies. Our team is developing a desktop application for optical
+  character recognition (OCR) of Tibetan scripts, addressing a critical need in the
+  academic and preservation communities.
 ---
+
 # Transforming Tibetan Text Digitization: BDRC's Groundbreaking OCR Project by Buddhist Digital Resource Center
 
 **URL:** https://www.bdrc.io/blog/2024/08/28/transforming-tibetan-text-digitization-bdrcs-groundbreaking-ocr-project
@@ -34,5 +38,5 @@ description: BDRC is proud to announce an exciting project that will contribute 
 
 ## Summary
 
-BDRC is proud to announce an exciting project that will contribute a powerful new app and millions of pages of primary materials to Tibetan Studies. This cutting-edge, cross-platform desktop tool for optical character recognition (OCR) of Tibetan scripts will ‘unlock’ the writing embedded in scans of manuscripts.
+The Buddhist Digital Resource Center is proud to announce an exciting project that will contribute a powerful new app and millions of pages of primary materials to Tibetan Studies. Our team is developing a desktop application for optical character recognition (OCR) of Tibetan scripts, addressing a critical need in the academic and preservation communities.
 

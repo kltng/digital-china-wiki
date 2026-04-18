@@ -11,10 +11,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-11607696
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Lian he zhi shi ku [electronic resource]. 聯合知識庫 [electronic resource].
+  - [Taiwan] : Lian he bao xi : Han zhen shu wei tu shu gong si [distributor], 2001-
+  - [台灣] : 聯合報系 : 漢珍數位圖書公司 [distributor], 2001- - Mei Zhou Shi jie ri bao - Upaper:
+  2007 to present.'
 ---
+
 # 聯合知識庫全文報紙資料庫 UDNdata
 
 **URL:** https://searchworks.stanford.edu/view/11607696
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Lian he zhi shi ku [electronic resource]. 聯合知識庫 [electronic resource]. - [Taiwan] : Lian he bao xi : Han zhen shu wei tu shu gong si [distributor], 2001- - [台灣] : 聯合報系 : 漢珍數位圖書公司 [distributor], 2001- - Mei Zhou Shi jie ri bao - Upaper: 2007 to present.
 

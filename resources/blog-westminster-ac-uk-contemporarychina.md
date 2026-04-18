@@ -16,10 +16,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: blog-westminster-ac-uk-contemporarychina
-description: Interdisciplinary research about contemporary China from a cultural studies
-  perspective Written by Fei Huang Stay-at-home fathers (SAHFs), as a newly emerged
-  gendered identity, have recently featured...
+description: 'TV Drama Discourse on Stay-at-home Fathers in China: Super Dad & Super
+  Kids Written by Fei Huang Stay-at-home fathers (SAHFs), as a newly emerged gendered
+  identity, have recently featured in several TV family dramas in China. While much
+  has been written about the discourses of familial relations in televisual culture
+  since the late Based at the University of Westminster, the Contemporary China Centre
+  focuses on interdisciplinary research interdis...'
 ---
+
 # Blog Westminster Ac Uk Contemporarychina
 
 **URL:** http://blog.westminster.ac.uk/contemporarychina/
@@ -28,5 +32,5 @@ description: Interdisciplinary research about contemporary China from a cultural
 
 ## Summary
 
-Interdisciplinary research about contemporary China from a cultural studies perspective Written by Fei Huang Stay-at-home fathers (SAHFs), as a newly emerged gendered identity, have recently featured in several TV family dramas in China. While much has been written about the discourses of familial relations in televisual culture since the late… Written by Craig Clunas I am probably not the only student of Chinese language and culture to have got used over the years to facing the question, ‘So what first got you interested in China?’ This question was all the… Written by Séagh Kehoe and Gerda W...
+TV Drama Discourse on Stay-at-home Fathers in China: Super Dad & Super Kids Written by Fei Huang Stay-at-home fathers (SAHFs), as a newly emerged gendered identity, have recently featured in several TV family dramas in China. While much has been written about the discourses of familial relations in televisual culture since the late Based at the University of Westminster, the Contemporary China Centre focuses on interdisciplinary research interdis...
 

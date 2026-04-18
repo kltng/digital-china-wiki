@@ -20,9 +20,13 @@ tags:
 - statistical
 china_relevance: primary
 source_id: history-of-photography-in-china-1839-ca-1911-selected-annotated-bibliography-getty.edu-378205ce
-description: A selected annotated bibliography on the history of photography in China,
-  prepared by the Getty Research Institute.
+description: 'History of Photography in China, 1839–ca. 1911: Selected Annotated Bibliography
+  Created in conjunction with the exhibition Brush & Shutter: Early Photography in
+  China at the J. Paul Getty Museum, February 8–May 1, 2011, and the accompanying
+  catalog of the same name Compilers: Shi Chen, Julia Grimes, Tiffany Lee, Jia Tan,
+  Linlin Wang Cody and Frances Terpak'
 ---
+
 # History of Photography in China, 1839–ca. 1911: Selected Annotated Bibliography
 
 **URL:** https://www.getty.edu/research/tools/guides_bibliographies/photography_china
@@ -31,5 +35,5 @@ description: A selected annotated bibliography on the history of photography in 
 
 ## Summary
 
-A selected annotated bibliography on the history of photography in China, prepared by the Getty Research Institute.
+History of Photography in China, 1839–ca. 1911: Selected Annotated Bibliography Created in conjunction with the exhibition Brush & Shutter: Early Photography in China at the J. Paul Getty Museum, February 8–May 1, 2011, and the accompanying catalog of the same name Compilers: Shi Chen, Julia Grimes, Tiffany Lee, Jia Tan, Linlin Wang Cody and Frances Terpak
 

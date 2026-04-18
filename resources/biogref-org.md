@@ -15,8 +15,11 @@ china_relevance: null
 source_id: biogref-org
 description: BiogRef provides a distributed method for sharing metadata about online
   biographical information and integrating this metadata into searchable catalogs
-  with direct links to electronic resources.
+  with direct links to electronic resources. This system currently provides access
+  to a person names in the China Biographical Database (CBDB) and Dharma Drum Buddhist
+  College (DDBC) Buddhist Studies Authority Database.
 ---
+
 # Biogref Org
 
 **URL:** https://biogref.org/
@@ -25,5 +28,5 @@ description: BiogRef provides a distributed method for sharing metadata about on
 
 ## Summary
 
-BiogRef provides a distributed method for sharing metadata about online biographical information and integrating this metadata into searchable catalogs with direct links to electronic resources. This system currently provides access to a person names in theChina Biographical Database(CBDB) and Dharma Drum Buddhist College (DDBC)Buddhist Studies Authority Database. To search or browse the catalog, use the links at the top of this page, or enter a title in the box below:
+BiogRef provides a distributed method for sharing metadata about online biographical information and integrating this metadata into searchable catalogs with direct links to electronic resources. This system currently provides access to a person names in the China Biographical Database (CBDB) and Dharma Drum Buddhist College (DDBC) Buddhist Studies Authority Database.
 

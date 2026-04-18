@@ -14,10 +14,11 @@ tags:
 - statistical
 china_relevance: primary
 source_id: data-un-org
-description: 'Population, surface area and density PDF|CSVUpdated: 2-Mar-2026 International
-  migrants and refugees PDF|CSVUpdated: 22-Dec-2025 Population growth, fertility,
-  life expectancy and mortality PDF|CSVUpdat...'
+description: 'databases - 60 million records Popular statistical tables, country (area)
+  and regional profiles - Population, surface area and density - PDF | CSV Updated:
+  2-Mar-2026 - International migrants and refugees - PDF | CSV Updated: 22-Dec-2025'
 ---
+
 # UNdata
 
 **URL:** https://data.un.org/
@@ -26,5 +27,5 @@ description: 'Population, surface area and density PDF|CSVUpdated: 2-Mar-2026 In
 
 ## Summary
 
-Population, surface area and density PDF|CSVUpdated: 2-Mar-2026 International migrants and refugees PDF|CSVUpdated: 22-Dec-2025 Population growth, fertility, life expectancy and mortality PDF|CSVUpdated: 2-Mar-2026 Population in the capital city, urban and rural areas GDP and GDP per capita PDF|CSVUpdated: 22-Dec-2025 GVA by kind of economic activity PDF|CSVUpdated: 22-Dec-2025 Education at the primary, secondary and tertiary levels PDF|CSVUpdated: 22-Dec-2025 Teaching staff at the primary, secondary and tertiary levels PDF|CSVUpdated: 22-Dec-2025 Public expenditure on education PDF|CSVUpdated...
+databases - 60 million records Popular statistical tables, country (area) and regional profiles - Population, surface area and density - PDF | CSV Updated: 2-Mar-2026 - International migrants and refugees - PDF | CSV Updated: 22-Dec-2025
 

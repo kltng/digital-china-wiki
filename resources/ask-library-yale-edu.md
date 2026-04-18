@@ -1,7 +1,7 @@
 ---
 title: Ask Yale Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://ask.library.yale.edu/
 language: null
 region: global
@@ -11,6 +11,9 @@ tags:
 - website
 china_relevance: null
 source_id: ask-library-yale-edu
+description: '- Bass Media Equipment - Center for Language Study - Citation Management
+  - Collaborative Learning Center - Contact Information - Cushing/Whitney Medical
+  Library'
 ---
 
 # Ask Yale Library
@@ -21,7 +24,7 @@ source_id: ask-library-yale-edu
 
 ## Summary
 
-Ask Yale Library is Yale University's online reference and research assistance service, providing virtual help to students, faculty, and researchers. The platform offers multiple ways to get research support, including live chat with librarians, email reference service, and a searchable knowledge base of frequently asked questions. Users can submit research questions and receive assistance from subject specialists who can help with finding resources, navigating databases, developing research strategies, and using library services. The service covers all disciplines supported by Yale Library, including Chinese and East Asian studies. Ask Yale Library complements in-person reference services with convenient 24/7 online access to research assistance, making it easier for researchers to get help regardless of location or time.
+- Bass Media Equipment - Center for Language Study - Citation Management - Collaborative Learning Center - Contact Information - Cushing/Whitney Medical Library
 
 ## 摘要
 

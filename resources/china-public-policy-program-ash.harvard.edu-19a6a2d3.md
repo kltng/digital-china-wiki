@@ -12,10 +12,13 @@ tags:
 - social_history
 china_relevance: primary
 source_id: china-public-policy-program-ash.harvard.edu-19a6a2d3
-description: The Ash Center for Democratic Governance and Innovation develops ideas
-  and fosters practices for equal and inclusive, multiracial, and multiethnic democracy
-  and self-government.
+description: 'Democracy demands new ideas. How Well Do Voting Choice Policies Represent
+  Investor Preferences? Terms of Engagement – Navigating Unprecedented Politics: A
+  Conversation with Kevin McCarthy Harvard’s hub for research and teaching on democracy
+  The Ash Center for Democratic Governance and Innovation develops ideas and fosters
+  practices for equal and inclusive, multiracial, and multiethnic democracy and self-government.'
 ---
+
 # China Public Policy Program
 
 **URL:** http://ash.harvard.edu
@@ -24,5 +27,5 @@ description: The Ash Center for Democratic Governance and Innovation develops id
 
 ## Summary
 
-The Ash Center for Democratic Governance and Innovation develops ideas and fosters practices for equal and inclusive, multiracial, and multiethnic democracy and self-government. From expanding voting access to developing new strategies for antiracist organizational change, we tackle the most pressing issues facing democracy and democratic institutions around the world today. Asset managers face increasing political risk stemming from concerns that they prioritize their own interests when voting on behalf of investors.
+Democracy demands new ideas. How Well Do Voting Choice Policies Represent Investor Preferences? Terms of Engagement – Navigating Unprecedented Politics: A Conversation with Kevin McCarthy Harvard’s hub for research and teaching on democracy The Ash Center for Democratic Governance and Innovation develops ideas and fosters practices for equal and inclusive, multiracial, and multiethnic democracy and self-government.
 

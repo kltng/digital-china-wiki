@@ -10,10 +10,9 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: ncco-galegroup-com-gdc-ncco
-description: Don’t know how to login? Depending on this location’s preferences, the
-  log-in process could include your library card number, a student or user ID, or
-  another provided password.
+description: Nineteenth Century Collections Online Don’t know how to login?
 ---
+
 # Asia and the West: Diplomacy and Cultural Exchange (19th century)
 
 **URL:** http://ncco.galegroup.com/gdc/ncco?u=29002
@@ -22,5 +21,5 @@ description: Don’t know how to login? Depending on this location’s preferenc
 
 ## Summary
 
-Don’t know how to login? Depending on this location’s preferences, the log-in process could include your library card number, a student or user ID, or another provided password.If you don’t know how to log in, please contact your library or school directly.
+Nineteenth Century Collections Online Don’t know how to login?
 

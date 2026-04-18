@@ -15,8 +15,10 @@ tags:
 - music
 china_relevance: null
 source_id: emergency-stanford-edu
-description: Information and updates about emergent situations at Stanford University.
+description: Emergency Information The university is operating under normal conditions.
+  There are no current updates at this time.
 ---
+
 # Emergency Info
 
 **URL:** https://emergency.stanford.edu/
@@ -25,5 +27,5 @@ description: Information and updates about emergent situations at Stanford Unive
 
 ## Summary
 
-Information and updates about emergent situations at Stanford University.
+Emergency Information The university is operating under normal conditions. There are no current updates at this time.
 

@@ -14,8 +14,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: socialismonfilm-amdigital-co-uk
-description: Primary source material for the study of Socialism and Communism.
+description: This collection of films from the communist world reveals war, history,
+  current affairs, culture and society as seen through the socialist lens. It spans
+  most of the twentieth century and covers countries such as the USSR, Vietnam, China,
+  Korea, much of Eastern Europe, the GDR, Britain and Cuba. You may not have permission
+  to access this resource.
 ---
+
 # Socialism on Film
 
 **URL:** http://www.socialismonfilm.amdigital.co.uk/
@@ -24,5 +29,5 @@ description: Primary source material for the study of Socialism and Communism.
 
 ## Summary
 
-Primary source material for the study of Socialism and Communism.
+This collection of films from the communist world reveals war, history, current affairs, culture and society as seen through the socialist lens. It spans most of the twentieth century and covers countries such as the USSR, Vietnam, China, Korea, much of Eastern Europe, the GDR, Britain and Cuba. You may not have permission to access this resource.
 

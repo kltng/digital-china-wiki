@@ -19,9 +19,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: pvierth-com
-description: This website features Paul Vierthaler's research on digital humanities,
-  late Imperial Chinese literature, and print history.
+description: I am an assistant professor of late imperial Chinese literature and interdisciplinary
+  data science at Princeton University, where I am also the associate faculty director
+  of the Center for Digital Humanities. I have held faculty positions in Chinese Studies
+  at William & Mary and in Digital Humanities at Leiden University (where I also helped
+  establish the Leiden University Centre for Digital Humanities).
 ---
+
 # Pvierth Com
 
 **URL:** https://www.pvierth.com/
@@ -30,5 +34,5 @@ description: This website features Paul Vierthaler's research on digital humanit
 
 ## Summary
 
-This website features Paul Vierthaler's research on digital humanities, late Imperial Chinese literature, and print history.
+I am an assistant professor of late imperial Chinese literature and interdisciplinary data science at Princeton University, where I am also the associate faculty director of the Center for Digital Humanities. I have held faculty positions in Chinese Studies at William & Mary and in Digital Humanities at Leiden University (where I also helped establish the Leiden University Centre for Digital Humanities).
 

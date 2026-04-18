@@ -11,10 +11,12 @@ tags:
 - taiwan
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14228091
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Taiwan nichinichi shinpō - Japanese, Chinese. In Japanese and Chinese
+  - Taihoku : Taiwan Nichinichi Shinpōsha, Meiji 38 [1898]-Shōwa 19 [1944] - 臺北 :
+  臺灣日日新報社, 明治38 [1898]-昭和19 [1944] - Taiwan nichinichi shinpo, daily newspaper, was
+  published from 1898 to 1944 in Japanese along with Chinese text from 1905 to 1911.'
 ---
+
 # Taiwan nichinichi shinpō 臺灣日日新報
 
 **URL:** https://searchworks.stanford.edu/view/14228091
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Taiwan nichinichi shinpō - Japanese, Chinese. In Japanese and Chinese - Taihoku : Taiwan Nichinichi Shinpōsha, Meiji 38 [1898]-Shōwa 19 [1944] - 臺北 : 臺灣日日新報社, 明治38 [1898]-昭和19 [1944] - Taiwan nichinichi shinpo, daily newspaper, was published from 1898 to 1944 in Japanese along with Chinese text from 1905 to 1911.
 

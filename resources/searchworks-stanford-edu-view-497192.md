@@ -11,10 +11,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-497192
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: '- Quarterly (cumulative) - Description based on: 10/1/90; title from
+  search screen. - Accompanied by installation diskettes (1 computer disk ; 5 1/4
+  in. + 1 computer disk ; 3 1/2 in. ) and Wilsondisc guide (1 v. (various pagings);
+  22 cm.'
 ---
+
 # MLA international bibliography
 
 **URL:** https://searchworks.stanford.edu/view/497192
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+- Quarterly (cumulative) - Description based on: 10/1/90; title from search screen. - Accompanied by installation diskettes (1 computer disk ; 5 1/4 in. + 1 computer disk ; 3 1/2 in. ) and Wilsondisc guide (1 v. (various pagings); 22 cm.
 

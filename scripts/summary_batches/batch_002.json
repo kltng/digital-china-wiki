@@ -1,0 +1,280 @@
+[
+  {
+    "file": "cbdb-api-github.com-c308e5f1.md",
+    "title": "CBDB API",
+    "url": "https://github.com/cbdb-project/cbdb-online-main-server/blob/develop/API.md",
+    "tags": [
+      "art_history",
+      "digital_humanities",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "CBDB 在线系统主服务器. Contribute to cbdb-project/cbdb-online-main-server development by creating an account on GitHub.",
+    "source_text": "將下文輸入示例中 /api... 前接 input.cbdb.fas.harvard.edu\n| 參數名 | 參數類型 | 說明 |\n|---|---|---|\n| id | 數字 | 官職類別代碼 |\n| start | 數字 | 開始筆數 |\n| list | 數字 | 列表長度 |\n/api/post_list?id=06&start=0&list=100\n獲取【唐朝】下的前100個官職(開始筆數 =0，結束筆數=99, ⻑度=100）\n/api/post_list?id=06&start=100&list=100\n獲取【唐朝】下的第100-200個官職 (開始筆數=100，結束筆數=199, ⻑度=100)\n/api/post_list?id=0601\n獲取【唐朝-帝后制度類】下的全部官職\n數據類型：物件\n{\n\"total\":100,\n\"start\":1,\n\"end\":2,\n\"data\":[\n{\"pId\":\"27\",\"pName\":\"shang shu sheng gong bu shang shu\",\"pNameChn\":\"尚書省工部尚書\",\"pNameChnAlt\":\"工部尚書;尚書;工部一書;工書;冬卿;冬卿常伯\"},\n{\"pId\":\"28\",\"pName\":\"shang shu sheng gong bu shi lang\",\"pNameChn\":\"尚書省工部侍郎\",\"pNameChnAlt\":\"工部侍郎;工侍;小司空;司平少常伯;冬官之貳;共工之貳\"}\n]\n}\n| 屬性名 | 屬性類型 | 說明 |\n|---|---|---|\n| total | 數字 | 數據總筆數 |\n| start | 數字 | 當前數據開始筆數 |\n| end | 數字 | 當前數據結束筆數 |\n| data | 陣列 | 官職列表 |\ndata[i ].pId |\n數字 | office_id |\ndata[i ].pName |\n字符串 | 官職名，英文 |\ndata[i ].pNameChn |\n字符串 | 官職名，中文 |\ndata[i ].pNameChnAlt |\n字符串 | 官職別名，中文 [OFFICE_CODES].[c_office_chn_alt] |\n| 參數名 | 參數類型 | 說明 |\n|---|---|---|\n| id | 數字 | 入仕途徑代碼 |\n| start | 數字 | 開始筆數 |\n| list | 數字 | 列表長度 |\n/api/entry_list?id=04\n獲取【科舉門】下的所有入仕途徑\n/api/entry_list?id=0403\n獲取【科舉門-制舉】下的所有入仕途徑\n數據類型：物件\n{\n\"total\":100,\n\"start\":1,\n\"end\":2,\n\"data\":[\n{\"eId\":\"47\",\"eName\":\"school: licentiate \",\"eNameChn\":\"學校：生員（庠生）\"},\n{\"eId\":\"173\",\"eName\":\"county school student\",\"eNameChn\":\"縣學生員\"}\n]\n}\n| 屬性名 | 屬性類型 | 說明 |\n|---|---|---|\n| total | 數字 | 數據總筆數 |\n| start | 數字 | 當前數據開始筆數 |\n| end | 數字 | 當前數據結束筆數 |\n| data | 陣列 | 入仕途徑列表 |\ndata[i ].eId |\n數字 | entry_code |\ndata[i ].eName |\n字符串 | 入仕途徑名，英文 |\ndata[i ].eNameChn |\n字符串 | 入仕途徑名，中文 |\n| 參數名 | 參數類型 | 說明 |\n|---|---|---|\n| name | 字符串 | 地點名稱，中文或英文(必須) |\n| startTime | 數字 | 起始時間(可選) |\n| endTime | 數字 | 結束時間(可選) |\n| accurate | 數字 | 是否精確匹配，若精確匹配為0 ，若部分匹配，為1 |\n| start | 數字 | 開始筆數 |\n| list | 數字 | 列表長度 |\n/api/place_list?name=%E6%99%AE%E6%B4%B2%E9%81%93&accurate=1\n模糊匹配地名為“普洱道”的所有地點\n/api/place_list?name=Puer&accurate=0\n精確匹配名稱為“Puer”的地點\n數據類型：物件\n{\n\"total\":100,\n\"start\":1,\n\"end\":2,\n\"data\":[\n{\"pId\":9099,\n\"pName\":\"Guangzhou Shi\",\n\"pNameChn\":\"廣州市\",\n\"pStartTime\":1912,\n\"pEndTime\":1949,\n\"pBName\":\"Guangdong sheng\",\n\"pBNameChn\":\"廣東省\"\n},\n{\"pId\":9102,\n\"pName\":\"Guangzhou Shi\",\n\"pNameChn\":\"廣州市\",\n\"pStartTime\":1912,\n\"pEndTime\":1949,\n\"pBName\":\"Guangxi sheng\",\n\"pBNameChn\":\"廣西省\"}\n]\n}\n| 屬性名 | 屬性類型 | 說明 |\n|---|---|---|\n| total | 數字 | 數據總筆數 |\n| start | 數字 | 當前數據開始筆數 |\n| end | 數字 | 當前數據結束筆數 |\n| data | 陣列 | 入仕途徑列表 |\ndata[i ].pId |\n數字 | 地點代碼 |\ndata[i ].pName |\n字符串 | 地點名稱，英文 |\ndata[i ].pNameChn |\n字符串 | 地點名稱，中文 |\ndata[i ].pStartTime |\n數字 | 地點起始時間 |\ndata[i ].p",
+    "source_len": 30814
+  },
+  {
+    "file": "cbdb-china-biographical-database-academic-branch-input.cbdb.fas.harvard.edu-0163e6b3.md",
+    "title": "CBDB China Biographical Database Academic Branch 中國人物傳記信息在线共享平台",
+    "url": "https://input.cbdb.fas.harvard.edu/basicinformation",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "guide",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "CBDB China Biographical Database Academic Branch 中國人物傳記信息在线共享平台, provided by Harvard University, is a database with a focus on mainland China.",
+    "source_text": "| c_personid | c_name_chn | c_name | dynasty | index year | index address | zi | hao |\n|---|---|---|---|---|---|---|---|\n| 0 | 未詳 | Weixiang | |||||\n| 1 | 安惇 | An Dun | 宋 | 1042 | 廣安軍 | 處厚 | |\n| 2 | 安邡 | An Fang | 宋 | 1072 | 渠江 | ||\n| 3 | 安燾 | An Tao | 宋 | 1065 | 開封 | 厚卿 | |\n| 4 | 查道 | Zha Dao | 宋 | 955 | 休寧 | 湛然 | |\n| 5 | 查籥 | Zha Yue | 宋 | 1121 | 江陵 | 元章 | |\n| 6 | 柴成務 | Chai Chengwu | 宋 | 934 | 濟陰 | 寳臣 | |\n| 7 | 柴天因 | Chai Tianyin | 宋 | 1070 | 開封 | ||\n| 8 | 常僅 | Chang Jin | 宋 | ||||\n| 9 | 常任秩 | Chang Renzhi | 宋 | ||||\n| 10 | 晁謙之 | Chao Qianzhi | 宋 | 1091 | 鉛山 | 恭道 | |\n| 11 | 晁公武 | Chao Gongwu | 宋 | 1105 | 鉛山 | 子止 | 昭德先生 |\n| 12 | 晁公邁 | Chao Gongmai | 宋 | 1084 | 臨川 | 伯咎 | 傳密居士 |\n| 13 | 晁補之 | Chao Buzhi | 宋 | 1049 | 鉅野 | 旡咎 | 歸來子 |\n| 14 | 晁端彥 | Chao Duanyan | 宋 | 1035 | 開封 | 美叔 | |\n| 15 | 陳安期 | Chen Anqi | 宋 | 1020 | 河陽 | ||\n| 16 | 陳安民 | Chen Anmin | 宋 | 1027 | 河陽 | ||\n| 17 | 陳安石 | Chen Anshi | 宋 | 1014 | 河陽 | 子堅 | |\n| 18 | 陳安道 | Chen Andao | 宋 | 1020 | 河陽 | ||\n| 19 | 陳察 | Chen Cha | 宋 | 1046 | 開封 | 晦叔 |\n本次查詢共 5 筆，耗時 109.01 ms",
+    "source_len": 1041
+  },
+  {
+    "file": "cbdb-ontology-on-webvowl-usources.cn-13b8db28.md",
+    "title": "CBDB Ontology on WebVOWL",
+    "url": "http://www.usources.cn/webvowl",
+    "tags": [
+      "digital_humanities",
+      "economic_history",
+      "social_history"
+    ],
+    "current_description": "WebVOWL - Web-based Visualization of Ontologies",
+    "source_text": "WebVOWL does not work properly in Internet Explorer and Microsoft Edge.\nPlease use another browser, such as\nMozilla Firefox\nor\nGoogle Chrome,\nto run WebVOWL.\nWebVOWL\n1.1.7\nLoaded cached ontology\nFPS: 0\nNodes: 0\nLinks: 0\nmode of operation\nNodes: 0\nLinks: 0\nDrag ontology file here.\nDefault Element\nClass: owl:Class\nProperty: owl:objectProperty\nDatatype: rdfs:Literal\n⌖\n+\n-\n- Some text if ERROR",
+    "source_len": 392
+  },
+  {
+    "file": "cbeta-openaccess-cbeta.org-2cc76dbb.md",
+    "title": "CBETA 電子佛典集成 OPENACCESS",
+    "url": "https://cbeta.org/",
+    "tags": [
+      "digital_humanities",
+      "prc"
+    ],
+    "current_description": "電子佛典集成 「CBETA 電子佛典集成」是本會多年致力數位化佛教文獻的成果，收錄《大正新脩大藏經》、《卍續藏 […]",
+    "source_text": "電子佛典集成\n「CBETA 電子佛典集成」是本會多年致力數位化佛教文獻的成果，收錄《大正新脩大藏經》、《卍續藏》、《嘉興藏》等重要漢譯佛典，以及近代新增文獻與經錄。\n本集成旨在為學術研究者、修行者及佛教文化愛好者，提供一套完整、嚴謹且便於查閱的數位佛典資源。誠摯歡迎各界多加利用。\n※ 線上閱讀（CBETA Online）由法鼓文理學院開發維護。\n特色\n(資料來源：2025.R3)\n收錄典籍數量\n收錄全文字數\n校訂資料庫\n新式標點\n「水滴雖微，漸盈大器，凡福充滿，從纖纖積。」\n——《法句經》卷1\nCBETA T04, no. 210, p. 565a5-6\n歡迎贊助 CBETA\n「CBETA 電子佛典集成」不僅獲得國際學界的重視及肯定，也成為大眾廣為運用的公共資源。如果您也認同我們的理念，竭誠歡迎您加入贊助的行列，讓佛陀的智慧永傳後世。\n依財團法人法第 25 條規訂，必須公開捐款者(依收據抬頭)之姓名及金額。 如不願公開之捐款者，請於線上填寫「捐款者不同意公開聲明書」(詳細說明)\n若有任何捐款問題，請 E-Mail ([email protected]) 或來電 (02-23832182)詢問。\nClick here for English sponsorship page\n「諷誦經典，當願眾生，得總持門，攝一切法。」\n——《大方廣佛華嚴經》卷6〈淨行品〉\nCBETA T09, no. 278, p. 432b26-27\n\n簡介\nComprehensive Buddhist Electronic Text Archive Foundation，\n簡稱 CBETA Foundation 或 CBETA 基金會\n「中華電子佛典協會」（Chinese Buddhist Electronic Texts Association，簡稱 CBETA）由恆清法師發起，結合佛教界從事佛典電子化的團體及個人，於 1998 年 2 月 15 日成立，並委請「財團法人菩提教育基金會」（1998 年 2 月～2001 年 1 月）和「財團法人西蓮教育基金會」（2001 年 2 月開始）協助營運。\n2021 年底，CBETA 主任委員惠敏法師提出 CBETA 永續發展議題，經恆清法師、法鼓山方丈和尚等相關人士討論，開始籌備成立財團法人基金會。\n繼而財團法人法鼓山佛教基金會（1,300 萬）、西蓮淨苑（500 萬）、靜思人文志業股份有限公司（400 萬）、釋恆清、法雨山普宜苑、釋照印、福嚴精舍、圓光寺、詹益堃、詹益閔、打鼓岩元亨寺等（各 100 萬，依捐助承諾順序記載）共捐助 3,000 萬元整，於 2023 年 4 月 8 日召開捐助人籌備會議，推選釋果毅、釋惠敏、何日生、邱大剛、釋圓悟、釋性儀、釋法持、陳光華、洪振洲等為董事；並召開第一屆董事會，推選釋惠敏為董事長，洪振洲董事兼任執行長。\n後續備齊相關文件，向主管機關內政部申請設立全國性宗教財團法人「財團法人佛教電子佛典基金會」（Comprehensive Buddhist Electronic Text Archive Foundation，簡稱 CBETA Foundation 或 CBETA 基金會），於 2023 年 8 月 7 日完成設立程序，繼續建立各種佛教藏經與著作之電子佛典集成資料庫與數位平台，推動佛教資訊化相關專案，促進佛教數位傳播之交流與發展。\n\nCBETAª©¹q¤l¦ò¨å³¡Ãþ¥Ø¿ý\nÄÀ´f±Ó\n¤¤µØ¹q¤l¦ò¨å¨ó·|¡@¥D¥ô©eû °ê¥ß¥x¥_ÃÀ³N¤j¾Ç¡@±Ð±Â\n1. «e¨¥\n¡@¡@ð´Â¶}¤¸¤Q¤K¦~(730)´¼ª@©Ò¼¶ªº¡m¶}¤¸ÄÀ±Ð¿ý¡nªº¤jÂÃ¸g¿ý¡A¹ïº~Ä¶¤jÂÃ¸gªº³¡Ãþ½s©w¡A´£¥X¦p¤Uªºì«h¡G¥¦¹ïº~Ä¶¦ò¨å°Ï§O¬°¡mµÐÂÄ¤TÂÃ¿ý¡nthe\nBodhisattva Tripitaka Catalogue ¡]¥]§tµÐÂÄ«´¸gÂÃ\nSūtra¡BµÐÂÄ½Õ¥ñÂÃ Vinaya ©MµÐÂÄ¹ïªkÂÃ Abhidharma ¡^»P¡mÁn»D¤TÂÃ¿ý¡nthe\nBuddhist disciples's Tripitaka Catalogue ¡]¥]§tÁn»D«´¸gÂÃ\nSūtra¡BÁn»D½Õ¥ñÂÃ Vinaya ©MÁn»D¹ïªkÂÃ\nAbhidharma¡^¡C¤j¼¸g¤¤¡A«Ø¥ß¯ëY¡BÄ_¿n¡B¤j¶°¡BµØÄY¡B¯Iºnµ¥¤¤j³¡ªº¤ÀÃþ¡C¤j¼½×¤S¥H¡uÄÀ¸g½×¡v¡B¡u¶°¸q½×¡v¤ÀÃþ¡C³o¤@½s¥Ø¡A¤@ª½§@¬°«á¥@¼g¥»¡B¨è¥»ªº·ÇÃ·¡A¹ïº~¤å¤jÂÃ¸gµ²ºc¦³¥¨¤jªº°^Äm¡C\n¡@¡@1924¡ã1934 ¦~¥Ñ°ª·£¶¶¦¸¦(Takakusu, Junjiro)µ¥¤H¦¨¥ß¤§¡uªF¨Ê¤j¥¿¤@¤Á¸g¥Z¦æ·|¡v¡]«áºÙ¤jÂÃ¥Xª©®è¦¡·|ªÀ Daizo\nShuppansha¡^½s¿è¥Xª©¡m¤j¥¿·s²ç¤jÂÃ¸g¡n(Taisho Tripitaka)¡A¨ä¤À³¡¶¶§Ç»P¸g¸¹½s½X¡A¤@¤è±«O¯d¶Ç²Îªº¤ÀÃþì«h¥~¡A¥Dn¬O¥H¦ò¨åªºµ²¶°µo®iªº¾ú¥vy¸ñ¬°¨Ì¾Ú¡Cº¥ý¬O¦L«×¼¶z³¡¡]¤w¸gº~Ä¶¡^¡A¥Ñ²Ä 1 ¥U¨ì 32 ¥U¡A¨Ã¥B«ö·Ó¸g(Sūtra\nvol. 1-21)¡B«ß(Vinaya vol. 22-24)¡B½×(abhidharma vol. 25-32)ªº¦¸²Ä¡C¨ä¦¸¡A¥[¤W¤¤°ê¼¶z³¡¡]²Ä33¥U¨ì²Ä48¥U¡^¡A¤]´N¬O¸g²¨(vol.\n33-39)¡B«ß²¨(vol. 40)¡B½",
+    "source_len": 11270
+  },
+  {
+    "file": "ccaa-nju-edu-cn-html-index-html.md",
+    "title": "中国商业广告档案库 Chinese Commercial Advertisement Archive (1870-1940)",
+    "url": "https://ccaa.nju.edu.cn/html/index.html",
+    "tags": [
+      "archive",
+      "digital_humanities",
+      "economic_history"
+    ],
+    "current_description": "中国商业广告档案库 Chinese Commercial Advertisement Archive (1870-1940) with a focus on global scope.",
+    "source_text": "|\n|\nèç³»äºº\néé\nåå£«Â·å¯ææ\nåäº¬å¤§å¦èºæ¯å¦é¢\nåäº¬å¸é¼æ¥¼åºæ±å£22å·é¸å¤«é¦8æ¥¼\ncjchen@nju.edu.cn |\nCONTACT\nJing Chen(CJ Chen)\nPh. D., Associate Professor\nSchool of Arts, Nanjing University\n22 Hankou Road, Nanjing, China, 210093\ncjchen@nju.edu.cn |",
+    "source_len": 245
+  },
+  {
+    "file": "ccg-eastview-com.md",
+    "title": "China Comprehensive Gazetteers 中国综合方志库",
+    "url": "http://ccg.eastview.com/",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "music",
+      "statistical"
+    ],
+    "current_description": "Your IP Address:172.93.50.206 Your IP Address:172.93.50.206 © 2026 East View Information Services When choosing the Metadata search, your query will search through Title, Compiler, Volume, Edition, Pu...",
+    "source_text": "选择“全局搜索”时，查询将搜索标题，编译器，卷，版本，发布位置和打印类型，但不会搜索全文。\n所有的空间被认为是一个OR操作符。这意味着如果你搜索“三吴旧1915”，将返回含有“三吴旧”或“1915”的结果，许多版本包含年限，有些结果可能包含“三吴旧”，在这种情况下，最好的结果将是包含两套标准的任何事情。\n用 \"全文\" 检索和用 “标题” 检索会得到不同的结果。为了证实这一点，举个例子说明：\n如果我正在寻找泰顺县（泰順/泰顺）的所有地方志，我会用 “泰順\" 进行全文检索。 结果显示，如果进行 \"全文\" 检索，关键字将突出显示在 \"摘录\" 一栏。\n相比之下, 如果在 “标题” 字段中搜索, 则关键字将突出显示在 “标题/编译” 一栏。\n任务1的答案: 在 ”标题” 字段中搜索更有效。 我们还可以看到，泰顺县的地方志可能不会被命名为 \"泰順縣誌\" [local gazetteer of Taishun County]，所以关键词的更好选择是 \"泰順\" / \"泰顺\" [Taishun]，而不是 \"泰順县\" / \"泰顺县\" [Taishun County]。\n由于 “快速检索” 一次只能搜索一个主题，因此请使用 “高级检索” 功能同时搜索多个字段。\n用 \"全文\" 检索和用 “标题” 检索会得到不同的结果。为了证实这一点，举个例子说明：\n如果我正在寻找泰顺县（泰順/泰顺）的所有地方志，我会用 “泰順\" 进行全文检索。 结果显示，如果进行 \"全文\" 检索，关键字将突出显示在 \"摘录\" 一栏。\n相比之下, 如果在 “标题” 字段中搜索, 则关键字将突出显示在 “标题/编译” 一栏。\n任务1的答案: 在 ”标题” 字段中搜索更有效。 我们还可以看到，泰顺县的地方志可能不会被命名为 \"泰順縣誌\" [local gazetteer of Taishun County]，所以关键词的更好选择是 \"泰順\" / \"泰顺\" [Taishun]，而不是 \"泰順县\" / \"泰顺县\" [Taishun County]。\n由于 “快速检索” 一次只能搜索一个主题，因此请使用 “高级检索” 功能同时搜索多个字段。\n\nWhen choosing the Metadata search, your query will search through Title, Compiler, Volume, Edition, Publishing Location, and Print Type, however, it will not search through the Full Text.\nAll spaces are considered to be an OR operator. What this means is that if you search for “三吳舊 1915” it will return results that contain “三吳舊” or “1915”, many editions contain years, and some results may contain “三吳舊” in which case the top result would be anything that contains both sets of criteria.\nA search in “Full Text” and a search in “Title” provides different results. To clarify, here is an example:\nTask 1: If I am looking for all the local gazetteers of Taishun County (泰順/泰顺), I key in 泰順 for a Full Text search. The results show that if searching “Full Text”, the keyword will be highlighted in the Excerpts column.\nIn comparison, if the search was in the “Title” field, the keyword will be highlighted in the Title/Compiler column.\nAnswer to Task 1: Searching in the Title field is more efficient. We can also see that a local gazetteer of Taishun County might not be named 泰順縣志 [local gazetteer of Taishun County], so a better choice for the keyword would be 泰順/泰顺 [Taishun], rather than 泰順縣/泰顺县 [Taishun County].\nSince the Quick Search only searches one subject at a time, use the Advanced Search function to simultaneously search more than one field.\nA search in “Full Text” and a search in “Title” provides different results. To clarify, here is an example:\nTask 1: If I am looking for all the local gazetteers of Taishun County (泰順/泰顺), I key in 泰順 for a Full Text search. The results sho",
+    "source_len": 5352
+  },
+  {
+    "file": "ccts-ascc-net.md",
+    "title": "Ccts Ascc Net",
+    "url": "https://ccts.sinica.edu.tw/",
+    "tags": [
+      "digital_humanities",
+      "taiwan"
+    ],
+    "current_description": "Ccts Ascc Net. provided by Academia Sinica. focusing on Taiwan.",
+    "source_text": "|\næ¬ç³»çµ±ä¿èµ·æºæ¼è·¨é åçå¸è¡ç ç©¶æç¨éæ±ï¼ææå»ºæ§ä»¥ä¸åçºç©ºéç¯åï¼ä¸¦ä»¥åå§ç¤¾æè¿ä»çä¸åæ·å²çºæéç¸±æ·±ï¼ä»¥ä¸åææçºå\n§æ¶µçæ´åæ§è³è¨æç¨ç°å¢ãä¸»è¦å°è±¡é¤ä»¥å¸è¡ç ç©¶èæè²çºä¸»çå¸è\nãå°å®¶ãèæå¸«å¤ï¼äº¦å¸æè½å\n¼é¡§ä¸è¬æ§çï¼ä»¥æéåç©ºéçºä¸»çè³è¨ç®¡çãåæãæ´åèåç¾çæç¨ãæçµç®çååæå»ºç«æçºèéç ç©¶èæç¨ææä¹åé¥æ©å¶ï¼ä»¥ä¸æ·å\nå¯¦è³è¨å\n§æ¶µï¼ç¼æ®è³ææ´åå¹å¼ä¸¦åäº«äºä½¿ç¨è\nã\næ¬ç³»çµ±å\nå«åºæ¬ç©ºéåè³ãWebGISæ´åæç¨ç°å¢ãä»¥åä¸»é¡åçå±¬æ§è³è¨ä¸å¤§é¨åãåºæ¬ç©ºéåè³ä»¥èå\n¶é©¤å\nçä¸»ç·¨ä¹ï¼ä¸åæ·å²å°åéï¼çºä¸»è¦çåºç¤ï¼æä¾ä¸å¤è³æ¸\nä»£ï¼ä¸ä¸é¾äºåå¹´çä¸åæ·ä»£åºæ¬åºåï¼ä¸¦è¼ä¹ä»¥æçºæ´çèéä¹åé¡æ·å²å°åãéæ¸¬å½±åçåºç¤åè³ã\nç³»çµ±ç¹è²\n- ä¸²é£ä¸åé¾äºåå¹´æ·å²å°åä¹WebGISæç¨æ©å¶ãä½¿ç¨è\nå\néå\n·åWebçè¦½å¨å³è½äº«æä»¥GISçºåºç¤ä¹è³è¨æ´åæª¢ç´¢èåè³è£½ä½åè½ã\n- å\n·æä»¥åæ£å¼çµ±åæ¶æ§ï¼æ´åç¶²éç¶²è·¯ä¸åé¡åæç©º(spatial and temporal)è³è¨è½å\n- æ´é«ç³»çµ±è¨è¨å\n¼å\n·å¯æ´å\næ§(scalability)ãæ´åæ§(Integration)ä»¥åå®å\n¨æ§(security)çèéã\n- ç®åå·²æ´åæ¬é¢æ¼¢ç±é»åæç»ç³»çµ±ãæ¸\nä»£ç³§å¹è³æåº«ãææ¸\nå°æ¹å¿è¯åç®éè³æåº«çéè¦ç ç©¶ææï¼æªä¾å°æçºæ´ååé¡ä»¥å\n¬éä¹ç¸éè³è¨ç³»çµ±èç ç©¶ææï¼ä»¥ææçºå\n·ç²¾ç¢ºç©ºéå®ä½ãæ´åæéèç©ºéå±¬æ§ä¹æ¼¢å¸ç ç©¶æç¨ç°å¢ã\nç³»çµ±æ¶æ§\n|\n\n|\nIn response of the demands of interdisciplinary research applications, this system aims to construct an integrated GIS-based application infrastructure within the spatial extent of China, in the timeframe of Chinese history, and with the contents of Chinese civilization. Although target users are primarily scholars, academic experts, and school teachers, it is also our goal to provide general spatial- and temporal-based applications This, we hope, will establish a feedback mechanism of continuously collecting research and application results to fertilize the contents of this system and elaborate the value of information integration\nThis system consists of three major components: basic geospatial materials, WebGIS integrated application environment, and thematic information. The fundamental base maps are based on Dr. Tan's \"The Historical Atlas of China\". \"The Historical Atlas of China\" provides users with Chinese historical features, covering Chinese history over the past 2000 years, from the ancient time to Qing dynasty. Furthermore, various historical atlas and remote sensing imagery are persistently geo-referenced and overlaid into the system to broaden the spatial and temporal scope.\nSystem features\n- A WebGIS-based distributed application infrastructure is constructed to provide both content navigation and Web mapping.\n- Lower the cost for doing things in GIS way, and with shorter learning curv",
+    "source_len": 3036
+  },
+  {
+    "file": "cgss-ruc-edu-cn.md",
+    "title": "中国综合社会调查 (Chinese General Social Survey, CGSS)",
+    "url": "http://cgss.ruc.edu.cn/",
+    "tags": [
+      "database",
+      "digital_humanities"
+    ],
+    "current_description": "中国综合社会调查 (Chinese General Social Survey, CGSS).",
+    "source_text": "- CGSSé¡¹ç®ç»åå¸CGSS2017å¹´çå®¶æ·è°æ¥æ°æ®\n- åºäºä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼æ°æ®äº§åºçå¦æ¯ææååæ°é«\n- å ³äº2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼å±å¼å ¨å½èå´å å ¥æ·è®¿é®å·¥â¦\n- 2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼åäº¬å°åºæ ¸å¾å·¥ä½æ£å¼å¯å¨\n- ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼2015å¹´åº¦è°æ¥æ°æ®å¼æ¾",
+    "source_len": 275
+  },
+  {
+    "file": "char-iis-sinica-edu-tw-index-htm.md",
+    "title": "Char Iis Sinica Edu Tw Index Htm",
+    "url": "https://char.iis.sinica.edu.tw/index.htm",
+    "tags": [
+      "digital_humanities",
+      "taiwan"
+    ],
+    "current_description": "A resource from Academia Sinica. focusing on Taiwan.",
+    "source_text": "|\n|\n|\n| æä¾ä½¿ç¨è\nè¼¸å\n¥æ§åå¼ééµåï¼å³å¯æ¥è©¢æéæ¼è©²ééµåçç¼ºåã ç®åæä¾äºåå½¢æ¥è©¢ï¼å®ä¸æå¤åé¨ä»¶æ¥è©¢ï¼ï¼æ§åå¼è¤è£½ï¼è£½ä½ç¼ºååå½¢ï¼èªå®å¤§å°ãé¡è²ãåé«ï¼çç¸éåè½ã....<more> |\n|\n|\n|\n|\n| æä¾é²ééç¼äººå¡ä½¿ç¨ä¾ä¸åéæ±ï¼å¾å°ä¸åçµæï¼å\nå«ï¼æ£è¦åè¡¨ç¤ºæ³ãBig5ç¢¼ãUnicodeç¢¼ã....<more> |\n|\n|\n|\n|\næä¾é²ééç¼äººå¡ä½¿ç¨\nï¼ä½¿ç¨è\nè¼¸å\n¥Big5æUnicodeï¼ä¾ä¸åéæ±ï¼å¾å°ä¸åçµæå\nå«ï¼åé³ç¬¬ä¸å¼ãåé³ç¬¬äºå¼ãéç¨æ¼é³ãæ¼¢èªæ¼é³ãéå¼ãé\nç¦®ãåèªç¾\né¦¬ã å³åçµæçº XML æ¨æºã....<more> |\n|\n|\n|\n|\nåçï¼å¨ç®çç¶²é Include JavaScript APIï¼å¾\nç¶²é è®åå®æï¼å³åå Scriptï¼ä¸¦åä»£æ§åå¼çºç¼ºåååã\nåªé»ï¼éç¼äººå¡å¯èªè¡æ´æ¹ååå¤§å°ãé¡è²ï¼æ¯æ´ä»»ä½çè¦½å¨ï¼APIç½®æ¼ä¼ºæå¨ç«¯ï¼ä¸æææ´æ°ãçæ¬åé¡ï¼ååéåº¦å¿«ï¼è½æéåº¦å¿«ã....<more> |\n|",
+    "source_len": 673
+  },
+  {
+    "file": "china-public-policy-program-ash.harvard.edu-19a6a2d3.md",
+    "title": "China Public Policy Program",
+    "url": "http://ash.harvard.edu",
+    "tags": [
+      "digital_humanities",
+      "legal_history",
+      "political_science",
+      "social_history"
+    ],
+    "current_description": "The Ash Center for Democratic Governance and Innovation develops ideas and fosters practices for equal and inclusive, multiracial, and multiethnic democracy and self-government.",
+    "source_text": "Additional Resource\nDemocracy demands new ideas.\nFeature\nHow Well Do Voting Choice Policies Represent Investor Preferences?\nPodcast\nTerms of Engagement – Navigating Unprecedented Politics: A Conversation with Kevin McCarthy\nHarvard’s hub for research and teaching on democracy\nThe Ash Center for Democratic Governance and Innovation develops ideas and fosters practices for equal and inclusive, multiracial, and multiethnic democracy and self-government.\nOur Work\nFrom expanding voting access to developing new strategies for antiracist organizational change, we tackle the most pressing issues facing democracy and democratic institutions around the world today.\nFeature\nHow Well Do Voting Choice Policies Represent Investor Preferences?\nAsset managers face increasing political risk stemming from concerns that they prioritize their own interests when voting on behalf of investors. Using survey evidence and structural estimation, Montagnes provides early evidence on how well asset managers represent their investors by studying the ideological alignment between the two in the initial implementation of “voting choice policies.”\nCommentary\nBefore the Civil Rights Act, My Great-Uncle from Roxbury Took on Pullman in 1954 — and Won\nAs we commemorate 100 years of Black History Month, it is worth remembering that progress was not driven by headlines alone. Beyond the monuments and courtrooms, everyday people took risks to demand dignity and fairness. Among them was my great uncle, whose pursuit of a promotion became a catalyst for change.\nCommentary\nThe Present — and Future — of Alternatives to Police\nAllen Lab Affiliate Benjamin A. Barsky examines alternative emergency response programs — arguing for a democratic model of public safety governance in which responses to nonviolent incidents are shared across government and civil society rather than dominated by police.\nUpcoming Events\nHow did the Democrats Lose Silicon Valley? Should They Try to Get it Back?\nHybrid Event\nAsh Center Seminar Room 225, Suite 200, 124 Mount Auburn Street\n4:00 pm – 6:00 pm EDT\nThe Life of the Lie\nIn-Person Event\nAsh Center Seminar Room 225, Suite 200, 124 Mount Auburn Street\n12:00 pm – 1:15 pm EDT\nThe Breakdown with Erica Chenoweth and Steve Levitsky\nOnline Event\n11:00 am – 12:00 pm EDT\n\nAbout\nThe mission of the Roy and Lila Ash Center for Democratic Governance and Innovation is to develop ideas and foster practices for equal and inclusive, multiracial and multiethnic democracy and self-governmen",
+    "source_len": 9378
+  },
+  {
+    "file": "china-www-virtual-library-internet-guide-for-chinese-studies-zo.uni-heidelberg.de-68f493f0.md",
+    "title": "China WWW Virtual Library Internet Guide for Chinese Studies 汉学研究指南",
+    "url": "http://www.zo.uni-heidelberg.de/boa/digital_resources/list_az_en.html",
+    "tags": [
+      "catalog",
+      "digital_humanities",
+      "prc"
+    ],
+    "current_description": "Die Webseite ist aktuell nicht erreichbar. Bitte versuchen Sie es in einigen Minuten nochmals. The website is currently not available.",
+    "source_text": "Nicht erreichbar\nDie Webseite ist aktuell nicht erreichbar. Bitte versuchen Sie es in einigen Minuten nochmals.\nThe website is currently not available. Please try again in some minutes.",
+    "source_len": 185
+  },
+  {
+    "file": "chinafile-com.md",
+    "title": "Chinafile Com",
+    "url": "https://www.chinafile.com/",
+    "tags": [
+      "digital_humanities",
+      "legal_history",
+      "military_history",
+      "open_access",
+      "political_science",
+      "taiwan"
+    ],
+    "current_description": "ChinaFile is an online magazine publishing, showcasing, and contributing to the best reporting and commentary on China.",
+    "source_text": "Photography & Video\nAt 14 years old, Wang Ying doesn’t want to be a mother. She scowls darkly as her younger brother and sister squabble in the corner while she does the housework. But she grudgingly cleans up after them and cooks them a potato stew, which they eat...\nBooks\nBooks\n02.24.20\nBrookings Institution Press: In this Asian century, scholars, officials, and journalists are increasingly focused on the fate of the rivalry between China and India. They see the U.S.’s relationships with the two Asian giants as now intertwined, after having followed separate paths during the Cold War.In Fateful Triangle, Tanvi Madan argues that China’s influence on the U.S.-India relationship is neither a recent nor a momentary phenomenon. Drawing on documents from India and the United States, she shows that American and Indian perceptions of and policy toward China significantly shaped U.S.-India relations in three crucial decades, from 1949 to 1979. Fateful Triangle updates our understanding of the diplomatic history of U.S.-India relations, highlighting China’s central role in it; reassesses the origins and practice of Indian foreign policy and nonalignment; and provides historical context for the interactions between the three countries.Madan’s assessment of this formative period in the triangular relationship is of more than historic interest. A key question today is whether the United States and India can, or should, develop ever-closer ties as a way of countering China’s desire to be the dominant power in the broader Asian region. Fateful Triangle argues that history shows such a partnership is neither inevitable nor impossible. A desire to offset China brought the two countries closer together in the past, and could do so again. A look to history, however, also shows that shared perceptions of an external threat from China are necessary, but insufficient, to bring India and the United States into a close and sustained alignment. That requires agreement on the nature and urgency of the threat, as well as how to approach the threat strategically, economically, and ideologically.With its long view, Fateful Triangle offers insights for both present and future policymakers as they tackle a fateful, and evolving, triangle that has regional and global implications.{chop}\nBooks\n08.06.14\nAn exciting, hugely revealing account of China’s burgeoning presence in Africa—a developing empire already shaping, and reshaping, the future of millions of people. A prizewinning foreign",
+    "source_len": 9807
+  },
+  {
+    "file": "chinaipr-com.md",
+    "title": "Chinaipr Com",
+    "url": "https://chinaipr.com/",
+    "tags": [
+      "art_history",
+      "digital_humanities",
+      "economic_history",
+      "legal_history",
+      "military_history",
+      "statistical"
+    ],
+    "current_description": "China: patents, trademarks, copyright, infringement, piracy, innovation policies",
+    "source_text": "Please join us on February 2, 2023, at 5 PM Pacific Time on zoom to discuss the recently proposed amendments to China’s Trademark Law!\nwas asked to testify before the Senate Judiciary Committee on April 22, 2026. The link is here: https://www.judiciary.senate.gov/committee-activity/hearings/stealth-stealing-chinas-ongoing-theft-of-us-innovation-04-22-2026.\nThis blog reviews Zhao Ye’s report on trade secret adjudication by the SPC IP Tribunal. Based on 11 published cases from 2025, the report highlights a sharp increase in damages, systematic reversal of lower court decisions, expanded use of burden-shifting, and stronger sanctions for evidence spoliation. In my view, these decisions also function as a form of strategic signaling, indicating a more rights-protective orientation in judicial practice. However, they do not yet constitute binding, system-wide legal change, which would require further judicial interpretations or formal designation as guiding cases. The emerging judicial trends may make Chinese civil courts a more viable forum for trade secret enforcement.\nChina appears to have taken a meaningful step toward complying with the WTO’s DS611 ruling by stepping back from its controversial use of anti-suit injunctions in SEP disputes, with no new ASIs reported since the decision and indications—primarily through WTO statements—that the Supreme People’s Court withdrew the policy. However, implementation remains incomplete. The underlying doctrine has not been clearly repudiated, key judicial materials remain difficult to locate, and earlier decisions continue to be inconsistently published, often in anonymized or unstable form. The WTO arbitrators’ expansive interpretation of “decisions of general application” raises additional concerns, as it extends TRIPS transparency obligations beyond formal precedent in ways that may not align with how Chinese courts actually develop policy. At the same time, the United States’ attempt to narrow transparency obligations was rightly rejected. With parallel developments in Europe and the UK, anti-suit injunctions are no longer uniquely Chinese, but part of a broader global struggle over jurisdiction in SEP disputes. China’s response reflects a cautious retreat rather than a full policy reversal, leaving important questions about transparency, judicial signaling, and future practice unresolved.\nThe recently released 2026 National Trade Estimate Report on Foreign Trade Barriers (March 31, 2026) (the “NTE”) provides a ",
+    "source_len": 8277
+  },
+  {
+    "file": "chinatimes-com.md",
+    "title": "China Times",
+    "url": "http://www.chinatimes.com/?chdtv=",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "《中時新聞網》前身為《中時電子報》，於1995年創立，是全台第一家且歷史最悠久的網路媒體，開啟新聞數位時代。近來以最具影響力的政治新聞引領先驅外，首創娛樂、生活、社會專題式新聞報導，帶起同業間仿效風潮；精闢的言論、財經、國際、兩岸、軍事、體育、網推頻道，網羅忠實讀者群；新型態的汽車、房屋、玩食、科技頻道，成為閱聽眾休閒必看選擇。視覺影音上，結合中天新聞直播、FB直播、中時新聞網APP等平台的精彩內...",
+    "source_text": "拒絕摸索期！信義房屋「信義雙7明日之星」計畫啟動，針對菁英人才首創「七大高手」助陣，由超業與資深店長組成大師班，提供365天精準培育。...\n\n南韓女團BLACKPINK成員Jisoo，近日陷入家庭醜聞，疑似親哥哥性侵直播主未遂，結果又傳出妻子發聲控訴家暴，並曬出多項證據，包含醫院診斷書、親筆陳述書等，不斷在韓國、大陸以及台灣等各大網路社群延燒。令人弔詭的是，韓國媒體竟對此集體噤聲。稍早，疑似妻子的IG還發文呼籲外界，希望別上升到Jisoo，截稿前Jisoo方面尚未做出任何相關回應。\n疑似金妻IG發聲：保護男方家人\n疑似金妻的IG帳號除了貼出3頁血淚指控及多張傷勢照片外，還附上醫院驗傷單及對話紀錄佐證。令人關注的是，該帳號在限時動態中特別發文，呼籲外界不要將怒火上升到Jisoo，並表示：「雖然犯錯的是那個人，但希望大家不要連他的家人也一起責怪…」並強調他的妹妹並不知情，自己一開始也不知道Jisoo正是老公的妹妹。此外，金妻先前透露有經紀公司接觸到她的老家，讓家人感到非常不安與害怕。\n恐怖控制與虐待！來龍去脈曝光\n另據流出的控訴內容顯示，金妻自爆新婚僅2週就遭到家暴，且男方控制慾極強，不僅在家中裝設監視器，還限制其穿著，要求外出時每10至30分鐘就要報備行蹤。她更指控金男無視她患有陰道炎與膀胱炎，每日強迫行房2次並實施肛交，甚至曾被迫吞痰及拍攝性愛影片。\n金妻友人也親筆寫下陳述書，證實曾目睹受害者臉部與四肢瘀青，並多次接到對方崩潰哭喊「救救我」的求救電話。\n特種部隊背景被挖！？妹妹事業的後盾\n隨著醜聞延燒，Jisoo哥哥金正勳（音譯）的背景也遭起底。現年37歲的他，曾於特種部隊服役，過去一直以帥氣斯文、形象低調著稱。他目前擔任嬰幼兒食品公司「Biomom」的CEO，且該公司業務與Jisoo的個人公司「BLISSOO」有緊密連結，過去一直被視為是Jisoo事業上的堅強後盾。然而近期他不僅捲入家暴，更被爆出疑似性侵女直播主未遂遭逮，形象瞬間跌落谷底。\n輿論炸鍋！質疑韓媒集體失聲有內幕？\n對於這起重大醜聞，韓國主流媒體卻異常低調，甚至出現報導無故消失或連結失效的情況，引發全網質疑是否有「看不見的力量」介入公關操作。目前「金智秀哥哥家暴」等關鍵字已衝上微博熱搜第一，大批網友湧入Jisoo的社群平台要求真相。外界對此看法兩極，有網友憤怒譴責金男暴行，但也有不少粉絲力挺，認為哥哥的個人行為不應牽連到Jisoo本人。\n★《中時新聞網》關心您，拒絕家庭暴力，請撥打110、113。\n★未經判決確定，應推定為無罪。\n★《中時新聞網》關心您，尊重身體自主權，遇到性騷擾勇於制止、勇敢說不，請撥打110、113\n性侵害就是犯罪，請撥打110、113\n現代婦女基金會 性侵害防治服務專線02-7728-5098分機7\n婦女救援基金會 02-2555-8595\n勵馨基金會諮詢專線 02-8911-5595/性騷擾專線04-2223-9595\n發表意見\n中時新聞網對留言系統使用者發布的文字、圖片或檔案保有片面修改或移除的權利。當使用者使用本網站留言服務時，表示已詳細閱讀並完全了解，且同意配合下述規定：\n違反上述規定者，中時新聞網有權刪除留言，或者直接封鎖帳號！請使用者在發言前，務必先閱讀留言板規則，謝謝配合。",
+    "source_len": 1361
+  },
+  {
+    "file": "chinese-ancient-text-electronic-resources-cross-cat-query-system-open-access-oopus.info-9b9e87d8.md",
+    "title": "Chinese Ancient Text Electronic Resources Cross-cat Query System 电子汉籍联合目录 OPEN ACCESS",
+    "url": "https://oopus.info/ccat",
+    "tags": [
+      "digital_humanities",
+      "open_access",
+      "prc"
+    ],
+    "current_description": "Cross Catalog Chinese Material indexs Query System.",
+    "source_text": "Welcome to Cross-cat Query System\næ¬¢è¿æ¥å°çµåæ±ç±èåç®å½\nPlease enter your query keyword for a book(Simplified Chinese) at the right top\nAnd then press ENTER on your keyboard\nè¯·å¨å³ä¸è§è¾å\n¥æ¡ä¸è¾å\n¥ä¹¦åå\n³é®è¯ç®ååï¼æä¸åè½¦å¼å§æ£ç´¢",
+    "source_len": 233
+  },
+  {
+    "file": "chinese-big-set-table-of-contents-toc.cnpereading.com-5f6a1be2.md",
+    "title": "Chinese Big Set Table of Contents 中国大套图书目录库",
+    "url": "https://toc.cnpereading.com",
+    "tags": [
+      "digital_humanities",
+      "prc"
+    ],
+    "current_description": "《中国大套图书目次库》主要收录中国大套图书中的目次信息，是一款面向学术群体文献资源线上检索和发现工具。其主要目标用户是中国文史哲类相关学科的研究者和图书馆负责历史文献或古籍特藏文献采访、编目以及参考咨询服务的馆员。其功能特点包括：1）支持全文检索和发现，繁简字通检；2）目次内容既可以线上阅览，也可以下载后保留到本地；3）每种大套图书的目次信息均设置了独立且永久的链接地址，从而方便用户全天候阅读、下...",
+    "source_text": "《中国大套图书目次库》主要收录中国大套图书中的目次信息，是一款面向学术群体文献资源线上检索和发现工具。其主要目标用户是中国文史哲类相关学科的研究者和图书馆负责历史文献或古籍特藏文献采访、编目以及参考咨询服务的馆员。其功能特点包括：1）支持全文检索和发现，繁简字通检；2）目次内容既可以线上阅览，也可以下载后保留到本地；3）每种大套图书的目次信息均设置了独立且永久的链接地址，从而方便用户全天候阅读、下载和管理目次资源；4）支持基于 IP 的访问授权控制，无限并发用户访问。\n中国图书进出口（集团）有限公司 海外业务中心\n业务联系：\nEmail: cailingling@cnpiec.com.cn\nEmail: songxiaoju@cnpiec.com.cn\nTel: 86-10-64258884 ; 86-10-65063065\n服务咨询：\nEmail: wzq@cnpiec.com.cn\nTel: 86-10-64240980\nQQ:1719974506",
+    "source_len": 432
+  },
+  {
+    "file": "chinese-christian-texts-database-open-access-arts.kuleuven.be-3ddbb5ee.md",
+    "title": "Chinese Christian Texts Database 中国基督教文本数据库 OPEN ACCESS",
+    "url": "http://www.arts.kuleuven.be/sinology/cct",
+    "tags": [
+      "archive",
+      "art_history",
+      "bibliography",
+      "catalog",
+      "christianity",
+      "database",
+      "digital_humanities",
+      "language",
+      "map",
+      "open_access",
+      "prc",
+      "rare_books",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "The Chinese Christian Texts Database (CCT-database) is a research database of primary and secondary sources concerning the cultural contacts between China and Europe in the seventeenth and eighteenth...",
+    "source_text": "HISTORY\nIt was the late Professor Erik Zürcher (1928-2008) who took the initiative of compiling a bibliographical list of Chinese primary sources concerning Christianity in China in the seventeenth century. Since the 1980s, Ad Dudink and Nicolas Standaert have continued and elaborated the project and converted the data thus far collected into an online research database. In that form it will be an on-going project, which makes it possible to continually add new sources and to update, revise or expand the description of sources already included.\nSTRUCTURE\nThe database is set up as a research database, both in regard to its content and search possibilities. The description of primary sources, divided into Chinese and European primary sources, is intended as to be extensive and to allow for multiple links. In addition to the usual bibliographical references such as title, author, impressum or reprints, these references include: a content description, the mentioning of call numbers in major library collections, references to translations or secondary sources, and various notes on the author or text history. The database is multi-lingual in the sense that there are references to documents and publications in a wide variety of ancient and modern Asian and European languages. The primary and secondary sources are given a thematic category, which basically follows the categorisation of the Handbook of Christianity in China : Volume One (635-1800), Leiden: Brill, 2000. For an overview of the categories, click “Categories” on the navigation bar at the top of the homepage (or here).\nHOW TO USE?\nThe database is divided in \"primary\" and \"secondary\" sources. The primary sources are ca. 1.050 Chinese and ca. 4.000 European documents dating from roughly the seventeenth and eighteenth centuries. Chinese sources include printed books, manuscripts, pamphlets and maps; European sources are so far only printed documents (printed books, chapters in books, etc.). There are over 11.000 secondary sources, which, if applicable, are linked to the primary sources. Searches can be made in the whole database, or in the primary or secondary sources separately. As much as possible the data are linked to the original sources, in so far these appear on public websites (notice that sometimes the address changes and the link is interrupted).\nACCESS\nThe access to the database is free. You may also freely use its content, but on condition that you acknowledge it in the following way:\nAd Dudink",
+    "source_len": 3223
+  },
+  {
+    "file": "chinese-civilization-in-time-and-space-ccts.ascc.net-a6d0bce0.md",
+    "title": "Chinese Civilization in Time and Space 中華文明之時空基礎架構",
+    "url": "http://ccts.ascc.net",
+    "tags": [
+      "digital_humanities",
+      "gis",
+      "social_history"
+    ],
+    "current_description": "",
+    "source_text": "|\næ¬ç³»çµ±ä¿èµ·æºæ¼è·¨é åçå¸è¡ç ç©¶æç¨éæ±ï¼ææå»ºæ§ä»¥ä¸åçºç©ºéç¯åï¼ä¸¦ä»¥åå§ç¤¾æè¿ä»çä¸åæ·å²çºæéç¸±æ·±ï¼ä»¥ä¸åææçºå\n§æ¶µçæ´åæ§è³è¨æç¨ç°å¢ãä¸»è¦å°è±¡é¤ä»¥å¸è¡ç ç©¶èæè²çºä¸»çå¸è\nãå°å®¶ãèæå¸«å¤ï¼äº¦å¸æè½å\n¼é¡§ä¸è¬æ§çï¼ä»¥æéåç©ºéçºä¸»çè³è¨ç®¡çãåæãæ´åèåç¾çæç¨ãæçµç®çååæå»ºç«æçºèéç ç©¶èæç¨ææä¹åé¥æ©å¶ï¼ä»¥ä¸æ·å\nå¯¦è³è¨å\n§æ¶µï¼ç¼æ®è³ææ´åå¹å¼ä¸¦åäº«äºä½¿ç¨è\nã\næ¬ç³»çµ±å\nå«åºæ¬ç©ºéåè³ãWebGISæ´åæç¨ç°å¢ãä»¥åä¸»é¡åçå±¬æ§è³è¨ä¸å¤§é¨åãåºæ¬ç©ºéåè³ä»¥èå\n¶é©¤å\nçä¸»ç·¨ä¹ï¼ä¸åæ·å²å°åéï¼çºä¸»è¦çåºç¤ï¼æä¾ä¸å¤è³æ¸\nä»£ï¼ä¸ä¸é¾äºåå¹´çä¸åæ·ä»£åºæ¬åºåï¼ä¸¦è¼ä¹ä»¥æçºæ´çèéä¹åé¡æ·å²å°åãéæ¸¬å½±åçåºç¤åè³ã\nç³»çµ±ç¹è²\n- ä¸²é£ä¸åé¾äºåå¹´æ·å²å°åä¹WebGISæç¨æ©å¶ãä½¿ç¨è\nå\néå\n·åWebçè¦½å¨å³è½äº«æä»¥GISçºåºç¤ä¹è³è¨æ´åæª¢ç´¢èåè³è£½ä½åè½ã\n- å\n·æä»¥åæ£å¼çµ±åæ¶æ§ï¼æ´åç¶²éç¶²è·¯ä¸åé¡åæç©º(spatial and temporal)è³è¨è½å\n- æ´é«ç³»çµ±è¨è¨å\n¼å\n·å¯æ´å\næ§(scalability)ãæ´åæ§(Integration)ä»¥åå®å\n¨æ§(security)çèéã\n- ç®åå·²æ´åæ¬é¢æ¼¢ç±é»åæç»ç³»çµ±ãæ¸\nä»£ç³§å¹è³æåº«ãææ¸\nå°æ¹å¿è¯åç®éè³æåº«çéè¦ç ç©¶ææï¼æªä¾å°æçºæ´ååé¡ä»¥å\n¬éä¹ç¸éè³è¨ç³»çµ±èç ç©¶ææï¼ä»¥ææçºå\n·ç²¾ç¢ºç©ºéå®ä½ãæ´åæéèç©ºéå±¬æ§ä¹æ¼¢å¸ç ç©¶æç¨ç°å¢ã\nç³»çµ±æ¶æ§\n|\n\n|\nIn response of the demands of interdisciplinary research applications, this system aims to construct an integrated GIS-based application infrastructure within the spatial extent of China, in the timeframe of Chinese history, and with the contents of Chinese civilization. Although target users are primarily scholars, academic experts, and school teachers, it is also our goal to provide general spatial- and temporal-based applications This, we hope, will establish a feedback mechanism of continuously collecting research and application results to fertilize the contents of this system and elaborate the value of information integration\nThis system consists of three major components: basic geospatial materials, WebGIS integrated application environment, and thematic information. The fundamental base maps are based on Dr. Tan's \"The Historical Atlas of China\". \"The Historical Atlas of China\" provides users with Chinese historical features, covering Chinese history over the past 2000 years, from the ancient time to Qing dynasty. Furthermore, various historical atlas and remote sensing imagery are persistently geo-referenced and overlaid into the system to broaden the spatial and temporal scope.\nSystem features\n- A WebGIS-based distributed application infrastructure is constructed to provide both content navigation and Web mapping.\n- Lower the cost for doing things in GIS way, and with shorter learning curv",
+    "source_len": 3036
+  },
+  {
+    "file": "chinese-film-classics-chinesefilmclassics.org-4364d7c2.md",
+    "title": "Chinese Film Classics",
+    "url": "https://chinesefilmclassics.org",
+    "tags": [
+      "digital_humanities",
+      "film_studies",
+      "guide"
+    ],
+    "current_description": "Chinese Film Classics is a portal for exploring the history and artistry of early Chinese cinema, featuring subtitled films, an online course, and more.",
+    "source_text": "Welcome to Chinese Film Classics!\nChinese Film Classics is a project, a book, and a website dedicated to making early Chinese films and cinema history more accessible.\nFocusing on films made between the 1890s and the 1940s, the website offers:\n- English-subtitled versions of over forty early Chinese films\n- A free, self-paced course on Chinese Film Classics, focusing on early Chinese cinematic masterworks from 1922-1949, each module featuring a subtitled film and two video lectures\n- Resources for learning more about Chinese cinema history, including further viewings, readings, filmographies, bibliographies, and archival materials\n- Information about a textbook about the artistry and history of early Chinese cinema\n- Links to the companion YouTube channel, Modern Chinese Cultural Studies\nIf you are visiting for the first time, start with this brief video introduction to Chinese Film Classics to learn more about what this project has to offer.\nThis website is a free resource for researchers, students, educators, and anyone interested in:\n- World cinema\n- Early silent and sound cinema\n- Chinese film history\n- Modern Chinese history and culture\n- Chinese contributions to the cinematic arts\n- Contributing to the film studies community\nModern Chinese Cultural Studies YouTube channel\nThis website integrates with hundreds of films and video clips hosted on the Modern Chinese Cultural Studies YouTube channel. Browse the channel videos, announcements, and comments to discover more about Chinese cinematic and cultural history. For example, check out these playlists:\n- Chinese Film Classics: full black-and-white films with English subtitles\n- Chinese Film Classics – online course: video lectures on individual films, two lectures per film\n- Sounds of early Chinese cinema: Songs, music, and sound effects in Chinese films up to 1949\n- Best of early Chinese cinema: Classic and superlative scenes, and exemplary uses of film form\n- Early Chinese animation: Cartoons and animated features\n- How-tos from early Chinese cinema: Iconic scenarios, problems, and their resolution\n- Gags and special effects in early Chinese cinema: Comedy, pratfalls, stunts, and camera tricks\nSUBSCRIBE to the YouTube channel and the CFC mailing list for updates and announcements.\nUsing a CFC film or other materials in a course? Let me know here!\nMore to come!\nNew films, film clips, and other material are being added to the website continually. For updates, subscribe to the Modern Chinese Cultural St",
+    "source_len": 11818
+  },
+  {
+    "file": "chinese-historical-local-archives-database-1-4-1-4-ndfwx-hw.datahistory.cn-3cbf67c2.md",
+    "title": "Chinese Historical Local Archives Database 1-4 中国地方历史文献数据库 1-4辑",
+    "url": "http://ndfwx-hw.datahistory.cn",
+    "tags": [
+      "archive",
+      "database",
+      "digital_humanities",
+      "prc",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "《中国地方文献数据库》第一期收录徽州文书录文9000余件，主要来自歙县南乡，以“归户”方法整理，有的单个家户文书数量多达数百件。内容除契约文书之外，还有大量的账簿（未抄录）、赋役文书、投状、归户册、字书、戏曲抄本等资料。 2006起，上海交大历史系进入浙江省松阳县实仓进行田野研究，在村民家中发现清代至民国年间的土地契约及纳税执照。以此为契机，将搜寻范围扩大到整个实仓乃至周边，所获甚丰，包括卖、找、...",
+    "source_text": "明朝\n崇禎十二年崔文進題書序文\n内容：【档案号】01101028050021【日期】崇禎十二年【日期(公历)】1639【名称】崇禎十二年崔文進題書序文【事主】崔文進(題書)【归户】安徽省徽州府歙縣李.....；名称：崇禎十二年崔文進題書序文；日期：崇禎十二年\n《中国地方历史文献》所有文献或来源于上海交通大学地方文献中心专家的田野调查，如安徽、浙江、江西；或来源于是市场收购，从各地的文物市场中抢救搜集村落、家户中流出的文献，如安徽、浙江、江西、福建、江苏、以及湖南、广东、云南、辽宁、山西、湖北、河北等地；或走村入户获得授权复制。文献总量约为35万件，150万页。\n中国地方历史文献数据 （又名上海交通大学地方历史文献数据库）收录的地方文献形成于2006-2013年间，主要来自浙江南部的处州，安徽南部的徽州，江西的鄱阳湖区，福建，以及湖南，湖北，广东，云南和辽宁等省区。全部完成总量将达到35万件，150万页。\n所有这些地方文献或来源于我们的田野调查，或来源于市场收购。从2006年开始，我们进入浙江省松阳县石仓进行田野研究，在村民阙龙兴家找到几十份清代至民国年间的土地契约及纳税执照等，搜寻范围随机扩大到整个石仓，所获甚丰。我们在石仓建立工作室，整理，装裱所获文书。文件扫描后，原件还给村民，或因主人去世，原件下落不明；或因住宅火灾，原件被焚。让我们不得不考虑另一种收藏途径。\n在当地的文物市场上，我们不仅购得一大批松阳及周边县份的契约文书，甚至还有一批石仓文书，或与石仓有关的文书。例如，我们购得的松阳县南坑口一个冶铁互助组1955年的工资发票与贷款收据。在以前的研究中，我们已知南坑口的冶铁业是光绪年间从石仓迁过去的，而1958年大炼钢时，石仓的铁炉师傅又是从南坑口请来的。这样一来，从清代中期至1958年，石仓—南坑口—石仓的冶铁业的联系就建立起来了。实际上，浙江南部地区传统时代的冶铁业与1958年大炼钢之间的关系就这样建立起来了。\n这一案例说明，我们收藏的地方文献，虽然主要是明清及民国时期的，但也包括少量1949年以后的。由于历史的延续性，区域的社会经济演变并不以政权的更叠而中止，1949年以后的文献也有重要价值，尤其与历史文献联系起来研究，就更显出其中价值。更需要说明的是，所谓地方文献，必须是出自农民家中，公藏档案并不包括其中。例如，我们与重庆市某档案馆开发的《民国时期诉讼档案汇编》1.5万卷，就属于“地方档案”的系列，不属于地方文献。\n随着市场的扩大，大约有10万余件石仓以外的浙江南部地方文献，以及同样数量的福建地方文献进入了本校的收藏。随着数量的增加，我们逐渐以大户为重点，即每户契约文书在300件以上者，成为主要的收藏对象。在浙江南部山区，居然有一批大户，契约文书多达千余件，明代的契约多达数十件甚至百余件，甚至还有元代契约之抄件。很显然，不仅这些大户将成为我们研究的重点对象，而且，这些大户产生的区域也将成为我们重点研究的对象。\n我们原本想将重点放在浙南地区，将浙南地区变成本系社会经济史研究的重点区域。不曾想到的是，2010年，在屯溪老街游玩时，我访问了专门收购并出售徽州地方文献的朱先生，并试探收购徽州地方文献。至2013年，入藏本校的徽州文书也达到了十万余件的规模。本系年轻的同事们，藉此进入徽学研究的新领域。\n2012年夏天，我们尝试着在鄱阳湖边各县寻找地方文献。在余干、都昌两县的四个村庄，我们找到了一大批明清的锲约文书及诉讼文献，编为《鄱阳湖文书》第1-10册。这批文书均属宗族所有，原件在上海交通大学整理后，还给村民，图片用以出版。这是一批有关湖面权的契约文书，相当独特，相信能够引起研究者的兴趣。\n从2011年至2015年，本系共出版了《石仓契约》第1-4辑，共32辑，以及《鄱阳湖区文书》 （10册）。很显然，凭藉现有的人力资源，地方文献出版工作不可能有更快的速度，也不可能有更大的规模。为了将更多的文献公诸于众，在上海交通大学出版社，上海交通大学图书馆的支持下，采用数据库的方式集中出版。限于人力，本数据库，以图象出版为主，每幅图配以尽可能详尽的目录，一期入库10万页（见附一、附二清单），今年每年以5万页左右的规模增加；全文抄录部分，一期入库2万页，二期入库12万页（见附二、附2.1清单）三期入库约13万页（见附三、附3.1清单）四期入库18万页（见附四、附4.2清单）\n上海交通大学所有入藏的地方文献，都是以户为单位保存的。在中国乡村，农民家中大都有一个大小不等的木箱，箱中藏有该户所有重要的文献。本数据库，在某种意义上，就是数千个小木箱之集合。再以地域为单位，尽可能将一个区域中的所有的户，纳入同一个系列的出版物中，如石仓，如鄱阳湖。在徽州，歙县35都及周边地区便是我们出版的重点。其他区域也各有自己的重点。在本数据库中，我们使用“归户”与批次号来表示文献的归属人户、地域。大多数文献均有一个归户信息，表示其所来自的地域与家族。在徽州，归户信息多写作“县-都-图”的格式，而在石仓则写作“县-乡-村”的格式，理论上说，同一批次收购的文献均来自同一家户，但是也有同一批次的文献中存在其他家户材料的情况。因此，使用者还可以根据“同批次相关阅览”，来找到所有同批次而归户信息不同的文献。\n本数据库所收地方文献包括以下13类：契约、账本、赋役、行政、诉讼、信函、日用类书与工具书、家礼、宗教、家谱、戏剧、教育考试和医药。各别类别的具体定义及其次一级的分类，详见赵思渊等人的相关研究（赵思渊、汤萌：《上海交通大学新藏地方文献的分类法及依据》、《上海交通大学学报》（哲学版）2014年第三期，第76-78页）。限于人力、契约、账本、赋役、行政、诉讼、信函等六类文献是我们的抄录重点。由于信函字体的识别度存在难度，并不作完全抄录。不抄录的部分，以图片方式收入本数据库中，供研究者参考利用。\n需要特别说明的是，本数据库中的所有文献，都是聘请上海交通大学及浙江师范学院、江西师范大学等校的研究生抄录的，由曹树基教授负责校对。限于时间、人力及电子件的清晰程",
+    "source_len": 12749
+  }
+]

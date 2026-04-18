@@ -15,8 +15,11 @@ tags:
 - social_history
 china_relevance: null
 source_id: github-com-awesome
-description: 😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome
+description: Effortless backends with infrastructure from code What is an awesome
+  list? Contribution guide Creating a list Twitter Check out my apps and follow me
+  on Twitter. - Programming Languages - Front-End Development
 ---
+
 # Github Com Awesome
 
 **URL:** https://github.com/sindresorhus/awesome
@@ -25,5 +28,5 @@ description: 😎 Awesome lists about all kinds of interesting topics - sindreso
 
 ## Summary
 
-😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome
+Effortless backends with infrastructure from code What is an awesome list? Contribution guide Creating a list Twitter Check out my apps and follow me on Twitter. - Programming Languages - Front-End Development
 

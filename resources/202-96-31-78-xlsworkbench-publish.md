@@ -1,7 +1,7 @@
 ---
 title: National Ancient Books Census Basic Database 全國古籍普查登記基本數據庫
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: http://202.96.31.78/xlsworkbench/publish
 language: null
 region: global
@@ -12,6 +12,9 @@ tags:
 - statistical
 china_relevance: null
 source_id: 202-96-31-78-xlsworkbench-publish
+description: 全國古籍普查登記工作是“中華古籍保護計劃”的首要任務，中心任務是通過每部古籍的身份證——“古籍普查登記編號”和相關信息，建立古籍總台賬，全面瞭解全國古籍的存藏情況。
+  “全國古籍普查登記基本數據庫”是全國古籍普查工作的重要成果之一。 數據庫發佈的內容主要包括普查編號、索書號、題名、著者、版本、册數、館藏單位等信息。 系統支持用戶按照題名、著者、版本、收藏單位、普查編號、索書號等字段進行簡單檢索（單一字段檢索）或高級檢索（組合字段檢索），支持繁簡共檢，檢索結果可按照普查編號和題名進行排序，同時可按照單位進行導航。
+  國家古籍保護中心將根據普查工作進展，陸續發佈古籍普查數據。 2024年10月27日，新增軍事科學院圖書館古籍普查數據5266條47616册，累計發佈319家單位古籍普查數據941708條8982920册。
 ---
 
 # National Ancient Books Census Basic Database 全國古籍普查登記基本數據庫
@@ -22,7 +25,7 @@ source_id: 202-96-31-78-xlsworkbench-publish
 
 ## Summary
 
-The National Ancient Books Census Basic Database (全國古籍普查登記基本數據庫) is a national bibliographic database cataloging ancient Chinese books and rare texts held by libraries, archives, and cultural institutions across China. The database provides systematic documentation of pre-modern Chinese publications through a comprehensive census project, recording bibliographic information, physical holdings data, and collection locations. Regularly updated with data from participating institutions, the platform aims to create a complete inventory of ancient Chinese texts preserved in Chinese collections. The database serves as an essential resource for researchers, bibliographers, and librarians studying pre-20th century Chinese literature, history, and classical texts, facilitating discovery of rare materials and tracking distribution of ancient books across institutional collections.
+全國古籍普查登記工作是“中華古籍保護計劃”的首要任務，中心任務是通過每部古籍的身份證——“古籍普查登記編號”和相關信息，建立古籍總台賬，全面瞭解全國古籍的存藏情況。 “全國古籍普查登記基本數據庫”是全國古籍普查工作的重要成果之一。 數據庫發佈的內容主要包括普查編號、索書號、題名、著者、版本、册數、館藏單位等信息。 系統支持用戶按照題名、著者、版本、收藏單位、普查編號、索書號等字段進行簡單檢索（單一字段檢索）或高級檢索（組合字段檢索），支持繁簡共檢，檢索結果可按照普查編號和題名進行排序，同時可按照單位進行導航。 國家古籍保護中心將根據普查工作進展，陸續發佈古籍普查數據。 2024年10月27日，新增軍事科學院圖書館古籍普查數據5266條47616册，累計發佈319家單位古籍普查數據941708條8982920册。
 
 ## 摘要
 

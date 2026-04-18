@@ -10,9 +10,12 @@ tags:
 china_relevance: null
 source_id: scholar-google-com
 description: 'Google Scholar provides a simple way to broadly search for scholarly
-  literature. Search across a wide variety of disciplines and sources: articles, theses,
-  books, abstracts and court opinions.'
+  literature. From one place, you can search across many disciplines and sources:
+  articles, theses, books, abstracts and court opinions, from academic publishers,
+  professional societies, online repositories, universities and other web sites. Google
+  Scholar helps you find relevant work across the world of scholarly research.'
 ---
+
 # Google Scholar
 
 **URL:** http://scholar.google.com/
@@ -21,5 +24,5 @@ description: 'Google Scholar provides a simple way to broadly search for scholar
 
 ## Summary
 
-Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
+Google Scholar provides a simple way to broadly search for scholarly literature. From one place, you can search across many disciplines and sources: articles, theses, books, abstracts and court opinions, from academic publishers, professional societies, online repositories, universities and other web sites. Google Scholar helps you find relevant work across the world of scholarly research.
 

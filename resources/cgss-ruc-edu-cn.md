@@ -10,8 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: cgss-ruc-edu-cn
-description: 中国综合社会调查 (Chinese General Social Survey, CGSS).
+description: '- CGSSé¡¹ç®ç»åå¸CGSS2017å¹´çå®¶æ·è°æ¥æ°æ® - åºäºä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼æ°æ®äº§åºçå¦æ¯ææååæ°é«
+  - å ³äº2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼å±å¼å ¨å½èå´å å ¥æ·è®¿é®å·¥â¦ - 2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼åäº¬å°åºæ
+  ¸å¾å·¥ä½æ£å¼å¯å¨ - ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼2015å¹´åº¦è°æ¥æ°æ®å¼æ¾'
 ---
+
 # 中国综合社会调查 (Chinese General Social Survey, CGSS)
 
 **URL:** http://cgss.ruc.edu.cn/
@@ -20,5 +23,5 @@ description: 中国综合社会调查 (Chinese General Social Survey, CGSS).
 
 ## Summary
 
-中国综合社会调查 (Chinese General Social Survey, CGSS).
+- CGSSé¡¹ç®ç»åå¸CGSS2017å¹´çå®¶æ·è°æ¥æ°æ® - åºäºä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼æ°æ®äº§åºçå¦æ¯ææååæ°é« - å ³äº2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼å±å¼å ¨å½èå´å å ¥æ·è®¿é®å·¥â¦ - 2018å¹´ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼åäº¬å°åºæ ¸å¾å·¥ä½æ£å¼å¯å¨ - ä¸å½ç»¼åç¤¾ä¼è°æ¥ï¼CGSSï¼2015å¹´åº¦è°æ¥æ°æ®å¼æ¾
 

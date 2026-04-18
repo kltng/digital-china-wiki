@@ -1,7 +1,7 @@
 ---
 title: Beinecke Rare Book & Manuscript Library (Yale)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://beinecke.library.yale.edu/
 language: null
 region: global
@@ -13,6 +13,10 @@ tags:
 - website
 china_relevance: null
 source_id: beinecke-library-yale-edu
+description: Exhibition hall daily, reading room M-F Reading room to 4:30pm, exhibition
+  hall to 7pm Reading room to 4pm, exhibition hall to 7pm Reading room to 6:30pm,
+  exhibition hall to 7pm Reading room to 4:30pm, exhibition hall to 5pm About the
+  Collections
 ---
 
 # Beinecke Rare Book & Manuscript Library (Yale)
@@ -23,7 +27,7 @@ source_id: beinecke-library-yale-edu
 
 ## Summary
 
-The Beinecke Rare Book & Manuscript Library at Yale University is one of the world's largest buildings dedicated to the preservation and study of rare books and manuscripts. The library's collections span from ancient papyri to contemporary works, with particular strengths in early printed books, literary manuscripts, and archival collections. Beinecke holds significant materials related to China and East Asia, including early printed Chinese books, manuscripts, photographs, and personal papers of scholars and travelers. The library provides access to its collections through reading room services, online catalogs, and digital exhibitions. Researchers can request materials and view finding aids through the library's online portal. Beinecke serves as an important resource for studying the history of the book, literary history, and cross-cultural exchange between China and the West.
+Exhibition hall daily, reading room M-F Reading room to 4:30pm, exhibition hall to 7pm Reading room to 4pm, exhibition hall to 7pm Reading room to 6:30pm, exhibition hall to 7pm Reading room to 4:30pm, exhibition hall to 5pm About the Collections
 
 ## 摘要
 

@@ -1,0 +1,25 @@
+[
+  {
+    "file": "zhconvert-org.md",
+    "title": "Zhconvert Org",
+    "url": "https://zhconvert.org/",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "「繁化姬」是個強大的線上「繁簡轉換」與「本地化」工具，不僅有著極高的轉換正確率與經過多年積累的轉換詞庫，還有多個可選的轉換模組並附帶轉換前後可編輯的差異比較。",
+    "source_text": "| 轉換模式 |\n|---|\n| @{ Api.serviceInfo.converters[summaryConverter].name } @{ summaryConverter } |\n| 文字格式 |\n| @{ Api.serviceInfo.textFormats[summaryTextFormat] } @{ summaryTextFormat } |\n| 後端程式碼版本 |\n| @{ summaryRevisions.build } @{ summaryRevisions.build } |\n| 執行耗時 |\n| @{ summaryExecTime } 秒 |\n| 日文的處理策略 |\n| 一般日文 |\n| 日文樣式 |\n| @{ jpTextStyle } |\n| 使用模組 |\n| @{ Api.serviceInfo.modules[usedModule].name } |",
+    "source_len": 401
+  },
+  {
+    "file": "zhonghua-guji-ziyuanku-open-access-nlc.cn-16616427.md",
+    "title": "Zhonghua Guji Ziyuanku 中华古籍资源库 Open Access",
+    "url": "https://www.nlc.cn/pcab/zy/zhgj_zyk",
+    "tags": [
+      "digital_humanities",
+      "prc"
+    ],
+    "current_description": "数字资源在线专题名家讲坛文献古籍保护研究书志丛刊文津流觞保护知识 中华古籍保护计划全国古籍保护工作部际联席会议全国古籍保护工作专家委员会国家古籍保护中心 “中华古籍资源库”是“中华古籍保护计划”的重要成果。2016年9月28日，“中华古籍资源库”正式开通运行，陆续发布国家图书馆藏善本和普通古籍、法国国家图书馆藏敦煌遗书、天津图书馆藏普通古籍、日本永青文库捐赠汉籍、云南省图书馆善本古籍、芷兰斋藏稿抄...",
+    "source_text": "“中华古籍资源库”是“中华古籍保护计划”的重要成果。2016年9月28日，“中华古籍资源库”正式开通运行，陆续发布国家图书馆藏善本和普通古籍、法国国家图书馆藏敦煌遗书、天津图书馆藏普通古籍、日本永青文库捐赠汉籍、云南省图书馆善本古籍、芷兰斋藏稿抄校本等古籍影像资源，总量超过3.3万部。\n2020年4月，随着国家图书馆新版“读者门户”正式上线，国家图书馆（国家古籍保护中心）将自建、征集的古籍资源统一整合在“中华古籍资源库”下，按照资源类别细化分类，实现了单库检索和多库检索，基本检索和高级检索，支持模糊检索，检索和浏览方式全面升级。",
+    "source_len": 267
+  }
+]

@@ -15,10 +15,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: library-medicine-yale-edu
-description: Use our virtual assistant to search across the catalog, PubMed, and our
-  website. Search PubMed’s 38 million citations for biomedical literature Quicksearch(best
-  for articles, databases, and digital co...
+description: Your librarian is available for research consultations and tutorials
+  on topics like literature searching, systematic review methodology, research data
+  management, grant compliance, and many more. Systematic Approaches to Searching
+  the Health Sciences Literature Understanding and Enhancing Research Impact 333 Cedar
+  Street, New Haven, CT 06510 The Medical Library is located just off the central
+  rotunda in the Sterling Hall of Medicine.
 ---
+
 # Cushing/Whitney Medical Library
 
 **URL:** https://library.medicine.yale.edu/
@@ -27,5 +31,5 @@ description: Use our virtual assistant to search across the catalog, PubMed, and
 
 ## Summary
 
-Use our virtual assistant to search across the catalog, PubMed, and our website. Search PubMed’s 38 million citations for biomedical literature Quicksearch(best for articles, databases, and digital collections) Catalog(best for books and print collections) Your librarian is available for research consultations and tutorials on topics like literature searching, systematic review methodology, research data management, grant compliance, and many more. Posted onApril 16, 2026 Posted onMarch 30, 2026 Posted onMarch 30, 2026
+Your librarian is available for research consultations and tutorials on topics like literature searching, systematic review methodology, research data management, grant compliance, and many more. Systematic Approaches to Searching the Health Sciences Literature Understanding and Enhancing Research Impact 333 Cedar Street, New Haven, CT 06510 The Medical Library is located just off the central rotunda in the Sterling Hall of Medicine.
 

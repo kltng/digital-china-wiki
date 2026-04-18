@@ -11,9 +11,14 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: library-yale-edu-help-and-research-support
-description: Help and Research Support, provided by Yale University, is a catalog
-  with a focus on global scope.
+description: 'Tell us about your research project, and we will connect you with with
+  an expert librarian, curator, or archivist to help you. Help is available Monday
+  to Friday, 9:00 a. Email: askyalelibrary@yale. Mission, Vision, and Strategic Directions
+  Yale University Library is made up of almost 600 staff, over a dozen libraries and
+  locations, vast physical collections, extensive electronic resources, and a suite
+  of user-focused services.'
 ---
+
 # Help and Research Support
 
 **URL:** https://library.yale.edu/help-and-research-support
@@ -22,5 +27,5 @@ description: Help and Research Support, provided by Yale University, is a catalo
 
 ## Summary
 
-Help and Research Support, provided by Yale University, is a catalog with a focus on global scope.
+Tell us about your research project, and we will connect you with with an expert librarian, curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email: askyalelibrary@yale. Mission, Vision, and Strategic Directions Yale University Library is made up of almost 600 staff, over a dozen libraries and locations, vast physical collections, extensive electronic resources, and a suite of user-focused services.
 

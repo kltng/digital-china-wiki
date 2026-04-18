@@ -19,8 +19,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: github-com-awesome-network-analysis
-description: A curated list of awesome network analysis resources. - briatte/awesome-network-analysis
+description: An awesome list of resources to construct, analyze and visualize network
+  data. Inspired by Awesome Deep Learning, Awesome Math and others. Started in 2016,
+  and irregularly updated since then. political blogs by Adamic and Glance (2004)
+  (preprint). - Professional groups - Contributing Guidelines
 ---
+
 # Github Com Awesome Network Analysis
 
 **URL:** https://github.com/briatte/awesome-network-analysis#readme
@@ -29,5 +33,5 @@ description: A curated list of awesome network analysis resources. - briatte/awe
 
 ## Summary
 
-A curated list of awesome network analysis resources. - briatte/awesome-network-analysis
+An awesome list of resources to construct, analyze and visualize network data. Inspired by Awesome Deep Learning, Awesome Math and others. Started in 2016, and irregularly updated since then. political blogs by Adamic and Glance (2004) (preprint). - Professional groups - Contributing Guidelines
 

@@ -14,10 +14,14 @@ tags:
 - periodical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14045174
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Gu gong qi kan zhi shi ku = National Palace Museum journals archive
+  故宫期刊知識库 = National Palace Museum journals archive - [Place of publication not identified]
+  : Eastview, [2021] - Four periodicals: National Palace Museum Bulletin 故宮英文年刊 (1966-present);
+  National Palace Museum Quarterly 故宮季刊 (1966-1983); National Palace Museum Research
+  Quarterly 故宮學術季刊 (1983-present); National Palace Museum Monthly of Chinese Art 故宮文物月刊
+  (1983-present).'
 ---
+
 # 故宫期刊知識库 = National Palace Museum journals archive
 
 **URL:** https://searchworks.stanford.edu/view/14045174
@@ -26,5 +30,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Gu gong qi kan zhi shi ku = National Palace Museum journals archive 故宫期刊知識库 = National Palace Museum journals archive - [Place of publication not identified] : Eastview, [2021] - Four periodicals: National Palace Museum Bulletin 故宮英文年刊 (1966-present); National Palace Museum Quarterly 故宮季刊 (1966-1983); National Palace Museum Research Quarterly 故宮學術季刊 (1983-present); National Palace Museum Monthly of Chinese Art 故宮文物月刊 (1983-present).
 

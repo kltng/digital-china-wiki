@@ -20,9 +20,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: curiosity-lib-harvard-edu-chinese-rare-books
-description: With over 9,600 items, Harvard-Yenching's rare book collection is one
-  of the largest of its kind in the Western world.
+description: With over 9,600 items, Harvard-Yenching's Chinese rare book collection
+  is one of the largest of its kind in the Western world. The Harvard-Yenching Library’s
+  Chinese Rare Book collection includes Chinese books from the 13th to 19th centuries
+  covering classics & history, philosophy, collectaner, and unique manuscripts. The
+  collection has been built over generations.
 ---
+
 # Curiosity Lib Harvard Edu Chinese Rare Books
 
 **URL:** https://curiosity.lib.harvard.edu/chinese-rare-books
@@ -31,5 +35,5 @@ description: With over 9,600 items, Harvard-Yenching's rare book collection is o
 
 ## Summary
 
-With over 9,600 items, Harvard-Yenching's rare book collection is one of the largest of its kind in the Western world.
+With over 9,600 items, Harvard-Yenching's Chinese rare book collection is one of the largest of its kind in the Western world. The Harvard-Yenching Library’s Chinese Rare Book collection includes Chinese books from the 13th to 19th centuries covering classics & history, philosophy, collectaner, and unique manuscripts. The collection has been built over generations.
 

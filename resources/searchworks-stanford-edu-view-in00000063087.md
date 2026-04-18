@@ -11,10 +11,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000063087
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo xin fang xin xi shu ju = China new house information data :
+  2010-2023 中国新房信息数据 = China new house information data : 2010-2023 - Henan han shu
+  xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian
+  gong si, 2024 - [郑州] : 河南汉数信息技术有限公司, 2024. Creators/Contributors'
 ---
+
 # CNopendata: 中国新房信息数据 = China new house information data : 2010-2023
 
 **URL:** https://searchworks.stanford.edu/view/in00000063087
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo xin fang xin xi shu ju = China new house information data : 2010-2023 中国新房信息数据 = China new house information data : 2010-2023 - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2024 - [郑州] : 河南汉数信息技术有限公司, 2024. Creators/Contributors
 

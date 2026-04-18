@@ -1,7 +1,7 @@
 ---
 title: Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://www.bmy.com.cn/index.html
 language: null
 region: global
@@ -12,6 +12,9 @@ tags:
 - prc
 china_relevance: null
 source_id: bmy-com-cn
+description: emperor qinshihuang’s mausoleum site 秦始皇帝陵博物院位于陕西省西安市临潼区，是以秦始皇兵马俑博物馆为基础，以秦始皇帝陵遗址公园（丽山园）为依托的一座大型遗址博物院；也是以秦始皇帝陵及其众多陪葬坑为主体，基于考古遗址本体及其环境的保护与展示，融合了教育、科研、游览、休闲等多项功能的公共文化空间。
+  2007年，秦始皇帝陵博物院获评首批国家AAAAA旅游景区，景点包括秦始皇兵马俑博物馆和丽山园。 两个景点相距2200米，观众可乘坐免费旅游专车往返。 购票观众凭有效身份证件(包括身份证、港澳通行证、台胞证、回乡证、护照）原件，在检票通道查验核销门票。
+  享受半价优惠的全日制大学本科及以下学历学生（成人院校、在职教育、网络教育等均不享受优惠），还需携带学生证在学生票专用通道查验核销门票。
 ---
 
 # Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院)
@@ -20,7 +23,7 @@ source_id: bmy-com-cn
 
 ## Summary
 
-Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院) is a major archaeological site museum in Xi'an, Shaanxi Province, China, dedicated to the tomb complex of China's first emperor, Qin Shi Huang (259-210 BCE). The museum encompasses two main areas: the Museum of the Terracotta Warriors (秦始皇兵马俑博物馆) and the Emperor Qinshihuang Mausoleum Archaeological Site Park (丽山园). The Terracotta Warriors section features three massive pits containing thousands of life-sized terracotta soldiers, horses, and chariots created to accompany the emperor in the afterlife, representing one of the most significant archaeological discoveries of the 20th century. The Lishan Garden section includes the imperial tomb mound, surrounding burial pits, and other archaeological features. The museum provides educational resources, research publications, and digital access to its extensive collections, offering insights into Qin dynasty art, military organization, and imperial burial practices.
+emperor qinshihuang’s mausoleum site 秦始皇帝陵博物院位于陕西省西安市临潼区，是以秦始皇兵马俑博物馆为基础，以秦始皇帝陵遗址公园（丽山园）为依托的一座大型遗址博物院；也是以秦始皇帝陵及其众多陪葬坑为主体，基于考古遗址本体及其环境的保护与展示，融合了教育、科研、游览、休闲等多项功能的公共文化空间。 2007年，秦始皇帝陵博物院获评首批国家AAAAA旅游景区，景点包括秦始皇兵马俑博物馆和丽山园。 两个景点相距2200米，观众可乘坐免费旅游专车往返。 购票观众凭有效身份证件(包括身份证、港澳通行证、台胞证、回乡证、护照）原件，在检票通道查验核销门票。 享受半价优惠的全日制大学本科及以下学历学生（成人院校、在职教育、网络教育等均不享受优惠），还需携带学生证在学生票专用通道查验核销门票。
 
 ## 摘要
 

@@ -1,7 +1,7 @@
 ---
 title: East Asian Gateway Service and User Guides
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://library.pitt.edu/eal-gateway-service
 language: null
 region: global
@@ -12,6 +12,10 @@ tags:
 - website
 china_relevance: primary
 source_id: east-asian-gateway-service-and-user-guides-library.pitt.edu-5e3f643b
+description: The East Asian Gateway Service (EAGS) was established in October 1998
+  by a grant from the U. Federal Institute of Museum and Library Services. Since October
+  2001, the EAGS has been financially supported by the University of Pittsburgh Library
+  System. The EAGS is a pioneer in developing a transcontinental interlibrary partnership.
 ---
 
 # East Asian Gateway Service and User Guides
@@ -20,7 +24,7 @@ source_id: east-asian-gateway-service-and-user-guides-library.pitt.edu-5e3f643b
 
 ## Summary
 
-A service and resource portal provided by the University of Pittsburgh Library System serving as a gateway to East Asian studies materials and research support. The platform offers user guides, access information, and navigation tools for East Asian language collections and databases available through the university's East Asian Library. Resources include guides for finding and using Chinese, Japanese, and Korean materials, information on specialized databases and digital collections, and assistance with language-specific research methodologies. The gateway facilitates access to both physical and digital resources, helping researchers and students effectively navigate East Asian studies resources.
+The East Asian Gateway Service (EAGS) was established in October 1998 by a grant from the U. Federal Institute of Museum and Library Services. Since October 2001, the EAGS has been financially supported by the University of Pittsburgh Library System. The EAGS is a pioneer in developing a transcontinental interlibrary partnership.
 
 ## 摘要
 

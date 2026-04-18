@@ -17,9 +17,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: web-library-yale-edu-arts
-description: What can we inspire you to create? We welcome the Yale community, researchers,
-  and the public to explore and find inspiration at Haas Arts Library.
+description: 'Haas Family Arts Library What can we inspire you to create? We welcome
+  the Yale community, researchers, and the public to explore and find inspiration
+  at Haas Arts Library. Visiting | Workshops | Now On View | Arts Events | Researching
+  Art, Architecture, and Drama | Special Collections | News Food and drink policy
+  Help us preserve our space and collections by following our policies:'
 ---
+
 # Haas Family Arts Library
 
 **URL:** https://web.library.yale.edu/arts
@@ -28,5 +32,5 @@ description: What can we inspire you to create? We welcome the Yale community, r
 
 ## Summary
 
-What can we inspire you to create? We welcome the Yale community, researchers, and the public to explore and find inspiration at Haas Arts Library. Visiting|Workshops|Now On View|Arts Events|Researching Art, Architecture, and Drama|Special Collections|News Help us preserve our space and collections by following our policies: Food isnot permittedin the Haas Family Arts Library.
+Haas Family Arts Library What can we inspire you to create? We welcome the Yale community, researchers, and the public to explore and find inspiration at Haas Arts Library. Visiting | Workshops | Now On View | Arts Events | Researching Art, Architecture, and Drama | Special Collections | News Food and drink policy Help us preserve our space and collections by following our policies:
 

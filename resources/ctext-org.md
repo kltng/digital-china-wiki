@@ -15,9 +15,13 @@ tags:
 - social_history
 china_relevance: primary
 source_id: ctext-org
-description: Chinese Text Project | 中國哲學書電子化計劃. A digital resource for Chinese and
-  East Asian studies.
+description: '| Chinese Text Project | Welcome to the Chinese Text Project homepage.
+  The Chinese Text Project is an online open-access digital library that makes pre-modern
+  Chinese texts available to readers and researchers all around the world. The site
+  attempts to make use of the digital medium to explore new ways of interacting with
+  these texts that are not possible in print.'
 ---
+
 # Chinese Text Project | 中國哲學書電子化計劃
 
 **URL:** https://ctext.org/
@@ -28,5 +32,5 @@ description: Chinese Text Project | 中國哲學書電子化計劃. A digital re
 
 ## Summary
 
-Chinese Text Project | 中國哲學書電子化計劃. A digital resource for Chinese and East Asian studies.
+| Chinese Text Project | Welcome to the Chinese Text Project homepage. The Chinese Text Project is an online open-access digital library that makes pre-modern Chinese texts available to readers and researchers all around the world. The site attempts to make use of the digital medium to explore new ways of interacting with these texts that are not possible in print.
 

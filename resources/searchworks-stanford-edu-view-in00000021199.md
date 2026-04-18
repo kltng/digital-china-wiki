@@ -11,10 +11,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000021199
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo ge di qu zhao tou biao shu ju = Bidding and tendering data
+  of China : 2012-2017 中国各地区招投标数据 = Bidding and tendering data of China : 2012-2017
+  - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin
+  xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors'
 ---
+
 # CNopendata: 中国各地区招投标数据 = Bidding and tendering data of China : 2012-2022
 
 **URL:** https://searchworks.stanford.edu/view/in00000021199
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo ge di qu zhao tou biao shu ju = Bidding and tendering data of China : 2012-2017 中国各地区招投标数据 = Bidding and tendering data of China : 2012-2017 - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors
 

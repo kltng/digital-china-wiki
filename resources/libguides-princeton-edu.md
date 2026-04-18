@@ -21,8 +21,13 @@ tags:
 china_relevance: null
 source_id: libguides-princeton-edu
 description: These research guides are collections of resources created by library
-  staff to assist you in your research project. Not sure where to start? Request anappointment.
+  staff to assist you in your research project. Not sure where to start? Request an
+  appointment. As faculty, staff, and students working remotely you have the same
+  online access to Princeton University Library resources as when you are on campus.
+  This guide will provide you with quick links to resources that can help you access
+  resources while you are away from campus.
 ---
+
 # Home
 
 **URL:** https://libguides.princeton.edu/
@@ -31,5 +36,5 @@ description: These research guides are collections of resources created by libra
 
 ## Summary
 
-These research guides are collections of resources created by library staff to assist you in your research project. Not sure where to start? Request anappointment.
+These research guides are collections of resources created by library staff to assist you in your research project. Not sure where to start? Request an appointment. As faculty, staff, and students working remotely you have the same online access to Princeton University Library resources as when you are on campus. This guide will provide you with quick links to resources that can help you access resources while you are away from campus.
 

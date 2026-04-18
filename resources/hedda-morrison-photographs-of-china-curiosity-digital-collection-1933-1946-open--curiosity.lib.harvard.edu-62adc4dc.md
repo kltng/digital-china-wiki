@@ -17,8 +17,11 @@ tags:
 - religion
 china_relevance: primary
 source_id: hedda-morrison-photographs-of-china-curiosity-digital-collection-1933-1946-open--curiosity.lib.harvard.edu-62adc4dc
-description: Photos taken by Hedda Morrison in China, 1933–1946.
+description: 'Photos taken by Hedda Morrison in China, 1933–1946. Publications about
+  Morrison Catalogue of the Asiatic Library of Dr. Morrison (Tokyo: The Oriental Library,
+  1924). Library of Alastair Morrison''s father. Lo, Huimin, The ["G.'
 ---
+
 # Hedda Morrison Photographs of China - CURIOSity Digital Collection 赫逹莫里森中國老照片, 1933-1946 OPEN ACCESS
 
 **URL:** https://curiosity.lib.harvard.edu/hedda-morrison-photographs-of-china
@@ -29,5 +32,5 @@ description: Photos taken by Hedda Morrison in China, 1933–1946.
 
 ## Summary
 
-Photos taken by Hedda Morrison in China, 1933–1946.
+Photos taken by Hedda Morrison in China, 1933–1946. Publications about Morrison Catalogue of the Asiatic Library of Dr. Morrison (Tokyo: The Oriental Library, 1924). Library of Alastair Morrison's father. Lo, Huimin, The ["G.
 

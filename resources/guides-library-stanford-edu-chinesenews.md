@@ -17,9 +17,13 @@ tags:
 - taiwan
 china_relevance: null
 source_id: guides-library-stanford-edu-chinesenews
-description: This is a topic guide for Chinese news resources that are available for
-  Stanford users only.
+description: ull text database for the news articles that published by the United
+  Daily News Group, Taiwan. United Daily News - 1951 to present, Min Sheng Daily -
+  1978 to 2006, Star News - 1999 to 2006, Economic Daily News - 1967 to present, United
+  Evening News - 1988 to present, Europe Daily – 2000 to 2009, World News America
+  – 2000 to present, Upaper – 2007 to present.
 ---
+
 # zhxue@stanford.edu
 
 **URL:** https://guides.library.stanford.edu/Chinesenews
@@ -28,5 +32,5 @@ description: This is a topic guide for Chinese news resources that are available
 
 ## Summary
 
-This is a topic guide for Chinese news resources that are available for Stanford users only.
+ull text database for the news articles that published by the United Daily News Group, Taiwan. United Daily News - 1951 to present, Min Sheng Daily - 1978 to 2006, Star News - 1999 to 2006, Economic Daily News - 1967 to present, United Evening News - 1988 to present, Europe Daily – 2000 to 2009, World News America – 2000 to present, Upaper – 2007 to present.
 

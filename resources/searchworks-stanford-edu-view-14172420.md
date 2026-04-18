@@ -10,10 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14172420
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Han Wei Liu chao bei ke shu ju ku - [Beijing Shi] : Zhonghua shu ju,
+  [2016]- - [北京市] : 中华书局, [2016]- Creators/Contributors - Detailed summary in vernacular
+  field "《汉魏六朝碑刻数据库》毛远明著, 以《汉魏六朝碑刻集释》为基础, 利用数字化形态出版的汉魏六朝石刻文献数据库.'
 ---
+
 # Han Wei Liu chao bei ke 汉魏六朝碑刻数据库
 
 **URL:** https://searchworks.stanford.edu/view/14172420
@@ -22,5 +23,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Han Wei Liu chao bei ke shu ju ku - [Beijing Shi] : Zhonghua shu ju, [2016]- - [北京市] : 中华书局, [2016]- Creators/Contributors - Detailed summary in vernacular field "《汉魏六朝碑刻数据库》毛远明著, 以《汉魏六朝碑刻集释》为基础, 利用数字化形态出版的汉魏六朝石刻文献数据库.
 

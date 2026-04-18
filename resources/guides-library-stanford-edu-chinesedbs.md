@@ -25,8 +25,11 @@ tags:
 - taiwan
 china_relevance: null
 source_id: guides-library-stanford-edu-chinesedbs
-description: This guide is to identify Chinese databases for Stanford users only
+description: 'Chinese electronic resources: Journal articles This guide is to identify
+  Chinese databases for Stanford users only Find journal articles Current journal
+  articles Old Journals and Magazines articles'
 ---
+
 # Chinese electronic resources
 
 **URL:** https://guides.library.stanford.edu/chinesedbs
@@ -35,5 +38,5 @@ description: This guide is to identify Chinese databases for Stanford users only
 
 ## Summary
 
-This guide is to identify Chinese databases for Stanford users only
+Chinese electronic resources: Journal articles This guide is to identify Chinese databases for Stanford users only Find journal articles Current journal articles Old Journals and Magazines articles
 

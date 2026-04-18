@@ -18,9 +18,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: home-uchicago-edu-index-html
-description: Tharsen康森傑Associate Director of TechnologyLecturer in the Humanities
-  and in the CollegeM.A. Thesis CounselorDigital Humanities Forum co-chair (2016-present)Dept.
+description: Associate Director of Technology Lecturer in the Humanities and in the
+  College Digital Humanities Forum co-chair (2016-present) of East Asian Languages
+  & Civilizations (Ph. Forum for Digital Culture, Division of the Arts & Humanities
+  The University of Chicago
 ---
+
 # Home Uchicago Edu Index Html
 
 **URL:** http://home.uchicago.edu/~jcarlsen/index.html
@@ -29,5 +32,5 @@ description: Tharsen康森傑Associate Director of TechnologyLecturer in the Hum
 
 ## Summary
 
-Tharsen康森傑Associate Director of TechnologyLecturer in the Humanities and in the CollegeM.A. Thesis CounselorDigital Humanities Forum co-chair (2016-present)Dept. of East Asian Languages & Civilizations (Ph.D.
+Associate Director of Technology Lecturer in the Humanities and in the College Digital Humanities Forum co-chair (2016-present) of East Asian Languages & Civilizations (Ph. Forum for Digital Culture, Division of the Arts & Humanities The University of Chicago
 

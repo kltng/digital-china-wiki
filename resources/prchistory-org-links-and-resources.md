@@ -24,10 +24,11 @@ tags:
 - statistical
 china_relevance: null
 source_id: prchistory-org-links-and-resources
-description: AboutMore about this networkNetwork Staff ListAbout this Networkprchistory.orgContact
-  the EditorsHelp Desk Related NetworksOther networks you might be interested inH-Asia
-  1.
+description: DOCUMENTS, PRINT SOURCES | 2. OTHER CHINESE HISTORY PORTALS | 5. REFERENCE
+  TOOLS (PEOPLE, MEETINGS) | 6. RESEARCHER NETWORKS, WEBSITES | 7. SPATIAL DATA, MAPS
+  (HISTORICAL) DOCUMENTS, PRINT SOURCES
 ---
+
 # The PRC History Group: Links and Resources
 
 **URL:** http://prchistory.org/links-and-resources
@@ -36,5 +37,5 @@ description: AboutMore about this networkNetwork Staff ListAbout this Networkprc
 
 ## Summary
 
-AboutMore about this networkNetwork Staff ListAbout this Networkprchistory.orgContact the EditorsHelp Desk Related NetworksOther networks you might be interested inH-Asia 1. DOCUMENTS, PRINT SOURCES | 2. OTHER CHINESE HISTORY PORTALS | 5.
+DOCUMENTS, PRINT SOURCES | 2. OTHER CHINESE HISTORY PORTALS | 5. REFERENCE TOOLS (PEOPLE, MEETINGS) | 6. RESEARCHER NETWORKS, WEBSITES | 7. SPATIAL DATA, MAPS (HISTORICAL) DOCUMENTS, PRINT SOURCES
 

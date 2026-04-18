@@ -1,7 +1,7 @@
 ---
 title: About Us - Yale University Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://library.yale.edu/about-us
 language: null
 region: global
@@ -11,6 +11,11 @@ tags:
 - organization
 china_relevance: null
 source_id: library-yale-edu-about-us
+description: Mission, Vision, and Strategic Directions Yale University Library is
+  made up of almost 600 staff, over a dozen libraries and locations, vast physical
+  collections, extensive electronic resources, and a suite of user-focused services.
+  These elements are activated and connected by technology and deep expertise in the
+  service of teaching, learning, research, and practice.
 ---
 
 # About Us - Yale University Library
@@ -21,7 +26,7 @@ source_id: library-yale-edu-about-us
 
 ## Summary
 
-The official "About" page of Yale University Library, providing information about the library system's mission, services, collections, and organizational structure. This page serves as an introduction to one of the world's largest academic library systems, which includes 15 million volumes, extensive manuscript and archival collections, and comprehensive digital resources across multiple libraries and special collections. The Yale Library system includes major repositories such as Sterling Memorial Library, Beinecke Rare Book & Manuscript Library, and specialized area studies libraries including the East Asia Library. The page typically outlines the library's commitment to supporting teaching, learning, and research across all disciplines at Yale University.
+Mission, Vision, and Strategic Directions Yale University Library is made up of almost 600 staff, over a dozen libraries and locations, vast physical collections, extensive electronic resources, and a suite of user-focused services. These elements are activated and connected by technology and deep expertise in the service of teaching, learning, research, and practice.
 
 ## 摘要
 

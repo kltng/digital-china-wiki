@@ -12,10 +12,14 @@ tags:
 - guide
 china_relevance: primary
 source_id: harvard-yenching-institute-harvard-yenching.org-929343ee
-description: The Harvard-Yenching Institute is an independent foundation providing
-  a range of support for research, training, libraries, and publications in the humanities
-  and social sciences with special attentio...
+description: A Message from our Director About the Harvard-Yenching Institute The
+  Institute is an independent foundation dedicated to advancing higher education in
+  Asia in the humanities and social sciences, with special attention to the study
+  of Asian culture. The Institute offers fellowship programs to faculty members and
+  doctoral students at leading East, Southeast, and South Asian universities in all
+  fields of the humanities and social sciences.
 ---
+
 # Harvard-Yenching Institute
 
 **URL:** http://www.harvard-yenching.org
@@ -24,5 +28,5 @@ description: The Harvard-Yenching Institute is an independent foundation providi
 
 ## Summary
 
-The Harvard-Yenching Institute is an independent foundation providing a range of support for research, training, libraries, and publications in the humanities and social sciences with special attention to Asian Studies.
+A Message from our Director About the Harvard-Yenching Institute The Institute is an independent foundation dedicated to advancing higher education in Asia in the humanities and social sciences, with special attention to the study of Asian culture. The Institute offers fellowship programs to faculty members and doctoral students at leading East, Southeast, and South Asian universities in all fields of the humanities and social sciences.
 

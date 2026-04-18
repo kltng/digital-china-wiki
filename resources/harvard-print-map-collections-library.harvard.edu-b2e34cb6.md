@@ -15,9 +15,12 @@ tags:
 - military_history
 china_relevance: primary
 source_id: harvard-print-map-collections-library.harvard.edu-b2e34cb6
-description: The Harvard Map Collection houses more than 400,000 print maps that range
-  from 1493 to the present, along with tens of thousands more maps included in books.
+description: Founded in 1818, the Harvard Map Collection has grown to include more
+  than 400,000 maps, 6,000 atlases, and 5,000 reference books. The library's collections
+  include everything from rare editions of Early Modern atlases to large-scale current
+  topographic series for the whole world.
 ---
+
 # Harvard Print Map Collections
 
 **URL:** https://library.harvard.edu/collections/print-map-collections
@@ -26,5 +29,5 @@ description: The Harvard Map Collection houses more than 400,000 print maps that
 
 ## Summary
 
-The Harvard Map Collection houses more than 400,000 print maps that range from 1493 to the present, along with tens of thousands more maps included in books. Explore a place, explore a subject, explore a time.
+Founded in 1818, the Harvard Map Collection has grown to include more than 400,000 maps, 6,000 atlases, and 5,000 reference books. The library's collections include everything from rare editions of Early Modern atlases to large-scale current topographic series for the whole world.
 

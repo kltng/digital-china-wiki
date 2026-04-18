@@ -12,9 +12,14 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: mdbg-net-dictionary
-description: English to Chinese dictionary with Mandarin Pinyin & Handwriting Recognition
-  - learn Chinese faster with MDBG!
+description: 'Welcome to the MDBG free online English to Chinese dictionary, the no.
+  1 Chinese study aid! This website offers more than just a Chinese to English and
+  English to Chinese dictionary, it offers various tools such as: flashcards, quizzes,
+  text annotation, Chinese text input, written Chinese and more. The MDBG dictionary
+  is used in many schools and universities all over the world, discover why! Learn
+  Chinese faster with MDBG!'
 ---
+
 # Mdbg Net Dictionary
 
 **URL:** https://www.mdbg.net/chinese/dictionary
@@ -23,5 +28,5 @@ description: English to Chinese dictionary with Mandarin Pinyin & Handwriting Re
 
 ## Summary
 
-English to Chinese dictionary with Mandarin Pinyin & Handwriting Recognition - learn Chinese faster with MDBG!
+Welcome to the MDBG free online English to Chinese dictionary, the no. 1 Chinese study aid! This website offers more than just a Chinese to English and English to Chinese dictionary, it offers various tools such as: flashcards, quizzes, text annotation, Chinese text input, written Chinese and more. The MDBG dictionary is used in many schools and universities all over the world, discover why! Learn Chinese faster with MDBG!
 

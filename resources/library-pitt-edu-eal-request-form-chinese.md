@@ -11,10 +11,13 @@ tags:
 - guide
 china_relevance: secondary
 source_id: library-pitt-edu-eal-request-form-chinese
-description: An access request form for a library or institutional resource related
-  to Chinese and East Asian studies, typically used to request materials, database
-  access, or interlibrary loans.
+description: East Asian Library Gateway Chinese Form This policy sets out the criteria
+  for management of the ULS general collections. It provides guidance on our approach
+  to acquisitions and collections maintenance, and relations with other libraries.
+  Links are provided to associated procedures. We acknowledge that an increasing amount
+  of highly relevant scholarly content exists outside library collections (e.
 ---
+
 # Request Form
 
 **URL:** http://www.library.pitt.edu/eal-request-form-chinese
@@ -25,5 +28,5 @@ description: An access request form for a library or institutional resource rela
 
 ## Summary
 
-An access request form for a library or institutional resource related to Chinese and East Asian studies, typically used to request materials, database access, or interlibrary loans.
+East Asian Library Gateway Chinese Form This policy sets out the criteria for management of the ULS general collections. It provides guidance on our approach to acquisitions and collections maintenance, and relations with other libraries. Links are provided to associated procedures. We acknowledge that an increasing amount of highly relevant scholarly content exists outside library collections (e.
 

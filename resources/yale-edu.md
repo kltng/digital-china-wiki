@@ -15,10 +15,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: yale-edu
-description: Since its founding in 1701, Yale University has been dedicated to expanding
-  and sharing knowledge, inspiring innovation, and preserving cultural and scientific
-  information for future generations.
+description: To zoom in, use [Ctrl] + [+] in Windows, and [Cmd] + [+] on a Mac. To
+  zoom out, use the keyboard shortcut [Ctrl] + [-] in Windows and [Cmd] + [-] on a
+  Mac. Yale’s iconic Old Campus is where the university celebrates Commencement each
+  year. Soaring 216 feet tall, Harkness Tower is home to the 54-bell Yale Memorial
+  Carillon, which serenades passersby daily.
 ---
+
 # Yale
 
 **URL:** http://www.yale.edu/
@@ -27,5 +30,5 @@ description: Since its founding in 1701, Yale University has been dedicated to e
 
 ## Summary
 
-Since its founding in 1701, Yale University has been dedicated to expanding and sharing knowledge, inspiring innovation, and preserving cultural and scientific information for future generations.
+To zoom in, use [Ctrl] + [+] in Windows, and [Cmd] + [+] on a Mac. To zoom out, use the keyboard shortcut [Ctrl] + [-] in Windows and [Cmd] + [-] on a Mac. Yale’s iconic Old Campus is where the university celebrates Commencement each year. Soaring 216 feet tall, Harkness Tower is home to the 54-bell Yale Memorial Carillon, which serenades passersby daily.
 

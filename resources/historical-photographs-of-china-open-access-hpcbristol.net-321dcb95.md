@@ -10,9 +10,15 @@ tags:
 - photo
 china_relevance: primary
 source_id: historical-photographs-of-china-open-access-hpcbristol.net-321dcb95
-description: Historical Photographs of China OPEN ACCESS.
+description: Panoramic photographs by G. The photographs presented here cover over
+  a century of modern China's history, and a very wide range of places, communities
+  and themes. They represent the work of a 2006-2021 Historical Photographs of China
+  project based in the Department of History at the University of Bristol, that located,
+  digitalized, archived, and published online photographs from the substantial holdings
+  of images of modern China held mostly in p...
 site_status: unknown
 ---
+
 # Historical Photographs of China OPEN ACCESS
 
 **URL:** https://hpcbristol.net
@@ -21,7 +27,5 @@ site_status: unknown
 
 ## Summary
 
-Historical Photographs of China OPEN ACCESS.
-
-> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
+Panoramic photographs by G. The photographs presented here cover over a century of modern China's history, and a very wide range of places, communities and themes. They represent the work of a 2006-2021 Historical Photographs of China project based in the Department of History at the University of Bristol, that located, digitalized, archived, and published online photographs from the substantial holdings of images of modern China held mostly in p...
 

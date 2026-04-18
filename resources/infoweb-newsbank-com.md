@@ -10,10 +10,11 @@ tags:
 - periodical
 china_relevance: null
 source_id: infoweb-newsbank-com
-description: NewsBank provides access to news media databases, including the Foreign
-  Broadcast Information Service (FBIS) Daily Reports and other historical and contemporary
-  news archives relevant to Chinese and E...
+description: 'Contact Customer Service if you need assistance with your username and
+  password. By phone: 800-243-7694 (Mon-Fri, 8a. United Kingdom customers may call
+  0800-028-5310 Customers outside of the U. may call us collect at 802-875-2910'
 ---
+
 # Foreign Broadcast Information Service (FBIS) daily reports (1941-1996)
 
 **URL:** http://infoweb.newsbank.com/?db=FBISX
@@ -22,5 +23,5 @@ description: NewsBank provides access to news media databases, including the For
 
 ## Summary
 
-NewsBank provides access to news media databases, including the Foreign Broadcast Information Service (FBIS) Daily Reports and other historical and contemporary news archives relevant to Chinese and East Asian studies.
+Contact Customer Service if you need assistance with your username and password. By phone: 800-243-7694 (Mon-Fri, 8a. United Kingdom customers may call 0800-028-5310 Customers outside of the U. may call us collect at 802-875-2910
 

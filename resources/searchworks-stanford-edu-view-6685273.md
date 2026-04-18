@@ -10,10 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-6685273
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Chinamaxx digital libraries [electronic resource] - [Beijing Superstar
+  Information Technology Co. In English and Chinese. - Beijing : Beijing Superstar
+  Information Technology Co. Creators/Contributors Bibliographic information'
 ---
+
 # Chinamaxx 超星数字图书馆
 
 **URL:** https://searchworks.stanford.edu/view/6685273
@@ -22,5 +23,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Chinamaxx digital libraries [electronic resource] - [Beijing Superstar Information Technology Co. In English and Chinese. - Beijing : Beijing Superstar Information Technology Co. Creators/Contributors Bibliographic information
 

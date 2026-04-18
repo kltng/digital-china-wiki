@@ -13,9 +13,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: wind-com-cn
-description: Headquartered in Shanghai International Financial Center in Lujiazui,
-  Wind Information Co., Ltd. is a leading company in financial software services.
+description: Wind Financial Terminal WFT One-Stop Platform for Chinese Financial Data
+  and Information. Asset Management Solution Buy-side Research and Investment Integrated
+  Professional Solution. Substantial and Transparent Data, Comprehensive and Independent
+  Rating. Wind Economic Database
 ---
+
 # Wind 万得数据
 
 **URL:** https://www.wind.com.cn/
@@ -24,5 +27,5 @@ description: Headquartered in Shanghai International Financial Center in Lujiazu
 
 ## Summary
 
-Headquartered in Shanghai International Financial Center in Lujiazui, Wind Information Co., Ltd. is a leading company in financial software services. Wind is a leading provider of financial information services in China, and an indispensable partner for lots of securities companies, fund management corporations, insurance companies, banks, investment firms, and media. Globally, Wind is also favored by widely used by qualified foreign institutional investors (QFII) approved by China Securities Re
+Wind Financial Terminal WFT One-Stop Platform for Chinese Financial Data and Information. Asset Management Solution Buy-side Research and Investment Integrated Professional Solution. Substantial and Transparent Data, Comprehensive and Independent Rating. Wind Economic Database
 

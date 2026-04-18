@@ -14,8 +14,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: pleco-com
-description: 'The #1 Chinese dictionary app for iOS and Android'
+description: Look up unknown Chinese words ‘live’ using your device’s camera, or tap-lookup
+  words in a still image. Look up words by drawing them on the screen; very accurate
+  and tolerant of stroke order mistakes. Huge and growing collection of licensed dictionary
+  databases, including titles from Oxford, Longman, FLTRP, and many other major publishers.
 ---
+
 # Pleco Com
 
 **URL:** https://www.pleco.com/
@@ -24,5 +28,5 @@ description: 'The #1 Chinese dictionary app for iOS and Android'
 
 ## Summary
 
-The #1 Chinese dictionary app for iOS and Android
+Look up unknown Chinese words ‘live’ using your device’s camera, or tap-lookup words in a still image. Look up words by drawing them on the screen; very accurate and tolerant of stroke order mistakes. Huge and growing collection of licensed dictionary databases, including titles from Oxford, Longman, FLTRP, and many other major publishers.
 

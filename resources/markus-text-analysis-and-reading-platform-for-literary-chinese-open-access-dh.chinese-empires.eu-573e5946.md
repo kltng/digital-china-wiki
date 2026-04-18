@@ -25,10 +25,14 @@ tags:
 - taiwan
 china_relevance: primary
 source_id: markus-text-analysis-and-reading-platform-for-literary-chinese-open-access-dh.chinese-empires.eu-573e5946
-description: Automated tagging and identification of Chinese personal and place names,
-  time references, bureaucratic offices, and Buddhist terms. Manual and batch tagging
-  with custom tags.
+description: Generation of keywords for tagging based on text analysis (developed
+  by Tu Hsieh-Chang at National Taiwan University). Automated tagging and identification
+  of Chinese personal and place names, time references, bureaucratic offices, and
+  Buddhist terms. Manual and batch tagging with custom tags. Keyword tagging with
+  user-supplied keyword lists, keyword in context (KWIC), or regular expressions in
+  all languages.
 ---
+
 # MARKUS- Text Analysis and Reading Platform for Literary Chinese 瑪庫斯平台 OPEN ACCESS
 
 **URL:** https://dh.chinese-empires.eu/markus
@@ -39,5 +43,5 @@ description: Automated tagging and identification of Chinese personal and place 
 
 ## Summary
 
-Automated tagging and identification of Chinese personal and place names, time references, bureaucratic offices, and Buddhist terms. Manual and batch tagging with custom tags. Keyword tagging with user-supplied keyword lists, keyword in context (KWIC), or regular expressions in all languages.
+Generation of keywords for tagging based on text analysis (developed by Tu Hsieh-Chang at National Taiwan University). Automated tagging and identification of Chinese personal and place names, time references, bureaucratic offices, and Buddhist terms. Manual and batch tagging with custom tags. Keyword tagging with user-supplied keyword lists, keyword in context (KWIC), or regular expressions in all languages.
 

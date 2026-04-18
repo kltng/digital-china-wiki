@@ -16,10 +16,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: rise-mpiwg-berlin-mpg-de
-description: RISE Project—Research Infrastructure for the Study of Eurasia—is a digital
-  research infrastructure developed by the Max Planck Institute for the History of
-  Science.
+description: Standard for secure resource exchange and interoperability RISE Project—Research
+  Infrastructure for the Study of Eurasia—is a digital research infrastructure developed
+  by the Max Planck Institute for the History of Science. It is a pioneering approach
+  for resource dissemination and emerging data analytics in the humanities.
 ---
+
 # Rise Mpiwg Berlin Mpg De
 
 **URL:** https://rise.mpiwg-berlin.mpg.de/
@@ -28,5 +30,5 @@ description: RISE Project—Research Infrastructure for the Study of Eurasia—i
 
 ## Summary
 
-RISE Project—Research Infrastructure for the Study of Eurasia—is a digital research infrastructure developed by the Max Planck Institute for the History of Science. It is a pioneering approach for resource dissemination and emerging data analytics in the humanities. Its various technical components facilitate the secure linkage between third-party research tools and various third-party textual collections (both licensed and open-access ones) via a standard API calledSHINE.
+Standard for secure resource exchange and interoperability RISE Project—Research Infrastructure for the Study of Eurasia—is a digital research infrastructure developed by the Max Planck Institute for the History of Science. It is a pioneering approach for resource dissemination and emerging data analytics in the humanities.
 

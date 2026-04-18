@@ -11,9 +11,10 @@ tags:
 - social_history
 china_relevance: primary
 source_id: nlc-modern-newspaper-in-china-1840-1949-1-8-bz.nlcpress.com-4e2765b7
-description: NLC.Modern Newspaper in China, 1840-1949 中国历史文献总库- 近代报纸数据库 (1-8 辑）. A
-  digital resource for Chinese and East Asian studies.
+description: 'For security, access to the manager webapp is restricted. Users are
+  defined in: $CATALINA_HOME/conf/tomcat-users. The following mailing lists are available:'
 ---
+
 # NLC.Modern Newspaper in China, 1840-1949 中国历史文献总库- 近代报纸数据库 (1-8 辑）
 
 **URL:** https://bz.nlcpress.com/
@@ -24,5 +25,5 @@ description: NLC.Modern Newspaper in China, 1840-1949 中国历史文献总库- 
 
 ## Summary
 
-NLC.Modern Newspaper in China, 1840-1949 中国历史文献总库- 近代报纸数据库 (1-8 辑）. A digital resource for Chinese and East Asian studies.
+For security, access to the manager webapp is restricted. Users are defined in: $CATALINA_HOME/conf/tomcat-users. The following mailing lists are available:
 

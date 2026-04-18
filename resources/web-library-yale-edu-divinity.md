@@ -25,8 +25,12 @@ tags:
 china_relevance: null
 source_id: web-library-yale-edu-divinity
 description: One of the world’s foremost theological libraries, the Divinity Library
-  supports research and teaching across campus and around the globe.
+  supports research and teaching across campus and around the globe. We welcome students
+  and researchers to our general and special collections. We are happy to host classes
+  and collaborate with Yale and non-Yale instructors and librarians to introduce students
+  to the use of primary sources, archival material, and research databases.
 ---
+
 # Divinity Library
 
 **URL:** https://web.library.yale.edu/divinity

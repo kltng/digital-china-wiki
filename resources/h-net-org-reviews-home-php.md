@@ -17,10 +17,12 @@ tags:
 - social_history
 china_relevance: null
 source_id: h-net-org-reviews-home-php
-description: AboutMore about this networkContact H-Net ReviewsBrowse/Search All H-Net
-  ReviewsReviews by CategoryH-Net Review GuidelinesH-Net Review StandardsStyle Sheet
-  for ReviewsCopyright PolicyReviews Managemen...
+description: 'Saving the Chesapeake: The History of Movement. : Rivanna Books, University
+  of Virginia Press, 2025. 00 (cloth), ISBN 9780813952659. 95 (paper), ISBN 9780813952666.
+  Possessed Landscapes: Experiments in Conservation and Sovereignty in Southeast Myanmar.
+  : University of Washington Press, 2025.'
 ---
+
 # H-Net Reviews
 
 **URL:** http://www.h-net.org/reviews/home.php
@@ -29,5 +31,5 @@ description: AboutMore about this networkContact H-Net ReviewsBrowse/Search All 
 
 ## Summary
 
-AboutMore about this networkContact H-Net ReviewsBrowse/Search All H-Net ReviewsReviews by CategoryH-Net Review GuidelinesH-Net Review StandardsStyle Sheet for ReviewsCopyright PolicyReviews Management System (for editors & reviewers)Tutorial: Uploading a review Contact H-Net Reviews Browse/Search All H-Net Reviews H-Net Review Guidelines H-Net Review Standards Style Sheet for Reviews Reviews Management System (for editors & reviewers) Tutorial: Uploading a review Related NetworksOther networks you might be interested inThe H-Net Book Channel The H-Net Book Channel Ramey, Andrew S..
+Saving the Chesapeake: The History of Movement. : Rivanna Books, University of Virginia Press, 2025. 00 (cloth), ISBN 9780813952659. 95 (paper), ISBN 9780813952666. Possessed Landscapes: Experiments in Conservation and Sovereignty in Southeast Myanmar. : University of Washington Press, 2025.
 

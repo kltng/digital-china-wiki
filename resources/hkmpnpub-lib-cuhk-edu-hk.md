@@ -11,8 +11,11 @@ tags:
 - periodical
 china_relevance: null
 source_id: hkmpnpub-lib-cuhk-edu-hk
-description: 港澳期刊網 Hong Kong Macau Periodicals Network with a focus on global scope.
+description: 香港中文大學圖書館於1999年正式啟用「香港中文期刊論文索引」。 2005年澳門大學圖書館參與此項計劃並開始提供澳門出版的中文期刊數據。
+  兩館於2006年正式推出「港澳期刊網」，並於今年更名為「港澳中文期刊論文索引」 (「索引」)。 「索引」主要收錄在香港及澳門出版的中文期刊，內容以人文科學及社會科學為主，涵蓋超過三百種期刊。
+  大部份索引資料從1980年開始，其中收錄最早之期刊為香港第一本中文刊物《遐邇貫珍》（1853年8月1日出版）。 「索引」除具備多項檢索功能外，亦提供部分期刊的電子全文圖像，如《大學生活》、《歷史與文化》、《中文學刊》、《當代月刊》、《七十年代》及《九十年代月刊》等，方便讀者進行教學及學術研究，無礙地域限制。
 ---
+
 # 港澳期刊網 Hong Kong Macau Periodicals Network
 
 **URL:** http://hkmpnpub.lib.cuhk.edu.hk/
@@ -21,5 +24,5 @@ description: 港澳期刊網 Hong Kong Macau Periodicals Network with a focus on
 
 ## Summary
 
-港澳期刊網 Hong Kong Macau Periodicals Network with a focus on global scope.
+香港中文大學圖書館於1999年正式啟用「香港中文期刊論文索引」。 2005年澳門大學圖書館參與此項計劃並開始提供澳門出版的中文期刊數據。 兩館於2006年正式推出「港澳期刊網」，並於今年更名為「港澳中文期刊論文索引」 (「索引」)。 「索引」主要收錄在香港及澳門出版的中文期刊，內容以人文科學及社會科學為主，涵蓋超過三百種期刊。 大部份索引資料從1980年開始，其中收錄最早之期刊為香港第一本中文刊物《遐邇貫珍》（1853年8月1日出版）。 「索引」除具備多項檢索功能外，亦提供部分期刊的電子全文圖像，如《大學生活》、《歷史與文化》、《中文學刊》、《當代月刊》、《七十年代》及《九十年代月刊》等，方便讀者進行教學及學術研究，無礙地域限制。
 

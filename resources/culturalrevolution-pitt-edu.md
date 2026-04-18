@@ -15,9 +15,13 @@ tags:
 china_relevance: null
 source_id: culturalrevolution-pitt-edu
 description: The full name of China's Cultural Revolution is the "Great Proletarian
-  Cultural Revolution." Chairman Mao Zedong initiated this "Great Revolution" to prevent
-  capitalism's return to China, protect the...
+  Cultural Revolution. " Chairman Mao Zedong initiated this "Great Revolution" to
+  prevent capitalism's return to China, protect the purity of the Communist Party
+  of China, and seek a path for further developing socialism in China. This "Great
+  Revolution" was called a "cultural" revolution because it started from criticism
+  of the intellectual and cultural arena.
 ---
+
 # Cultural Revolution in Memories (open access)
 
 **URL:** https://culturalrevolution.pitt.edu/
@@ -26,5 +30,5 @@ description: The full name of China's Cultural Revolution is the "Great Proletar
 
 ## Summary
 
-The full name of China's Cultural Revolution is the "Great Proletarian Cultural Revolution." Chairman Mao Zedong initiated this "Great Revolution" to prevent capitalism's return to China, protect the purity of the Communist Party of China, and seek a path for further developing socialism in China. This "Great Revolution" was called a "cultural" revolution because it started from criticism of the intellectual and cultural arena. In May 1966, the Central Committee of the Communist Party of China convened an "expanded session" of the Politburo.
+The full name of China's Cultural Revolution is the "Great Proletarian Cultural Revolution. " Chairman Mao Zedong initiated this "Great Revolution" to prevent capitalism's return to China, protect the purity of the Communist Party of China, and seek a path for further developing socialism in China. This "Great Revolution" was called a "cultural" revolution because it started from criticism of the intellectual and cultural arena.
 

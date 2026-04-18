@@ -14,9 +14,13 @@ tags:
 - taiwan
 china_relevance: null
 source_id: chinafile-com
-description: ChinaFile is an online magazine publishing, showcasing, and contributing
-  to the best reporting and commentary on China.
+description: At 14 years old, Wang Ying doesn’t want to be a mother. She scowls darkly
+  as her younger brother and sister squabble in the corner while she does the housework.
+  But she grudgingly cleans up after them and cooks them a potato stew, which they
+  eat. An exciting, hugely revealing account of China’s burgeoning presence in Africa—a
+  developing empire already shaping, and reshaping, the future of millions of people.
 ---
+
 # Chinafile Com
 
 **URL:** https://www.chinafile.com/
@@ -25,5 +29,5 @@ description: ChinaFile is an online magazine publishing, showcasing, and contrib
 
 ## Summary
 
-ChinaFile is an online magazine publishing, showcasing, and contributing to the best reporting and commentary on China. We seek to both meet and expand the appetites of expert and non-expert audiences who want to better understand China and to provide them with a visually stimulating, well-designed platform on which they can encounter voices and topics that tend to be out of
+At 14 years old, Wang Ying doesn’t want to be a mother. She scowls darkly as her younger brother and sister squabble in the corner while she does the housework. But she grudgingly cleans up after them and cooks them a potato stew, which they eat. An exciting, hugely revealing account of China’s burgeoning presence in Africa—a developing empire already shaping, and reshaping, the future of millions of people.
 

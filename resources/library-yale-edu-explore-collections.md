@@ -13,10 +13,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: library-yale-edu-explore-collections
-description: Yale Library collections available for borrowing will effectively double
-  in July New collections feature Caribbean and Chicano cultures, dance in New Haven,
-  and born-digital Boswell Newly donated medi...
+description: This section of our web presence is a work in progress as we research
+  how best to help users discover the breadth and diversity of Yale Library collections.
+  If you are interested in assisting us with this or other user experience (UX) research,
+  please sign up for our UX mailing list at usability. Tell us about your research
+  project, and we will connect you with with an expert librarian, curator, or archivist
+  to help you.
 ---
+
 # Explore Collections
 
 **URL:** https://library.yale.edu/explore-collections
@@ -25,5 +29,5 @@ description: Yale Library collections available for borrowing will effectively d
 
 ## Summary
 
-Yale Library collections available for borrowing will effectively double in July New collections feature Caribbean and Chicano cultures, dance in New Haven, and born-digital Boswell Newly donated medical historical collection documents the history of death photography and rituals
+This section of our web presence is a work in progress as we research how best to help users discover the breadth and diversity of Yale Library collections. If you are interested in assisting us with this or other user experience (UX) research, please sign up for our UX mailing list at usability. Tell us about your research project, and we will connect you with with an expert librarian, curator, or archivist to help you.
 

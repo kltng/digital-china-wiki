@@ -11,9 +11,14 @@ tags:
 - guide
 china_relevance: primary
 source_id: chinese-film-classics-chinesefilmclassics.org-4364d7c2
-description: Chinese Film Classics is a portal for exploring the history and artistry
-  of early Chinese cinema, featuring subtitled films, an online course, and more.
+description: 'Welcome to Chinese Film Classics! Chinese Film Classics is a project,
+  a book, and a website dedicated to making early Chinese films and cinema history
+  more accessible. Focusing on films made between the 1890s and the 1940s, the website
+  offers: - English-subtitled versions of over forty early Chinese films - A free,
+  self-paced course on Chinese Film Classics, focusing on early Chinese cinematic
+  masterworks from 1922-1949, each module featuring a s...'
 ---
+
 # Chinese Film Classics
 
 **URL:** https://chinesefilmclassics.org
@@ -22,5 +27,5 @@ description: Chinese Film Classics is a portal for exploring the history and art
 
 ## Summary
 
-Chinese Film Classics is a portal for exploring the history and artistry of early Chinese cinema, featuring subtitled films, an online course, and more.
+Welcome to Chinese Film Classics! Chinese Film Classics is a project, a book, and a website dedicated to making early Chinese films and cinema history more accessible. Focusing on films made between the 1890s and the 1940s, the website offers: - English-subtitled versions of over forty early Chinese films - A free, self-paced course on Chinese Film Classics, focusing on early Chinese cinematic masterworks from 1922-1949, each module featuring a s...
 

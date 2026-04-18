@@ -14,10 +14,12 @@ tags:
 - guide
 china_relevance: null
 source_id: library-yale-edu
-description: Film Archive simplifies service model to enhance teaching and research
-  supportApril 16, 2026 Yale Library collections available for borrowing will effectively
-  double in JulyApril 14, 2026 These 2026 W...
+description: 'Find and access library materials, including licensed e-resources, digitized
+  works, special collections, the law library catalog, and more. Tell us about your
+  research project, and we will connect you with with an expert librarian, curator,
+  or archivist to help you. Help is available Monday to Friday, 9:00 a. Email: askyalelibrary@yale.'
 ---
+
 # Yale University Library
 
 **URL:** https://library.yale.edu/
@@ -26,5 +28,5 @@ description: Film Archive simplifies service model to enhance teaching and resea
 
 ## Summary
 
-Film Archive simplifies service model to enhance teaching and research supportApril 16, 2026 Yale Library collections available for borrowing will effectively double in JulyApril 14, 2026 These 2026 Windham-Campbell Prize winners will be on campus Sept. 15 to 18April 9, 2026 New collections feature Caribbean and Chicano cultures, dance in New Haven, and born-digital BoswellApril 7, 2026
+Find and access library materials, including licensed e-resources, digitized works, special collections, the law library catalog, and more. Tell us about your research project, and we will connect you with with an expert librarian, curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email: askyalelibrary@yale.
 

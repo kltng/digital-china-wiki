@@ -16,9 +16,12 @@ tags:
 - statistics
 china_relevance: null
 source_id: github-com-rbooks
-description: 'A curated list of #rstats books. Contribute to romantseg/rbooks development
-  by creating an account on GitHub.'
+description: A curated list of books about different aspects and applications of R
+  programming language and an attempt to modernize R Books in a more user friendly
+  way. Inspired by GoBooks. Learn how to perform data analysis with the R language
+  and software environment, even if you have little or no programming experience.
 ---
+
 # Github Com Rbooks
 
 **URL:** https://github.com/romantseg/rbooks
@@ -27,5 +30,5 @@ description: 'A curated list of #rstats books. Contribute to romantseg/rbooks de
 
 ## Summary
 
-A curated list of #rstats books. Contribute to romantseg/rbooks development by creating an account on GitHub.
+A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way. Inspired by GoBooks. Learn how to perform data analysis with the R language and software environment, even if you have little or no programming experience.
 

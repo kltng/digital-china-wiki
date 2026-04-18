@@ -11,8 +11,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: library-hours-stanford-edu
-description: Stanford University Libraries' hours
+description: '| Location | Su 12 | M 13 | Tu 14 | W 15 | Th 16 | F 17 | Sa 18 | |---|---|---|---|---|---|---|---|
+  | Library & circulation | - | - | - | - | - | - | - | | Media & Microtext Center
+  | - | - | - | - | - | - | - | | Su 12 | M 13 | Tu 14 | W 15 | Th 16 | F 17 | Sa
+  18 | Green East after hours study - Stanford ID required'
 ---
+
 # Hours & locations
 
 **URL:** https://library-hours.stanford.edu/
@@ -21,5 +25,5 @@ description: Stanford University Libraries' hours
 
 ## Summary
 
-Stanford University Libraries' hours
+| Location | Su 12 | M 13 | Tu 14 | W 15 | Th 16 | F 17 | Sa 18 | |---|---|---|---|---|---|---|---| | Library & circulation | - | - | - | - | - | - | - | | Media & Microtext Center | - | - | - | - | - | - | - | | Su 12 | M 13 | Tu 14 | W 15 | Th 16 | F 17 | Sa 18 | Green East after hours study - Stanford ID required
 

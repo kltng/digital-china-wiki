@@ -1,7 +1,7 @@
 ---
 title: Beinecke Library - Ordering Reproductions
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://beinecke.library.yale.edu/research/ordering-reproductions
 language: null
 region: global
@@ -12,6 +12,12 @@ tags:
 - website
 china_relevance: null
 source_id: beinecke-library-yale-edu-research-ordering-reproductions
+description: The Beinecke Rare Book and Manuscript Library offers a range of reproduction
+  services for materials in its collections to assist scholars in their research.
+  See “Service Details” below. Many items from Beinecke’s collections have already
+  been digitized and are available to download for free from our Digital Collections.
+  Patrons are encouraged to check there before placing their order. Turnaround time
+  is 10-14 weeks.
 ---
 
 # Beinecke Library - Ordering Reproductions
@@ -22,7 +28,7 @@ source_id: beinecke-library-yale-edu-research-ordering-reproductions
 
 ## Summary
 
-This page provides information about ordering reproductions of materials from the Beinecke Rare Book & Manuscript Library at Yale University. The service enables researchers to request high-quality digital images, photocopies, or other reproductions of rare books, manuscripts, and special collections materials for scholarly and educational purposes. The website outlines reproduction policies, fees, turnaround times, and application procedures. Users must complete an online request form specifying the items desired and intended use. Certain restrictions may apply based on copyright status, physical condition of materials, or donor restrictions. The service supports publication-quality digital photography, scanned images, and traditional photocopying depending on the nature of the material. This resource is valuable for scholars who need to work with materials remotely or incorporate images of rare materials into their research and publications.
+The Beinecke Rare Book and Manuscript Library offers a range of reproduction services for materials in its collections to assist scholars in their research. See “Service Details” below. Many items from Beinecke’s collections have already been digitized and are available to download for free from our Digital Collections. Patrons are encouraged to check there before placing their order. Turnaround time is 10-14 weeks.
 
 ## 摘要
 

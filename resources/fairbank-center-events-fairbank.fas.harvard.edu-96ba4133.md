@@ -16,10 +16,14 @@ tags:
 - religion
 china_relevance: primary
 source_id: fairbank-center-events-fairbank.fas.harvard.edu-96ba4133
-description: 'Tue21Speaker: Gonçalo Santos, University of Coimbra Present-day climate
-  and environmental disruptions are connected to the workings of a global capitalist
-  order that generates ever-growing amounts of...'
+description: 'Speaker: Gonçalo Santos, University of Coimbra Present-day climate and
+  environmental disruptions are connected to the workings of a global capitalist order
+  that generates ever-growing amounts of waste. Emerging scholarship on what has come
+  to be known as the Wasteocene has highlighted how waste in the age of global capitalism
+  is never simply about matter; it is Speakers:Mitch Presnick, Founder of Super 8
+  Hotels ChinaMatthew Bock Esq.'
 ---
+
 # Fairbank Center Events
 
 **URL:** https://fairbank.fas.harvard.edu/events
@@ -28,5 +32,5 @@ description: 'Tue21Speaker: Gonçalo Santos, University of Coimbra Present-day c
 
 ## Summary
 
-Tue21Speaker: Gonçalo Santos, University of Coimbra Present-day climate and environmental disruptions are connected to the workings of a global capitalist order that generates ever-growing amounts of waste. Emerging scholarship on what has come to be known as the Wasteocene has highlighted how waste in the age of global capitalism is never simply about matter; it is Speaker: Gonçalo Santos, University of Coimbra Present-day climate and environmental disruptions are connected to the workings of a global capitalist order that generates ever-growing amounts of waste.
+Speaker: Gonçalo Santos, University of Coimbra Present-day climate and environmental disruptions are connected to the workings of a global capitalist order that generates ever-growing amounts of waste. Emerging scholarship on what has come to be known as the Wasteocene has highlighted how waste in the age of global capitalism is never simply about matter; it is Speakers:Mitch Presnick, Founder of Super 8 Hotels ChinaMatthew Bock Esq.
 

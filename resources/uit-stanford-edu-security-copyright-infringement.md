@@ -11,10 +11,13 @@ tags:
 - legal_history
 china_relevance: null
 source_id: uit-stanford-edu-security-copyright-infringement
-description: Stanford has designated an agent to receive notifications of alleged
-  copyright infringement in the stanford.edu, stanford.org, stanford.com, sup.org,
-  and supdigital.org domains.
+description: '| Email: | DMCA-claim@stanford. | Phone: | +1 650-725-4357 | | Surface
+  Mail: | Information Security Office Stanford University 505 Broadway, 3, 8819 Redwood
+  City, CA 94063 | Elements of notification - a description of the infringing material
+  and information sufficient to permit Stanford to locate the material; - contact
+  information for you, including your address, telephone number, and/or email address;'
 ---
+
 # Copyright
 
 **URL:** https://uit.stanford.edu/security/copyright-infringement
@@ -23,5 +26,5 @@ description: Stanford has designated an agent to receive notifications of allege
 
 ## Summary
 
-Stanford has designated an agent to receive notifications of alleged copyright infringement in the stanford.edu, stanford.org, stanford.com, sup.org, and supdigital.org domains. If you believe your copyrighted work is being infringed on a Stanford site, please notify the Stanford Information Security Office.
+| Email: | DMCA-claim@stanford. | Phone: | +1 650-725-4357 | | Surface Mail: | Information Security Office Stanford University 505 Broadway, 3, 8819 Redwood City, CA 94063 | Elements of notification - a description of the infringing material and information sufficient to permit Stanford to locate the material; - contact information for you, including your address, telephone number, and/or email address;
 

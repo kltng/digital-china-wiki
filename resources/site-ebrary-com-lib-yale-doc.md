@@ -10,10 +10,9 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: site-ebrary-com-lib-yale-doc
-description: Find scholarly ebooks in multiple subjects from world-renowned publishers
-  Search for ebooks for your laptop, tablet or phone, and download for offline reading
-  Create highlights, notes, and bookmarks f...
+description: 登录以使用 YALE UNIVERSITY 提供的权威电子书 ebrary 就是Ebook Central！
 ---
+
 # The ALA guide to researching modern China
 
 **URL:** http://site.ebrary.com/lib/yale/Doc?id=10902404
@@ -22,5 +21,5 @@ description: Find scholarly ebooks in multiple subjects from world-renowned publ
 
 ## Summary
 
-Find scholarly ebooks in multiple subjects from world-renowned publishers Search for ebooks for your laptop, tablet or phone, and download for offline reading Create highlights, notes, and bookmarks for later, and share research with others Sign in with your ebrary credentials below By continuing to use your account, you agree to ProQuest'sPrivacy PolicyandTerms of Servicefor the information that you provide us. An account isrequiredto download books, annotate and use the bookshelf. An account isnot requiredto search, read and download chapters.
+登录以使用 YALE UNIVERSITY 提供的权威电子书 ebrary 就是Ebook Central！
 

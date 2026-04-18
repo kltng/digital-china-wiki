@@ -10,10 +10,9 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: infotrac-galegroup-com-itweb-29002
-description: Don’t know how to login? Depending on this location’s preferences, the
-  log-in process could include your library card number, a student or user ID, or
-  another provided password.
+description: China and the Modern World Don’t know how to login?
 ---
+
 # China and the Modern World
 
 **URL:** https://infotrac.galegroup.com/itweb/29002?db=CFER
@@ -22,5 +21,5 @@ description: Don’t know how to login? Depending on this location’s preferenc
 
 ## Summary
 
-Don’t know how to login? Depending on this location’s preferences, the log-in process could include your library card number, a student or user ID, or another provided password.If you don’t know how to log in, please contact your library or school directly.
+China and the Modern World Don’t know how to login?
 

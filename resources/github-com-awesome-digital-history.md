@@ -25,8 +25,12 @@ tags:
 china_relevance: null
 source_id: github-com-awesome-digital-history
 description: Find primary sources online and learn how to research history digitally.
-  - maehr/awesome-digital-history
+  Finding aids for textual and multimedia primary sources with a focus on the western
+  hemisphere and the 19th and 20th centuries. Courses and learning tools to explore
+  history digitally. 🎉 Check out our new website at awesome-digital-history. dev with
+  more information, filters, and a search function.
 ---
+
 # Github Com Awesome Digital History
 
 **URL:** https://github.com/maehr/awesome-digital-history#readme
@@ -35,5 +39,5 @@ description: Find primary sources online and learn how to research history digit
 
 ## Summary
 
-Find primary sources online and learn how to research history digitally. - maehr/awesome-digital-history
+Find primary sources online and learn how to research history digitally. Finding aids for textual and multimedia primary sources with a focus on the western hemisphere and the 19th and 20th centuries. Courses and learning tools to explore history digitally. 🎉 Check out our new website at awesome-digital-history. dev with more information, filters, and a search function.
 

@@ -1,7 +1,7 @@
 ---
 title: List of newspaper sites in Hong Kong
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: http://en.wikipedia.org/wiki/Newspapers_of_Hong_Kong
 language: null
 region: hong_kong
@@ -12,6 +12,11 @@ tags:
 - newspaper_studies
 china_relevance: null
 source_id: en-wikipedia-org-wiki-newspapers-of-hong-kong
+description: '| Demographics and culture of Hong Kong | | Other Hong Kong topics |
+  This is a list of newspapers in Hong Kong. Hong Kong is home to many of Asia''s
+  biggest English and Chinese language newspapers. The territory has one of the world''s
+  largest press industries and is a major centre for print journalism. Apple Daily
+  had one of the highest circulations before its closure in 2021.'
 ---
 
 # List of newspaper sites in Hong Kong
@@ -22,7 +27,7 @@ source_id: en-wikipedia-org-wiki-newspapers-of-hong-kong
 
 ## Summary
 
-A Wikipedia page providing a comprehensive list of newspapers published in Hong Kong, organized by language (Chinese, English) and publication type. The list includes major daily newspapers, weekly publications, and specialty publications covering politics, business, entertainment, and community news. Entries typically include publication histories, political orientations, circulation information, and links to official websites where available. This resource serves as a reference for researchers studying Hong Kong media, press freedom, public opinion, and the role of newspapers in Hong Kong's political and social discourse across different historical periods including the colonial era and post-handover period.
+| Demographics and culture of Hong Kong | | Other Hong Kong topics | This is a list of newspapers in Hong Kong. Hong Kong is home to many of Asia's biggest English and Chinese language newspapers. The territory has one of the world's largest press industries and is a major centre for print journalism. Apple Daily had one of the highest circulations before its closure in 2021.
 
 ## 摘要
 

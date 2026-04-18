@@ -1,0 +1,309 @@
+[
+  {
+    "file": "streaming-video-resources-at-harvard-guides.library.harvard.edu-512c15f9.md",
+    "title": "Streaming Video Resources at Harvard",
+    "url": "http://guides.library.harvard.edu/stream",
+    "tags": [
+      "archive",
+      "art_history",
+      "catalog",
+      "database",
+      "digital_humanities",
+      "film_studies",
+      "military_history",
+      "music",
+      "newspaper_studies",
+      "periodical",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "Research Guides: Streaming Video @ Harvard: Home",
+    "source_text": "Streaming Video by Type\nStreaming Video Resources A-Z\n60 Minutes 1997-2014, 60 Minutes 2015-2024 1000s of videos from the long-running news program.\nAlexander Street: Follow this link to search across all twenty-one of Harvard's video databases from this vendor.\nAmerican History in Video: Newsreels, interviews, and documentaries spanning the history of Europeans in North America\nBBC Drama: A selection of classic and modern dramas, from Sophocles' Theban plays to Michael Frayn's Copenhagen\nBlack Studies in Video: A portfolio of documentaries, interviews, and archival footage surveying the Black experience\nBloomsbury Video Broad collection of documentaries, short films, filmed dance, opera, and more\nBroadway HD: Broadway musicals, comedies, and dramas\nClassical Performance in Video: Mostly live performances, but some interviews and documentaries as well\nCNN Video Collection: Collection of videos from the news channel spanning 2012 - 2023\nDance in Video: Productions of all types of dance, plus some documentaries\nDigital Theatre Plus: Filmed productions, interviews and workshops, and theory and criticism\nDigitalia Film Library: Collection of documentaries and feature films; strong on Latin American content\nDocuseek2: Almost 1,800 issues-based documentary films\nElectronic Arts Intermix: Videos by some of the major avant garde artists of the 20th & 21st centuries\nEthnographic Video Online: Ethnographic films, documentaries, feature films, and previously unpublished fieldwork\nEVIA Digital Archive: Ethnographic video collection with strong metadata\nFilmakers Library Online: Wide range of documentary films\nHarmatheque.com: More than 1,000 French-language documentaries and theatre pieces\nHarvard Judaica Documentary Collection\nThe HistoryMakers: African American video oral history\nIdeas Roadshow: Interviews with leading scholars across the disciplines\nIndependent World Cinema: more than 400 films produced from the early 20th century to today\nJournal of Visualized Experiments (JOVE): Video articles from all science disciplines\nKanopy: A wide-ranging collection of classics, independent films, and documentaries. If you find a film on Kanopy that isn’t available to Harvard users, and you need to view it for research or teaching purposes, please submit a Purchase Request.\nLatin America in Video: Original language documentaries from Latin America. Note: the English-language transcripts are often incomprehensible.\nLGBT Studies in Video: Documentaries, interviews, archival f",
+    "source_len": 10793
+  },
+  {
+    "file": "superstar-journals-database-qikan.chaoxing.com.ezp-prod1.hul.harvard.edu-5c99c3d7.md",
+    "title": "Superstar. Journals Database 超星期刊",
+    "url": "http://qikan.chaoxing.com",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "newspaper_studies",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "T=标题（书名、标题），A=作者（责任者），Fa=第一作者，K=关键词，S=文摘（摘要、视频简介），O=作者单位 （作者单位、学位授予单位），Su=主题（标题、关键词、摘要），Z=全部字段 Y=年（出版发行年、学位年度、会议召开年、专利申请年、标准发布年），Clc=中图分类号 BK=图书，JN=期刊，DT=学位，CP=会议，PT=专利，ST=标准，VI=音视频，NP=报纸，TR=科技成果 图书：B...",
+    "source_text": "开始年份\n请选择开始年份\n通用字段：\nT=标题（书名、标题），A=作者（责任者），Fa=第一作者，K=关键词，S=文摘（摘要、视频简介），O=作者单位 （作者单位、学位授予单位），Su=主题（标题、关键词、摘要），Z=全部字段\nY=年（出版发行年、学位年度、会议召开年、专利申请年、标准发布年），Clc=中图分类号\n文献类型：\nBK=图书，JN=期刊，DT=学位，CP=会议，PT=专利，ST=标准，VI=音视频，NP=报纸，TR=科技成果\n非通用字段(需要加上文献标识才能检索)：\n图书：BKs=丛书名；期刊：JNj=刊名；学位：F=指导老师，DTn=学位，Tf=英文标题，DTa=英文文摘；会议：CPn=会议名称；报纸：NPn=报纸名称；专利：PTt=专利类型，F=专利申请人；标准：STd=起草单位\n检索规则说明：\n（1）所有符号和英文字母，都必须使用英文半角字符；\n（2）\"\" 代表精确匹配，''代表模糊匹配；\n（3）同一字段运算规则：* 代表并且，| 代表或者， - 代表不包含；\n（4）不同字段间逻辑检索规则：AND（与）、OR（或）、NOT（非）。关系符号间空一个字节并且只能用大写字母；\n（5）逻辑运算优先级：不同字段间：NOT > AND > OR；同一字段间：- > * > |，若要改变组合的顺序，请使用英文半角括号“()”括起\n例一：检索2000至2016年（含边界）关键词不包含断层并且作者为钱学森，或者清华大学杨振宁或是周培源发表的期刊文章：\nJN((A=杨振宁|周培源 AND O=清华大学) OR A=钱学森 AND 2000<Y<2016 NOT K=断层)\n例二：检索期刊作者单位属于跟“海”或者“海洋”有关的一些相关机构，且主题是海洋，出版年范围2000至2016年（含边界）：\nJN(O=(海|海洋)*(研究所|中心|学院|分局|大学|研究室|实验室|系)) AND Su=海洋 AND 2000<Y<2016\n（6） 检索词包含空格或逻辑符号，需要加模糊匹配符号''或者精确匹配符号\"\"，如K=\"cryptography\"|'cipher code'|\"Multimedia security\"\n\n2．高级检索\n点击搜索框下方“高级检索”链接，进入高级搜索页面。点击[+][-]号可以增加或减少检索条件。支持对一个字段内多个关键词以包含、或者、不包含三种关系检索，支持括号内的逻辑优先运算。\n例：检索《大学图书馆学报》一刊内，由赵旭或者张凡发表的关于大数据或定量分析相关的文献\n4．分面功能\n通过采用分面分析法，可将搜索结果按各类文献是否有全文的维度、语言维度、学科维度、时间维度、作者维度、机构维度、权威工具收录维度以及全文来源维度等进行任意维度的聚类。\n例：关于“图书馆”的在2011-2013年期间被核心期刊和CSSCI收录的文献情况。\n操作方法：1)检索“图书馆”关键词 2)选择关键词分面 3）选择年份分面 5)选择重要期刊分面 6）点击确定开始检索\n1．PDF下载\n在检索结果页，点击文献信息下方的下载图标，或在文章卡片页点击右侧的PDF下载图标下载PDF全文。\n2．流媒体全文\n点开文章卡片页无需下载即可直接浏览全文内容及图表，也可对某关键词进行全文检索，查找资料更为方便。\n（三）超星知识图谱\n1．主题指数\n在期刊文章卡片页，点击“统计分析”，通过“主题指数”，可查看相关主题在各年的指数。\n2．关键词词云。\n显示该篇文章中，词语的出现次数，按照次数多少显示大小。\n3.全国馆藏\n在期刊文章卡片页，点击“统计分析”，通过“全国馆藏”，可查看此本期刊在各地区各大图书馆的馆藏情况。\n（四）页内查找\n在文章卡片页，在左侧目录上方的页内查找的检索框中输入关键词，可查找全文中的此关键词。\n（五）多终端互动\n用微信或QQ等扫描右侧二维码，可立即在手机上阅读流媒体全文。下载客户端可在移动端使用超星期刊。\n三、帮助与反馈\n如果您在使用中遇到了问题，请通过首页的客服电话来获取帮助，我们将及时对您提出的问题进行回复。",
+    "source_len": 1681
+  },
+  {
+    "file": "supremepeoplescourtmonitor-com.md",
+    "title": "Supremepeoplescourtmonitor Com",
+    "url": "https://supremepeoplescourtmonitor.com/",
+    "tags": [
+      "art_history",
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "gis",
+      "legal_history",
+      "map"
+    ],
+    "current_description": "A blog discussing China's highest court",
+    "source_text": "At a 25 March 2026 Hong Kong International Arbitration Centre (HKIAC) event on the amended Arbitration Law, featuring a keynote speech by Director Shi Hong (石宏)， Director of the Civil Law Department of the Legislative Affairs Commission, Standing Committee of the National People’s Congress (not pictured). My fellow panelists were: Zhang Xi (章曦) , head of the HKIAC Beijing representative office, Mr. Liu Shihu (刘世虎), of the Ministry of Justice, Joanne Lau, Secretary-General, HKIAC, Arthur Dong （董箫), partner with Jun He Law Offices, and Secretary General Jiang Lili (姜丽丽) ， Beijing Arbitration Commission. I gave an abbreviated version of the Chinese speech below, which I originally drafted in English.\nMany thanks for the kind invitation to make some remarks about the amended Arbitration Law. Because the Supreme People’s Court did not send an official representative to speak, I will focus my comments on what the amended Arbitration Law means for the work of the Supreme People’s Court and lower courts.\nWhy am I talking about this? For those who do not know me, I have been a member of the Supreme People’s Court’s China International Commercial Court’s International Commercial Expert Committee since 2018 and a long-term observer of the work of the Supreme People’s Court. So how I discuss this will be different from an official spokesperson, but based on their official statements and my own work.\nThe focus of my presentation will be on the implications of the amended Arbitration Law for the Supreme People’s Court and lower courts. I’ll use a minute or two to give a bit of background.\nOn the drafting of the Arbitration Law, as was stated in a recent press report, “The Supreme People’s Court has been deeply involved in the legislation and amendment work of major foreign-related laws such as the Foreign Relations Law, the Anti-Foreign Sanctions Law, the Foreign State Immunities Law, the Civil Procedure Law, the Arbitration Law, and the Maritime Law.” Additionally, the Supreme People’s Court issues judicial interpretations and guidance in other forms for the lower courts, to enable them to apply the law more consistently. Judicial interpretations, as I previously wrote, are not linked with a specific case but draw on many previous cases. They are a critically important way that the SPC unifies the application of law by the courts, although the extent to which they are binding outside the court system is unclear. The Legislative Affairs Commission of the National People",
+    "source_len": 34420
+  },
+  {
+    "file": "taiwanebook-ncl-edu-tw-zh-tw.md",
+    "title": "臺灣華文電子書庫 Taiwan e-Book",
+    "url": "https://taiwanebook.ncl.edu.tw/zh-tw",
+    "tags": [
+      "digital_humanities",
+      "taiwan"
+    ],
+    "current_description": "百人千書「百人千書齊力授權，知識成果全球分享」著作授權活動，精選人文及社會科學領域，以正體中文優質出版品及學... 政府出版為推動國家文化學術出版品數位化合作與利用，邀集國內政府機關共同參與，提供無著作權問題之圖書或其電子檔...",
+    "source_text": "百人千書\n「百人千書齊力授權，知識成果全球分享」著作授權活動，精選人文及社會科學領域，以正體中文優質出版品及學...\n政府出版\n為推動國家文化學術出版品數位化合作與利用，邀集國內政府機關共同參與，提供無著作權問題之圖書或其電子檔...\n\n::: 網站簡介\n國家圖書館(以下簡稱本館)作為國內外學術研究資源的重要典藏及傳佈機構，除了致力於資料的蒐集與保存外，如何以更便捷方式提供國內外研究人員及讀者利用館藏及臺灣出版品和學術研究成果，是一直以來的努力目標及重點工作，尤其，在數位時代透過圖書資料數位化及公開閱覽，讓全球熱愛中華文化，從事臺灣研究及漢學的人士容易獲得相關資料。\n鑑於國內許多的圖書館與文獻典藏單位典藏著1911-1949年出版品，該時期出版品記錄著臺灣歷史文化、人文地理、藝術文學、社會、政治、經濟等各面向資料，極具學術研究價值，成為臺灣研究的最佳資源。惟臺灣地區因溫、濕度偏高不利於圖書保存，多數圖書文獻典藏空間環境缺乏完善的溫溼度恆溫控制環境，圖書因年代久遠紙質酸化，往往禁不起翻閱而破損，或因損壞而被報廢，為達成保存文化與弘揚學術之任務，以數位化減少圖書因使用而損壞，得以數位形式備份保存，透過網路提供國內外讀者及研究人員查詢利用，延長這些實體圖書的保存壽命。\n2015年啟動了全國性的「臺灣文獻合作數位化計畫」，廣邀國內各大學圖書館、公共圖書館、政府機關、研究機構等加入本項合作數位化計畫，期能以此計畫進行1911年至1949年出版品的數位保存與利用，建置「臺灣華文電子書庫」，透過本資料庫提供開放取用，使得全國各圖書館等文獻典藏單位之1911年至1949年出版品，得以數位形式供全球讀者利用，成為國際上臺灣研究之重要資源，以推廣海外臺灣研究、促進學術外交，進而發揮臺灣研究的學術影響力。",
+    "source_len": 754
+  },
+  {
+    "file": "tcsd-lib-ntu-edu-tw.md",
+    "title": "臺灣日治時期統計資料庫 Taiwan Colonial Statistics Database",
+    "url": "http://tcsd.lib.ntu.edu.tw/",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "guide",
+      "statistical",
+      "statistics",
+      "taiwan"
+    ],
+    "current_description": "臺灣日治時期統計資料庫 Taiwan Colonial Statistics Database. focusing on Taiwan.",
+    "source_text": "æ¥æ¬å¸åå¨çµ±æ²»å°ç£çäºåä¸å¹´éï¼ä¸å\né²è¡äºå¤é\nçèª¿æ¥ï¼ä¹ä»¥éåççµ±è¨è©³ç´°è¨éäºæ®æ°å°å¨å°æ¿åºçéä½ï¼çä¸äºç¸ç¶å®æ´ä¸æ¸éé¾å¤§ççµ±è¨è³è¨ãéäºå¨ç¶æä½çºæ®æ°æ²»çç¥èççµ±è¨è³è¨ï¼å°æ¼å å¼·æ³å¾å¯¦èç ç©¶çæ·å²ç¸±æ·±é¢åï¼é¥å\n·æç¾©ã\nèéèæ³å¾ç¸éççµ±è¨æè³æåºç¶æå©æ¼æ³å¯¦èç ç©¶ï¼ä½åè¥è½çªç ´å³çµ±ä¸æ³å¸ç ç©¶çæ³åï¼æå±è¦éèéæ·è³å\n¶ä»ç¸éé å.......... more>\n|\n\næ¥æ¬æ®æ°æ¿åºå¨çµ±æ²»èºç£çäºåå¹´é(1895å¹´å°1945å¹´)ï¼é²è¡äºå¤é\nå¤§è¦æ¨¡ãå\n¨é¢æ§ä¸å\n·æçºæ§ççµ±è¨èª¿æ¥ï¼ä¾å¦ï¼è¨ææ¶å£èª¿æ¥ãåå¢èª¿æ¥ãéäºèª¿æ¥ç¯åæ¶µèå»£æ³ï¼æç´¯ç©ççµ±è¨è³æç¸ç¶è±å¯ãç±æ¼æ¤çè²´ççµ±è¨è³æç®åæ£è¦æ¼å\n¨åååæ¸é¤¨ï¼çºäºè½æ¹ä¾¿æ´å¤å¸è\næ¥è¿ä½¿ç¨ï¼åæä¹å\n¼é¡§è³æä¿åï¼èºç£å¤§å¸æ³å¾å¸é¢æ¼2006å¹´å·è¡åå®¶ç§å¸å§å¡æçãèºç£æ³å¯¦èç ç©¶è³æåº«å»ºç½®è¨ç«ãï¼è¦åå»ºç½®ä¸åä»¥æ¶éæ¥æ²»ææå®æ¹çµ±è¨è³æçºä¸»çãæ¥æ²»ææçµ±è¨è³æåº«ãï¼ä¸¦ä»¥åç«èºç£å¤§å¸åæ¸é¤¨ååç«ä¸å¤®åæ¸é¤¨èºç£åé¤¨æå\n¸èçæ¥æ²»çµ±è¨èç±çºæ¶éå°è±¡ï¼å\n±æ¶é681åæ¥æ²»ææçµ±è¨åºçåï¼å»ºç½®194,075é æ¸ä½åå½±åæªæ¡ï¼103,732çè©®éè³æï¼å\n¶ä¸å\næ¬æ¸åãè¡¨æ ¼åç¨±ãçµ±è¨å¹´ä»½ãåºçå®ä½çéè¦è³è¨ï¼ä¸¦è£½ä½æå¯ä¾æ¥è©¢åçè¦½ä¹è³æåº«ï¼å¸æèæ¤ä¿é²æ³å¸è\né²è¡æ´åæ§æ³å¯¦èç ç©¶ï¼ä¹æä¾åå\n§å¤ä¸åè¯å¥½çå¸è¡äº¤æµå¹³å°ï¼éå°è³æºå\n±äº«çæå¤§åæãæ¬è³æåº«çºä¿çåå§ç´ æçé¢è²ï¼æä¾ç ç©¶è\nä¸åå\n§å®¹å\n·é«ä¿¡åº¦çè³æåº«ï¼ä¸¦ä¸æä¾åç¨®äº¤åéç®çåè½ãè³æåº«çå»ºç½®å·¥ä½å·²æ¼2008å¹´8æ11æ¥å®æï¼é å®æ¼åå¹´11æéæ¾å¤çä½¿ç¨ã\næ´å¤æéæ¼è³æåº«çè©³ç´°ä»ç´¹ï¼è«åé±{è³æåº«ä»ç´¹}\n|\n\nééµåç°¡å®æ¥è©¢èªªæ\n1.ç±é¦é æãæª¢ç´¢ãé²å\n¥ï¼å¨ééµåæª¢ç´¢æ¬å\n§ï¼éµå\n¥æè¦æå°çåå¥ï¼å¦ãåå°ãã\n2. åé¸æãç²¾ç¢ºæ¥è©¢ãæãæ¨¡ç³æ¥è©¢ãï¼è¥é¸æç²¾ç¢ºæ¥è©¢è¡¨ç¤º\"å®å\n¨ç¬¦å\"åä¸²ï¼æ¨¡ç³æ¥è©¢è¡¨ç¤º\"å\nå«\"åä¸²ã\n3. æ éåºæ¥è©¢ã\n|",
+    "source_len": 1489
+  },
+  {
+    "file": "teldap-tw-index-html.md",
+    "title": "Teldap Tw Index Html",
+    "url": "https://teldap.tw/en/index.html",
+    "tags": [
+      "archive",
+      "art_history",
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "guide",
+      "language",
+      "military_history",
+      "museum_studies",
+      "philosophy",
+      "social_history",
+      "taiwan"
+    ],
+    "current_description": "We hope through our efforts today to allow more people to appreciate the knowledge that was locked away in academia.",
+    "source_text": "Projects\n- Taiwan Digital Archives Expansion Project\n- Research and Development for Digital Archives and e-Learning Technologies Project\n- Core Platforms for Digital Contents Project\n- Academic and Social Promotions and Applications for Digital Archives and e-Learning Project\n- Industrial Development and Promotion of Digital Archives and e-Learning Project\n- Digital Education and e-Learning Project\n- e-Learning for Chinese Language Project\n- International Collaboration and Promotion of Taiwan e-Learning and Digital Archives Project\nPreface\nEminent philosopher Francis Bacon (1561-1626) once said, \"Knowledge is power.\" In the twenty-first century when there is an explosion of information and the knowledge economy holds sway, how do individuals learn, appreciate and apply knowledge and how do countries help their citizens to achieve these objectives, to promote the development of culture, and to pass on the legacy of human knowledge and civilization? These are the issues that countries around the world should address.\nUnder the \"National Digital Archives Program\" initiated in 2002, various kinds of archives kept in Academia Sinica, the National Palace Museum, National Taiwan University, and many other public and private cultural institutions in Taiwan have been digitized. In 2003, the \"National Science and Technology Program for e-Learning\" was launched. These two national programs have successfully integrated development of various fields in science, technology, humanities and economy. Through the implementation of these programs, experts in different fields were brought together to exchange ideas and to consider how to create, organize and disseminate knowledge. The results of digitization have not only increased accessibility to these knowledge resources for scholars, but also allowed the general public to transcend barriers of time and space in appreciating and utilizing knowledge, thereby creating more fun and happiness in their lives.\nThis cultural endeavor requires an across-the-board thinking and the participation of specialists from various fields. Beginning on January 1, 2008 the two aforementioned programs were integrated into the \"Taiwan e-Learning and Digital Archives Program.\" It is hoped that with further efforts from interdisciplinary experts, more forward-looking thinking and execution capability will be brought to bear.\nWith the achievements of the \"Taiwan e-Learning and Digital Archives Program\" you can feast your eyes on the treasures of f",
+    "source_len": 7394
+  },
+  {
+    "file": "textref-org.md",
+    "title": "Textref Org",
+    "url": "https://textref.org/",
+    "tags": [
+      "catalog",
+      "database",
+      "digital_humanities",
+      "statistical"
+    ],
+    "current_description": "TextRef provides a distributed method for sharing metadata about online historical texts and integrating this metadata into searchable catalogs with direct links to electronic resources.",
+    "source_text": "TextRef provides a distributed method for sharing metadata about online historical texts and integrating this metadata into searchable catalogs with direct links to electronic resources.\nThis system currently provides access to a catalog of pre-modern Chinese texts available in various online database systems.\nTo search or browse the catalog, use the links at the top of this page, or enter a title in the box below:",
+    "source_len": 418
+  },
+  {
+    "file": "thcts-ascc-net-local-j-ch-htm.md",
+    "title": "臺灣地方志影像資料庫 (open access)",
+    "url": "http://thcts.ascc.net/local_j_ch.htm",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "臺灣地方志影像資料庫 (open access). A digital resource for Chinese and East Asian studies.",
+    "source_text": "å°æ¹å¿å¨è¨±å¤ä¸åç ç©¶é åé½è¢«è¦çºçè²´çå¸è¡è³æï¼å®çå\n§å®¹ä¸å\næè¿°åå°åççåãæ°£åãå±±å·ãç©ç¢çå°çè³æï¼ä¹æ¶µèäººææ·å²æ¹é¢çè¨è¼ï¼å¦æ¶å£ãäººç©ãè³¦ç¨\nãèæçãåå®¶åæ¸é¤¨çãèºç£å°æ¹å¿å½±åè³æåº«ãä»¥èºç£åç´æç»æ©æ§æç·¨çºä¹å°æ¹å¿æ¸çºè³æå»ºç½®åºç¤ï¼ä½¿ç¨è\né¤å¯ä»¥ç´æ¥æ¥è©¢ä¸åçæ¬çå°æ¹å¿è³æä»¥å¤ï¼éå¯ä»¥ç´æ¥å¾å°åä¸çæä¸ç¹å®ååé²è¡æª¢ç´¢ï¼åå¾èè©²ååç¸éçå°æ¹å¿è³æãè³æå\n§å®¹å\næ¬è©²å°åçç°¡ä»ãå°æ¹å¿åç¨±ãå°æ¹å¿ç·¨èè\nãåºçå¹´ãå°æ¹å¿å½±åï¼ä»¥ååå°æ¹å¿çç« ç¯ç®éã\né²å\n¥ èºç£å°æ¹å¿å½±åè³æåº«(åå®¶åæ¸é¤¨)",
+    "source_len": 465
+  },
+  {
+    "file": "the-american-geographical-society-library-digital-map-collection-uwm.edu-633fdf63.md",
+    "title": "The American Geographical Society Library Digital Map Collection",
+    "url": "https://uwm.edu/lib-collections/agsl-digital-map-collection",
+    "tags": [
+      "catalog",
+      "digital_humanities",
+      "geography",
+      "map"
+    ],
+    "current_description": "Browse this collection The American Geographical Society Library Digital Map Collection contains over 20,000 maps, ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and ot...",
+    "source_text": "The American Geographical Society Library Digital Map Collection contains over 20,000 maps, ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks. The digital collection is under continuing development.\n\nMission Statement\nThe UWM Libraries established a digitization program in the fall of 2001. The primary mission of the program is to serve the UWM academic community and the general public by providing remote access to unique library resources. The UWM Libraries use digital technologies to expand access and enhance discovery of these resources through development and management of distinctive digital collections.\nThe nature of historical materials is such that some material may represent positions, norms, and values that are no longer (or never were) consistent with the positions, norms, and values of the UWM Libraries or of the University of Wisconsin-Milwaukee as a whole. Some materials that are part of our digital collections may be considered offensive. For more information, please see our Potentially Offensive Materials Policy.\nCollection Development Process\nNew projects for digitizing unique library resources are proposed by faculty and library staff. Cooperation with UWM faculty is strongly encouraged and projects supporting the teaching and research mission of the campus are given priority.\nMaterials for approved projects are carefully selected by collection curators and subject specialists in the UWM Libraries and departments housing the source collections. The UWM Libraries Department of Digital Collections and Initiatives is responsible for digitizing the selected materials according to established digitization standards and best practices. The digitized resources are researched and described to provide additional access points and to facilitate their discovery and use. CONTENTdm digital media management software is used to build online collections. We retain digital master files in a separate storage infrastructure to ensure their integrity and accessibility in the future. High-resolution digital images can be ordered using the online Order Images form.\nOver seventy digital collections have been created since the inception of the program. They provide remote access to visual resources on global issues as well as treasures of local cultural heritage. Currently, UWM Libraries Digital Collections contain over 180,000 digital objects including photographic images, maps, ",
+    "source_len": 3655
+  },
+  {
+    "file": "the-china-global-south-project-chinaglobalsouth.com-e8f1e807.md",
+    "title": "The China Global South Project 中南项目",
+    "url": "https://chinaglobalsouth.com",
+    "tags": [
+      "digital_humanities",
+      "economic_history",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "In-depth economic, political and strategic engagement reporting and analysis across Africa, Asia and the wider China Global South relations",
+    "source_text": "Introducing CGSP Intelligence\nCGSP Intelligence gives you the information advantage on Chinese activities in the Global South. CGSP Intelligence is launching in Summer 2025, with analysis and a full set of data tools designed for corporate and enterprise leaders.\nQuote Unquote\n“I think blocking the Strait of Hormuz is fine from my standpoint. If no oil ever goes to China again, and their economy is destroyed, that would be a really wonderful day for me.”\nVideos\nHow the Iran Conflict Could Push Africa Faster Toward Electric Vehicles\nHow the Iran Conflict Could Push Africa Faster…\nFrom Diesel to Solar: How Nigerian School is…\nAwkward China-Africa Conversations in Washington, D.C.\nWhy Residents Near a Massive Chinese-run Mine in…\nSoutheast Asia News\nChina-Africa News & Views\nCGSP In the News\nAfrica\nGéraud Neema appeared on the Chatham House podcast Africa Aware to discuss whether minerals can buy peace in the DRC.\nAsia\nEric Olander spoke with Reuters about whether China will provide energy support to countries in SE Asia.\nAfrica\nCGSP Africa Editor Géraud Neema spoke with Le Monde about the DR Congo’s security-for-minerals deal.\nAfrica\nAfrica Editor Géraud Neema spoke with Reuters about the U.S.-DR Congo mineral deal.\nEnergy\nEric Olander spoke with the South China Morning Post about Chinese renewable energy firms’ expansion into the Global South.\nAfrica\nCGSP Africa Editor Géraud Neema testified before the U.S. Congress about the Rwanda-DRC conflict.\nLatin America\nEric Olander spoke with Channel News Asia about U.S.-China geopolitical competition in Latin America.\nAsia\nEric Olander spoke with Bloomberg Opinion’s Karishma Vaswani about the Great Power rivalry in Asia.\nSouth America\nEric Olander spoke with Reuters about the ramifications for China following Venezuelan President Nicolás Maduro’s detention by the U.S.\nAfrica\nEric Olander spoke with the European website Turning Point about whether China is a “colonial power” in Africa.\nAfrica\nCSIS Senior Fellow Henrietta Levin interviewed Cobus van Staden for the Pekinology podcast about China’s Africa strategy.\nAfrica\nEric Olander spoke with Reuters about Chinese Premier Li Qiang’s visit to Zambia.\nAfrica\nGéraud Neema spoke with Fox News about the U.S.-China critical mineral competition in Africa.\nAsia\nEric Olander spoke with Reuters about China’s response to the Mongolian elections.\nSummits\nEric Olander spoke with FRANCE 24 about Xi Jinping’s big week of high-profile diplomacy and military parades.\nSummits\nEric Ol",
+    "source_len": 16860
+  },
+  {
+    "file": "the-international-dunhuang-project-the-silk-road-online-idp-open-access-idp.nlc.cn-e0f179bf.md",
+    "title": "The International Dunhuang Project: The Silk Road Online (IDP) 國際敦煌項目 OPEN ACCESS",
+    "url": "http://idp.nlc.cn",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "military_history",
+      "music",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "絲綢之路考古發掘所得的珍貴文物正在被數字化和調查研究，以便它們能真正提供給所有人。",
+    "source_text": "國際敦煌項目：絲綢之路在綫\nIDP是一個開創性的國際性協作項目，目標是使敦煌及絲綢之路東段其他考古遺址出土的寫本、繪畫、紡織品以及藝術品的信息與圖像能在互聯網上自由地獲取，並通過教育與研究項目鼓勵使用者利用這些資源。\nIDP成員機構，他們既是多文種網站與數據庫的主辦者，也是資料提供者：\n為IDP提供資料的主要合作機構包括：\nIDP的很多其他合作機構也參加合作項目的工作并提供資料。\n了解更多有關IDP的信息……\nIDP數據庫圖片數 4/18/2026\n北山堂基金支持國家圖書館开展“新字號”敦煌遺書數字化工作\n2023年1月起，北山堂基金支持國家圖書館開展館藏“新字號”敦煌遺書數字化工作。此項工作是國際敦煌項目（IDP）的一部分，計劃用時五年完成1600件“新字號”敦煌遺書的數字化工作，其數字化成果將在IDP數據庫中發佈。\n“新字號”敦煌遺書，指的是中華人民共和國成立後經由調撥、捐贈、購買等途徑入藏國家圖書館的敦煌遺書。“新字號”敦煌遺書共1600件，目前通行編號爲BD13801至BD15400。它們大部分是敦煌藏經洞發現早期流散出來的精品，包括日本大谷探險隊所得600餘件，及許承堯、劉廷琛、羅振玉、李盛鐸、馮恕、鄭振鐸等各界人士的舊藏。它們大多爲長卷，內容豐富，帶紀年題記寫卷較多，非佛教文獻較多，具有突出的文獻價值與文化意義。\n北山堂基金成立於1985年，創辦人利榮森先生（1915—2007）是著名企業家、慈善家、收藏家。利榮森先生熱愛中國文化與藝術，愛好文物收藏，堂號“北山堂”，典出愚公移山故事。北山堂基金以贊助中國文化藝術、推動教育發展爲宗旨，致力於推動學術機構與博物館對中國傳統藝術的研究與文物保護、支持培育中國藝術史研究學者及博物館人才、利用北山堂收藏提升中國藝術研究水平。多年來，北山堂基金設立“利榮森紀念交流計劃”和“北山堂博士論文獎學金”，舉辦“中國藝術博物館論壇”及“博物館專業培訓工作坊”等一系列重要項目，涵蓋學術研究、文物展覽、學術研討、學術出版、藝術推廣、藝術教育等諸多方面，貢獻卓著。\n國家圖書館自2001年起參與IDP合作，與英國國家圖書館等世界主要敦煌西域文獻收藏機構共建IDP數據庫，彙集絲綢之路東段衆多古代遺址出土文獻的數字圖像，便利廣大學者與公衆研究參考。北山堂基金的支持，爲IDP注入了新的動力與活力，有助於該項目健康平穩發展。在北山堂基金的支持下，國家圖書館調整、補充了IDP數字化工作室的工作人員，組成人員結構較爲合理的工作團隊，以確保本項工作按時完成並達到預期目標。\n----------------\nIDP數據庫檢索方法簡介\n----\n一、檢索中國國家圖書館藏敦煌文獻\n1.使用BD號進行檢索，編碼為五位數字，例如BD00256、BD15345。\n2.查詢編號可使用方廣錩、李際寧、黃霞著《中國國家圖書館藏敦煌遺書總目錄•館藏目錄卷》（中国人民大学出版社，2016年）。\n3.查詢千字文號、北字號與BD號的對應關係，可使用方廣錩主編《中國國家圖書館藏敦煌遺書總目錄•新舊編號對照卷》（中国人民大学出版社，2013年）。\n----\n二、檢索法國國家圖書館藏敦煌西域文獻\n1.敦煌漢文文獻，館藏號前綴為Pelliot chinois，例如Pelliot chinois 2005。\n2.都勒都爾-阿護爾出土漢文文書，館藏號前綴為Pelliot chinois Douldour-Aqour，例如Pelliot chinois Douldour-Aqour 1。\n3.藏文文獻，館藏號前綴為Pelliot tibétain，例如Pelliot tibétain 3。\n4.梵文文獻，館藏號前綴為Pelliot sanscrit，例如Pelliot sanscrit 2。\n5.粟特文文獻，館藏號前綴為Pelliot sogdien，例如Pelliot sogdien 3。\n6.回鶻文文獻，館藏號前綴為Pelliot ouïgour，例如Pelliot ouïgour 2。\n7.希伯來語文獻，館藏號前綴為Pelliot hébreu ，例如Pelliot hébreu 1。\n----\n三、檢索英國國家圖書館藏敦煌西域文獻\n1.敦煌寫本文獻，館藏號前綴為Or.8210/S.，例如Or.8210/S.1437。\n2.敦煌刻本文獻，館藏號前綴為Or.8210/P.，例如Or.8210/P.2。\n3.斯坦因第一、二次中亞探險所獲漢晉木簡等文獻，館藏號前綴為Or.8211/，例如Or.8211/1371。\n4.斯坦因第三次中亞探險所獲文獻，館藏號前綴為Or.8212/，例如Or.8212/3(5)。\n----\n四、檢索俄羅斯科學院東方寫本研究所藏敦煌西域文獻\n1.敦煌文獻，館藏號前綴為F-或Dx-，例如F-20或Dx-26。\n2.西夏文文獻，館藏號前綴為Tang.，例如Tang.335/2。\n----\n五、檢索日本龍谷大學藏敦煌西域文獻\n館藏號前綴為MS，編號為五位數字，例如MS01900。\n----\n六、檢索其他機構所藏文獻\n各館所藏文獻，均可使用“高級搜索—主題檢索—收藏機構”，選擇機構名，提交檢索，獲得該館已數字化的所有圖像。\n----\n七、檢索某件文書的簡便方法\n在不瞭解館藏號前綴的情況下，可在“檢索IDP數據庫”的檢索框內，輸入編號數字，在檢索所得有限結果中快速找到所需文獻。例如欲查找法藏P.2005《沙州都督府圖經》，可在檢索框輸入“2005”，檢索得BD02005、Pelliot chinois 2005、Or.8210/S.2005、MS02005等多件文獻，從中挑選出Pelliot chinois 2005即可。\n----\n使用中如遇到問題，請致信liubo@nlc.cn，我們將儘快為您解答。如有興趣參與關於IDP的討論，請加入“国际敦煌项目(IDP)之友”QQ群（群號367136203）。\n----\n\n關於IDP\n國際敦煌項目是重要、有力且富有内在潛力的數字化合作方面的一個令人驚奇的範例。該項目向從",
+    "source_len": 10334
+  },
+  {
+    "file": "the-wire-china-www-thewirechina-com.ezp-prod1.hul.harvard.edu-18f89240.md",
+    "title": "The Wire China",
+    "url": "https://www.thewirechina.com",
+    "tags": [
+      "art_history",
+      "digital_humanities",
+      "economic_history",
+      "language",
+      "literature",
+      "military_history",
+      "political_science",
+      "taiwan"
+    ],
+    "current_description": "The Wire is a digital news magazine dedicated to understanding one of the biggest stories of our time: China’s economic rise.",
+    "source_text": "Each week’s events curated for your convenience, hand-picked by our editors.\nIn-depth, data-driven storytelling and expert analysis.\nRecent Articles\nThe writer and editor talks about the first arrivals from China and the long history of prejudice the community has faced.\nTo mark the 25th anniversary of the Hainan spy plane crisis, The Wire China is publishing the second installment of its discussions with people who participated in the dramatic showdown. For Part I see our...\nChinese solar firms are exporting far more to Africa as their U.S. and European markets fade. That could make the Sino-African trade relationship even more one-sided.\nChina's retreat from lending to developing countries has come at precisely the wrong time for the global economy.\nDespite regulatory obstacles, big pharma is so confident in China’s R&D they’re purchasing the rights to medicines that don’t yet exist.\nThe economist talks about the world economy’s break down into two blocs, and whether the U.S. or China hold the advantage.\nThe EV giant is hoping AI-driven systems for cars and robots will help drive profits.\nA backlash from so-called ‘lobster victims’ following a frenzy to download the AI agent has prompted Chinese regulators into action.\nA Canadian lawmaker’s comments on Xinjiang has put a spotlight on the country’s shaky commitment to banning forced labor imports.\nThe longtime diplomat says the U.S. president’s approach to China during his second term could offer Beijing opportunities.\nFrom energy and data centers to chips and applications, how China measures up against the U.S.\nThe Wire takes stock of the U.S.-China trade picture and the effort to shift global manufacturing back to America a year on from Liberation Day.\n\nThe Wire is a digital news magazine dedicated to understanding and explaining one of the biggest stories of our time: China’s economic rise, and its influence on global business, finance, trade, labor and the environment.1The Wire is a division of The Wire Digital Inc., a New York-based news and data startup that also features WireScreen, a software analytics platform.\nThe weekly publication — founded by David Barboza, who earned two Pulitzer Prizes while serving as the Shanghai correspondent for The New York Times — relies on a diverse group of editors, writers and columnists stationed around the globe. Many of them have years of experience covering China and its evolving relationship with the rest of the world. Since its launch in April of 2020, The Wi",
+    "source_len": 9596
+  },
+  {
+    "file": "thesaurus-linguae-sericae-tls-open-access-hcts.uni-heidelberg.de-5c64265e.md",
+    "title": "Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS",
+    "url": "https://www.hcts.uni-heidelberg.de/en/research/heidelberg-research-architecture/thesaurus-linguae-sericae-tls-han-xue-wen-dian-hanxuewendian",
+    "tags": [
+      "classics",
+      "dictionary",
+      "digital_humanities",
+      "intellectual_history",
+      "language",
+      "social_history"
+    ],
+    "current_description": "Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS. A digital resource for Chinese and East Asian studies.",
+    "source_text": "Thesaurus Linguae Sericae (TLS) - Han xue wen dian 漢學文典\nThe Project\nThe Thesaurus Linguae Sericae (TLS) is an Historical and Comparative Encyclopaedia of Chinese Conceptual Schemes. TLS is designed as as a collaborative forum for discussion on the close reading of Chinese texts. It provides a corpus of classical Chinese texts wherever possible with interlinear translations and links the texts incorporated with an analytic dictionary of the Chinese language. It pays special attention to historical keywords. TLS works towards a cross-cultural study of conceptual history. It compiles a detailed synonym dictionary of Chinese and systematically organises the Chinese vocabulary in taxonomic hierarchies of synonym groups. TLS develops a system of syntactic categories for the analysis of Chinese texts, a system of rhetorical devices for the analysis of Chinese texts, and deploys a system of standard semantic relations, aiming to define the Chinese conceptual space as a relational space. TLS seeks to make available up-to-date databases on historical phonology and the history of Chinese characters.\nFounding Editor: Christoph Harbsmeier 何莫邪; Associate Editor: Jiang Shaoyu 蔣紹愚\nGeneral Editor: Christian Schwermann 史克禮; Technical Editor: Christian Wittern 維習安\nThe Project received its first major “Grant for Outstanding Research in the Humanities” from the Norwegian Research Council in 1989. At Heidelberg University it was supported by the Institute of Chinese Studies and later the Cluster of Excellence “Asia and Europe in a Global Context”. For further information please refer to the full “Acknowledgement” by Prof. Harbsmeier from 2007 (Internet Archive).\nDigital Output\nThe TLS was originally developed as Filemaker database. In the first decade of the 2000s, a frontend was developed providing online access to the filemaker data. During the first decades of the project, development was in the hands of Jens Østergaard Petersen (Copenhagen). In the 2010s, the data was gradually migrated into an eXIst-db. As such it is available today at the Han xue wen dian website: TLS - Thesaurus Linguae Sericae / 漢學文典 : 中經西譯剖析比錄.\nData sets\nThe data and the related eXist-db application for presenting the “Thesaurus Linguae Sinicae (TLS) - an Historical and Comparative Encyclopaedia of Chinese Conceptual Schemes” on the web have been made available on GitHub. The TLS app consists of two data packages, “tls-data” containig the lexical part of the database, and “tls-texts” containing the sou",
+    "source_len": 2572
+  },
+  {
+    "file": "theses-com-idx-registered-users-quick-html.md",
+    "title": "Index to Theses...Accepted for Higher Degrees by the Universities of Great Britain and Ireland",
+    "url": "http://www.theses.com/idx/registered_users/quick.html",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "gis",
+      "guide",
+      "literature",
+      "map",
+      "newspaper_studies",
+      "open_access",
+      "periodical",
+      "statistical"
+    ],
+    "current_description": "ProQuest Dissertations & Theses provides researchers with unmatched search and reference link functionality that delivers results from across the globe.",
+    "source_text": "Dissertations & Theses\nWhere past discoveries impact global innovations of tomorrow.\nProQuest: The World Leader in Dissertation Access and Dissemination\nOver the last 80 years, ProQuest has built the world’s most comprehensive and renowned dissertations program. ProQuest Dissertations & Theses Global (PQDT Global), continues to grow its repository of 5 million graduate works each year, thanks to the continued contribution from the world’s universities, creating an ever-growing resource of emerging research to fuel innovation and new insights.\nPQDT Global provides researchers with quality and equitable search results across all institutions, as well as rich citation data that delivers insights into the connections building around the world.\nAccelerate your discovery\nSubscribe to ProQuest Dissertations & Theses Global to accelerate and focus your discovery journey, resulting in more efficient and effective research.\nSubscribe to PQDT GlobalFree online learning support to inspire and guide\nProQuest has developed on-demand instructional resources for students to use in a virtual learning environment. eLearning Companions are available to support the graduate student during their research and writing process as well as the undergraduate student who is developing their information literacy skills.\nSpotlight on Research\nTop 25 Dissertations\nSee what titles and topics are trending around the globe. Each month ProQuest posts the top 25 Most-Accessed Dissertations and Theses across all subjects, based upon total PDF downloads.\nTop DissertationsRelated Products\nProQuest Dissertations & Theses Global\nDissertations and theses offer untapped research where users can discover emerging topics, enhance literature reviews, broaden perspectives, and access insights for more successful research. With 6.2M+ metadata records (4M+ full text) spanning across the world, researchers can gain a global view of the research landscape within a unified search experience not available anywhere else.\nRead moreTDM Studio\nEmpower researchers to uncover new connections and make new discoveries using TDM Studio, a new solution for text and data mining (TDM). From the initial idea to the final output, TDM Studio puts the power of text and data mining directly in the researcher’s hands.\nRead moreProQuest One Academic\nProQuest One Academic brings together four core multi-disciplinary products, allowing access to the world’s largest curated collection of journals, ebooks, dissertations, news and ",
+    "source_len": 8949
+  },
+  {
+    "file": "transforming-tibetan-text-digitization-bdrcs-groundbreaking-ocr-project-by-buddh-bdrc.io-19089ce1.md",
+    "title": "Transforming Tibetan Text Digitization: BDRC's Groundbreaking OCR Project by Buddhist Digital Resource Center",
+    "url": "https://www.bdrc.io/blog/2024/08/28/transforming-tibetan-text-digitization-bdrcs-groundbreaking-ocr-project",
+    "tags": [
+      "archive",
+      "art_history",
+      "catalog",
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "guide",
+      "language",
+      "literature",
+      "open_access",
+      "rare_books",
+      "religion",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "BDRC is proud to announce an exciting project that will contribute a powerful new app and millions of pages of primary materials to Tibetan Studies.",
+    "source_text": "The Buddhist Digital Resource Center is proud to announce an exciting project that will contribute a powerful new app and millions of pages of primary materials to Tibetan Studies. Our team is developing a desktop application for optical character recognition (OCR) of Tibetan scripts, addressing a critical need in the academic and preservation communities. Our users around the world have been requesting a tool like this for years, as at present there is no reliably accurate and free OCR service available for Tibetan that can accurately recognize all of the major Tibetan scripts and text types, while popular commercial options such as Google Cloud Vision have significant limitations.\nBDRC has made crucial breakthroughs in Tibetan OCR through its in-house expertise and fruitful partnerships with others in this field. As a result, later this year we will launch a free application for laptop and desktop computers that can convert the Tibetan writing captured in BDRC scans into a format that can be used in word processors and other apps for searching, editing, re-publishing, and so on.\nBy combining Tibetan paleographic expertise with cutting-edge machine learning techniques, we aim to 'unlock' the writing embedded in scans of manuscripts to facilitate large-scale searching, information extraction, machine translation, and the further development of artificial intelligence for Tibetan. This will help translators, lamas, and scholars, and, ultimately, make the BDRC archive much more suited for 21st century technologies.\nThe Challenge of Tibetan Script Diversity\nTibetan, with its rich literary tradition spanning over a millennium, presents unique challenges in the realm of digital preservation and text recognition. Tibetan has been written in a multitude of handwriting styles and scripts throughout its history. While there is only one Tibetan alphabet and early in its history there were efforts to standardize Tibetan spelling and grammar, the scripts do vary significantly and in many cases native readers might have difficulty reading certain scripts from regions or time periods that are distant from their own. Surprisingly, until now the diversity of Tibetan scripts found in surviving manuscripts have not been systematically documented in traditional or scholarly literature.\nBDRC's archive of Buddhist literature holds around 4 million images of manuscripts in various handwritten scripts. There is no better resource for the rigorous study of the history and artistr",
+    "source_len": 15276
+  },
+  {
+    "file": "tushare-org.md",
+    "title": "TuShare Financial Data Interface/TuShare财经数据包接口 open access",
+    "url": "http://tushare.org/",
+    "tags": [
+      "digital_humanities",
+      "statistical"
+    ],
+    "current_description": "TuShare Financial Data Interface/TuShare财经数据包接口 open access.",
+    "source_text": "Tushare Pro æ°çåå¸ï¼æ°æ®æ´ç¨³å®è´¨éæ´å¥½ï¼æ¬¢è¿æ³¨åä½¿ç¨ï¼Tushare Orgçæ¬ä¸åç»´æ¤ã\nTushareæ¯ä¸ä¸ªå è´¹ãå¼æºçpythonè´¢ç»æ°æ®æ¥å£å ãä¸»è¦å®ç°å¯¹è¡ç¥¨çéèæ°æ®ä»æ°æ®ééãæ¸ æ´å å·¥ å° æ°æ®åå¨çè¿ç¨ï¼è½å¤ä¸ºéèåæäººåæä¾å¿«éãæ´æ´ãåå¤æ ·çä¾¿äºåæçæ°æ®ï¼ä¸ºä»ä»¬å¨æ°æ®è·åæ¹é¢æå¤§å°åè½»å·¥ä½éï¼ä½¿ä»ä»¬æ´å ä¸æ³¨äºçç¥åæ¨¡åçç ç©¶ä¸å®ç°ä¸ãèèå°Python pandaså å¨éèéååæä¸ä½ç°åºçä¼å¿ï¼Tushareè¿åçç»å¤§é¨åçæ°æ®æ ¼å¼é½æ¯pandas DataFrameç±»åï¼éå¸¸ä¾¿äºç¨pandas/NumPy/Matplotlibè¿è¡æ°æ®åæåå¯è§åãå½ç¶ï¼å¦ææ¨ä¹ æ¯äºç¨Excelæè å ³ç³»åæ°æ®åºååæï¼æ¨ä¹å¯ä»¥éè¿Tushareçæ°æ®åå¨åè½ï¼å°æ°æ®å ¨é¨ä¿åå°æ¬å°åè¿è¡åæãåºä¸äºç¨æ·çè¯·æ±ï¼ä»0.2.5çæ¬å¼å§ï¼Tushareåæ¶å ¼å®¹Python 2.xåPython 3.xï¼å¯¹é¨åä»£ç è¿è¡äºéæï¼å¹¶ä¼åäºä¸äºç®æ³ï¼ç¡®ä¿æ°æ®è·åçé«æåç¨³å®ã\nTushareä»åå¸å°ç°å¨ï¼å·²ç»å¸®å©å¾å¤ç¨æ·å¨æ°æ®æ¹é¢éä½äºå·¥ä½ååï¼åæ¶ä¹å¾å°å¾å¤ç¨æ·çåé¦ï¼Tushareå°ä¸å¦æ¢å¾çç¨å è´¹åå¼æºçå½¢å¼åäº«åºæ¥ï¼å¸æå¯¹æéæ±çäººå¸¦æ¥ä¸äºå¸®å©ãå¦ææ¨è§å¾Tushareå¥½ç¨å¹¶æææ¶è·ï¼è¯·éè¿å¾®åãå¾®ä¿¡æè ç½ç«åå®¢çæ¹å¼åäº«åºå»ï¼è®©æ´å¤çäººäºè§£åä½¿ç¨å®ï¼ä½¿å®è½å¨å¤§å®¶çä½¿ç¨è¿ç¨ä¸éæ¥å¾å°æ¹è¿åæåãTushareè¿å¨ä¸æçå®ååä¼åï¼åæå°éæ¥å¢å æ¸¯è¡ãæè´§ãå¤æ±ååºéæ¹é¢çæ°æ®ï¼æä»¥ï¼æ¨çæ¯æåè¯å®ææ¯Tushareåæä¸å»çå¨åã\nTushare orgççæ°æ®ä¸»è¦æ¥æºäºç½ç»ï¼å¦æå¨ä½¿ç¨è¿ç¨ç¢°å°æ°æ®æ æ³è·åæåçæ°æ®éè¯¯çæ åµè¯·èç³»æï¼å¦ææä»ä¹å¥½çå»ºè®®åæè§ï¼ä¹è¯·åæ¶èç³»æï¼å¨æ¤è°¢è¿ã ä¸ºäºæé«æ°æ®çå¯é æ§åç¨³å®æ§ï¼æä»¬Tushareæ¨åºäºProçæ¬æ°æ®æ¥å£ï¼åæ¶éç¬åæ¢äºå¯¹orgçæ¬çç»´æ¤ã ä¸ºäºæ´å¥½çä¸ºç¨æ·æä¾æå¡ï¼ç¹å°å»ºç«äºä¸ä¸ªæ¶è´¹ç¾¤âTushareä¼åç¾¤âï¼621499723ï¼æ¯äºº200å ï¼é2000ç§¯åã(å¯ä»¥éè¿æå©éé¢çäºç»´ç æ¯ä»å¹¶çä¸QQå·å³å¯)ï¼ä¼åè½è·å¾æ´å¤æ°æ®åææ¯ç¸å ³æå¡ï¼åæ¶å®æç»ç»çº¿ä¸äº¤æµæ´»å¨ãè´¹ç¨å°ç¨äºTushareæå¡å¨åå¸¦å®½åçº§ã å¦å¤ï¼è¯·æ«ç å ³æ³¨âæå°å âçå¾®ä¿¡å ¬ä¼å·ï¼å®æä¼åå¸Tushareçææ°å¨æåæä»·å¼çéèæ°æ®åæä¸å¤çæ¹é¢çæç¨åæç« ã\nä»ææ°æ¬å¼å§ï¼Tushareå°æ¥åç¬¬ä¸æ¹æ°æ®çæ¥å ¥ï¼æ¬¢è¿ä¾åºåéè¿å¾®ä¿¡å ¬ä¼å·âæå°å âä¸æèç³»ã\nè´è°¢Â¶\n- æè°¢æ°æµªè´¢ç»ãè ¾è®¯è´¢ç»ãä¸äº¤æåæ·±äº¤ææä¾æ°æ®\n- æè°¢å¨QQãå¾®ååEmailéæåºæè§åå»ºè®®çå¾å¤ä¸ªä¸ç¥éååçæåä»¬\n- ç¹å«æè°¢å¯¹Tushareè¿è¡è¿æå©çæåï¼æ¯ä½ ä»¬è®©æä¸ç´ä¿æçæ´å åªååè®¤ççåäºï¼ä¹è®©æå¦ä¼ç¨ææ©çå¿å»åå¥½æ¯ä¸ä»¶äºã\nä½¿ç¨å¯¹è±¡Â¶\n- éåæèµåæå¸ï¼Quantï¼\n- å¯¹éèå¸åºè¿è¡å¤§æ°æ®åæçä¼ä¸åä¸ªäºº\n- å¼åä»¥è¯å¸ä¸ºåºç¡çéèç±»äº§ååè§£å³æ¹æ¡çå ¬å¸\n- æ£å¨å¦ä¹ å©ç¨pythonè¿è¡æ°æ®åæçäºº\nãæ³¨ï¼æè¿æäººé®å°è¯´Tushareä¸æ¹ä¾¿çè¡æ ï¼ææ³è¯´çæ¯ï¼Tushareä¸æ¯æ®éçè¡è ç¨çè½¯ä»¶ï¼èæ¯ä¸ºé£äºæå ´è¶£åè¡ç¥¨æè´§æ°æ®åæçäººæä¾pandasç©éµæ°æ®çå·¥å ·ï¼è³äºè½ä¸è½ç¨æ¥çè¡ä»¥åææå¦ä½ï¼å°±çä¸ªäººçè½åäºã\nä½¿ç¨åæÂ¶\n- å®è£ Python\n- å®è£ pandas\n- lxmlä¹æ¯å¿ é¡»çï¼æ£å¸¸æ åµä¸å®è£ äºAnacondaåæ é¡»åç¬å®è£ ï¼å¦ææ²¡æå¯æ§è¡ï¼pip install lxml\nå»ºè®®å®è£ Anacondaï¼http://ww",
+    "source_len": 4680
+  },
+  {
+    "file": "twitter-com-chrisdecou.md",
+    "title": "Twitter Com Chrisdecou",
+    "url": "https://x.com/chrisdecou",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "Twitter Com Chrisdecou. A digital resource for Chinese and East Asian studies.",
+    "source_text": "JavaScript 不可用。\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\n帮助中心",
+    "source_len": 224
+  },
+  {
+    "file": "twitter-com-digichinafccs.md",
+    "title": "Twitter Com Digichinafccs",
+    "url": "https://x.com/DigiChinaFCCS",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "Twitter Com Digichinafccs. A digital resource for Chinese and East Asian studies.",
+    "source_text": "JavaScript 不可用。\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\n帮助中心",
+    "source_len": 224
+  },
+  {
+    "file": "twitter-com-sharondomier.md",
+    "title": "Twitter Com Sharondomier",
+    "url": "https://x.com/SharonDomier",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "Twitter Com Sharondomier. A digital resource for Chinese and East Asian studies.",
+    "source_text": "JavaScript 不可用。\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\n帮助中心",
+    "source_len": 224
+  },
+  {
+    "file": "twitter-com-spcmonitor.md",
+    "title": "Twitter Com Spcmonitor",
+    "url": "https://x.com/SPCmonitor",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "Twitter Com Spcmonitor. A digital resource for Chinese and East Asian studies.",
+    "source_text": "JavaScript 不可用。\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\n帮助中心",
+    "source_len": 224
+  }
+]

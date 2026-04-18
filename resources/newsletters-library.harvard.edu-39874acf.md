@@ -17,9 +17,13 @@ tags:
 - rare_books
 china_relevance: primary
 source_id: newsletters-library.harvard.edu-39874acf
-description: Sign up for our email newsletters and get library news and information
-  delivered directly to your inbox.
+description: Harvard Library's flagship newsletter for the public. Each quarter we
+  share stories, collections, and resources from across our libraries that are available
+  for all to explore and visit. Check us out on social via Instagram, where we post
+  interesting finds from our collections and update the latest information from across
+  Harvard's libraries.
 ---
+
 # NEWSLETTERS
 
 **URL:** https://library.harvard.edu/library-newsletters
@@ -28,5 +32,5 @@ description: Sign up for our email newsletters and get library news and informat
 
 ## Summary
 
-Sign up for our email newsletters and get library news and information delivered directly to your inbox.
+Harvard Library's flagship newsletter for the public. Each quarter we share stories, collections, and resources from across our libraries that are available for all to explore and visit. Check us out on social via Instagram, where we post interesting finds from our collections and update the latest information from across Harvard's libraries.
 

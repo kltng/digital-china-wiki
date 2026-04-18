@@ -19,8 +19,11 @@ tags:
 china_relevance: primary
 source_id: dash-digital-access-to-scholarship-at-harvard-dash.harvard.edu-51d154c2
 description: Scholarship at Harvard DASH is the central, open-access institutional
-  repository of research by members of the Harvard community.
+  repository of research by members of the Harvard community. Harvard Library Open
+  Scholarship and Research Data Services (OSRDS) operates DASH to provide the broadest
+  possible access to Harvard's scholarship.
 ---
+
 # DASH (Digital Access to Scholarship at Harvard)
 
 **URL:** https://dash.harvard.edu
@@ -29,5 +32,5 @@ description: Scholarship at Harvard DASH is the central, open-access institution
 
 ## Summary
 
-Scholarship at Harvard DASH is the central, open-access institutional repository of research by members of the Harvard community. Harvard Library Open Scholarship and Research Data Services (OSRDS) operates DASH to provide the broadest possible access to Harvard's scholarship. This repository hosts a wide range of Harvard-affiliated scholarly works, including pre- and post-refereed journal articles, conference proceedings, theses and dissertations, working papers, and reports.
+Scholarship at Harvard DASH is the central, open-access institutional repository of research by members of the Harvard community. Harvard Library Open Scholarship and Research Data Services (OSRDS) operates DASH to provide the broadest possible access to Harvard's scholarship.
 

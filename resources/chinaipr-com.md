@@ -14,9 +14,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: chinaipr-com
-description: 'China: patents, trademarks, copyright, infringement, piracy, innovation
-  policies'
+description: 'Please join us on February 2, 2023, at 5 PM Pacific Time on zoom to
+  discuss the recently proposed amendments to China’s Trademark Law! was asked to
+  testify before the Senate Judiciary Committee on April 22, 2026. The link is here:
+  https://www. gov/committee-activity/hearings/stealth-stealing-chinas-ongoing-theft-of-us-innovation-04-22-2026.
+  This blog reviews Zhao Ye’s report on trade secret adjudication by the SPC IP Tribunal.'
 ---
+
 # Chinaipr Com
 
 **URL:** https://chinaipr.com/
@@ -25,5 +29,5 @@ description: 'China: patents, trademarks, copyright, infringement, piracy, innov
 
 ## Summary
 
-China: patents, trademarks, copyright, infringement, piracy, innovation policies
+Please join us on February 2, 2023, at 5 PM Pacific Time on zoom to discuss the recently proposed amendments to China’s Trademark Law! was asked to testify before the Senate Judiciary Committee on April 22, 2026. The link is here: https://www. gov/committee-activity/hearings/stealth-stealing-chinas-ongoing-theft-of-us-innovation-04-22-2026. This blog reviews Zhao Ye’s report on trade secret adjudication by the SPC IP Tribunal.
 

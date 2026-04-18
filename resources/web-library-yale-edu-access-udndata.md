@@ -11,9 +11,11 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-access-udndata
-description: Your browser does not support cookies. The browser's ability to store
-  or read cookies is essential for single sign-on to work.
+description: 'Central Authentication Service Make sure your session is secure Before
+  entering your NetID and password, verify that the URL for this page begins with:
+  https://secure.'
 ---
+
 # 聯合知識庫. 全文報紙資料庫 (Udndata)
 
 **URL:** https://web.library.yale.edu/access-udndata
@@ -22,5 +24,5 @@ description: Your browser does not support cookies. The browser's ability to sto
 
 ## Summary
 
-Your browser does not support cookies. The browser's ability to store or read cookies is essential for single sign-on to work. Please consult your browser settings and ensure cookie support is turned on.
+Central Authentication Service Make sure your session is secure Before entering your NetID and password, verify that the URL for this page begins with: https://secure.
 

@@ -15,8 +15,13 @@ tags:
 - map
 china_relevance: null
 source_id: supremepeoplescourtmonitor-com
-description: A blog discussing China's highest court
+description: 'At a 25 March 2026 Hong Kong International Arbitration Centre (HKIAC)
+  event on the amended Arbitration Law, featuring a keynote speech by Director Shi
+  Hong (石宏)， Director of the Civil Law Department of the Legislative Affairs Commission,
+  Standing Committee of the National People’s Congress (not pictured). My fellow panelists
+  were: Zhang Xi (章曦) , head of the HKIAC Beijing representative office, Mr.'
 ---
+
 # Supremepeoplescourtmonitor Com
 
 **URL:** https://supremepeoplescourtmonitor.com/
@@ -25,5 +30,5 @@ description: A blog discussing China's highest court
 
 ## Summary
 
-A blog discussing China's highest court
+At a 25 March 2026 Hong Kong International Arbitration Centre (HKIAC) event on the amended Arbitration Law, featuring a keynote speech by Director Shi Hong (石宏)， Director of the Civil Law Department of the Legislative Affairs Commission, Standing Committee of the National People’s Congress (not pictured). My fellow panelists were: Zhang Xi (章曦) , head of the HKIAC Beijing representative office, Mr.
 

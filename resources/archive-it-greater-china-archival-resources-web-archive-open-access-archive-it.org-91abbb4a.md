@@ -22,10 +22,11 @@ tags:
 - taiwan
 china_relevance: primary
 source_id: archive-it-greater-china-archival-resources-web-archive-open-access-archive-it.org-91abbb4a
-description: Built at theInternet Archive Ivy Plus Libraries Confederation Greater
-  China Archival Resources Collected by:Ivy Plus Libraries Confederation Archived
-  since:Jul, 2020 One of the hurdles researchers of...
+description: Sites for this collection are listed below. Narrow your results at left,
+  or enter a search query below to find a site, specific URL or to search the text
+  of archived webpages. Page 1 of 1 (39 Total Results)
 ---
+
 # Archive it - Greater China Archival Resources Web Archive 檔案指南 OPEN ACCESS
 
 **URL:** https://archive-it.org/collections/14767
@@ -36,5 +37,5 @@ description: Built at theInternet Archive Ivy Plus Libraries Confederation Great
 
 ## Summary
 
-Built at theInternet Archive Ivy Plus Libraries Confederation Greater China Archival Resources Collected by:Ivy Plus Libraries Confederation Archived since:Jul, 2020 One of the hurdles researchers of modern and contemporary China face in their studies is knowing about, and having access to, archival collections held at Chinese archives. The Greater China Archival Resources Web Archive collects websites belonging to established, physical archives and learned archival societies located in the Greater China region, and archival projects from or about the Greater China region.
+Sites for this collection are listed below. Narrow your results at left, or enter a search query below to find a site, specific URL or to search the text of archived webpages. Page 1 of 1 (39 Total Results)
 

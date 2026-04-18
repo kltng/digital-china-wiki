@@ -13,10 +13,11 @@ tags:
 - statistical
 china_relevance: primary
 source_id: dlib-eastview-com-browse-udb-1610
-description: East View Information Services provides access to a wide range of academic
-  databases, digital collections, and primary source materials from Russia, China,
-  and other regions.
+description: East View offers a broad range of library services and databases of global
+  authoritative content, including numerous collections from Russia and the former
+  Soviet states, East Asia, and the Middle East.
 ---
+
 # Pishu: China economy, public policy, and security database 皮書
 
 **URL:** https://dlib.eastview.com/browse/udb/1610
@@ -27,5 +28,5 @@ description: East View Information Services provides access to a wide range of a
 
 ## Summary
 
-East View Information Services provides access to a wide range of academic databases, digital collections, and primary source materials from Russia, China, and other regions. Their products include e-Library databases for Chinese academic content, statistical yearbooks, and historical archives.
+East View offers a broad range of library services and databases of global authoritative content, including numerous collections from Russia and the former Soviet states, East Asia, and the Middle East.
 

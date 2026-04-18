@@ -14,8 +14,12 @@ tags:
 - social_history
 china_relevance: null
 source_id: library-harvard-edu-collections-chinese-republican-period-collection-0
-description: More than 1,000 publications from China's republican period 民國時期文獻.
+description: Most of the books in this collection were published in the early 20th
+  century, particularly between 1912 and 1949. This era, between the end of the Qing
+  dynasty and the establishment of the People’s Republic of China, is often referred
+  to as the Republican period.
 ---
+
 # 哈佛燕京圖書館民國時期文獻 Harvard-Yenching Library Chinese Republican Period (1911-1949) Collection
 
 **URL:** https://library.harvard.edu/collections/chinese-republican-period-collection-0
@@ -24,5 +28,5 @@ description: More than 1,000 publications from China's republican period 民國�
 
 ## Summary
 
-More than 1,000 publications from China's republican period 民國時期文獻.
+Most of the books in this collection were published in the early 20th century, particularly between 1912 and 1949. This era, between the end of the Qing dynasty and the establishment of the People’s Republic of China, is often referred to as the Republican period.
 

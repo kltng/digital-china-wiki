@@ -13,8 +13,13 @@ tags:
 china_relevance: primary
 source_id: virtual-media-help-docs.google.com-97bf814b
 description: Virtual Media Help Office Hours The team at Lamont and Cabot Library
-  is here to field your questions and support your media projects. Share this page:http://bit.
+  is here to field your questions and support your media projects. We no longer monitor
+  the Zoom room regularly, but you may contact us to schedule an appointment and to
+  describe the assistance you require. Connect via Zoom [see below for additional
+  info] If you have not used Zoom before, you may wish to consult the Participating
+  in a Zoom Meeting Quick Start Guide.
 ---
+
 # Virtual Media Help
 
 **URL:** https://docs.google.com/document/d/e/2PACX-1vSIjnbTxgMgXrl6_B7JOqv_p2abGoQNRa6ZOAxnxEz4bV3Gx0kUPXYgi-IZ2tZt2JdUmq1b7BONw0wP/pub
@@ -23,5 +28,5 @@ description: Virtual Media Help Office Hours The team at Lamont and Cabot Librar
 
 ## Summary
 
-Virtual Media Help Office Hours The team at Lamont and Cabot Library is here to field your questions and support your media projects. Share this page:http://bit.ly/lamontzoom Readabout the Media Lab’s resourceshere. See ourequipment and software tutorials and documentationhere.
+Virtual Media Help Office Hours The team at Lamont and Cabot Library is here to field your questions and support your media projects. We no longer monitor the Zoom room regularly, but you may contact us to schedule an appointment and to describe the assistance you require. Connect via Zoom [see below for additional info] If you have not used Zoom before, you may wish to consult the Participating in a Zoom Meeting Quick Start Guide.
 

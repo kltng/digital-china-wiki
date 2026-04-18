@@ -9,10 +9,9 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: afe-easia-columbia-edu
-description: Asia for Educators (AFE) is an initiative of Columbia University's Weatherhead
-  East Asian Institute that provides educational resources about East Asia for teachers
-  and students.
+description: Asia for Educators | Columbia University About Asia for Educators
 ---
+
 # Afe Easia Columbia Edu
 
 **URL:** https://afe.easia.columbia.edu/
@@ -21,5 +20,5 @@ description: Asia for Educators (AFE) is an initiative of Columbia University's 
 
 ## Summary
 
-Asia for Educators (AFE) is an initiative of Columbia University's Weatherhead East Asian Institute that provides educational resources about East Asia for teachers and students. It features primary sources, teaching guides, and multimedia materials covering Chinese history, culture, literature, and society.
+Asia for Educators | Columbia University About Asia for Educators
 

@@ -10,9 +10,11 @@ tags:
 - digital_humanities
 china_relevance: primary
 source_id: chinese-reference-shelf-at-brill-chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu-3f90ff06
-description: Chinese Reference Shelf Onlineprovides one-stop access to important reference
-  works on China. The following titles are available now, and more will be added regularly.
+description: Chinese Reference Shelf Online Chinese Reference Shelf Online provides
+  one-stop access to important reference works on China. The following titles are
+  available now, and more will be added regularly.
 ---
+
 # Chinese Reference Shelf at Brill
 
 **URL:** https://chinesereferenceshelf.brillonline.com
@@ -23,5 +25,5 @@ description: Chinese Reference Shelf Onlineprovides one-stop access to important
 
 ## Summary
 
-Chinese Reference Shelf Onlineprovides one-stop access to important reference works on China. The following titles are available now, and more will be added regularly.
+Chinese Reference Shelf Online Chinese Reference Shelf Online provides one-stop access to important reference works on China. The following titles are available now, and more will be added regularly.
 

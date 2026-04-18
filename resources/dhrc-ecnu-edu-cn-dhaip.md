@@ -9,8 +9,9 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: dhrc-ecnu-edu-cn-dhaip
-description: A resource for Chinese and East Asian studies.
+description: 'æ¨å½åä½¿ç¨çæµè§å¨çæ¬è¿æ§,å¯è½æ æ³æ£å¸¸ä½¿ç¨ç³»ç»çæäºåè½ã ä¸ºäºè·å¾æä½³çä½¿ç¨ä½éª,æä»¬å»ºè®®æ¨åçº§å°ä»¥ä¸æµè§å¨çææ°çæ¬:'
 ---
+
 # Dhrc Ecnu Edu Cn Dhaip
 
 **URL:** https://sfwg.ecnu.edu.cn/login/login?externalIds=8lxv8c4d&custom=7&returnUrl=http%3A%2F%2Fdhrc.ecnu.edu.cn%2Fdhaip
@@ -19,5 +20,5 @@ description: A resource for Chinese and East Asian studies.
 
 ## Summary
 
-A resource for Chinese and East Asian studies.
+æ¨å½åä½¿ç¨çæµè§å¨çæ¬è¿æ§,å¯è½æ æ³æ£å¸¸ä½¿ç¨ç³»ç»çæäºåè½ã ä¸ºäºè·å¾æä½³çä½¿ç¨ä½éª,æä»¬å»ºè®®æ¨åçº§å°ä»¥ä¸æµè§å¨çææ°çæ¬:
 

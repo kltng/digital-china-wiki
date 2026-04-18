@@ -11,10 +11,13 @@ tags:
 - periodical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14263719
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Chiefly in Chinese; some contents in English translated from Chinese
+  - Beijing : Caixin chuan mei - Caixin is a media platform providing financial and
+  business news on China and the world through periodicals, online content, mobile
+  apps, conferences, books and TV/video programs - China > Politics and government.
+  - China > Social conditions. - China > Economic conditions.'
 ---
+
 # Caixin news 财新新闻及数据
 
 **URL:** https://searchworks.stanford.edu/view/14263719
@@ -23,5 +26,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Chiefly in Chinese; some contents in English translated from Chinese - Beijing : Caixin chuan mei - Caixin is a media platform providing financial and business news on China and the world through periodicals, online content, mobile apps, conferences, books and TV/video programs - China > Politics and government. - China > Social conditions. - China > Economic conditions.
 

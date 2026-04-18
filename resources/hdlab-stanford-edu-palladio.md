@@ -12,10 +12,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: hdlab-stanford-edu-palladio
-description: Palladio is developed at Humanities + Design, Stanford University. Distributed
-  with an MIT license. Copy and paste out of your spreadsheets, drag-and-drop to upload
-  tabular data (e.g.
+description: What can I do with Palladio? Create or Open Palladio projects Copy and
+  paste out of your spreadsheets, drag-and-drop to upload tabular data (e. tsv), or
+  link to a file in a public Dropbox folder to create a new Palladio project. In the
+  Map view, you can see any coordinates data as points on a map. Relationships between
+  distinct points can be connected by lines, with the arc of the line representing
+  the flow of the relationship.
 ---
+
 # Hdlab Stanford Edu Palladio
 
 **URL:** http://hdlab.stanford.edu/palladio/
@@ -24,5 +28,5 @@ description: Palladio is developed at Humanities + Design, Stanford University. 
 
 ## Summary
 
-Palladio is developed at Humanities + Design, Stanford University. Distributed with an MIT license. Copy and paste out of your spreadsheets, drag-and-drop to upload tabular data (e.g.
+What can I do with Palladio? Create or Open Palladio projects Copy and paste out of your spreadsheets, drag-and-drop to upload tabular data (e. tsv), or link to a file in a public Dropbox folder to create a new Palladio project. In the Map view, you can see any coordinates data as points on a map. Relationships between distinct points can be connected by lines, with the arc of the line representing the flow of the relationship.
 

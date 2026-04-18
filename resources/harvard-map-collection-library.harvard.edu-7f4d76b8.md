@@ -17,9 +17,14 @@ tags:
 - statistical
 china_relevance: primary
 source_id: harvard-map-collection-library.harvard.edu-7f4d76b8
-description: Home to Harvard’s extensive collection of historical maps and geospatial
-  data.
+description: Researching with Maps The Harvard Map Collection is open to all researchers
+  by appointment. Our collections include physical maps and atlases spanning centuries,
+  alongside digital maps and geospatial datasets. Our staff support research in cartography,
+  geography, history, and spatial analysis. Search Our Physical Collections Use these
+  tools to search for relevant physical maps and request them for viewing in our reading
+  room.
 ---
+
 # Harvard Map Collection
 
 **URL:** https://library.harvard.edu/libraries/harvard-map-collection
@@ -28,5 +33,5 @@ description: Home to Harvard’s extensive collection of historical maps and geo
 
 ## Summary
 
-Home to Harvard’s extensive collection of historical maps and geospatial data.
+Researching with Maps The Harvard Map Collection is open to all researchers by appointment. Our collections include physical maps and atlases spanning centuries, alongside digital maps and geospatial datasets. Our staff support research in cartography, geography, history, and spatial analysis. Search Our Physical Collections Use these tools to search for relevant physical maps and request them for viewing in our reading room.
 

@@ -20,8 +20,12 @@ tags:
 - statistical
 china_relevance: primary
 source_id: streaming-video-resources-at-harvard-guides.library.harvard.edu-512c15f9
-description: 'Research Guides: Streaming Video @ Harvard: Home'
+description: 'Streaming Video by Type Streaming Video Resources A-Z 60 Minutes 1997-2014,
+  60 Minutes 2015-2024 1000s of videos from the long-running news program. Alexander
+  Street: Follow this link to search across all twenty-one of Harvard''s video databases
+  from this vendor.'
 ---
+
 # Streaming Video Resources at Harvard
 
 **URL:** http://guides.library.harvard.edu/stream
@@ -30,5 +34,5 @@ description: 'Research Guides: Streaming Video @ Harvard: Home'
 
 ## Summary
 
-Research Guides: Streaming Video @ Harvard: Home
+Streaming Video by Type Streaming Video Resources A-Z 60 Minutes 1997-2014, 60 Minutes 2015-2024 1000s of videos from the long-running news program. Alexander Street: Follow this link to search across all twenty-one of Harvard's video databases from this vendor.
 

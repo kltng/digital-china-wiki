@@ -17,10 +17,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: songyuan-org-songtools
-description: Journal of Song-Yuan StudiesEditorsSubmission GuidelinesStyle SheetEnglish
-  UsagePublicationsArchive Submission Guidelines Research ReferencesMiddle Period
-  ToolsSong ToolsBrowseSearchYuan ResourcesMore...
+description: Artworks on this page are from the collection of the Metropolitan Museum
+  of Art, and have been licensed through CC0 1. 0 Universal Public Domain Dedication.
+  The Society for Song, Yuan, and Conquest Dynasties Studies is an international society
+  committed to supporting the study of Chinese as well as Khitan, Jurchen, Tangut,
+  and Mongol-history, society, and culture from the founding of the Liao and Song
+  dynasties in the tenth century to the end of ...
 ---
+
 # Song Research Tools
 
 **URL:** https://www.songyuan.org/SongTools
@@ -29,5 +33,5 @@ description: Journal of Song-Yuan StudiesEditorsSubmission GuidelinesStyle Sheet
 
 ## Summary
 
-Journal of Song-Yuan StudiesEditorsSubmission GuidelinesStyle SheetEnglish UsagePublicationsArchive Submission Guidelines Research ReferencesMiddle Period ToolsSong ToolsBrowseSearchYuan ResourcesMore Resources Song ToolsBrowseSearch Ya ZuoUniversity of California, Santa BarbaraHistory DepartmentHSSB 4227Santa Barbara, California 93106-9410 Charles Hartman&Paul Jakov Smith Artworks on this page are from the collection of the Metropolitan Museum of Art, and have been licensed through CC0 1.0 Universal Public Domain Dedication.
+Artworks on this page are from the collection of the Metropolitan Museum of Art, and have been licensed through CC0 1. 0 Universal Public Domain Dedication. The Society for Song, Yuan, and Conquest Dynasties Studies is an international society committed to supporting the study of Chinese as well as Khitan, Jurchen, Tangut, and Mongol-history, society, and culture from the founding of the Liao and Song dynasties in the tenth century to the end of ...
 

@@ -11,8 +11,11 @@ tags:
 - social_history
 china_relevance: primary
 source_id: cbdb-ontology-on-webvowl-usources.cn-13b8db28
-description: WebVOWL - Web-based Visualization of Ontologies
+description: 'WebVOWL does not work properly in Internet Explorer and Microsoft Edge.
+  Loaded cached ontology Drag ontology file here. Property: owl:objectProperty Datatype:
+  rdfs:Literal'
 ---
+
 # CBDB Ontology on WebVOWL
 
 **URL:** http://www.usources.cn/webvowl
@@ -21,5 +24,5 @@ description: WebVOWL - Web-based Visualization of Ontologies
 
 ## Summary
 
-WebVOWL - Web-based Visualization of Ontologies
+WebVOWL does not work properly in Internet Explorer and Microsoft Edge. Loaded cached ontology Drag ontology file here. Property: owl:objectProperty Datatype: rdfs:Literal
 

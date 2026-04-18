@@ -12,9 +12,10 @@ tags:
 - statistical
 china_relevance: primary
 source_id: bibliography-of-oriental-studies-on-the-web-open-ccess-corpus.kanji.zinbun.kyoto-u.ac.jp-6cc60f30
-description: 東洋学文献類目データセット — Datasets of the Bibliography of Oriental Studies and
-  related tools, etc.
+description: — Datasets of the Bibliography of Oriental Studies and related tools,
+  etc.
 ---
+
 # Bibliography of Oriental Studies on the Web 東洋学文献類目検索 OPENＡCCESS
 
 **URL:** https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Ruimoku
@@ -25,5 +26,5 @@ description: 東洋学文献類目データセット — Datasets of the Bibliog
 
 ## Summary
 
-東洋学文献類目データセット — Datasets of the Bibliography of Oriental Studies and related tools, etc.
+— Datasets of the Bibliography of Oriental Studies and related tools, etc.
 

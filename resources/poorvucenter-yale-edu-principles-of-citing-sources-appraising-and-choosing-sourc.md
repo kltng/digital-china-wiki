@@ -20,10 +20,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: poorvucenter-yale-edu-principles-of-citing-sources-appraising-and-choosing-sourc
-description: It can be difficult to distinguish between a scholarly source and a popular
-  one. In general, scholarly sources have been approved by a group with recognized
-  expertise in the field under discussion.
+description: Assessing the Reliability of Sources of Opinion Depending on the research
+  context, you may have sources that are not as reliable as scholarly sources but
+  that still add texture or authority to your argument. In the humanities, for instance,
+  critics’ opinions often demonstrate bias (even celebrate it).
 ---
+
 # Using Sources
 
 **URL:** https://poorvucenter.yale.edu/principles-of-citing-sources-appraising-and-choosing-sources
@@ -32,5 +34,5 @@ description: It can be difficult to distinguish between a scholarly source and a
 
 ## Summary
 
-It can be difficult to distinguish between a scholarly source and a popular one. In general, scholarly sources have been approved by a group with recognized expertise in the field under discussion. All other sources can be generally described as popular sources.
+Assessing the Reliability of Sources of Opinion Depending on the research context, you may have sources that are not as reliable as scholarly sources but that still add texture or authority to your argument. In the humanities, for instance, critics’ opinions often demonstrate bias (even celebrate it).
 

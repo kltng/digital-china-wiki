@@ -1,7 +1,7 @@
 ---
 title: Access Newspaper Archive
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: http://access.newspaperarchive.com/
 language: null
 region: global
@@ -12,6 +12,11 @@ tags:
 - newspaper_studies
 china_relevance: null
 source_id: access-newspaperarchive-com
+description: Welcome to one of the world’s largest historical newspaper archives.
+  If you are seeing this page after clicking a link from your library or institution
+  then there was a problem with the authentication. You can check with your host library
+  or institution to confirm they have an active service. You can also email clientsupport@worldarchives.
+  com to report the library or institution you are attempting to access through.
 ---
 
 # Access Newspaper Archive
@@ -22,7 +27,7 @@ source_id: access-newspaperarchive-com
 
 ## Summary
 
-Access NewspaperARCHIVE.com is one of the world's largest historical newspaper archives, providing institutional access to over 16,933 newspaper publications dating from 1607 to the present day. The archive contains approximately 300 million newspaper pages, with 85% being unique to the collection. Users can search articles and browse through publications across 47 countries and all 53 U.S. states. The archive is a valuable resource for finding stories beyond obituaries, marriages, or birth records, including broader historical context around these events. The platform serves both institutions through subscription access and individual researchers through personal accounts.
+Welcome to one of the world’s largest historical newspaper archives. If you are seeing this page after clicking a link from your library or institution then there was a problem with the authentication. You can check with your host library or institution to confirm they have an active service. You can also email clientsupport@worldarchives. com to report the library or institution you are attempting to access through.
 
 ## 摘要
 

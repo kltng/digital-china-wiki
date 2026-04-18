@@ -10,10 +10,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14642579
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo jin dai bao kan. Da gong bao : 1902-1949 - [China] : Zhongguo
+  guo jia tu shu guan : Zhongguo jiao yu tu shu jin chu kou you xian gong si : De
+  hong zi xun you xian gong si - [China] : 中國國家圖書館 : 中国教育图书进出口有限公司 : 得泓資訊有限公司 Creators/Contributors
+  - Bao zhi suo yin ji ying xiang shou lu fan wei: Tianjin ban (1902.'
 ---
+
 # Da Gong Bao 大公报 1902-1949
 
 **URL:** https://searchworks.stanford.edu/view/14642579
@@ -22,5 +24,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo jin dai bao kan. Da gong bao : 1902-1949 - [China] : Zhongguo guo jia tu shu guan : Zhongguo jiao yu tu shu jin chu kou you xian gong si : De hong zi xun you xian gong si - [China] : 中國國家圖書館 : 中国教育图书进出口有限公司 : 得泓資訊有限公司 Creators/Contributors - Bao zhi suo yin ji ying xiang shou lu fan wei: Tianjin ban (1902.
 

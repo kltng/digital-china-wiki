@@ -1,7 +1,7 @@
 ---
 title: Google Books
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://books.google.com/
 language: null
 region: global
@@ -14,6 +14,10 @@ tags:
 - guide
 china_relevance: null
 source_id: books-google-com
+description: ³äº Google å¾ä¹¦æç´¢ åä½åè®¡å å¾ä¹¦é¦è®¡å | å ³äº Google å¾ä¹¦æç´¢æ¦è¿°
+  | åå² | äºå®ä¸è¯¯è§£æç´¢å¾ä¹¦å æ°åè½ï¼ç¨ Google å¾ä¹¦æç´¢åå»ºæ¨èªå·±çå¾ä¹¦é¦ãäºè§£å¦ä½åå»ºÂ»
+  æ¨æ¯åºçåè¿æ¯ä½è ï¼äºè§£å¦ä½å¨ Google ä¸å è´¹æ¨éæ¨çå¾ä¹¦ã | ©2011 Google - ä¸»é¡µ
+  - å ³äº Google - éç§æ¿ç 通过 Google 图书，您可以阅读、下载、引用以及翻译图书和杂志。 这些图书中有些是由发布商提供的，还有一些则是通过图书馆计划扫描的版本。
 ---
 
 # Google Books
@@ -24,7 +28,7 @@ source_id: books-google-com
 
 ## Summary
 
-Google Books is a comprehensive digital library project that allows users to search the full text of millions of books that have been digitized from library collections and publishers worldwide. The platform offers several levels of access depending on copyright status: full view for books in the public domain, preview access for copyrighted materials, and bibliographic information for books that can only be searched but not viewed. Google Books includes significant collections of Chinese-language titles, both historical and contemporary, making it a valuable tool for discovering and accessing Chinese texts. Users can search by keyword, title, author, or subject, and often view digitized pages or full texts of out-of-copyright works. The platform features book information, reviews, and links to purchase options or library holdings. It serves as an important research tool for identifying books, verifying citations, and accessing public domain content across languages and disciplines.
+³äº Google å¾ä¹¦æç´¢ åä½åè®¡å å¾ä¹¦é¦è®¡å | å ³äº Google å¾ä¹¦æç´¢æ¦è¿° | åå² | äºå®ä¸è¯¯è§£æç´¢å¾ä¹¦å æ°åè½ï¼ç¨ Google å¾ä¹¦æç´¢åå»ºæ¨èªå·±çå¾ä¹¦é¦ãäºè§£å¦ä½åå»ºÂ» æ¨æ¯åºçåè¿æ¯ä½è ï¼äºè§£å¦ä½å¨ Google ä¸å è´¹æ¨éæ¨çå¾ä¹¦ã | ©2011 Google - ä¸»é¡µ - å ³äº Google - éç§æ¿ç 通过 Google 图书，您可以阅读、下载、引用以及翻译图书和杂志。 这些图书中有些是由发布商提供的，还有一些则是通过图书馆计划扫描的版本。
 
 ## 摘要
 

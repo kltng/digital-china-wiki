@@ -10,10 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-13567889
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo li shi wen xian zong ku. Jin dai bao zhi shu ju ku - Guo jia
+  tu shu guan chu ban she - Beijing : Guo jia tu shu guan chu ban she Creators/Contributors
+  Bibliographic information'
 ---
+
 # Zhongguo li shi wen xian zong ku. Jin dai bao zhi shu ju ku 中国历史文献总库. 近代报纸数据库
 
 **URL:** https://searchworks.stanford.edu/view/13567889
@@ -22,5 +23,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo li shi wen xian zong ku. Jin dai bao zhi shu ju ku - Guo jia tu shu guan chu ban she - Beijing : Guo jia tu shu guan chu ban she Creators/Contributors Bibliographic information
 

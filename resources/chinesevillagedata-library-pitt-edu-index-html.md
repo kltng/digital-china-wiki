@@ -20,9 +20,12 @@ tags:
 - statistics
 china_relevance: null
 source_id: chinesevillagedata-library-pitt-edu-index-html
-description: To improve user experience with the CCVGD datasets, we sincerely invite
-  you to participate in our survey.
+description: In 2018, the East Asian Library of the University of Pittsburgh Library
+  System (ULS) proposed the Contemporary Chinese Village Gazetteer Data (CCVG Data)
+  project, to create an open dataset consisting of data selected from the ULS collection
+  of Chinese village gazetteers.
 ---
+
 # Contemporary Chinese Village Gazetteer Data (CCVG Data) 当代中国村庄数据 (open access)
 
 **URL:** https://chinesevillagedata.library.pitt.edu/
@@ -31,5 +34,5 @@ description: To improve user experience with the CCVGD datasets, we sincerely in
 
 ## Summary
 
-To improve user experience with the CCVGD datasets, we sincerely invite you to participate in our survey. This survey will help us understand usersâ challenges and needs in understanding/using the datasets. Based on your feedback, we will be able to provide more support that will benefit our users.
+In 2018, the East Asian Library of the University of Pittsburgh Library System (ULS) proposed the Contemporary Chinese Village Gazetteer Data (CCVG Data) project, to create an open dataset consisting of data selected from the ULS collection of Chinese village gazetteers.
 

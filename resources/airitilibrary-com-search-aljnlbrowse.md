@@ -1,7 +1,7 @@
 ---
 title: Airiti Library Journal Search
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://www.airitilibrary.com/search/aljnlbrowse
 language: zh
 region: taiwan
@@ -11,6 +11,9 @@ tags:
 - taiwan
 china_relevance: primary
 source_id: airitilibrary-com-search-aljnlbrowse
+description: è¯èéè¦å¸è¡å³æçå»£åº¦èæ·±åº¦ï¼ä¸å éå¿ä»»ä½é åçå¸è¡ç¼å±ï¼æ´è¦çºä»»ä½ä¸ä½éè¦ç²å¾æä½³è³è¨çä½¿ç¨è
+  ï¼ä»¥å°æ¥ãäººæ§ãåéçç²¾ç¥ï¼æä¾ææå¹å¼çç¥èæåã ©å²¸å¸è¡è³æºä¹æª¢ç´¢å¹³å°ï¼ §å®¹æ¶µèæåè«æãå¸ä½è«æãæè°è«æéçéè¦å
+  åªè³ªä¾¿æ·çå¸è¡ç¥èæåã ä¸è¼é±è®ä¸åè¼å ·éå¶ï¼é¨æé±è® æä¾åé±ãå°æèªåæ¸éãé ç´ãæ¨è¦æ¡è³¼æ¸ç±åè½
 ---
 
 # Airiti Library Journal Search
@@ -23,7 +26,7 @@ source_id: airitilibrary-com-search-aljnlbrowse
 
 ## Summary
 
-A journal search interface for Airiti Library, providing access to Chinese-language academic journals and periodicals. The search tool allows users to browse and search through Taiwanese and international electronic journals, facilitating discovery of scholarly articles across multiple disciplines. Researchers can locate specific journals or search by subject category to find relevant periodical literature in Chinese language. The interface supports academic research by providing organized access to current and back issues of participating journals.
+è¯èéè¦å¸è¡å³æçå»£åº¦èæ·±åº¦ï¼ä¸å éå¿ä»»ä½é åçå¸è¡ç¼å±ï¼æ´è¦çºä»»ä½ä¸ä½éè¦ç²å¾æä½³è³è¨çä½¿ç¨è ï¼ä»¥å°æ¥ãäººæ§ãåéçç²¾ç¥ï¼æä¾ææå¹å¼çç¥èæåã ©å²¸å¸è¡è³æºä¹æª¢ç´¢å¹³å°ï¼ §å®¹æ¶µèæåè«æãå¸ä½è«æãæè°è«æéçéè¦å åªè³ªä¾¿æ·çå¸è¡ç¥èæåã ä¸è¼é±è®ä¸åè¼å ·éå¶ï¼é¨æé±è® æä¾åé±ãå°æèªåæ¸éãé ç´ãæ¨è¦æ¡è³¼æ¸ç±åè½
 
 ## 摘要
 

@@ -1,7 +1,7 @@
 ---
 title: Chinese Civilization in Time and Space 中華文明之時空基礎架構
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: http://ccts.ascc.net
 language: zh
 region: prc
@@ -11,6 +11,10 @@ tags:
 - social_history
 china_relevance: primary
 source_id: chinese-civilization-in-time-and-space-ccts.ascc.net-a6d0bce0
+description: æ¬ç³»çµ±ä¿èµ·æºæ¼è·¨é åçå¸è¡ç ç©¶æç¨éæ±ï¼ææå»ºæ§ä»¥ä¸åçºç©ºéç¯åï¼ä¸¦ä»¥åå§ç¤¾æè¿ä»çä¸åæ·å²çºæéç¸±æ·±ï¼ä»¥ä¸åææçºå
+  §æ¶µçæ´åæ§è³è¨æç¨ç°å¢ãä¸»è¦å°è±¡é¤ä»¥å¸è¡ç ç©¶èæè²çºä¸»çå¸è ãå°å®¶ãèæå¸«å¤ï¼äº¦å¸æè½å
+  ¼é¡§ä¸è¬æ§çï¼ä»¥æéåç©ºéçºä¸»çè³è¨ç®¡çãåæãæ´åèåç¾çæç¨ãæçµç®çååæå»ºç«æçºèéç ç©¶èæç¨ææä¹åé¥æ©å¶ï¼ä»¥ä¸æ·å
+  §æ¶µï¼ç¼æ®è³ææ´åå¹å¼ä¸¦åäº«äºä½¿ç¨è å«åºæ¬ç©ºéåè³ãWebGISæ´åæç¨ç°å¢ãä»¥åä¸»é¡åçå±¬æ§è³è¨ä¸å¤§é¨åãåºæ¬ç©ºéåè³ä»¥èå
 ---
 
 # Chinese Civilization in Time and Space 中華文明之時空基礎架構
@@ -21,7 +25,7 @@ source_id: chinese-civilization-in-time-and-space-ccts.ascc.net-a6d0bce0
 
 ## Summary
 
-A digital humanities project and Geographic Information System (GIS) platform that provides temporal and spatial data on Chinese civilization from prehistoric times through the imperial dynasties. The system integrates historical maps, gazetteer data, archaeological sites, and administrative boundaries into an interactive framework allowing researchers to explore how Chinese civilization developed across different geographical regions and historical periods. Resources include digitized historical maps, place-name gazetteers, demographic data, and information about administrative divisions, transportation routes, and cultural sites across dynastic China. This tool enables spatiotemporal analysis and visualization of Chinese historical phenomena.
+æ¬ç³»çµ±ä¿èµ·æºæ¼è·¨é åçå¸è¡ç ç©¶æç¨éæ±ï¼ææå»ºæ§ä»¥ä¸åçºç©ºéç¯åï¼ä¸¦ä»¥åå§ç¤¾æè¿ä»çä¸åæ·å²çºæéç¸±æ·±ï¼ä»¥ä¸åææçºå §æ¶µçæ´åæ§è³è¨æç¨ç°å¢ãä¸»è¦å°è±¡é¤ä»¥å¸è¡ç ç©¶èæè²çºä¸»çå¸è ãå°å®¶ãèæå¸«å¤ï¼äº¦å¸æè½å ¼é¡§ä¸è¬æ§çï¼ä»¥æéåç©ºéçºä¸»çè³è¨ç®¡çãåæãæ´åèåç¾çæç¨ãæçµç®çååæå»ºç«æçºèéç ç©¶èæç¨ææä¹åé¥æ©å¶ï¼ä»¥ä¸æ·å §æ¶µï¼ç¼æ®è³ææ´åå¹å¼ä¸¦åäº«äºä½¿ç¨è å«åºæ¬ç©ºéåè³ãWebGISæ´åæç¨ç°å¢ãä»¥åä¸»é¡åçå±¬æ§è³è¨ä¸å¤§é¨åãåºæ¬ç©ºéåè³ä»¥èå
 
 ## 摘要
 

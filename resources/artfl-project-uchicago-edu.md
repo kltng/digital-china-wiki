@@ -17,10 +17,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: artfl-project-uchicago-edu
-description: Founded in 1982 as a result of a collaboration between the French government
-  and the University of Chicago, the ARTFL Project is a consortium-based service that
-  provides its members with access to Nor...
+description: In addition to our member services, ARTFL also supports many Public Access
+  databases including the Dictionnaires d'autrefois, the Encyclopédie of Diderot and
+  d'Alembert, and the Bibliothèque Bleue de Troyes. As we move forward, we continue
+  to foster a spirit of digital collaboration at ARTFL, which has resulted in a host
+  of French and non-French projects with various research partners in North America
+  and abroad, as well the development of a suit...
 ---
+
 # Artfl Project Uchicago Edu
 
 **URL:** https://artfl-project.uchicago.edu/
@@ -29,5 +33,5 @@ description: Founded in 1982 as a result of a collaboration between the French g
 
 ## Summary
 
-Founded in 1982 as a result of a collaboration between the French government and the University of Chicago, the ARTFL Project is a consortium-based service that provides its members with access to North America's largest collection of digitized French resources. Along with ARTFL's flagship databaseARTFL-FRANTEXT, ARTFL members are also given access to a large variety of otherSubscriber Databases.
+In addition to our member services, ARTFL also supports many Public Access databases including the Dictionnaires d'autrefois, the Encyclopédie of Diderot and d'Alembert, and the Bibliothèque Bleue de Troyes. As we move forward, we continue to foster a spirit of digital collaboration at ARTFL, which has resulted in a host of French and non-French projects with various research partners in North America and abroad, as well the development of a suit...
 

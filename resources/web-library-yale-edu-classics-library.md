@@ -18,10 +18,14 @@ tags:
 - social_history
 china_relevance: null
 source_id: web-library-yale-edu-classics-library
-description: Thousands of years, thousands of books, scenic overlooks. Located on
-  the fifth floor above Phelps Gate, overlooking Old Campus and the New Haven Green,
-  the Classics Library supports the study of Greco...
+description: Thousands of years, thousands of books, scenic overlooks. Reserve readings
+  for classics courses are shelved in the Library. Reference and research consultation
+  services are available during normal business hours and via email. Access to the
+  Classics Library is open to current Yale faculty, students, and staff, and entry
+  requires a current Yale ID card. The Library has a scanner and public workstation
+  on-site.
 ---
+
 # Classics Library
 
 **URL:** https://web.library.yale.edu/classics-library
@@ -30,5 +34,5 @@ description: Thousands of years, thousands of books, scenic overlooks. Located o
 
 ## Summary
 
-Thousands of years, thousands of books, scenic overlooks. Located on the fifth floor above Phelps Gate, overlooking Old Campus and the New Haven Green, the Classics Library supports the study of Greco-Roman world and its reception from the Iron Age through Late Antiquity. The Classics Library constitutes an integral part of the curricular program of theYale Department of Classicsand functions in close and vital connection with its teaching and research, as well as with theArchaiaandAncient Philosophyprograms.
+Thousands of years, thousands of books, scenic overlooks. Reserve readings for classics courses are shelved in the Library. Reference and research consultation services are available during normal business hours and via email. Access to the Classics Library is open to current Yale faculty, students, and staff, and entry requires a current Yale ID card. The Library has a scanner and public workstation on-site.
 

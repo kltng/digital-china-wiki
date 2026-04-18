@@ -11,10 +11,14 @@ tags:
 - periodical
 china_relevance: null
 source_id: humanitiesebook-org
-description: ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700
-  foundational books in the humanities and social sciences, presented in collaboration
-  with over 120 publishers and Michigan Publish...
+description: 'The ACLS Humanities Ebook Collection (ACLS HEB) presents thousands of
+  foundational books in the humanities and social sciences from hundreds of publishers.
+  ACLS HEB is unique among ebook collections in three ways: - It is curated by scholars,
+  for scholars; - It is hosted on the open-source Fulcrum platform; - The curation
+  process has invested in unique and otherwise hard to access backlist content. By
+  Scholars, For Scholars'
 ---
+
 # ACLS Humanities E-Book Project
 
 **URL:** http://www.humanitiesebook.org/
@@ -23,5 +27,5 @@ description: ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,7
 
 ## Summary
 
-ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700 foundational books in the humanities and social sciences, presented in collaboration with over 120 publishers and Michigan Publishing.
+The ACLS Humanities Ebook Collection (ACLS HEB) presents thousands of foundational books in the humanities and social sciences from hundreds of publishers. ACLS HEB is unique among ebook collections in three ways: - It is curated by scholars, for scholars; - It is hosted on the open-source Fulcrum platform; - The curation process has invested in unique and otherwise hard to access backlist content. By Scholars, For Scholars
 

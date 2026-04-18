@@ -19,9 +19,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: theses-com-idx-registered-users-quick-html
-description: ProQuest Dissertations & Theses provides researchers with unmatched search
-  and reference link functionality that delivers results from across the globe.
+description: 'Dissertations & Theses Where past discoveries impact global innovations
+  of tomorrow. ProQuest: The World Leader in Dissertation Access and Dissemination
+  Over the last 80 years, ProQuest has built the world’s most comprehensive and renowned
+  dissertations program.'
 ---
+
 # Index to Theses...Accepted for Higher Degrees by the Universities of Great Britain and Ireland
 
 **URL:** http://www.theses.com/idx/registered_users/quick.html
@@ -30,5 +33,5 @@ description: ProQuest Dissertations & Theses provides researchers with unmatched
 
 ## Summary
 
-ProQuest Dissertations & Theses provides researchers with unmatched search and reference link functionality that delivers results from across the globe.
+Dissertations & Theses Where past discoveries impact global innovations of tomorrow. ProQuest: The World Leader in Dissertation Access and Dissemination Over the last 80 years, ProQuest has built the world’s most comprehensive and renowned dissertations program.
 

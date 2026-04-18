@@ -10,9 +10,11 @@ tags:
 - guide
 china_relevance: null
 source_id: routledgehandbooks-com-doi-10-4324-9780367822217
-description: Selection of featured collections, books and chapters that are available
-  on Routledge Handbooks Online.
+description: Our Routledge Handbooks Subject Collections provide comprehensive coverage
+  of subject areas and sub-disciplines across Humanities, Social Sciences, Education,
+  Psychology, Science, Built Environment and Engineering.
 ---
+
 # Routledge Handbook of the South China Sea
 
 **URL:** https://www.routledgehandbooks.com/doi/10.4324/9780367822217
@@ -21,5 +23,5 @@ description: Selection of featured collections, books and chapters that are avai
 
 ## Summary
 
-Selection of featured collections, books and chapters that are available on Routledge Handbooks Online.
+Our Routledge Handbooks Subject Collections provide comprehensive coverage of subject areas and sub-disciplines across Humanities, Social Sciences, Education, Psychology, Science, Built Environment and Engineering.
 

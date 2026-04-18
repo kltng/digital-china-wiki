@@ -11,10 +11,10 @@ tags:
 - guide
 china_relevance: null
 source_id: search-proquest-com-dnsa-ci
-description: 'If you have a Yale University ID then log in here: If you have a Yale
-  New Haven Hospital ID and DO NOT have a Yale University ID then please log in here:
-  If you would like to attempt to access this re...'
+description: If you would like to attempt to access this resource without authenticating,
+  navigate directly to the resource website.
 ---
+
 # U.S. intelligence and China collection, analysis, and covert action
 
 **URL:** http://search.proquest.com/dnsa_ci?accountid=15172
@@ -23,5 +23,5 @@ description: 'If you have a Yale University ID then log in here: If you have a Y
 
 ## Summary
 
-If you have a Yale University ID then log in here: If you have a Yale New Haven Hospital ID and DO NOT have a Yale University ID then please log in here: If you would like to attempt to access this resource without authenticating, navigate directly to theresource website.
+If you would like to attempt to access this resource without authenticating, navigate directly to the resource website.
 

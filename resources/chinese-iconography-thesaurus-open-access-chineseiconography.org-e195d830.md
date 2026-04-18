@@ -12,10 +12,14 @@ tags:
 - statistical
 china_relevance: primary
 source_id: chinese-iconography-thesaurus-open-access-chineseiconography.org-e195d830
-description: Chinese, English bilingual search function Filter function for more precise
-  search Lightbox that can be used for comparison with images inside and outside the
-  database Image links to the original sour...
+description: A taxonomic vehicle to explore the classical Chinese visual culture The
+  CIT provides free access to motifs, subjects and themes of images in a variety of
+  material forms - paintings, sculpture, prints, book illustrations, ceramics, and
+  other types of applied arts- made in China from 700 to 1900. The image archive contains
+  a great number of objects selected from the representative collections of museums
+  and libraries.
 ---
+
 # Chinese Iconography Thesaurus 中國圖像誌索引典 OPEN ACCESS
 
 **URL:** https://chineseiconography.org
@@ -26,5 +30,5 @@ description: Chinese, English bilingual search function Filter function for more
 
 ## Summary
 
-Chinese, English bilingual search function Filter function for more precise search Lightbox that can be used for comparison with images inside and outside the database Image links to the original source CLICK on the image to the right and read the corresponding description. ZOOM with the + and - buttons or scrollwheel of your mouse. SEARCH & BROWSE for more information by clicking on the description
+A taxonomic vehicle to explore the classical Chinese visual culture The CIT provides free access to motifs, subjects and themes of images in a variety of material forms - paintings, sculpture, prints, book illustrations, ceramics, and other types of applied arts- made in China from 700 to 1900. The image archive contains a great number of objects selected from the representative collections of museums and libraries.
 

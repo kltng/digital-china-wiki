@@ -22,8 +22,13 @@ tags:
 - statistical
 china_relevance: primary
 source_id: harvard-yenching-library-library.harvard.edu-11cd7d9b
-description: 哈佛燕京圖書館 | ハーバード燕京図書館 | 하버드 옌칭 도서관 | Thư viện Harvard-Yenching
+description: Harvard-Yenching Library holds the most comprehensive East Asian collection
+  of any American university, with circulating and special collection materials in
+  Chinese, Japanese, Korean, Vietnamese, Tibetan, Manchu, Mongolian, and more. Collection
+  Highlights Explore rare Chinese handscrolls, Japanese manuscripts, and Korean archives
+  alongside rich East Asian collections in history, literature, and culture.
 ---
+
 # Harvard-Yenching Library
 
 **URL:** https://library.harvard.edu/libraries/yenching
@@ -32,5 +37,5 @@ description: 哈佛燕京圖書館 | ハーバード燕京図書館 | 하버드 
 
 ## Summary
 
-哈佛燕京圖書館 | ハーバード燕京図書館 | 하버드 옌칭 도서관 | Thư viện Harvard-Yenching
+Harvard-Yenching Library holds the most comprehensive East Asian collection of any American university, with circulating and special collection materials in Chinese, Japanese, Korean, Vietnamese, Tibetan, Manchu, Mongolian, and more. Collection Highlights Explore rare Chinese handscrolls, Japanese manuscripts, and Korean archives alongside rich East Asian collections in history, literature, and culture.
 

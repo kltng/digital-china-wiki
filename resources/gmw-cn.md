@@ -9,8 +9,10 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: gmw-cn
-description: Guangming Daily. A digital resource for Chinese and East Asian studies.
+description: æ«æäºç»´ç ä¸è½½å ææ¥æ¥å®¢æ·ç«¯ æ«æäºç»´ç å ³æ³¨å æç½å®æ¹å¾®å æ«æäºç»´ç
+  å ³æ³¨å æç½å¾®ä¿¡å ¬å· æ«æäºç»´ç è§çå æç½ææºè§é¢ç²¾å½©å å®¹
 ---
+
 # Guangming Daily
 
 **URL:** http://www.gmw.cn/
@@ -19,5 +21,5 @@ description: Guangming Daily. A digital resource for Chinese and East Asian stud
 
 ## Summary
 
-Guangming Daily. A digital resource for Chinese and East Asian studies.
+æ«æäºç»´ç ä¸è½½å ææ¥æ¥å®¢æ·ç«¯ æ«æäºç»´ç å ³æ³¨å æç½å®æ¹å¾®å æ«æäºç»´ç å ³æ³¨å æç½å¾®ä¿¡å ¬å· æ«æäºç»´ç è§çå æç½ææºè§é¢ç²¾å½©å å®¹
 

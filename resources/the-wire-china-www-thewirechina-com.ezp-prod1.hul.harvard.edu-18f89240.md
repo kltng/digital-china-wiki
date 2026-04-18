@@ -17,9 +17,14 @@ tags:
 - taiwan
 china_relevance: primary
 source_id: the-wire-china-www-thewirechina-com.ezp-prod1.hul.harvard.edu-18f89240
-description: 'The Wire is a digital news magazine dedicated to understanding one of
-  the biggest stories of our time: China’s economic rise.'
+description: Each week’s events curated for your convenience, hand-picked by our editors.
+  In-depth, data-driven storytelling and expert analysis. The writer and editor talks
+  about the first arrivals from China and the long history of prejudice the community
+  has faced. To mark the 25th anniversary of the Hainan spy plane crisis, The Wire
+  China is publishing the second installment of its discussions with people who participated
+  in the dramatic showdown.
 ---
+
 # The Wire China
 
 **URL:** https://www.thewirechina.com
@@ -30,5 +35,5 @@ description: 'The Wire is a digital news magazine dedicated to understanding one
 
 ## Summary
 
-The Wire is a digital news magazine dedicated to understanding one of the biggest stories of our time: China’s economic rise.
+Each week’s events curated for your convenience, hand-picked by our editors. In-depth, data-driven storytelling and expert analysis. The writer and editor talks about the first arrivals from China and the long history of prejudice the community has faced. To mark the 25th anniversary of the Hainan spy plane crisis, The Wire China is publishing the second installment of its discussions with people who participated in the dramatic showdown.
 

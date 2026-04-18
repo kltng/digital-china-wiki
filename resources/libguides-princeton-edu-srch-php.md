@@ -10,8 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: libguides-princeton-edu-srch-php
-description: Search - Research Guides at Princeton University.
+description: These research guides are collections of resources created by library
+  staff to assist you in your research project. Not sure where to start? Request an
+  appointment.
 ---
+
 # Search
 
 **URL:** https://libguides.princeton.edu/srch.php
@@ -20,5 +23,5 @@ description: Search - Research Guides at Princeton University.
 
 ## Summary
 
-Search - Research Guides at Princeton University.
+These research guides are collections of resources created by library staff to assist you in your research project. Not sure where to start? Request an appointment.
 

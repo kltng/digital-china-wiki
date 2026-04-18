@@ -12,9 +12,10 @@ tags:
 - statistical
 china_relevance: null
 source_id: mandarintools-com-chardict-html
-description: A Chinese character dictionary with look-up by English, pinyin, Cantonese
-  pronounciation, and radical/stroke.
+description: I'm interested in hearing your ideas and suggestions for this tool. directly,
+  you might also want to take a look at some of my other on-line Chinese tools.
 ---
+
 # English-Chinese Dictionary
 
 **URL:** http://www.mandarintools.com/chardict.html
@@ -23,5 +24,5 @@ description: A Chinese character dictionary with look-up by English, pinyin, Can
 
 ## Summary
 
-A Chinese character dictionary with look-up by English, pinyin, Cantonese pronounciation, and radical/stroke.
+I'm interested in hearing your ideas and suggestions for this tool. directly, you might also want to take a look at some of my other on-line Chinese tools.
 

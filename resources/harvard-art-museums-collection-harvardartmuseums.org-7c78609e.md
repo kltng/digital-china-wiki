@@ -11,10 +11,13 @@ tags:
 - museum_studies
 china_relevance: primary
 source_id: harvard-art-museums-collection-harvardartmuseums.org-7c78609e
-description: 'Explore our collections: approximately 250,000 objects from the Fogg,
-  Busch-Reisinger, and Arthur M. Sackler Museums. The vast collection contains objects
-  spanning from c. 7000 BCE to 2014.'
+description: © 2026 President and Fellows of About the Harvard Art Museums The Harvard
+  Art Museums promote exploratory thinking about art, working across disciplines and
+  in collaboration with students, faculty, and the public. Through research, teaching,
+  and professional training, we provide a foundation for understanding art’s relevance
+  to the defining issues of our time.
 ---
+
 # Harvard Art Museums Collection
 
 **URL:** https://www.harvardartmuseums.org/collections?q=
@@ -23,5 +26,5 @@ description: 'Explore our collections: approximately 250,000 objects from the Fo
 
 ## Summary
 
-Explore our collections: approximately 250,000 objects from the Fogg, Busch-Reisinger, and Arthur M. Sackler Museums. The vast collection contains objects spanning from c. 7000 BCE to 2014.
+© 2026 President and Fellows of About the Harvard Art Museums The Harvard Art Museums promote exploratory thinking about art, working across disciplines and in collaboration with students, faculty, and the public. Through research, teaching, and professional training, we provide a foundation for understanding art’s relevance to the defining issues of our time.
 

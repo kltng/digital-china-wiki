@@ -1,7 +1,7 @@
 ---
 title: 'CNopendata: CCTV news broadcast text data June 2006-June 2022 CCTV新闻联播文本数据'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://searchworks.stanford.edu/view/14461384
 language: null
 region: global
@@ -13,6 +13,10 @@ tags:
 - political_science
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14461384
+description: 'CCTV xin wen lian bo wen ben shu ju = CCTV news broadcast text data
+  : June 2006 - June 2022 CCTV新闻联播文本数据 = CCTV news broadcast text data : June 2006
+  - June 2022 - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan
+  han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors'
 ---
 
 # CNopendata: CCTV news broadcast text data June 2006-June 2022 CCTV新闻联播文本数据
@@ -23,7 +27,7 @@ source_id: searchworks-stanford-edu-view-14461384
 
 ## Summary
 
-A Stanford University library catalog entry for CNopendata, a dataset containing full-text transcripts of China Central Television (CCTV) Xinwen Lianbo (新闻联播, News Simulcast) broadcasts from June 2006 to June 2022. Xinwen Lianbo is China's flagship state-run evening news program, providing official narratives and coverage of government activities, domestic events, and international affairs. This machine-readable text corpus enables computational analysis, natural language processing research, and content analysis of official Chinese media discourse over a 16-year period. The dataset is valuable for researchers studying Chinese political communication, media framing, and longitudinal patterns in state media reporting.
+CCTV xin wen lian bo wen ben shu ju = CCTV news broadcast text data : June 2006 - June 2022 CCTV新闻联播文本数据 = CCTV news broadcast text data : June 2006 - June 2022 - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors
 
 ## 摘要
 

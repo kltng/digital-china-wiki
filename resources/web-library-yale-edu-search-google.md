@@ -11,8 +11,13 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: web-library-yale-edu-search-google
-description: Search | Yale University Library.
+description: Mission, Vision, and Strategic Directions Yale University Library is
+  made up of almost 600 staff, over a dozen libraries and locations, vast physical
+  collections, extensive electronic resources, and a suite of user-focused services.
+  These elements are activated and connected by technology and deep expertise in the
+  service of teaching, learning, research, and practice.
 ---
+
 # Find, Request, and Use
 
 **URL:** https://web.library.yale.edu/search/google
@@ -21,5 +26,5 @@ description: Search | Yale University Library.
 
 ## Summary
 
-Search | Yale University Library.
+Mission, Vision, and Strategic Directions Yale University Library is made up of almost 600 staff, over a dozen libraries and locations, vast physical collections, extensive electronic resources, and a suite of user-focused services. These elements are activated and connected by technology and deep expertise in the service of teaching, learning, research, and practice.
 

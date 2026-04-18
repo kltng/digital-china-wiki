@@ -12,9 +12,13 @@ tags:
 - guide
 china_relevance: primary
 source_id: giving-to-the-library-library.harvard.edu-95e5a231
-description: Your support of the Harvard Library is an investment in providing open,
-  accessible, and trustworthy knowledge.
+description: Harvard Library Is the Heart of Harvard Our expert staff, global collections,
+  and cutting-edge technologies equip and empower the citizens of today and leaders
+  of tomorrow. To fully engage the remarkable depth of the Library’s collections and
+  collaborations, scholars and citizens around the world need equitable access to
+  trustworthy information and cultural assets.
 ---
+
 # GIVING TO THE LIBRARY
 
 **URL:** https://library.harvard.edu/support-library
@@ -23,5 +27,5 @@ description: Your support of the Harvard Library is an investment in providing o
 
 ## Summary
 
-Your support of the Harvard Library is an investment in providing open, accessible, and trustworthy knowledge.
+Harvard Library Is the Heart of Harvard Our expert staff, global collections, and cutting-edge technologies equip and empower the citizens of today and leaders of tomorrow. To fully engage the remarkable depth of the Library’s collections and collaborations, scholars and citizens around the world need equitable access to trustworthy information and cultural assets.
 

@@ -1,7 +1,7 @@
 ---
 title: 'RRO. Routledge Resources Online: Chinese Studies NEW'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://taylorfrancis.com/rrocs/?context=rrocs
 language: null
 region: global
@@ -12,6 +12,9 @@ tags:
 - social_history
 china_relevance: primary
 source_id: rro-routledge-resources-online-chinese-studies-new-go.openathens.net-eb2f45e2
+description: '- Chinaâs International Relations - Chinese Business and Economy - Chinese
+  History and War - Chinese Language and Literary Studies - Chinese Law and Criminology
+  - Chinese Media, Communication and Technology'
 ---
 
 # RRO. Routledge Resources Online: Chinese Studies NEW
@@ -20,7 +23,7 @@ source_id: rro-routledge-resources-online-chinese-studies-new-go.openathens.net-
 
 ## Summary
 
-Routledge Resources Online: Chinese Studies is a comprehensive digital platform offering curated content for Chinese studies research. The resource provides access to a wide range of academic materials including scholarly books, journal articles, and reference works covering Chinese history, literature, philosophy, religion, politics, and society. Organized thematically for efficient research, the platform enables discovery of authoritative content across multiple disciplines in Chinese and East Asian studies. Designed for students, scholars, and researchers, the database features advanced search capabilities and browsing tools to facilitate scholarly work. Access typically requires institutional subscription through academic libraries.
+- Chinaâs International Relations - Chinese Business and Economy - Chinese History and War - Chinese Language and Literary Studies - Chinese Law and Criminology - Chinese Media, Communication and Technology
 
 ## 摘要
 

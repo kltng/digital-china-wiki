@@ -10,10 +10,14 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: stanford-edu-search
-description: Stanford University, one of the world's leading teaching and research
-  institutions, is dedicated to finding solutions to big challenges and to preparing
-  students for leadership in a complex world.
+description: Excellence in education across disciplines Stanford provides students
+  the opportunity to engage with big ideas, to cross conceptual and disciplinary boundaries,
+  and to become global citizens who embrace diversity of thought and experience. We
+  offer broad and deep academic programs across multiple fields, including the arts
+  and humanities, natural and social sciences, engineering, sustainability, medicine,
+  law, education, and business.
 ---
+
 # Search Stanford
 
 **URL:** https://www.stanford.edu/search
@@ -22,5 +26,5 @@ description: Stanford University, one of the world's leading teaching and resear
 
 ## Summary
 
-Stanford University, one of the world's leading teaching and research institutions, is dedicated to finding solutions to big challenges and to preparing students for leadership in a complex world.
+Excellence in education across disciplines Stanford provides students the opportunity to engage with big ideas, to cross conceptual and disciplinary boundaries, and to become global citizens who embrace diversity of thought and experience. We offer broad and deep academic programs across multiple fields, including the arts and humanities, natural and social sciences, engineering, sustainability, medicine, law, education, and business.
 

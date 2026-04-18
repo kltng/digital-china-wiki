@@ -12,10 +12,13 @@ tags:
 - social_history
 china_relevance: primary
 source_id: searchworks-stanford-edu-view-14741199
-description: Records on Marshall Mission, the American mediation between the Nationalists
-  (KMT) and Chinese Communist Party (CCP) 1945-1947 美方調停國共事件紀錄簿. A digital resource
-  for Chinese and East Asian studies.
+description: 'Mei fang tiao ting guo gong shi jian ji lu bu Text in Chinese and English
+  - [Place of publication not identified] : Han zhen shu wei tu shu, [2022] - [Place
+  of publication not identified] : 漢珍數位圖書, [2022] - Records on Marshall Mission, the
+  American mediation between the Nationalists (KMT) and Chinese Communist Party (CCP)
+  1945-1947 Bibliographic information'
 ---
+
 # Records on Marshall Mission, the American mediation between the Nationalists (KMT) and Chinese Communist Party (CCP) 1945-1947 美方調停國共事件紀錄簿
 
 **URL:** https://searchworks.stanford.edu/view/14741199
@@ -26,5 +29,5 @@ description: Records on Marshall Mission, the American mediation between the Nat
 
 ## Summary
 
-Records on Marshall Mission, the American mediation between the Nationalists (KMT) and Chinese Communist Party (CCP) 1945-1947 美方調停國共事件紀錄簿. A digital resource for Chinese and East Asian studies.
+Mei fang tiao ting guo gong shi jian ji lu bu Text in Chinese and English - [Place of publication not identified] : Han zhen shu wei tu shu, [2022] - [Place of publication not identified] : 漢珍數位圖書, [2022] - Records on Marshall Mission, the American mediation between the Nationalists (KMT) and Chinese Communist Party (CCP) 1945-1947 Bibliographic information
 

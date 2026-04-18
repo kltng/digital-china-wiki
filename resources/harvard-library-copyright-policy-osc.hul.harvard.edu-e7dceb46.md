@@ -17,8 +17,14 @@ tags:
 - statistical
 china_relevance: primary
 source_id: harvard-library-copyright-policy-osc.hul.harvard.edu-e7dceb46
-description: Making Harvard research available online without barriers.
+description: Open Access at Harvard Harvard's Faculty of Arts and Sciences faculty
+  voted unanimously in 2008 to give Harvard permission to make their scholarly articles
+  available for any non-commercial purpose, in the interest of disseminating the fruits
+  of their research and scholarship as widely as possible. In the years since, the
+  remaining eight Harvard schools and several research centers have voted to establish
+  similar open access policies.
 ---
+
 # Harvard Library Copyright Policy
 
 **URL:** https://osc.hul.harvard.edu/programs/copyright/ccby
@@ -27,5 +33,5 @@ description: Making Harvard research available online without barriers.
 
 ## Summary
 
-Making Harvard research available online without barriers.
+Open Access at Harvard Harvard's Faculty of Arts and Sciences faculty voted unanimously in 2008 to give Harvard permission to make their scholarly articles available for any non-commercial purpose, in the interest of disseminating the fruits of their research and scholarship as widely as possible. In the years since, the remaining eight Harvard schools and several research centers have voted to establish similar open access policies.
 

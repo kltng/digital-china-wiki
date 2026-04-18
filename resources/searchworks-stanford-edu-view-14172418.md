@@ -1,7 +1,7 @@
 ---
 title: Tang dai mu zhi ming 唐代墓志铭数据库 (Tang Dynasty Epitaph Database)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://searchworks.stanford.edu/view/14172418
 language: null
 region: global
@@ -12,6 +12,9 @@ tags:
 - social_history
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14172418
+description: 'Tang dai mu zhi ming shu ju ku - Peng Xinglin zhu bian - [Beijing Shi]
+  : Zhonghua shu ju, [2016]- - [北京市] : 中华书局, [2016]- Creators/Contributors - Detailed
+  summary in vernacular field'
 ---
 
 # Tang dai mu zhi ming 唐代墓志铭数据库 (Tang Dynasty Epitaph Database)
@@ -22,7 +25,7 @@ source_id: searchworks-stanford-edu-view-14172418
 
 ## Summary
 
-A Stanford University library catalog entry for the Tang Dynasty Epitaph Database (唐代墓志铭数据库), a specialized scholarly resource for researching Tang dynasty (618-907 CE) tomb inscriptions and funerary epigraphs. The database collects and catalogs epitaphs (muzhi ming) from Tang tombs, which are valuable primary sources containing biographical information, family lineages, official careers, and social networks of Tang period individuals. These stone inscriptions provide insights into Tang society, culture, government administration, and the lives of both elites and commoners. The database typically includes the original Chinese text, translations, annotations, and search capabilities, serving historians, art historians, and scholars of Chinese epigraphy and paleography.
+Tang dai mu zhi ming shu ju ku - Peng Xinglin zhu bian - [Beijing Shi] : Zhonghua shu ju, [2016]- - [北京市] : 中华书局, [2016]- Creators/Contributors - Detailed summary in vernacular field
 
 ## 摘要
 

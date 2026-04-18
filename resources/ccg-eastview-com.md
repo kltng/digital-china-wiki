@@ -12,10 +12,11 @@ tags:
 - statistical
 china_relevance: null
 source_id: ccg-eastview-com
-description: Your IP Address:172.93.50.206 Your IP Address:172.93.50.206 © 2026 East
-  View Information Services When choosing the Metadata search, your query will search
-  through Title, Compiler, Volume, Edition, Pu...
+description: 选择“全局搜索”时，查询将搜索标题，编译器，卷，版本，发布位置和打印类型，但不会搜索全文。 这意味着如果你搜索“三吴旧1915”，将返回含有“三吴旧”或“1915”的结果，许多版本包含年限，有些结果可能包含“三吴旧”，在这种情况下，最好的结果将是包含两套标准的任何事情。
+  用 "全文" 检索和用 “标题” 检索会得到不同的结果。 如果我正在寻找泰顺县（泰順/泰顺）的所有地方志，我会用 “泰順" 进行全文检索。 结果显示，如果进行
+  "全文" 检索，关键字将突出显示在 "摘录" 一栏。 相比之下, 如果在 “标题” 字段中搜索, 则关键字将突出显示在 “标题/编译” 一栏。
 ---
+
 # China Comprehensive Gazetteers 中国综合方志库
 
 **URL:** http://ccg.eastview.com/
@@ -24,5 +25,5 @@ description: Your IP Address:172.93.50.206 Your IP Address:172.93.50.206 © 2026
 
 ## Summary
 
-Your IP Address:172.93.50.206 Your IP Address:172.93.50.206 © 2026 East View Information Services When choosing the Metadata search, your query will search through Title, Compiler, Volume, Edition, Publishing Location, and Print Type, however, it will not search through the Full Text. All spaces are considered to be an OR operator. What this means is that if you search for “三吳舊 1915” it will return results that contain “三吳舊” or “1915”, many editions contain years, and some results may contain “三吳舊” in which case the top result would be anything that contains both sets of criteria.
+选择“全局搜索”时，查询将搜索标题，编译器，卷，版本，发布位置和打印类型，但不会搜索全文。 这意味着如果你搜索“三吴旧1915”，将返回含有“三吴旧”或“1915”的结果，许多版本包含年限，有些结果可能包含“三吴旧”，在这种情况下，最好的结果将是包含两套标准的任何事情。 用 "全文" 检索和用 “标题” 检索会得到不同的结果。 如果我正在寻找泰顺县（泰順/泰顺）的所有地方志，我会用 “泰順" 进行全文检索。 结果显示，如果进行 "全文" 检索，关键字将突出显示在 "摘录" 一栏。 相比之下, 如果在 “标题” 字段中搜索, 则关键字将突出显示在 “标题/编译” 一栏。
 

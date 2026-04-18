@@ -14,10 +14,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: newbooksnetwork-com-category-east-asian-studies
-description: Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en Españolon
-  Patreon | VisitNew Books Network en Español! Children's Literature Comics and Graphic
-  Novels Young Adult Literature Economi...
+description: 'A podcast about the life and work of Robert Eisler. Today’s book is:
+  Stitching Freedom: Embroidery and Incarceration (Common Threads Press, 2024), by
+  Dr. Isabella Rosner, which considers how for centuri Today’s book is: Contingent
+  Faculty and the Remaking of Higher Education: A Labor History (University of Illinois
+  Press, 2024), which is an essay coll Are you facing writing roadblocks?'
 ---
+
 # New Books in East Asian Studies
 
 **URL:** https://newbooksnetwork.com/category/east-asian-studies
@@ -26,5 +29,5 @@ description: Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en 
 
 ## Summary
 
-Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en Españolon Patreon | VisitNew Books Network en Español! Children's Literature Comics and Graphic Novels Young Adult Literature Economic and Business History Revolutionary America African American Studies Asian American Studies Australian and New Zealand Studies Central Asian Studies Eastern European Studies Latin American Studies Middle Eastern Studies Russian and Eurasian Studies Southeast Asian Studies Western European Studies Business, Management, and Marketing Media and Communications Drugs, Addiction and Recovery Language a...
+A podcast about the life and work of Robert Eisler. Today’s book is: Stitching Freedom: Embroidery and Incarceration (Common Threads Press, 2024), by Dr. Isabella Rosner, which considers how for centuri Today’s book is: Contingent Faculty and the Remaking of Higher Education: A Labor History (University of Illinois Press, 2024), which is an essay coll Are you facing writing roadblocks?
 

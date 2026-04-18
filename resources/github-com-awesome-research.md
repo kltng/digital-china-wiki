@@ -1,7 +1,7 @@
 ---
 title: Awesome Research Tools
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://github.com/emptymalei/awesome-research
 language: null
 region: global
@@ -11,6 +11,10 @@ tags:
 - tool
 china_relevance: null
 source_id: github-com-awesome-research
+description: A list of tools for research. Also available on https://tools. - Publishing
+  and Sharing - Data Visualization and Graph Making First things first, everyone should
+  know version control system, aka VCS. VCS helps us track changes in our documents
+  as well as collaborations on the documents.
 ---
 
 # Awesome Research Tools
@@ -19,7 +23,7 @@ source_id: github-com-awesome-research
 
 ## Summary
 
-Awesome Research Tools is a comprehensive curated list of tools and resources designed to support research activities across academic disciplines. Originally maintained on GitHub but now primarily available through tools.kausalflow.com/tools/, this deprecated but extensive repository covers diverse categories including organization tools (version control, task management, Pomodoro techniques), mathematical and programming resources (online notebooks, plotting tools, datasets), writing and publishing platforms (Markdown editors, LaTeX, static site generators), presentation tools, programming environments, academic tools (bibliography managers, citation tools), and data visualization resources. The list serves as a valuable reference for researchers seeking digital tools to enhance productivity, collaboration, and the quality of their scholarly work.
+A list of tools for research. Also available on https://tools. - Publishing and Sharing - Data Visualization and Graph Making First things first, everyone should know version control system, aka VCS. VCS helps us track changes in our documents as well as collaborations on the documents.
 
 ## 摘要
 

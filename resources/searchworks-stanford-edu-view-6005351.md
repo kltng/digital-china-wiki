@@ -11,10 +11,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-6005351
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'CHANT (CHinese ANcient Texts) [electronic resource] = Han da wen ku.
+  CHANT (CHinese ANcient Texts) [electronic resource] = 漢達文庫. - [Hong Kong] : Xianggang
+  Zhong wen da xue Zhongguo wen hua yan jiu suo han da gu wen xian zi liao ku zhong
+  xin, 1998- - [Hong Kong] : 香港中文大學中國文化硏究所漢達古文獻資料庫中心, 1998- Creators/Contributors
+  Wei Jin Nan Bei chao'
 ---
+
 # Chinese Ancient Texts Database (CHANT) 漢達文庫
 
 **URL:** https://searchworks.stanford.edu/view/6005351
@@ -23,5 +26,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+CHANT (CHinese ANcient Texts) [electronic resource] = Han da wen ku. CHANT (CHinese ANcient Texts) [electronic resource] = 漢達文庫. - [Hong Kong] : Xianggang Zhong wen da xue Zhongguo wen hua yan jiu suo han da gu wen xian zi liao ku zhong xin, 1998- - [Hong Kong] : 香港中文大學中國文化硏究所漢達古文獻資料庫中心, 1998- Creators/Contributors Wei Jin Nan Bei chao
 

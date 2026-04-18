@@ -1,7 +1,7 @@
 ---
 title: Museum of Fine Arts Boston - Art of Asia
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://www.mfa.org/collections/asia
 language: null
 region: global
@@ -11,6 +11,12 @@ tags:
 - museum_studies
 china_relevance: null
 source_id: mfa-org-asia
+description: The MFA has one of the most comprehensive collections of Japanese art
+  anywhere in the world. Reimagined galleries explore Japan’s art and visual The MFA’s
+  Asian art collection reflects the creative achievements of artists on the continent
+  of Asia from 4000 BCE to the present. The collection of more than 115,000 objects
+  includes works from Japan, China, Korea, South and Southeast Asia, and the Islamic
+  world.
 ---
 
 # Museum of Fine Arts Boston - Art of Asia
@@ -19,7 +25,7 @@ source_id: mfa-org-asia
 
 ## Summary
 
-The Museum of Fine Arts Boston's Art of Asia collection represents one of the most comprehensive Asian art collections outside Asia, featuring over 115,000 objects spanning from 4000 BCE to the present. The collection encompasses works from Japan, China, Korea, South and Southeast Asia, and the Islamic world. Notable highlights include the finest collection of Japanese art outside Japan, exceptional holdings of early Buddhist paintings and sculptures, Chinese monumental Buddhist stone sculptures, Tang and Song ceramics, blue-and-white porcelain, and imperial Qing wares. The collection was shaped by the vision of Asian scholars including Okakura Kakuzō and Ananda K. Coomaraswamy, and has been enhanced significantly by recent acquisitions including the Wan-go H. C. Weng Collection of Ming and Qing paintings and calligraphy.
+The MFA has one of the most comprehensive collections of Japanese art anywhere in the world. Reimagined galleries explore Japan’s art and visual The MFA’s Asian art collection reflects the creative achievements of artists on the continent of Asia from 4000 BCE to the present. The collection of more than 115,000 objects includes works from Japan, China, Korea, South and Southeast Asia, and the Islamic world.
 
 ## 摘要
 

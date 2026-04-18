@@ -1,7 +1,7 @@
 ---
 title: Chinese Legal Research (Yale Law Library)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://library.law.yale.edu/research-guides/chinese-legal-research
 language: null
 region: global
@@ -10,6 +10,9 @@ tags:
 - legal_history
 china_relevance: null
 source_id: library-law-yale-edu-research-guides-chinese-legal-research
+description: 'Chinese Legal Research Chinese Legal Research Guides Chinese law and
+  legal research / by Wei Luo. Law Library Call Number: LES KNQ47 . Chinese law: Context
+  and transformation / Jianfu Chen. Law Library Call Number: LES KNQ68 .'
 ---
 
 # Chinese Legal Research (Yale Law Library)
@@ -20,7 +23,7 @@ source_id: library-law-yale-edu-research-guides-chinese-legal-research
 
 ## Summary
 
-A comprehensive research guide maintained by Yale Law Library providing resources and methodology guidance for conducting research in Chinese law. The guide covers topics including finding Chinese legal sources, accessing Chinese legislation, regulations, and case law, navigating Chinese legal databases, and understanding the Chinese legal system structure. Resources include information on official Chinese legal websites, academic databases, secondary sources in Chinese and English, and research strategies for both historical and contemporary Chinese legal materials. This guide serves as an essential starting point for students, scholars, and practitioners researching Chinese law, constitutional development, and legal institutions.
+Chinese Legal Research Chinese Legal Research Guides Chinese law and legal research / by Wei Luo. Law Library Call Number: LES KNQ47 . Chinese law: Context and transformation / Jianfu Chen. Law Library Call Number: LES KNQ68 .
 
 ## 摘要
 

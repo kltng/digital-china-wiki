@@ -14,9 +14,13 @@ tags:
 - social_history
 china_relevance: primary
 source_id: thesaurus-linguae-sericae-tls-open-access-hcts.uni-heidelberg.de-5c64265e
-description: Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS. A digital resource
-  for Chinese and East Asian studies.
+description: 'Thesaurus Linguae Sericae (TLS) - Han xue wen dian 漢學文典 Founding Editor:
+  Christoph Harbsmeier 何莫邪; Associate Editor: Jiang Shaoyu 蔣紹愚 General Editor: Christian
+  Schwermann 史克禮; Technical Editor: Christian Wittern 維習安 The Project received its
+  first major “Grant for Outstanding Research in the Humanities” from the Norwegian
+  Research Council in 1989.'
 ---
+
 # Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS
 
 **URL:** https://www.hcts.uni-heidelberg.de/en/research/heidelberg-research-architecture/thesaurus-linguae-sericae-tls-han-xue-wen-dian-hanxuewendian
@@ -27,5 +31,5 @@ description: Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS. A digital
 
 ## Summary
 
-Thesaurus Linguae Sericae (TLS) 漢學文典 OPEN ACCESS. A digital resource for Chinese and East Asian studies.
+Thesaurus Linguae Sericae (TLS) - Han xue wen dian 漢學文典 Founding Editor: Christoph Harbsmeier 何莫邪; Associate Editor: Jiang Shaoyu 蔣紹愚 General Editor: Christian Schwermann 史克禮; Technical Editor: Christian Wittern 維習安 The Project received its first major “Grant for Outstanding Research in the Humanities” from the Norwegian Research Council in 1989.
 

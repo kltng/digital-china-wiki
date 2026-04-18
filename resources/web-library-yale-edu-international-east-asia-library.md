@@ -10,10 +10,13 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: web-library-yale-edu-international-east-asia-library
-description: Michael Meng 孟振華 Librarian for Chinese Studies 203.432.4438 michael.meng@yale.edu
-  Room 212 Haruko Nakamura 中村治子 Librarian for Japanese Studies 203.432.1792 haruko.nakamura@yale.edu
-  Room 213A
+description: Librarian for Chinese Studies Librarian for Japanese Studies Korean Studies
+  Librarian and Public Services Librarian for East Asia Library Mission, Vision, and
+  Strategic Directions Yale University Library is made up of almost 600 staff, over
+  a dozen libraries and locations, vast physical collections, extensive electronic
+  resources, and a suite of user-focused services.
 ---
+
 # East Asia Library
 
 **URL:** https://web.library.yale.edu/international/east-asia-library
@@ -22,5 +25,5 @@ description: Michael Meng 孟振華 Librarian for Chinese Studies 203.432.4438 m
 
 ## Summary
 
-Michael Meng 孟振華 Librarian for Chinese Studies 203.432.4438 michael.meng@yale.edu Room 212 Haruko Nakamura 中村治子 Librarian for Japanese Studies 203.432.1792 haruko.nakamura@yale.edu Room 213A
+Librarian for Chinese Studies Librarian for Japanese Studies Korean Studies Librarian and Public Services Librarian for East Asia Library Mission, Vision, and Strategic Directions Yale University Library is made up of almost 600 staff, over a dozen libraries and locations, vast physical collections, extensive electronic resources, and a suite of user-focused services.
 

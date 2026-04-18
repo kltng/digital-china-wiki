@@ -2,7 +2,7 @@
 title: 'CNopendata: A股上市公司基本信息数据 = Basic information of A-share listed companies of
   China'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://searchworks.stanford.edu/view/in00000040142
 language: null
 region: global
@@ -11,6 +11,10 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000040142
+description: 'A gu shang shi gong si ji ben xin xi shu ju = Basic information of A-share
+  listed companies of China A股上市公司基本信息数据 = Basic information of A-share listed companies
+  of China - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han
+  shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors'
 ---
 
 # CNopendata: A股上市公司基本信息数据 = Basic information of A-share listed companies of China
@@ -21,7 +25,7 @@ source_id: searchworks-stanford-edu-view-in00000040142
 
 ## Summary
 
-A dataset available through Stanford University libraries providing basic information about A-share listed companies in China's stock market. A-shares are renminbi-denominated shares of Chinese companies traded on the Shanghai and Shenzhen stock exchanges, primarily available to domestic investors. This dataset contains company profiles, financial information, ownership structures, listing details, and other relevant data about publicly traded Chinese companies. The resource supports research on China's financial markets, corporate governance, economic development, and comparative studies of emerging market capital structures.
+A gu shang shi gong si ji ben xin xi shu ju = Basic information of A-share listed companies of China A股上市公司基本信息数据 = Basic information of A-share listed companies of China - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors
 
 ## 摘要
 

@@ -10,10 +10,14 @@ tags:
 - periodical
 china_relevance: primary
 source_id: harvard-yenching-institute-news-and-events-harvard-yenching.org-79e64d5b
-description: Each year the Harvard-Yenching Institute sponsors or co-sponsors conferences
-  and workshops on the humanities and social sciences, with a particular focus on
-  Asian culture, both at Harvard and at acade...
+description: About the Harvard-Yenching Institute The Institute is an independent
+  foundation dedicated to advancing higher education in Asia in the humanities and
+  social sciences, with special attention to the study of Asian culture. The Institute
+  offers fellowship programs to faculty members and doctoral students at leading East,
+  Southeast, and South Asian universities in all fields of the humanities and social
+  sciences.
 ---
+
 # Harvard-Yenching Institute News and Events
 
 **URL:** https://www.harvard-yenching.org/events
@@ -22,5 +26,5 @@ description: Each year the Harvard-Yenching Institute sponsors or co-sponsors co
 
 ## Summary
 
-Each year the Harvard-Yenching Institute sponsors or co-sponsors conferences and workshops on the humanities and social sciences, with a particular focus on Asian culture, both at Harvard and at academic institutions in Asia. In addition to holding conferences and workshops open to the public, the Institute’s scholars regularly run intra-Institute academic events, including weekly seminars […]
+About the Harvard-Yenching Institute The Institute is an independent foundation dedicated to advancing higher education in Asia in the humanities and social sciences, with special attention to the study of Asian culture. The Institute offers fellowship programs to faculty members and doctoral students at leading East, Southeast, and South Asian universities in all fields of the humanities and social sciences.
 

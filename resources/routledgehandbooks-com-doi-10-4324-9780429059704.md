@@ -10,9 +10,11 @@ tags:
 - guide
 china_relevance: null
 source_id: routledgehandbooks-com-doi-10-4324-9780429059704
-description: Selection of featured collections, books and chapters that are available
-  on Routledge Handbooks Online.
+description: Our Routledge Handbooks Subject Collections provide comprehensive coverage
+  of subject areas and sub-disciplines across Humanities, Social Sciences, Education,
+  Psychology, Science, Built Environment and Engineering.
 ---
+
 # The Routledge Handbook of Chinese Studies
 
 **URL:** https://www.routledgehandbooks.com/doi/10.4324/9780429059704
@@ -21,5 +23,5 @@ description: Selection of featured collections, books and chapters that are avai
 
 ## Summary
 
-Selection of featured collections, books and chapters that are available on Routledge Handbooks Online.
+Our Routledge Handbooks Subject Collections provide comprehensive coverage of subject areas and sub-disciplines across Humanities, Social Sciences, Education, Psychology, Science, Built Environment and Engineering.
 

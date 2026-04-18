@@ -13,9 +13,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-access-china-biographical-database-cbdb-project
-description: English language interface:http://db1.ihp.sinica.edu.tw/cbdbc/ttsweb?@0:0:1:cbdbkmeng
-  Chinese language interface (線上查詢系統):http://db1.ihp.sinica.edu.
+description: 'Access to China Biographical Database (CBDB) Project Access to the China
+  Biographical Database (CBDB) Project is freely available for all Yale University
+  users via the following options: - English language interface: http://db1. - Chinese
+  language interface (線上查詢系統): http://db1. - Online inputting system (錄入系統): http://cbdb.
+  For optimal access, use Internet Explorer.'
 ---
+
 # China Biographical Database 中國歷代人物傳記資料庫
 
 **URL:** http://web.library.yale.edu/access-china-biographical-database-cbdb-project
@@ -24,5 +28,5 @@ description: English language interface:http://db1.ihp.sinica.edu.tw/cbdbc/ttswe
 
 ## Summary
 
-English language interface:http://db1.ihp.sinica.edu.tw/cbdbc/ttsweb?@0:0:1:cbdbkmeng Chinese language interface (線上查詢系統):http://db1.ihp.sinica.edu.tw/cbdbc/ttsweb?@0:0:1:cbdbkm Online inputting system (錄入系統):http://cbdb.fas.harvard.edu/cbdbc/cbdbedit
+Access to China Biographical Database (CBDB) Project Access to the China Biographical Database (CBDB) Project is freely available for all Yale University users via the following options: - English language interface: http://db1. - Chinese language interface (線上查詢系統): http://db1. - Online inputting system (錄入系統): http://cbdb. For optimal access, use Internet Explorer.
 

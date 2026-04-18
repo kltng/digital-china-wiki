@@ -19,8 +19,11 @@ tags:
 china_relevance: primary
 source_id: rev-claude-l-pickens-jr-collection-on-muslims-in-china-curiosity-digital-collect-curiosity.lib.harvard.edu-a1fe708d
 description: A window into the lives of Muslim communities in Western China during
-  the early 20th century, collected by an American missionary.
+  the early 20th century, collected by an American missionary. Over 1,000 photos of
+  Muslims and Christian missionaries working among them in Western China in the 1920s
+  and 1930s form the core of this collection.
 ---
+
 # Rev. Claude L. Pickens, Jr. Collection on Muslims in China - CURIOSity Digital Collection 畢敬士中國穆斯林 基督传教士老照片 OPEN ACCESS
 
 **URL:** https://curiosity.lib.harvard.edu/claude-l-pickens-jr-muslims-in-china
@@ -31,5 +34,5 @@ description: A window into the lives of Muslim communities in Western China duri
 
 ## Summary
 
-A window into the lives of Muslim communities in Western China during the early 20th century, collected by an American missionary.
+A window into the lives of Muslim communities in Western China during the early 20th century, collected by an American missionary. Over 1,000 photos of Muslims and Christian missionaries working among them in Western China in the 1920s and 1930s form the core of this collection.
 

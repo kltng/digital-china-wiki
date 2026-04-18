@@ -18,8 +18,13 @@ tags:
 - taiwan
 china_relevance: null
 source_id: chineseadvertisingagencies-com-mediaguide-index-html
-description: General Information about Chinese Media Guide
+description: Chinese Media Guide is a comprehensive guide on overseas Chinese media.
+  It contains a complete list and descriptions of major overseas Chinese newspaper,
+  Chinese TV stations, Chinese radio stations, and Chinese websites. As Los Angeles
+  and New York have the most Chinese population and a variety of Chinese media, we
+  decide to list them separately.
 ---
+
 # Chinese Overseas Media
 
 **URL:** http://www.chineseadvertisingagencies.com/mediaguide/index.html
@@ -28,5 +33,5 @@ description: General Information about Chinese Media Guide
 
 ## Summary
 
-General Information about Chinese Media Guide
+Chinese Media Guide is a comprehensive guide on overseas Chinese media. It contains a complete list and descriptions of major overseas Chinese newspaper, Chinese TV stations, Chinese radio stations, and Chinese websites. As Los Angeles and New York have the most Chinese population and a variety of Chinese media, we decide to list them separately.
 

@@ -22,10 +22,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-film-film-resources
-description: 'Yale University Library: Streaming Video Guide Kanopy at Yale, including
-  about 600 titles from theCriterion Collection Alexander Street, including:Academic
-  Video Online,Asian Film Online,LGBT Studies...'
+description: 'Film Resources at Yale & Beyond - Yale University Library: Streaming
+  Video Guide - Kanopy at Yale, including about 600 titles from the Criterion Collection
+  - Alexander Street, including: Academic Video Online, Asian Film Online, LGBT Studies
+  in Video, New World Cinema, Silent Film Online - Swank Digital Campus, including
+  subscription to Swank''s "Top 1000" films - Yale on YouTube: Yale University videos
+  of courses, interviews, seminars, and campus...'
 ---
+
 # Film Resources at Yale & Beyond (Yale Film Study Center)
 
 **URL:** https://web.library.yale.edu/film/film-resources
@@ -34,5 +38,5 @@ description: 'Yale University Library: Streaming Video Guide Kanopy at Yale, inc
 
 ## Summary
 
-Yale University Library: Streaming Video Guide Kanopy at Yale, including about 600 titles from theCriterion Collection Alexander Street, including:Academic Video Online,Asian Film Online,LGBT Studies in Video,New World Cinema,Silent Film Online Swank Digital Campus,including subscription to Swank's "Top 1000" films Yale on YouTube: Yale University videos of courses, interviews, seminars, and campus tours British Pathé: newsreels on YouTube FIAF (International Federation of Film Archives):Selected films from almost 100 archives JustWatch:Find streaming sources for thousands of films (note: most...
+Film Resources at Yale & Beyond - Yale University Library: Streaming Video Guide - Kanopy at Yale, including about 600 titles from the Criterion Collection - Alexander Street, including: Academic Video Online, Asian Film Online, LGBT Studies in Video, New World Cinema, Silent Film Online - Swank Digital Campus, including subscription to Swank's "Top 1000" films - Yale on YouTube: Yale University videos of courses, interviews, seminars, and campus...
 

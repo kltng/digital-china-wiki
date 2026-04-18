@@ -17,10 +17,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: umass-edu-wsp
-description: University of Massachusetts at AmherstWarring States ProjectThe Project's
-  research began by focusing on the classical Chinese texts, those from the "Warring
-  States" period, the basis of China's philos...
+description: University of Massachusetts at Amherst Warring States Project This work
+  goes back some sixty years. The present Project was founded at the University of
+  Massachusetts at Amherst in 1993, and achieved Department status in 2004. At its
+  office in South College, meetings with colleagues and students may be arranged by
+  appointment.
 ---
+
 # Umass Edu Wsp
 
 **URL:** https://www.umass.edu/wsp/
@@ -29,5 +32,5 @@ description: University of Massachusetts at AmherstWarring States ProjectThe Pro
 
 ## Summary
 
-University of Massachusetts at AmherstWarring States ProjectThe Project's research began by focusing on the classical Chinese texts, those from the "Warring States" period, the basis of China's philosophical heritage and its modern identity. This work culminated in a definitive study of the Analects of Confucius, and continues with studies of the other major texts. It has been complemented in recent decades by investigations in the Biblical and Homeric texts, which are central to the religious and secular traditions of Europe.
+University of Massachusetts at Amherst Warring States Project This work goes back some sixty years. The present Project was founded at the University of Massachusetts at Amherst in 1993, and achieved Department status in 2004. At its office in South College, meetings with colleagues and students may be arranged by appointment.
 

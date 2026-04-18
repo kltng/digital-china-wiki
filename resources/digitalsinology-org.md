@@ -12,9 +12,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: digitalsinology-org
-description: Download a copy of thedemonstration notebook(contents displayed below).
-  Download a copy of the RDF from theLinked Open Datapage on ctext.
+description: Along with other functions such as automated text reuse identification,
+  the “Text Tools” plugin for ctext. org can use the ctext API to import textual data
+  from ctext. org directly for analysis with regular expressions. A step-by-step online
+  tutorial describes how to actually use the tool (see also the instructions on the
+  tool’s own help page); here I will give some concrete examples of what the tool
+  can be used to do.
 ---
+
 # Digitalsinology Org
 
 **URL:** https://digitalsinology.org/
@@ -23,5 +28,5 @@ description: Download a copy of thedemonstration notebook(contents displayed bel
 
 ## Summary
 
-Download a copy of thedemonstration notebook(contents displayed below). Download a copy of the RDF from theLinked Open Datapage on ctext.org, unzip the file, and place the extracted file in the same folder as the Jupyter notebook. [View this notebook online] [Download this notebook] [List of tutorials] A regular expression (a.k.a.
+Along with other functions such as automated text reuse identification, the “Text Tools” plugin for ctext. org can use the ctext API to import textual data from ctext. org directly for analysis with regular expressions. A step-by-step online tutorial describes how to actually use the tool (see also the instructions on the tool’s own help page); here I will give some concrete examples of what the tool can be used to do.
 

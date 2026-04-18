@@ -18,9 +18,12 @@ tags:
 - social_history
 china_relevance: null
 source_id: web-library-yale-edu-building-sterling-memorial-library
-description: The hours of operation, address, amenities, and other information about
-  the Sterling Memorial Library building at Yale University.
+description: Sterling Memorial Library In the heart of central campus, Sterling Memorial
+  Library is Yale’s largest library and one of the University’s most iconic buildings.
+  Completed in 1930, it houses more than 2. 5 million volumes, with a focus on humanities
+  and area studies, on 14 floors of book stacks.
 ---
+
 # Sterling Memorial Library
 
 **URL:** https://web.library.yale.edu/building/sterling-memorial-library
@@ -29,5 +32,5 @@ description: The hours of operation, address, amenities, and other information a
 
 ## Summary
 
-The hours of operation, address, amenities, and other information about the Sterling Memorial Library building at Yale University.
+Sterling Memorial Library In the heart of central campus, Sterling Memorial Library is Yale’s largest library and one of the University’s most iconic buildings. Completed in 1930, it houses more than 2. 5 million volumes, with a focus on humanities and area studies, on 14 floors of book stacks.
 

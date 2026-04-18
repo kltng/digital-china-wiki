@@ -13,10 +13,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-7649813
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhongguo 2000 nian xiang zhen ren kou pu cha zi liao yu di tu [electronic
+  resource] = China 2000 township population census data with maps 中国2000年乡镇人口普查资料与地图
+  [electronic resource] = China 2000 township population census data with maps In
+  Chinese and English. - [Beijing] : All China Marketing Research Co. ; Ann Arbor,
+  MI : Distributed by University of Michigan, China Data Center, [2005] Creators/Contributors'
 ---
+
 # China 2000 township population census data with maps 中国2000年乡镇人口普查资料与地图 on CD
 
 **URL:** https://searchworks.stanford.edu/view/7649813
@@ -25,5 +28,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhongguo 2000 nian xiang zhen ren kou pu cha zi liao yu di tu [electronic resource] = China 2000 township population census data with maps 中国2000年乡镇人口普查资料与地图 [electronic resource] = China 2000 township population census data with maps In Chinese and English. - [Beijing] : All China Marketing Research Co. ; Ann Arbor, MI : Distributed by University of Michigan, China Data Center, [2005] Creators/Contributors
 

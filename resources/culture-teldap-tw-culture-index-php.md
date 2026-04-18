@@ -24,10 +24,13 @@ tags:
 - taiwan
 china_relevance: null
 source_id: culture-teldap-tw-culture-index-php
-description: With its vast links collection and cultural and natural content, Culture.teldap.tw
-  provides visitors with an opportunity to explore and share the best in Taiwanese
-  culture and nature, ranging from ant...
+description: Whether they are Pa-tung-kuan Ancient Trail (八通關古道) or Mt. The “Chih-fang-shih”
+  section of the “Hsia-kuan” chapter of the Chou li . Chou graduated from the English
+  department at Fu Jeng Catholic University and earned her PhD in. With two round
+  vessels conjoined together, this is known as a "double-union . To help promote universal
+  sports activities, this Directorate released a set of four 5.
 ---
+
 # Taiwan Digital Archives（典藏臺灣）
 
 **URL:** https://culture.teldap.tw/culture/index.php
@@ -36,5 +39,5 @@ description: With its vast links collection and cultural and natural content, Cu
 
 ## Summary
 
-With its vast links collection and cultural and natural content, Culture.teldap.tw provides visitors with an opportunity to explore and share the best in Taiwanese culture and nature, ranging from anthropology to zoology.
+Whether they are Pa-tung-kuan Ancient Trail (八通關古道) or Mt. The “Chih-fang-shih” section of the “Hsia-kuan” chapter of the Chou li . Chou graduated from the English department at Fu Jeng Catholic University and earned her PhD in. With two round vessels conjoined together, this is known as a "double-union . To help promote universal sports activities, this Directorate released a set of four 5.
 

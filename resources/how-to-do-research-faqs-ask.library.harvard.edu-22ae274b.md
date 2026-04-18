@@ -1,7 +1,7 @@
 ---
 title: How to Do Research FAQs
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://ask.library.harvard.edu/howtodoresearch
 language: null
 region: global
@@ -10,6 +10,9 @@ tags:
 - guide
 china_relevance: primary
 source_id: how-to-do-research-faqs-ask.library.harvard.edu-22ae274b
+description: 'How to do research in. Last Updated: Sep 21, 2023 | Views: 1177 Last
+  Updated: Aug 21, 2025 | Views: 764 Last Updated: Nov 22, 2024 | Views: 679 Last
+  Updated: Feb 24, 2025 | Views: 645 Last Updated: Feb 05, 2026 | Views: 642'
 ---
 
 # How to Do Research FAQs
@@ -18,7 +21,7 @@ source_id: how-to-do-research-faqs-ask.library.harvard.edu-22ae274b
 
 ## Summary
 
-A frequently asked questions and tutorial resource provided by Harvard Library offering guidance on research methodology and library research skills. The guide covers fundamental topics such as developing research questions, finding and evaluating sources, using library catalogs and databases, citing sources properly, and understanding copyright and fair use. Designed for students and researchers at all levels, the FAQ addresses common challenges in academic research and provides practical advice for effective information seeking and scholarly work. While not China-specific, this resource is relevant for researchers of Chinese studies as it establishes foundational research competencies applicable across disciplines.
+How to do research in. Last Updated: Sep 21, 2023 | Views: 1177 Last Updated: Aug 21, 2025 | Views: 764 Last Updated: Nov 22, 2024 | Views: 679 Last Updated: Feb 24, 2025 | Views: 645 Last Updated: Feb 05, 2026 | Views: 642
 
 ## 摘要
 

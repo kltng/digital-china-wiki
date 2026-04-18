@@ -22,10 +22,13 @@ tags:
 - statistical
 china_relevance: primary
 source_id: chinese-christian-texts-database-open-access-arts.kuleuven.be-3ddbb5ee
-description: The Chinese Christian Texts Database (CCT-database) is a research database
-  of primary and secondary sources concerning the cultural contacts between China
-  and Europe in the seventeenth and eighteenth...
+description: It was the late Professor Erik Zürcher (1928-2008) who took the initiative
+  of compiling a bibliographical list of Chinese primary sources concerning Christianity
+  in China in the seventeenth century. Since the 1980s, Ad Dudink and Nicolas Standaert
+  have continued and elaborated the project and converted the data thus far collected
+  into an online research database.
 ---
+
 # Chinese Christian Texts Database 中国基督教文本数据库 OPEN ACCESS
 
 **URL:** http://www.arts.kuleuven.be/sinology/cct
@@ -36,5 +39,5 @@ description: The Chinese Christian Texts Database (CCT-database) is a research d
 
 ## Summary
 
-The Chinese Christian Texts Database (CCT-database) is a research database of primary and secondary sources concerning the cultural contacts between China and Europe in the seventeenth and eighteenth centuries (from 1582 to ca. 1840). The cultural contacts comprise documents in the various fields of cultural interaction: religion, philosophy, science, art ...
+It was the late Professor Erik Zürcher (1928-2008) who took the initiative of compiling a bibliographical list of Chinese primary sources concerning Christianity in China in the seventeenth century. Since the 1980s, Ad Dudink and Nicolas Standaert have continued and elaborated the project and converted the data thus far collected into an online research database.
 

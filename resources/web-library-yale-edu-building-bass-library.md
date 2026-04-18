@@ -21,8 +21,11 @@ tags:
 china_relevance: null
 source_id: web-library-yale-edu-building-bass-library
 description: Find us in the heart of Cross Campus, with comfortable, flexible study
-  spaces, media equipment, and more.
+  spaces, media equipment, and more. Bass Library is connected to Sterling Memorial
+  Library via a tunnel from the Wright Reading Room, below the Sterling Library nave.
+  Natural light flows in from two sunken courtyards.
 ---
+
 # Bass Library
 
 **URL:** https://web.library.yale.edu/building/bass-library

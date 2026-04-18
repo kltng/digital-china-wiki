@@ -11,10 +11,12 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-13956888
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Jin dai Zhongguo = Modern China database 近代中國 = Modern China database
+  Table of contents also in English - Taibei : Jin dai Zhongguo za zhi she : Zhong
+  yang wen wu gong ying she jing xiao, minguo 66 [1997]- - 臺北 : 近代中國雜誌社 : 中央文物供應社經銷,
+  民國 66 [1977]- Bibliographic information'
 ---
+
 # 近代中國 = Modern China database
 
 **URL:** https://searchworks.stanford.edu/view/13956888
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Jin dai Zhongguo = Modern China database 近代中國 = Modern China database Table of contents also in English - Taibei : Jin dai Zhongguo za zhi she : Zhong yang wen wu gong ying she jing xiao, minguo 66 [1997]- - 臺北 : 近代中國雜誌社 : 中央文物供應社經銷, 民國 66 [1977]- Bibliographic information
 

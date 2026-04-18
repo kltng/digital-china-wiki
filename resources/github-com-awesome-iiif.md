@@ -18,9 +18,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: github-com-awesome-iiif
-description: Awesome IIIF-related resources. Contribute to IIIF/awesome-iiif development
-  by creating an account on GitHub.
+description: A list of lists of awesome IIIF resources. The International Image Interoperability
+  Framework (IIIF - "triple-eye-eff") is a group of standard APIs around sharing and
+  reuse of media. It is also a growing community of galleries, libraries, archives,
+  museums, companies, and others who develop the standards and interoperable software
+  implementations.
 ---
+
 # Github Com Awesome Iiif
 
 **URL:** https://github.com/IIIF/awesome-iiif
@@ -29,5 +33,5 @@ description: Awesome IIIF-related resources. Contribute to IIIF/awesome-iiif dev
 
 ## Summary
 
-Awesome IIIF-related resources. Contribute to IIIF/awesome-iiif development by creating an account on GitHub.
+A list of lists of awesome IIIF resources. The International Image Interoperability Framework (IIIF - "triple-eye-eff") is a group of standard APIs around sharing and reuse of media. It is also a growing community of galleries, libraries, archives, museums, companies, and others who develop the standards and interoperable software implementations.
 

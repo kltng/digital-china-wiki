@@ -1,7 +1,7 @@
 ---
 title: Yale University Library Archives & Manuscripts
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://archives.yale.edu/
 language: null
 region: global
@@ -12,6 +12,12 @@ tags:
 - website
 china_relevance: null
 source_id: archives-yale-edu
+description: Welcome to Archives at Yale Archives at Yale brings together finding
+  aids from ten archival repositories. Seven of the repositories are part of Yale
+  Library, two are at the Yale Center for British Art, and one is at the Yale Peabody
+  Museum. Finding aids describe the creation, content, context, and arrangement of
+  archival materials, allowing users to identify and request materials relevant to
+  their research.
 ---
 
 # Yale University Library Archives & Manuscripts
@@ -22,7 +28,7 @@ source_id: archives-yale-edu
 
 ## Summary
 
-The Yale University Library Archives & Manuscripts department manages Yale's extensive collections of archival materials and manuscript collections documenting the history of the university and supporting scholarly research across disciplines. The repository includes the Yale University Archives, which holds institutional records dating back to Yale's founding, as well as numerous manuscript collections of individuals, families, and organizations. Collections span various time periods and geographic regions, with particular strengths in American history, literature, diplomacy, and various academic disciplines. The online catalog provides access to finding aids and collection descriptions, enabling researchers to discover and request materials. Yale's holdings include significant materials related to China and East Asia, including missionary papers, diplomatic records, personal papers of scholars, and collections documenting cultural and intellectual exchange between China and the West.
+Welcome to Archives at Yale Archives at Yale brings together finding aids from ten archival repositories. Seven of the repositories are part of Yale Library, two are at the Yale Center for British Art, and one is at the Yale Peabody Museum. Finding aids describe the creation, content, context, and arrangement of archival materials, allowing users to identify and request materials relevant to their research.
 
 ## 摘要
 

@@ -13,9 +13,11 @@ tags:
 - statistical
 china_relevance: null
 source_id: github-com-awesome-python
-description: An opinionated list of Python frameworks, libraries, tools, and resources
-  - vinta/awesome-python
+description: 'An opinionated list of Python frameworks, libraries, tools, and resources.
+  The #10 most-starred repo on GitHub. Put your product in front of Python developers.
+  - Natural Language Processing - Recommender Systems - Web Asset Management'
 ---
+
 # Github Com Awesome Python
 
 **URL:** https://github.com/vinta/awesome-python#readme
@@ -24,5 +26,5 @@ description: An opinionated list of Python frameworks, libraries, tools, and res
 
 ## Summary
 
-An opinionated list of Python frameworks, libraries, tools, and resources - vinta/awesome-python
+An opinionated list of Python frameworks, libraries, tools, and resources. The #10 most-starred repo on GitHub. Put your product in front of Python developers. - Natural Language Processing - Recommender Systems - Web Asset Management
 

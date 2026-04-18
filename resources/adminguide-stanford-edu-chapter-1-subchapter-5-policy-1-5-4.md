@@ -1,7 +1,7 @@
 ---
 title: Stanford Trademark Policy (Guide Memo)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4
 language: null
 region: global
@@ -12,6 +12,12 @@ tags:
 - website
 china_relevance: null
 source_id: adminguide-stanford-edu-chapter-1-subchapter-5-policy-1-5-4
+description: '4 Ownership and Use of Stanford Trademarks and Images Formerly Known
+  As Policy Number: 15. This Guide Memo applies to all uses of Stanford''s Marks.
+  Stanford’s Marks are owned by Stanford and they are a valuable university asset.
+  Faculty, students, staff and alumni share in the benefits associated with the Marks,
+  and therefore also share responsibilities to ensure correct use. Stanford’s Trademark
+  Licensing Office at trademark_licensing@stanford.'
 ---
 
 # Stanford Trademark Policy (Guide Memo)
@@ -22,7 +28,7 @@ source_id: adminguide-stanford-edu-chapter-1-subchapter-5-policy-1-5-4
 
 ## Summary
 
-Stanford University's Guide Memo establishing policies governing use of Stanford's registered trademarks and institutional marks. The policy applies to all uses of Stanford's Marks, including the word "Stanford," the Block "S" with tree emblem, and the Stanford University seal, along with unregistered names, seals, logos, emblems, images, symbols, and slogans representative of the university. The document establishes that Stanford's marks are university assets and outlines responsibilities for faculty, students, staff, and alumni to ensure correct use. It provides guidance on consulting the Trademark Licensing Office and defines applicability of trademark policies across various contexts of university branding and identity use.
+4 Ownership and Use of Stanford Trademarks and Images Formerly Known As Policy Number: 15. This Guide Memo applies to all uses of Stanford's Marks. Stanford’s Marks are owned by Stanford and they are a valuable university asset. Faculty, students, staff and alumni share in the benefits associated with the Marks, and therefore also share responsibilities to ensure correct use. Stanford’s Trademark Licensing Office at trademark_licensing@stanford.
 
 ## 摘要
 

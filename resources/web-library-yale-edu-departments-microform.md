@@ -20,10 +20,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-departments-microform
-description: The Microform Reading Room is temporarily closed. Two microform readers
-  are available in the Bass Library on the Courtyard Level. They can read both microfilm
-  and microfiche.
+description: Microform Reading Room The Microform Reading Room, Sterling Memorial
+  Library Two microform readers are available in the Bass Library on the Courtyard
+  Level. They can read both microfilm and microfiche. If you need assistance with
+  the machines, please ask at the Bass Library service point (across from the microform
+  machines).
 ---
+
 # The Microform Reading Room
 
 **URL:** http://web.library.yale.edu/departments/microform
@@ -32,5 +35,5 @@ description: The Microform Reading Room is temporarily closed. Two microform rea
 
 ## Summary
 
-The Microform Reading Room is temporarily closed. Two microform readers are available in the Bass Library on the Courtyard Level. They can read both microfilm and microfiche. If you need assistance with the machines, please ask at the Bass Library service point (across from the microform machines).
+Microform Reading Room The Microform Reading Room, Sterling Memorial Library Two microform readers are available in the Bass Library on the Courtyard Level. They can read both microfilm and microfiche. If you need assistance with the machines, please ask at the Bass Library service point (across from the microform machines).
 

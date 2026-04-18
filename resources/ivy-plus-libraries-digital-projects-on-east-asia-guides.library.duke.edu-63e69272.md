@@ -14,9 +14,12 @@ tags:
 - prc
 china_relevance: primary
 source_id: ivy-plus-libraries-digital-projects-on-east-asia-guides.library.duke.edu-63e69272
-description: This guide is for librarians in Ivy plus libraries to share their digital
-  projects related to China.
+description: Brown University, Wang, Li<li_wang@brown. Cornell University, Zheng,
+  Liren <lz14@cornell. Columbia University, Wang, Chengzhi <cw2165@columbia. Dartmouth
+  College, Xie, Nienlin <nien. Duke University, Zhou, Luo <luo. Harvard University,
+  Yang, Jidong <jidong_yang@harvard.
 ---
+
 # Ivy Plus Libraries' Digital Projects on East Asia 常春藤高校聯盟數字建設項目匯總
 
 **URL:** http://guides.library.duke.edu/ivypluseastasia
@@ -27,5 +30,5 @@ description: This guide is for librarians in Ivy plus libraries to share their d
 
 ## Summary
 
-This guide is for librarians in Ivy plus libraries to share their digital projects related to China.
+Brown University, Wang, Li<li_wang@brown. Cornell University, Zheng, Liren <lz14@cornell. Columbia University, Wang, Chengzhi <cw2165@columbia. Dartmouth College, Xie, Nienlin <nien. Duke University, Zhou, Luo <luo. Harvard University, Yang, Jidong <jidong_yang@harvard.
 

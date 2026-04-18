@@ -10,10 +10,10 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-13884048
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Quan wen fa xian xi tong = Discovery system 全文发现系统 = Discovery system
+  - [Beijing] : Zhen be ke ji, 2015- Bibliographic information'
 ---
+
 # Gu ji fa xian 古籍发现系统
 
 **URL:** https://searchworks.stanford.edu/view/13884048
@@ -22,5 +22,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Quan wen fa xian xi tong = Discovery system 全文发现系统 = Discovery system - [Beijing] : Zhen be ke ji, 2015- Bibliographic information
 

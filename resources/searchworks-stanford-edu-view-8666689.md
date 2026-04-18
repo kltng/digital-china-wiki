@@ -10,10 +10,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-8666689
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Historical abstracts with full text [electronic resource]. - Ipswich,
+  MA : EBSCO Pub. - Covers the history of the world (excluding the United States and
+  Canada) from 1450 to the present, including world history, military history, women''s
+  history, and history of education.'
 ---
+
 # Historical abstracts with full text
 
 **URL:** https://searchworks.stanford.edu/view/8666689
@@ -22,5 +24,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Historical abstracts with full text [electronic resource]. - Ipswich, MA : EBSCO Pub. - Covers the history of the world (excluding the United States and Canada) from 1450 to the present, including world history, military history, women's history, and history of education.
 

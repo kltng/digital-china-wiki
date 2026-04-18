@@ -13,10 +13,13 @@ tags:
 - periodical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-5342841
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'China academic journals [electronic resource]. Chinese and English.
+  - Beijing : Tsinghua University China Academic Journals Electronic Publishing House
+  ; Minneapolis, MN : East View Publications [USA distributor], c2001- Creators/Contributors
+  - Full-text database of Chinese journals in the world. It contains more than 8,000
+  journals starting from 1979.'
 ---
+
 # China academic journals 中国期刊全文数据
 
 **URL:** https://searchworks.stanford.edu/view/5342841
@@ -25,5 +28,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+China academic journals [electronic resource]. Chinese and English. - Beijing : Tsinghua University China Academic Journals Electronic Publishing House ; Minneapolis, MN : East View Publications [USA distributor], c2001- Creators/Contributors - Full-text database of Chinese journals in the world. It contains more than 8,000 journals starting from 1979.
 

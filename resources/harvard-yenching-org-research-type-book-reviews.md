@@ -12,9 +12,14 @@ tags:
 - social_history
 china_relevance: primary
 source_id: harvard-yenching-org-research-type-book-reviews
-description: New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Book
-  Reviews). A digital resource for Chinese and East Asian studies.
+description: New Frontiers in Asian Scholarship highlights recent books and important
+  articles published in Asian languages, relating to the humanities and social sciences,
+  with an emphasis on Asian culture. About the Harvard-Yenching Institute The Institute
+  is an independent foundation dedicated to advancing higher education in Asia in
+  the humanities and social sciences, with special attention to the study of Asian
+  culture.
 ---
+
 # New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Book Reviews)
 
 **URL:** https://www.harvard-yenching.org/research-type/book-reviews
@@ -25,5 +30,5 @@ description: New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Bo
 
 ## Summary
 
-New Frontiers in Asian Scholarship (Harvard-Yenching Institute - Book Reviews). A digital resource for Chinese and East Asian studies.
+New Frontiers in Asian Scholarship highlights recent books and important articles published in Asian languages, relating to the humanities and social sciences, with an emphasis on Asian culture. About the Harvard-Yenching Institute The Institute is an independent foundation dedicated to advancing higher education in Asia in the humanities and social sciences, with special attention to the study of Asian culture.
 

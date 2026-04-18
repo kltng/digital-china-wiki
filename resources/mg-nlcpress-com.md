@@ -12,8 +12,10 @@ tags:
 - statistical
 china_relevance: null
 source_id: mg-nlcpress-com
-description: Early Twentieth Century Books in China (1912-1949) 民国图书数据库.
+description: 'For security, access to the manager webapp is restricted. Users are
+  defined in: $CATALINA_HOME/conf/tomcat-users. The following mailing lists are available:'
 ---
+
 # Early Twentieth Century Books in China (1912-1949) 民国图书数据库
 
 **URL:** https://mg.nlcpress.com/
@@ -22,5 +24,5 @@ description: Early Twentieth Century Books in China (1912-1949) 民国图书数�
 
 ## Summary
 
-Early Twentieth Century Books in China (1912-1949) 民国图书数据库.
+For security, access to the manager webapp is restricted. Users are defined in: $CATALINA_HOME/conf/tomcat-users. The following mailing lists are available:
 

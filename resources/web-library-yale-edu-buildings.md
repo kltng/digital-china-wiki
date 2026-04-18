@@ -13,9 +13,14 @@ tags:
 - medicine
 china_relevance: null
 source_id: web-library-yale-edu-buildings
-description: Hours, locations, contact information, and access rules for buildings,
-  libraries, collections, and services at Yale University Library.
+description: A valid Yale ID with activated swipe access is required for entry after
+  6 pm. The Beinecke Library welcomes researchers and the general public. A valid
+  Yale ID with activated swipe access is required for entry. Please review updated
+  access protocols before visiting the Cushing Center. During the regular semester,
+  the Divinity Library is open Monday-Thursday, 8:30 am - 10 pm; Friday - Saturday,
+  8:30 am - 5 pm; and Sunday, 2 - 10 pm.
 ---
+
 # Hours
 
 **URL:** https://web.library.yale.edu/buildings
@@ -24,5 +29,5 @@ description: Hours, locations, contact information, and access rules for buildin
 
 ## Summary
 
-Hours, locations, contact information, and access rules for buildings, libraries, collections, and services at Yale University Library.
+A valid Yale ID with activated swipe access is required for entry after 6 pm. The Beinecke Library welcomes researchers and the general public. A valid Yale ID with activated swipe access is required for entry. Please review updated access protocols before visiting the Cushing Center. During the regular semester, the Divinity Library is open Monday-Thursday, 8:30 am - 10 pm; Friday - Saturday, 8:30 am - 5 pm; and Sunday, 2 - 10 pm.
 

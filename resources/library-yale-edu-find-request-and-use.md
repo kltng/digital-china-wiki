@@ -1,7 +1,7 @@
 ---
 title: Find, Request, and Use - Yale University Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://library.yale.edu/find-request-and-use
 language: null
 region: global
@@ -10,6 +10,10 @@ tags:
 - guide
 china_relevance: null
 source_id: library-yale-edu-find-request-and-use
+description: 'Search books, articles, special collections, media, and more. Tell us
+  about your research project, and we will connect you with with an expert librarian,
+  curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email:
+  askyalelibrary@yale.'
 ---
 
 # Find, Request, and Use - Yale University Library
@@ -20,7 +24,7 @@ source_id: library-yale-edu-find-request-and-use
 
 ## Summary
 
-A Yale University Library guide providing information on how to find, request, and use library materials across the library's collections. This resource page offers instructions on accessing the library catalog, placing holds and requests, using interlibrary loan services, accessing electronic resources, and visiting special collections and archives. The guide is designed to help researchers efficiently navigate Yale's extensive library system, which includes millions of volumes, manuscripts, and digital resources relevant to Chinese and East Asian studies among other subject areas. It serves as a practical starting point for students and scholars beginning research at Yale University Library.
+Search books, articles, special collections, media, and more. Tell us about your research project, and we will connect you with with an expert librarian, curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email: askyalelibrary@yale.
 
 ## 摘要
 

@@ -20,8 +20,12 @@ china_relevance: null
 source_id: churchmissionarysociety-amdigital-co-uk
 description: From its roots as an Anglican evangelical movement driven by lay persons,
   this resource encompasses publications from the CMS, the Church of England Zenana
-  Missionary Society and the latterly integrat...
+  Missionary Society and the latterly integrated South American Missionary Society.
+  Documenting missionary work from the nineteenth to the twenty-first century, the
+  periodicals include news, journals and reports offering a unique perspective on
+  global history and cultural encounters.
 ---
+
 # Church Missionary Society Periodicals
 
 **URL:** http://www.churchmissionarysociety.amdigital.co.uk/

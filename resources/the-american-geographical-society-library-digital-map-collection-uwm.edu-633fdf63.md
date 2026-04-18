@@ -12,10 +12,13 @@ tags:
 - map
 china_relevance: primary
 source_id: the-american-geographical-society-library-digital-map-collection-uwm.edu-633fdf63
-description: Browse this collection The American Geographical Society Library Digital
-  Map Collection contains over 20,000 maps, ranging from early maps of Asia to historical
-  maps of Wisconsin and Milwaukee, and ot...
+description: The American Geographical Society Library Digital Map Collection contains
+  over 20,000 maps, ranging from early maps of Asia to historical maps of Wisconsin
+  and Milwaukee, and other American cities, states, and national parks. The digital
+  collection is under continuing development. The UWM Libraries established a digitization
+  program in the fall of 2001.
 ---
+
 # The American Geographical Society Library Digital Map Collection
 
 **URL:** https://uwm.edu/lib-collections/agsl-digital-map-collection
@@ -24,5 +27,5 @@ description: Browse this collection The American Geographical Society Library Di
 
 ## Summary
 
-Browse this collection The American Geographical Society Library Digital Map Collection contains over 20,000 maps, ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks. The digital collection is under continuing development.
+The American Geographical Society Library Digital Map Collection contains over 20,000 maps, ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks. The digital collection is under continuing development. The UWM Libraries established a digitization program in the fall of 2001.
 

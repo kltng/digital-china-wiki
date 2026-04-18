@@ -20,9 +20,13 @@ tags:
 - taiwan
 china_relevance: null
 source_id: teldap-tw-index-html
-description: We hope through our efforts today to allow more people to appreciate
-  the knowledge that was locked away in academia.
+description: '- Taiwan Digital Archives Expansion Project - Research and Development
+  for Digital Archives and e-Learning Technologies Project - Core Platforms for Digital
+  Contents Project - Academic and Social Promotions and Applications for Digital Archives
+  and e-Learning Project - Industrial Development and Promotion of Digital Archives
+  and e-Learning Project - Digital Education and e-Learning Project'
 ---
+
 # Teldap Tw Index Html
 
 **URL:** https://teldap.tw/en/index.html
@@ -31,5 +35,5 @@ description: We hope through our efforts today to allow more people to appreciat
 
 ## Summary
 
-We hope through our efforts today to allow more people to appreciate the knowledge that was locked away in academia. Moreover, we hope that these crystals accumulated by human civilization will be passed on to the future generations.
+- Taiwan Digital Archives Expansion Project - Research and Development for Digital Archives and e-Learning Technologies Project - Core Platforms for Digital Contents Project - Academic and Social Promotions and Applications for Digital Archives and e-Learning Project - Industrial Development and Promotion of Digital Archives and e-Learning Project - Digital Education and e-Learning Project
 

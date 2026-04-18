@@ -1,7 +1,7 @@
 ---
 title: Airiti iRead eBook 華藝中文電子書
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://hu.airitibooks.com/
 language: zh
 region: prc
@@ -12,6 +12,9 @@ tags:
 - literature
 china_relevance: primary
 source_id: airiti-iread-ebook-hu-airitibooks-com.us1.proxy.openathens.net-46fda572
+description: iRead eBooks华艺电子书特色功能 全新APP，整合期刊、论文和电子书，轻松查找、阅读华艺所有的在线资源 透过书籍页面的计量资料，读者可了解该书在国际市场的传播力与影响力，作为借阅参考。
+  内容横跨学术专业与休闲潮流，与近3000家出版社合作，收录超过140,000本中文电子书。 华艺精选优质学术书或畅销好书，协助图书馆包装主题书展并进行营销推广。
+  延伸检索帮助读者迅速找到相关主题内容，另提供画线、笔记、阅读设定等功能。
 ---
 
 # Airiti iRead eBook 華藝中文電子書
@@ -22,7 +25,7 @@ source_id: airiti-iread-ebook-hu-airitibooks-com.us1.proxy.openathens.net-46fda5
 
 ## Summary
 
-Airiti iRead eBook is a Chinese electronic book platform offering digital reading materials across multiple academic and literary genres. The platform provides access to e-books in categories including literature & fiction (modern and classical Chinese literature, literary criticism, Japanese and English literature), leisure (food & drink, health & fitness, travel), science (general, astronomy, mathematics, biology), humanities (China/Taiwan history, philosophy, cultural studies, linguistics, religious studies), and language learning (dictionaries, reference works, Chinese, English, Japanese language proficiency tests). The service is available through institutional access for universities and libraries, enabling students, faculty, and researchers to browse and borrow Chinese e-books for academic and personal reading purposes.
+iRead eBooks华艺电子书特色功能 全新APP，整合期刊、论文和电子书，轻松查找、阅读华艺所有的在线资源 透过书籍页面的计量资料，读者可了解该书在国际市场的传播力与影响力，作为借阅参考。 内容横跨学术专业与休闲潮流，与近3000家出版社合作，收录超过140,000本中文电子书。 华艺精选优质学术书或畅销好书，协助图书馆包装主题书展并进行营销推广。 延伸检索帮助读者迅速找到相关主题内容，另提供画线、笔记、阅读设定等功能。
 
 ## 摘要
 

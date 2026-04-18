@@ -19,10 +19,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-music
-description: Sit down and have a listen, or take our music to go. The Gilmore Music
-  Library is one of the largest collections of music scores, sound recordings, and
-  music research materials in the United States.
+description: Gilmore Music Library Sit down and have a listen, or take our music to
+  go. The Gilmore Music Library is one of the largest collections of music scores,
+  sound recordings, and music research materials in the United States. Located inside
+  Sterling Memorial Library, we hold a wealth of printed, recorded, online, manuscript,
+  and microform materials for the performance and study of music.
 ---
+
 # Gilmore Music Library
 
 **URL:** https://web.library.yale.edu/music
@@ -31,5 +34,5 @@ description: Sit down and have a listen, or take our music to go. The Gilmore Mu
 
 ## Summary
 
-Sit down and have a listen, or take our music to go. The Gilmore Music Library is one of the largest collections of music scores, sound recordings, and music research materials in the United States. Located inside Sterling Memorial Library, we hold a wealth of printed, recorded, online, manuscript, and microform materials for the performance and study of music.
+Gilmore Music Library Sit down and have a listen, or take our music to go. The Gilmore Music Library is one of the largest collections of music scores, sound recordings, and music research materials in the United States. Located inside Sterling Memorial Library, we hold a wealth of printed, recorded, online, manuscript, and microform materials for the performance and study of music.
 

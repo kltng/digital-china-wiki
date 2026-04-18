@@ -13,9 +13,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: web-library-yale-edu-international-east-asia-library-siku-electronic-version
-description: 'To access the Siku Quanshu electronic version, you are required to install
-  a client program:'
+description: 'Instructions for the Siku Quanshu Electronic Version To access the Siku
+  Quanshu electronic version, you are required to install a client program: - To start
+  the installation, click on http://www. com/online/sikudownload [IE required] and
+  download setup. - Double-click setup. exe and follow instructions to install the
+  client program.'
 ---
+
 # 四庫全書 Siku Quanshu
 
 **URL:** https://web.library.yale.edu/international/east-asia-library/siku_electronic_version
@@ -24,5 +28,5 @@ description: 'To access the Siku Quanshu electronic version, you are required to
 
 ## Summary
 
-To access the Siku Quanshu electronic version, you are required to install a client program:
+Instructions for the Siku Quanshu Electronic Version To access the Siku Quanshu electronic version, you are required to install a client program: - To start the installation, click on http://www. com/online/sikudownload [IE required] and download setup. - Double-click setup. exe and follow instructions to install the client program.
 

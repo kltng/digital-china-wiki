@@ -12,10 +12,13 @@ tags:
 - religion
 china_relevance: null
 source_id: kanripo-org
-description: More...Find related textsAdvanced searchJump to page [2016-03-10]First
-  public release of the website. [2015-10-22]New website available, more than 9000
-  texts online.
+description: 'About Kanseki Repository This website provides access to the texts available
+  in the GitHub user account @kanripo (Kanseki Repository). At the moment, there is
+  only very simple search functionality, but it is planned to extend this depending
+  on the needs of the users. More information about the Kanseki Repository, its design
+  considerations and aims can be found here: Kanripo Blog.'
 ---
+
 # Kanripo Org
 
 **URL:** https://www.kanripo.org/
@@ -24,5 +27,5 @@ description: More...Find related textsAdvanced searchJump to page [2016-03-10]Fi
 
 ## Summary
 
-More...Find related textsAdvanced searchJump to page [2016-03-10]First public release of the website. [2015-10-22]New website available, more than 9000 texts online. [2015-05-06]Started move to github.
+About Kanseki Repository This website provides access to the texts available in the GitHub user account @kanripo (Kanseki Repository). At the moment, there is only very simple search functionality, but it is planned to extend this depending on the needs of the users. More information about the Kanseki Repository, its design considerations and aims can be found here: Kanripo Blog.
 

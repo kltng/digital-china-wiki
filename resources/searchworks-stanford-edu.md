@@ -11,10 +11,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: Search over twelve million resources from Stanford University Libraries’
+  physical and digital collections, including books, journals, maps, media, government
+  documents, databases, datasets, and more. Advanced searchSearchWorks Catalog - Archive/Manuscript
+  86,155 - Journal/Periodical 452,355 - Remote-sensing image 49 - Music score 155,357
 ---
+
 # SearchWorks Catalog
 
 **URL:** https://searchworks.stanford.edu/
@@ -23,5 +25,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Search over twelve million resources from Stanford University Libraries’ physical and digital collections, including books, journals, maps, media, government documents, databases, datasets, and more. Advanced searchSearchWorks Catalog - Archive/Manuscript 86,155 - Journal/Periodical 452,355 - Remote-sensing image 49 - Music score 155,357
 

@@ -10,10 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-13956868
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'Zhong yan yuan jing dian ren wen xu kan = Sinica sinoweb 中研院經典人文學刊 =
+  Sinica sinoweb Articles principally in Chinese, interface in English - Taibei :
+  Lian he bai ke, 2013- - 臺北 : 聯合百科電子出版有限公司, 2013- Creators/Contributors'
 ---
+
 # Sinica sinoweb 中研院經典人文學刊
 
 **URL:** https://searchworks.stanford.edu/view/13956868
@@ -22,5 +23,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+Zhong yan yuan jing dian ren wen xu kan = Sinica sinoweb 中研院經典人文學刊 = Sinica sinoweb Articles principally in Chinese, interface in English - Taibei : Lian he bai ke, 2013- - 臺北 : 聯合百科電子出版有限公司, 2013- Creators/Contributors
 

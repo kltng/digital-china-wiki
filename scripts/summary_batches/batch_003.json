@@ -1,0 +1,349 @@
+[
+  {
+    "file": "chinese-iconography-thesaurus-open-access-chineseiconography.org-e195d830.md",
+    "title": "Chinese Iconography Thesaurus 中國圖像誌索引典 OPEN ACCESS",
+    "url": "https://chineseiconography.org",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "Chinese, English bilingual search function Filter function for more precise search Lightbox that can be used for comparison with images inside and outside the database Image links to the original sour...",
+    "source_text": "A taxonomic vehicle to explore the classical Chinese visual culture\nThe CIT provides free access to motifs, subjects and themes of images in a variety of material forms - paintings, sculpture, prints, book illustrations, ceramics, and other types of applied arts- made in China from 700 to 1900.\nThe image archive contains a great number of objects selected from the representative collections of museums and libraries. Its size will continue to grow through collaborations with more collections.\nAll the images are indexed with terms from an alternative classification scheme deeply rooted in the specificity of Chinese visual culture.\nA database with multiple functions and features\nChinese, English bilingual search function\nFilter function for more precise search\nLightbox that can be used for comparison with images inside and outside the database\nImage links to the original source\n…and much more\nOverview of image archive:\nCLICK on the image to the right and read the corresponding description.\nZOOM with the + and - buttons or scrollwheel of your mouse.\nSEARCH & BROWSE for more information by clicking on the description\n\nThe Chinese Iconography Thesaurus (CIT) is designed as both an indexing standard and image archive for Chinese iconography.\nThe CIT terminology uses a corpus of historical catalogue records and inscriptions on art objects (e.g. Shiqu baoji and Midian zhulin) as the primary source.\nThe CIT terminology consists of general terms (e.g. plants, animals, people, objects, events), proper names (e.g. names of persons and places in Chinese history, religion, mythology or literature), and terms describing motifs, subjects and themes.\nThe CIT systematically organises terms in a hierarchical order and in synonym groups.\nThe CIT develops a system of associative relationship between terms.\nThe CIT images link to CIT terminology, and to the website of their original sources.\nThe CIT is a bilingual database searchable in both Chinese and English.\nCIT database is an online construction site. It is liable to change periodically.\nDue to the shortage of the staffing, the CIT datasets may not be proofread and updated promptly.\nThe Chinese Iconography Thesaurus database has been developed and is released in 2019 as a result of a three-year research grant awarded to the V&A by the UK government's Department of Digital, Culture, Media and Sport (DCMS), with subsequent sponsorship from the Bei Shan Tang Foundation.\nPlease acknowledge your use of the CIT in your publicatio",
+    "source_len": 3129
+  },
+  {
+    "file": "chinese-maritime-trade-customs-datasets-open-access-github.com-04ec7a39.md",
+    "title": "Chinese Maritime Trade Customs Datasets 中国旧海关贸易资料数据集 OPEN ACCESS",
+    "url": "https://github.com/kmika11/chinese-maritime-customs-data",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "military_history",
+      "prc",
+      "social_history",
+      "statistical",
+      "statistics"
+    ],
+    "current_description": "Curation scripts used for processing datasets from: https://dataverse.harvard.edu/dataverse/chinese_trade - kmika11/chinese-maritime-customs-data",
+    "source_text": "Curation scripts used for processing datasets from: https://dataverse.harvard.edu/dataverse/chinese_trade\nThis documentation file explains how to use the provided scripts to process the Chinese Maritime Trade Statistics Collection datasets as described in the README file. The scripts help in preprocessing, cleaning, and organizing the datasets for analysis.\n- Introduction\n- Requirements\n- Scripts Overview\n- Using the Jupyter Notebooks\n- Common Issues and Troubleshooting\n- Contact Information\nThe Chinese Maritime Trade Statistics Collection includes datasets from various titles containing trade data from the 19th and early 20th centuries. The curation scripts are designed to preprocess, clean, and organize these datasets for research purposes.\nEnsure you have the following software and packages installed before using the scripts:\n- Python 3.8 or later\n- Jupyter Notebook\n- Pandas\n- Numpy\n- Spacy (for Named Entity Recognition)\n- pyDataverse: (https://pydataverse.readthedocs.io/en/latest/)\n- dvuploader: (https://github.com/gdcc/python-dvuploader)\nThis script includes the functions for curation of the datasets. It includes functions for correctly formatting metadata, creating Dataverse datasets, uploading data files, publishing datasets, unlocking and deleting datasets.\ncuration_script_Chinese_Maritime_Trade_Data.ipynb\n: Main notebook for processing the trade data.annual_trade_metadata_titles.ipynb\n: Notebook for handling metadata related to annual trade reports.returns_trade_ports_titles.ipynb\n: Notebook for processing returns of trade data by port.shanghai_returns_titles.ipynb\n: Notebook specific to the Shanghai trade returns.trade_statistics_treaty_ports_titles.ipynb\n: Notebook for processing trade statistics of treaty ports.\nThe ..._titles.ipynb\nnotebooks are designed to preprocess the data files with labels, titles, and NER tags before curating and depositing into a Dataverse collection. Each ..._titles.ipynb\nnotebook includes functions that are unique to each volume, depending on ports included and the curation decisions applied to organize the files.\n-\nLaunch Jupyter Notebook:\njupyter notebook\n-\nOpen a Notebook: Navigate to the directory containing the notebooks and open the desired notebook (e.g.,\ncuration_script_Chinese_Maritime_Trade_Data.ipynb\n). -\nRun Cells: Execute the cells in the notebook sequentially to process the data. Each notebook contains specific instructions and code cells designed to handle different aspects of the data.\n-\nNotebook Funct",
+    "source_len": 5649
+  },
+  {
+    "file": "chinese-names-of-western-scholars-a-directory-compiled-and-maintained-by-philip--home.uni-leipzig.de-2f6210d9.md",
+    "title": "Chinese Names of Western Scholars- A directory compiled and maintained by Philip Clart 柯若樸 University of Leipzig",
+    "url": "https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.html",
+    "tags": [
+      "art_history",
+      "catalog",
+      "database",
+      "digital_humanities",
+      "gis",
+      "guide",
+      "language",
+      "map",
+      "military_history",
+      "prc",
+      "statistical",
+      "taiwan"
+    ],
+    "current_description": "Chinese Names of Western Scholars- A directory compiled and maintained by Philip Clart 柯若樸 University of Leipzig. focusing on mainland China.",
+    "source_text": "Chinese Names of Western\nScholars\nA directory compiled and maintained by\nPhilip Clart æ¯è¥æ¨¸\nUniversity of Leipzig\nLast updated: 21 March 2023\nThis listing aims to facilitate communication between\nWestern and Asian China-scholars. As anyone who has attended a bi- or\nmultilingual conference can attest, some amount of confusion is occasioned by\nthe fact that Western sinologists are usually known in Chinese-speaking\nacademia primarily by their Chinese names. As the latter, however, are not in\ncommon use in Western academic circles, it often takes a while to figure out\nthat, for example, the professor Du Zanqi æè´å¥, whom a Chinese\nconference participant keeps citing, is in fact better known in the\nEnglish-speaking world as Prasenjit Duara.\nWith a view towards tackling this particular barrier\nto scholarly communication, I have compiled a preliminary list of several\nhundred Chinese names of Western scholars. âWesternâ here does not refer to any\nsort of ethnic identity, but merely indicates that the person in question\npublishes (or published) on some aspect of Chinese culture in a Western\nlanguage. Thus, the list also includes, for example, Chinese, Taiwanese,\nSingaporean, Malaysian, Japanese, and Korean scholars whose names typically\nonly appear in transcription in their publications.\nNo particular search criteria were applied in\ncompiling this list so that the result is a somewhat heterogeneous mix of scholars\nfrom all over the world, most of them alive, some already deceased. It is hoped\nthat the publication of the list will result in submission of additional\nentries by scholars the world over. I expect to expand and update the listings\non a regular basis. Of course, other comments as well as corrections are always\nwelcome and should be directed by email to clart\n[at] uni-leipzig.de. Thanks to everyone who has already contributed names\nto the list.\nI would like to thank Dr. Fabian Heubel ä½ä¹ç of\nAcademia Sinica (Taipei, Taiwan), Dr. Andreas Berndt åå®å¾·, and Mr. Wieland Schulz èå¨æ for their help in first assembling the data presented\nhere.\nThis list was first posted in 2009; it has been\nrevised and expanded ever since. One major boost came early on by adding names\nfrom the English/Chinese Comparison Table for Names of Chinese Studies\nScholars, which was originally published as an appendix of the book, åç¾ä¸å½å¦ = Chinese Studies in North America - Research and\nResources (Beijing: Zhonghua shuju, 2010). The original work was edited by\na team lead by Haihui",
+    "source_len": 120901
+  },
+  {
+    "file": "chinese-pamphlet-digitization-project-dds-crl-edu.ezp-prod1.hul.harvard.edu-68832dbc.md",
+    "title": "Chinese Pamphlet Digitization Project 连环画",
+    "url": "https://dds.crl.edu/search/collection/1?page=10&sort=title_sort&sort_order=asc",
+    "tags": [
+      "art_history",
+      "database",
+      "digital_humanities",
+      "guide",
+      "political_science",
+      "prc"
+    ],
+    "current_description": "Political communication and mass education in the early period of the People's Republic of China Mass education materials published in Hong Kong and in Mainland China, particularly Shanghai, in the ye...",
+    "source_text": "Political communication and mass education in the early period of the People's Republic of China\nMass education materials published in Hong Kong and in Mainland China, particularly Shanghai, in the years 1947-1954. These cartoon books, pamphlets, postcards and magazines, on topics such as foreign threats to Chinese security, Chinese relations with the Soviet Union, industrial and agricultural production, and marriage reform, were produced by both Kuomintang (Nationalist) and Gongchantang (Communist) supporters.\nMore about this collection\n| Title | | Author | | | Yue Gong zou si zhen xiang | 粤共走私真相 | Ba, Dun | 巴敦 |\n| Zhang Agen de kong su | 張阿根的控訴 | Chen, Yinghao | 陳膺浩 |\n| Zhe jiu shi Mei guo | 这就是美國 | Xu, Muzhi | 徐牧之 |\n| Zhong gong de nu gong zhi du | 中共的奴工制度 | Zheng, Zhuyuan | 鄭竹園 |\n| Zhong gong he yi xing qi yu bi kua, Sun Baoyi zhu = Reasons for the Chinese communists rise and fall | 中共何以興起與必垮 | Sun, Baoyi | 孫寳毅 |\n| Zhong gong po hai zong jiao | 中共迫害宗敎 | Chen, Gongyu | 陳公宇 |\n| Zhong gong \"Ren min jing cha\" tou shi | 中共《人民警察》透視 | Zhu, Bufu | 朱布夫 |\n| Zhong gong tu gai yu Zhongguo tu di wen ti | 中共土改與中國土地問題 | Jin, Yihong | 金一鴻 |\n| Zhong gong tu sha ji zhe | 中共屠殺記者 | Huang, Xinmin | 黄新民 |\n| Zhongguo fan gong you ji dui gai kuang | 中國反共游撃隊概况 | Yu, Chuxing | 虞初行 |\n| Zhongguo gong ren = Chinese worker | 中國工人 = Chinese Worker | | |\n| Zhongguo ju shi de bi ran fa zhan | 中國局勢的必然發展 | Li Weichen | 李微塵 |\n| Zhongguo tie lu ji qi fa zhan de qu xiang | 中國鐵路及其發展的趨向 | Qiu, Guangfu | 邱光甫 |\n| Zhongguo xian dai ming ren yi shi | 中國現代名人軼事 | Zuo, Shunsheng, 1893-1969 | 左舜生, 1893-1969 |\n| Zhong hua ren min gong he guo hun yin fa : tu jie ben | 中華人民共和國婚姻法 : 圖解本 | | |\n| Zhong Su guan xi hua shi | 中蘇関係画史 | Fu, Yushi | 傅毓詩 |\n| Zhong Su guan xi hua shi | 中蘇関係画史 | Fu, Yushi | 傅毓詩 |\n| Zhong Su jing ji he zuo xue xi shou ce | 中蘇經濟合作學習手册 | | |\n| Zhuo te wu de gu shi | 捉特務的故事 | Huang, Yiqing | 黄衣青 |\n| Zi mei xian liang | 姊妹献粮 | Lin, Yun | 林韻 |\n\nInformation taken from an article in the Autumn 2002 issue of CRL's newsletter FOCUS.\nThe collection clearly reflects the professional and personal interests of Edward Hunter, who assembled and, in many instances, translated and annotated the materials. An analyst of propaganda and mass education, Edward Hunter (1902 – 1978) had a long career in journalism and intelligence: first as a printer’s apprentice at the New York Evening Post, then reporter, copy editor, and news editor for several newspapers, including the Chicago Tribune (Paris edition)",
+    "source_len": 9831
+  },
+  {
+    "file": "chinese-reference-shelf-at-brill-chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu-3f90ff06.md",
+    "title": "Chinese Reference Shelf at Brill",
+    "url": "https://chinesereferenceshelf.brillonline.com",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "Chinese Reference Shelf Onlineprovides one-stop access to important reference works on China. The following titles are available now, and more will be added regularly.",
+    "source_text": "Chinese Reference Shelf Online\nChinese Reference Shelf Online provides one-stop access to important reference works on China. The following titles are available now, and more will be added regularly.\nChinese Reference Shelf Online provides one-stop access to important reference works on China. The following titles are available now, and more will be added regularly.",
+    "source_len": 368
+  },
+  {
+    "file": "chinese-rubbings-curiosity-digital-collection-open-access-curiosity.lib.harvard.edu-030f0fce.md",
+    "title": "Chinese Rubbings- CURIOSity Digital Collection 中文拓片 OPEN ACCESS",
+    "url": "https://curiosity.lib.harvard.edu/chinese-rubbings-collection",
+    "tags": [
+      "art_history",
+      "catalog",
+      "digital_humanities",
+      "epigraphy",
+      "guide",
+      "military_history",
+      "museum_studies",
+      "prc",
+      "social_history"
+    ],
+    "current_description": "The Fine Arts Library and Harvard-Yenching Library holds rubbings of objects that date from the Qin Dynasty to the Ming Dynasty.",
+    "source_text": "The Fine Arts Library and Harvard-Yenching Library holds rubbings of objects that date from the Qin Dynasty to the Ming Dynasty.\n\nCollection Overview\nHarvard is home to over 5,000 East Asian rubbings, the majority of which are from China. This joint collection contains some 2,700 rubbings from the Fine Arts Library and some 2,300 from Harvard-Yenching.\nThe rubbings were made from ancient stone stelae, tomb tablets, and Buddhist and Daoist scriptures on stelae and rocks, as well as from inscriptions and designs from bronze vessels, jade objects, ceramics, tomb bricks, and roof tiles.\nObjects used to make the rubbings in the collection date from the Qin Dynasty (221–207 BCE) to the Ming Dynasty (1368–1644 CE).\nScholars have found these documents useful for studies in Chinese history, biography, epigraphy, Buddhist and Taoist art, fine arts, and calligraphy. The most significant rubbings in the collection are those from:\n- Xiaotangshan (孝堂山) stone chamber\n- Wu Liang shrine (武梁祠) in Shandong Province dating from the Han Period (206 BCE–220 CE)\n- Forest of Stelae at Xi’an (西安碑林)\n- Buddhist grotto sites in Gongxian (巩县) and Longmen (龙门) in Henan Province dating from the Northern Wei period (386–534 CE)\nHarvard scholars and collectors Langdon Warner, Lawrence Sickman, Hamilton Bell, and C. Adrian Rübel gave many of the rubbings in this collection to Harvard. Langdon Warner himself collected many rubbings in north and northwest China during two expeditions for the Fogg Art Museum in 1923–1924 and 1925.",
+    "source_len": 1519
+  },
+  {
+    "file": "chinese-social-science-library-cssl-sklib.cn-0599694b.md",
+    "title": "Chinese Social Science Library (CSSL) 中国社会科学文库",
+    "url": "http://www.sklib.cn",
+    "tags": [
+      "catalog",
+      "digital_humanities",
+      "prc"
+    ],
+    "current_description": "Chinese Social Science Library (CSSL) 中国社会科学文库. focusing on mainland China.",
+    "source_text": "å¾ä¹¦çåº¦æè¡\nå¾ä¹¦æµè§æè¡\næ¡ç®çåº¦æè¡\næ¡ç®æµè§æè¡\nè®ºæçåº¦æè¡\nè®ºææµè§æè¡\n{{index}}\nä½è\nï¼{{authors}}",
+    "source_len": 101
+  },
+  {
+    "file": "chinese-stone-inscription-database-open-access-csid.zju.edu.cn-23ea5ad4.md",
+    "title": "Chinese Stone Inscription Database 中國歷代墓誌數據庫 OPEN ACCESS",
+    "url": "http://csid.zju.edu.cn/tomb",
+    "tags": [
+      "database",
+      "digital_humanities",
+      "epigraphy",
+      "prc",
+      "statistical"
+    ],
+    "current_description": "浙江大学图书馆古籍碑帖研究与保护中心简讯第15期2022-12-30 浙江大学图书馆古籍碑帖研究与保护中心简讯第14期2021-12-30 浙江大学图书馆古籍碑帖中心简讯第13期2021-06-18 浙江大学“金石不朽：书写、复制与文化衍生”展览今起开展2021-03-10 浙江大学图书馆古籍碑帖中心简讯第12期2020-07-07 浙江大学图书馆古籍碑帖中心简讯第11期2019-01-02 江苏...",
+    "source_text": "|\n曹用之鎮墓石中央真文 |\n曹用之鎮墓石中央真文蓋 |\n曹用之鎮墓石北方真文 |\n曹用之鎮墓石北方真文蓋 |\n曹用之鎮墓石西方真文蓋 |\n曹用之鎮墓石西方真文 |\n\n浙江大學圖書館古籍碑帖研究與保護中心成立於癸巳年，落成於甲午年，揭幕於乙未年，三年磨礪始成，以期厚積薄發。\n碑帖中心設有展會合一的大廳、學術研究室及古籍碑帖整理修復室，中心資料室與圖書館金石碑帖特藏合署於中心內。中心定位為對古籍碑帖整理、出版、鑒定、保護、數字化等多個方面進行綜合研究和實踐的開放性學術機構。以整理出版圖書館古籍碑帖資源、建設「中國歷代墓誌數據庫」作為主要的學術任務；以不定期舉辦展覽作為促進文化的手段。\n碑帖中心將以開放與合作的態勢謀求發展，並努力為弘揚傳統文化作出自己的貢獻。\n中心以學術與文化為主要的關注點推進發展。在學術上，中心以古籍碑帖資源的建設和研究為基礎，為學科建設提供 “地上”和“地下”的多重材料，培養古籍碑帖研究人員，推進古籍碑帖相關學科的發展。同時，以建設「中國歷代墓誌資料庫」為核心任務，努力將之建設成為全球最完善的墓誌資料庫和最重要的學術交流平臺。在文化上，中心以碑帖文化展覽、筆會沙龍為手段，促進文化發展，希冀成為區域文化與專題文化的宣傳者、倡導者與組織者。",
+    "source_len": 535
+  },
+  {
+    "file": "chineseadvertisingagencies-com-mediaguide-index-html.md",
+    "title": "Chinese Overseas Media",
+    "url": "http://www.chineseadvertisingagencies.com/mediaguide/index.html",
+    "tags": [
+      "digital_humanities",
+      "language",
+      "music",
+      "newspaper_studies",
+      "open_access",
+      "periodical",
+      "political_science",
+      "social_history",
+      "statistical",
+      "taiwan"
+    ],
+    "current_description": "General Information about Chinese Media Guide",
+    "source_text": "Chinese Media Guide is a comprehensive guide on overseas Chinese media. It contains a complete list and descriptions of major overseas Chinese newspaper, Chinese TV stations, Chinese radio stations, and Chinese websites.\nAs Los Angeles and New York have the most Chinese population and a variety of Chinese media, we decide to list them separately.\nDefinition of Overseas Chinese Media:\nWe define overseas Chinese media as any form of media whose major audience is outside of Mainland China, Hong Kong, or Taiwan. Thus, our Chinese media list includes those of the United States, Canada, Latin America, Europe, Southeast Asia, and Africa.\nWe list major subscription based overseas Chinese newspapers. We shall not include freely distributed Chinese newspapers if there are other subscription based newspapers in the same locality. In order to be considered as a major Chinese newspaper, the newspaper has to have at least 5 years of history if there are other newspapers in the same locality.\nCurrently, we divide our listing of overseas Chinese newspapers into the following categories:\nWe list mainstream Chinese language television stations outside of China, Hong Kong, and Taiwan that have high ratings and have cooperative relationship with news agencies or TV stations of Mainland China, Hong Kong, or Taiwan. We shall divide them into the following categories:\n\nEstablished in 1998, Chinese Advertising Agencies, Inc. has been engaged in providing information to companies and individuals who wish to advertise in Chinese media. Since 2002, we published Chinese Media Guide, an online guide that lists major overseas Chinese media including Chinese newspapers, Chinese TV stations, Chinese radios, and Chinese websites.\nAside from providing Chinese Media Guide, we also provide overseas Chinese demographics information as well as tips on marketing to Chinese Americans. We have been providing the information and tools for free.\nPlease contact us should you need further assistance.\n\nPublished in 2002, Chinese Media Guide has been engaged in providing information to companies and individuals who wish to know more about overseas Chinese media such as Chinese newspapers, Chinese TV stations, Chinese radios, and Chinese websites.\nEstablished in 1998, Chinese Advertising Agencies, Inc. has been engaged in providing information to companies and individuals who wish to advertise in Chinese media. Since 2002, we published Chinese Media Guide, an online guide that lists major overseas Chine",
+    "source_len": 5748
+  },
+  {
+    "file": "chineseadvertisingagencies-com-mediaguide-media-china-html.md",
+    "title": "Media in China",
+    "url": "http://www.chineseadvertisingagencies.com/mediaguide/media-China.html",
+    "tags": [
+      "digital_humanities",
+      "newspaper_studies",
+      "periodical"
+    ],
+    "current_description": "General Information about The Official China Media Guide",
+    "source_text": "Established in 1998, Chinese Advertising Agencies, Inc. has been engaged in providing information to companies and individuals who wish to advertise in Chinese media. Since 2002, we published Chinese Media Guide, an online guide that lists major overseas Chinese media including Chinese newspapers, Chinese TV stations, Chinese radios, and Chinese websites.\nAside from providing Chinese Media Guide, we also provide overseas Chinese demographics information as well as tips on marketing to Chinese Americans. We have been providing the information and tools for free.\nPlease contact us should you need further assistance.\n\nWith the decline of newspaper coverage and growth in number of Internet users, online advertisement is becoming more and more prevalent and effective in marketing. It is very important to find the right agency who has the know-how and connection when dealing with Chinese advertisement in the US to ensure the visibility of your advertisements.\nThere are several effective ways to conduct your Chinese Internet marketing. However, before you start, there are some preparation works that you would need to double check in order to be ready.\nYou need to make sure that you are targeting the right Chinese audience. If you are targeting the Chinese visitors from mainland China, and Singapore, then your advertisement should be translated into simplified Chinese, as Chinese people from those places read simplified Chinese characters. If you are targeting Chinese visitors from Hong Kong, Taiwan, and the majority of the overseas Chinese communities in the United States and Canada, then your advertisements should be translated into traditional Chinese characters. There are many multilingual translation companies that may help you with this step. Abacus Chinese Translation Services is one such company you can consult with for such translations.\nA lot of people who read Chinese websites don't speak or write English well. Therefore, it is essential that you have people who can speak Mandarin or Cantonese who can take orders or read emails in Chinese. Please note that Chinese people in general tend to ask a lot of questions before making a decision to purchase, and that they always compare prices before purchase. Therefore, when conducting your Chinese Internet marketing campaign, please also make sure your prices are competitive.\nAfter making sure the above two points, you may then start your Chinese Internet marketing campaign. Here are the tips. If you have ques",
+    "source_len": 4877
+  },
+  {
+    "file": "chinesereferenceshelf-brillonline-com-grand-ricci.md",
+    "title": "Le Grand Ricci Online 利氏漢法辭典",
+    "url": "http://chinesereferenceshelf.brillonline.com/grand-ricci",
+    "tags": [
+      "art_history",
+      "bibliography",
+      "database",
+      "dictionary",
+      "digital_humanities",
+      "epigraphy",
+      "language",
+      "legal_history",
+      "literature",
+      "medicine",
+      "philosophy",
+      "religion",
+      "social_history"
+    ],
+    "current_description": "\"It is difficult to imagine any scholar in Chinese studies who will not eagerly welcome this new digital incarnation of the Le Grand Ricci.",
+    "source_text": "Le Grand Ricci Online\n\"It is difficult to imagine any scholar in Chinese studies who will not eagerly welcome this new digital incarnation of the Le Grand Ricci. Le Grand Ricci is to all purposes the most comprehensive bilingual dictionary of Chinese in the Western world. It covers three millennia of the Chinese language, from the Classics to the modern age, and is encyclopedic in its scope. The compilers were able to draw on the full range of French sinological expertise in completing the project. Since its publication Le Grand Ricci has established itself as an indispensable reference tool. Now available online, and easily searchable, its functionality has only further increased.\"\n(Wilt L. Idema. Research Professor of Chinese Literature, Harvard).\nLe Grand Ricci was published in six volumes and 7,300 pages, in addition to a volume with appendices. It offers approximately 300,000 Chinese words and expressions from the early beginnings of Chinese history to the end of the 20th century. Over 2,000 characters deal with the oldest forms of writing or the so-called oracle-bone inscriptions. Le Grand Ricci incorporates a wide spectrum of lexical domains, ranging from literature and history to science, technology, medicine, law, philosophy, and religion.\nFor more information: Brill.com\nOur user-friendly online interface allows the user to efficiently perform even complex queries through all 13,392 main entries (single characters) or 280,000 expressions (or Chinese words composed of a set of characters).\nEntries can be looked up:\n- by Chinese character\n- by romanization (pinyin) (with or without tones)\n- by radical (Kangxi or simplified) and the number of additional strokes\n- by total number of strokes (of the simplified or traditional forms)\n- by difficult character\nThe words (expressions) can be looked up:\n- by their Chinese characters\n- by the romanization (with or without tones) of their component characters,\neither as a precise sequence or anywhere (and in any order) in the Chinese word\nLe Grand Ricci was developed by the Ricci institutes of Paris and Taipei through the Ricci Association (www.grandricci.org). First published by Desclée De Brouwer (DDB), the dictionary is now with les Éditions du Cerf, where the printed volumes can be acquired at www.editionsducerf.fr.\n- Prefaces ▼\n- Dossiers ▼\n- Administration chinois\n- Appellations de parenté\n- Armes de l’antiquité chinoise\n- Bibliographie générale\n- Bibliographie des branches du savoir\n- Bouddhisme\n- Calen",
+    "source_len": 13496
+  },
+  {
+    "file": "chinesevillagedata-library-pitt-edu-index-html.md",
+    "title": "Contemporary Chinese Village Gazetteer Data (CCVG Data) 当代中国村庄数据 (open access)",
+    "url": "https://chinesevillagedata.library.pitt.edu/",
+    "tags": [
+      "art_history",
+      "catalog",
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "guide",
+      "map",
+      "music",
+      "open_access",
+      "social_history",
+      "statistical",
+      "statistics"
+    ],
+    "current_description": "To improve user experience with the CCVGD datasets, we sincerely invite you to participate in our survey.",
+    "source_text": "Introduction\nIn 2018, the East Asian Library of the University of Pittsburgh Library System (ULS) proposed the Contemporary Chinese Village Gazetteer Data (CCVG Data) project, to create an open dataset consisting of data selected from the ULS collection of Chinese village gazetteers. Village gazetteers record statistical data on individual villages, covering the years from 1949 to the present showing the history and development of Chinese villages (the village is the most basic administrative unit in China). The CCVG Data project, the first of its kind, offers scholars a dataset based on the ULS East Asian Libraryâs growing collection of Chinese village gazetteers.\nSince the project aims to represent as much of China as possible, gazetteers were chosen for inclusion based on the goal of representing each of Chinaâs provinces, if possible. Within each province, gazetteers are chosen based on availability. It should be noted that the availability of village gazetteers varies by province.\nTo create the CCVG dataset, gazetteers were selected from the collection, demographic and economic data were collected from these volumes, and this data was extracted using a data entry platform designed by the ULS. The resulting dataset is published on this website for free download by scholars around the world. In November 2022, data on 2,701 villages had been processed. To ensure the consistency of the administrative village and the document type, 100 natural villages were removed. Data from the effective number of 2,601 villages were extracted and entered into a customized platform.\nThe dataset is available for download in .csv format. An interactive map with basic administrative information on each collected village is also included on the website. An interactive search platform with filtering, cross-searching, and visualization functions will also be put into operation soon.\n2018å¹´ï¼å¹å ¹å ¡å¤§å¦ (University of Pittsburgh) å¾ä¹¦é¦ç³»ç»ï¼University Library System, ULSï¼çä¸äºå¾ä¹¦é¦ (East Asian Library) å¯å¨äºâå½ä»£ä¸å½æåºæ°æ®âï¼Contemporary Chinese Village Gazetteers Data, CCVG Dataï¼é¡¹ç®ï¼å ¶ç®çæ¯ä»ULSæ¶èçæå¿ä¸æåæ°æ®ï¼åå»ºä¸ä¸ªå¼æ¾çãå±ç°ä¸å½ä¹¡æåå²ååå±å»ºè®¾çæ°æ®éãâæâæ¯ä¸å½æåºç¡çè¡æ¿åä½ï¼æå¿è®°å½äºä¸å½æåºèª1949å¹´ä»¥æ¥çåºæ¬æ°æ®ï¼ä»¥è¡¨ç°ä¸å½æåºçåå²ååå±ãç®åï¼CCVG æ°æ®æ¯ç¬¬ä¸ä¸ªå«æ¤ç±»æ°æ®çé¡¹ç®ï¼å¹¶å¸®å©å¦è å©ç¨å¹å ¹å ¡å¤§å¦ä¸äºå¾ä¹¦é¦çæå¿æ¶è. CCVGæ°æ®æ¨å¨å°½å¯è½åæ ä¸å½åä¸ªçä»½æåºçåå±æ åµï¼æ å¨æ¯ä¸ªçä»½å éæºéæ©æåºãéè¦æåºçæ¯åçä»½ç°å¯ä¾æå¿çæ°éåå¼ãåå»ºCCVG æ°æ®éï¼æ¯ä»ULS",
+    "source_len": 6431
+  },
+  {
+    "file": "chncase-cn.md",
+    "title": "Chncase Cn",
+    "url": "http://www.chncase.cn/",
+    "tags": [
+      "digital_humanities"
+    ],
+    "current_description": "APP欢迎下载审判案例APP扫描二维码下载 独家张某某故意杀人案故意杀人罪 人身权利 犯罪未遂尚未完全丧失辨认或者控制行为能力的精神病人犯罪后的定罪量刑问题云南省德宏州中级人民法院 独家周某等受贿案受贿罪；利用职务便利；谋取利益被告人周某利用职务上的便利的认定张鑫成都铁路运输法院 独家陈某、白某组织、领导传销活动案组织、领导传销活动罪 诈骗罪 虚构事实新型组织、领导传销活动的突出特点、组织、领导传...",
+    "source_text": "商务咨询：\n010-62515610（机构用户）\n010-62514898（个人用户）\n被告人朱某1过失致人死亡案\n过失致人死亡罪；故意杀人罪；间接故意与过失的区分\n刘某失火案\n失火罪 过失犯罪 火灾\n吴某贩卖毒品案\n毒品犯罪；不同种类毒品；毒品数量折算\n指导案例147号：张永明、毛伟明、张鹭故意损毁名胜古迹案\n江苏省扬州市广陵区人民检察院诉北京阳光一佰生物技术开发有限公司、习文有等生产、销售有毒、有害食品案\n浙江省浦江县徐某清诈骗案\n\n商务咨询：\n010-62515610（机构用户）\n010-62514898（个人用户）\n一、注册登录\n1、如何注册、登录网站？\n点击登录框“注册”按钮进入注册流程。。目前网站仅支持邮箱注册。用户可使用用户名登录、IP登录和第三方账号登录三种登录方式。\n2、什么是\"IP登录\"？\n一般学校或单位使用团体订购的数据库资源时，系统会识别相应的IP地址，只要在其允许的IP范围之内，即可实现IP登录。\n3、忘记\"用户名\"该如何登录？\n可发送邮件至客服邮箱rd100@crup.com.cn或拨打客服电话010-62515610，提供您的注册邮箱或交易记录凭证，以便查询。\n二、案例检索\n1、网站都支持哪些检索方式？\n网站目前支持三种检索方式：\n1） 基础检索：平台上的所有数据均已结构化，可实现全文检索。检索的范围包括标题、案由、文书号、审级、审结时间、审判机关、审理法官、法律依据等。您可以直接输入想要检索的内容。\n2） 高级检索：在高级检索中，提供16种检索项帮助您更快的定位到需要的内容。如果您对案例了解的信息越多，检索结果也会越精确。\n3） 检索结果的筛选：在检索结果页面，可以按照“案由”、“判解法理”、“审级”等5个类别进行二次筛选，帮您快速缩小检索范围。\n2、如何阅读全文？\n当检索到所需要的案例后，可以通过小窗预览的模式来了解更多案例信息，如果您想阅读全文，可以点击标题进入支付界面，支付成功后便可以浏览全文内容。\n三、支付和充值\n1、对于个人用户来说，服务方式有哪些？\n目前提供以下两种服务：\n1）按时间段包库：可以按月、半年、年三种方式包库。在您购买的时间段内，您可以任意浏览数据库中的所有付费内容；\n2）按单篇购买：选择想要购买的案例，按照单篇支付。按篇购买的内容，在任意时间内都可以在线阅读全文。\n2、平台支付方式都有哪些？\n平台目前支持支付宝支付、微信支付、充值卡支付三种支付方式。\n3、支付成功的账户应如何索要发票？\n如果您需要开具发票，请提供您的订单购买信息（包括数据库注册的用户名、充值时间、充值金额、发票抬头）和发票开具信息（包括通讯地址、接收人、电话、邮编）给我们的客服人员，我们的客服电话是：010-62515610，客服邮箱是：rd100@crup.com.cn，\n如果您选择发邮件给我们，邮件主题请注明“发票”。\n若您以单位名义开票，请提供单位名称及纳税人识别号\n若您以个人名义开票，请提供个人姓名。\n（如需在发票备注处备注，请在电话或邮件中说明）\n4、购买后还能退款么？\n因为您购买的商品属于虚拟类商品，一旦购买，便不能退款，敬请谅解。\n四、内容查看\n1、查看案例全文，都包含哪些内容？\n每一个案例都包含了一个完整的审判链条：“文书字号”-“案由”-“诉讼双方”-“审级”-“审判机关和审判组织”-“审结时间”-“诉辩主张”-“事实和证据”-“定案结论”，以及我们数据库独有的特色资源，由判案法官撰写的“案例解说”，剖析适用的法\n律和涉及的法学理论观点。\n2、文章付费后，都可以实现哪些功能？\n付费后的文章除了查看完整的信息外，我们还支持“打印”（网页上直接打印文章信息）、“引用”（可以直接复制粘贴引用格式）、“收藏”（查看收藏的路径您可以通过点击“用户中心”-“我的足迹”-“我的收藏”来查看）、“分享”（分享案例到微信、微博等社交软件中）这四个操作。\n3、法律法规都包含了哪些内容？\n法律法规除了与案例进行了关联外，还可以按照效力级别、时效性进行单独检索。\n4、文章付费后，支持文本内容的下载么？\n目前网站上的文章只支持在线浏览，暂不提供下载功能。\n5、文章购买后，仍无法查看内容怎么办？\n如果文章购买后仍无法查看全文，您可以尝试刷新页面或者清除页面缓存。\n\n商务咨询：\n010-62515610（机构用户）\n010-62514898（个人用户）\n从1992年起，国家法官学院与中国人民大学法学院共同开始编纂《中国审判案例要览》丛书，逐年从全国各级人民法院审结报送的各类案例中选编新颖、疑难、典型、重要案例，分刑事、民事、商事、行政4部分内容出版。\n《要览》独创案例体例，并由主审法官撰写解说，评析案例适用法律的理由和涉及的法学理论观点。一经推出广受好评，是国内在海外发行的仅有的两类英文版案例丛书之一，被哈佛大学图书馆、美国国会图书馆以及欧洲一些国家图书馆作为馆藏资料，受到英国、美国以及香港地区一些著名大学法学院和中国法研究中心的推崇。\n为了充分有效地利用该项资源，中国人民大学出版社以《要览》丛书系列案例为核心，汇聚最高人民法院发布的指导案例、典型案例、公报案例等，于2017年底推出了“北京人大数字科技有限公司审判案例数据库”。\n具有高度典型性\n精选社会大案要案\n反映司法审判全貌\n代表审判最新水平\n新中国第一部大型审判案例丛书《中国审判案例要览》,1993年7月10\n日上午在人民大会堂湖北厅隆重举行。中共中央书记处书记、中央政\n法委书记、最高人民法院院长任建新,全国人大常委会副委员长雷洁琼,\n全国人大外事委员会主任朱良,全国人大常委会法工委主任顾昂然等，\n共百余人出席了首发式。\n新中国第一部大型审判案例丛书《中国审判案例要览》于1994年4月荣获首届全国优秀法律图书一等奖,并且名列榜首。\n《中国审判案例要览》第五次编写研讨会于1996年1月13日至16日在深圳举行，最高法院副院长、“要览”编审委员会主任祝铭山同志到会做了重要讲话。编审委员会的部分委员、各卷主编、副主编、编辑部工作人员及各地通讯编",
+    "source_len": 4320
+  },
+  {
+    "file": "churchmissionarysociety-amdigital-co-uk.md",
+    "title": "Church Missionary Society Periodicals",
+    "url": "http://www.churchmissionarysociety.amdigital.co.uk/",
+    "tags": [
+      "archive",
+      "art_history",
+      "catalog",
+      "christianity",
+      "database",
+      "digital_humanities",
+      "newspaper_studies",
+      "periodical",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "From its roots as an Anglican evangelical movement driven by lay persons, this resource encompasses publications from the CMS, the Church of England Zenana Missionary Society and the latterly integrat...",
+    "source_text": "From its roots as an Anglican evangelical movement driven by lay persons, this resource encompasses publications from the CMS, the Church of England Zenana Missionary Society and the latterly integrated South American Missionary Society. Documenting missionary work from the nineteenth to the twenty-first century, the periodicals include news, journals and reports offering a unique perspective on global history and cultural encounters.\n\nYou may not have permission to access this resource. For example, you may have reached this page from AM Explorer, an internet search or you may have a free trial.\nPlease contact support@amdigital.co.uk for assistance\nIf you are attempting to access off-campus, please use Proxy access by going via your library’s database list. If you have visited this page via a proxy server please request your administrator to allow access to https://www.login.amdigital.co.uk\n\nYou may not have permission to access this resource. For example, you may have reached this page from AM Explorer, an internet search or you may have a free trial.\nPlease contact support@amdigital.co.uk for assistance\nIf you are attempting to access off-campus, please use Proxy access by going via your library’s database list. If you have visited this page via a proxy server please request your administrator to allow access to https://www.login.amdigital.co.uk",
+    "source_len": 1370
+  },
+  {
+    "file": "classical-historiography-for-chinese-history-open-access-libguides.princeton.edu-90a4090e.md",
+    "title": "Classical Historiography for Chinese History 中國經典文獻工具書錄 OPEN ACCESS",
+    "url": "http://libguides.princeton.edu/chinese-historiography",
+    "tags": [
+      "archive",
+      "art_history",
+      "bibliography",
+      "catalog",
+      "christianity",
+      "database",
+      "dictionary",
+      "digital_humanities",
+      "epigraphy",
+      "geography",
+      "guide",
+      "language",
+      "legal_history",
+      "literature",
+      "museum_studies",
+      "newspaper_studies",
+      "philosophy",
+      "prc",
+      "religion",
+      "social_history",
+      "statistical"
+    ],
+    "current_description": "Research guide for Chinese Historiography",
+    "source_text": "Compiled by Benjamin A. Elman 艾 爾 曼\nProfessor of East Asian Studies and History, Princeton University\nWith the help of Nanping Cao (Fudan University), Pingyi Chu (Academia Sinica, Institute of History and Philology), Xiaoping Cong (University of Houston), Brandon Ermita (Princeton University), Jinsong Guo (Princeton University), Chao-Hui Jenny LIU (Princeton University), Miaw-fen Lu (Academia Sinica, Institute of Modern History), Sam Gilbert (UCLA, ABD), Marten Soderblom Saarela (Princeton), Adam Schorr (Ph.D., UCLA East Asian Languages and Cultures Department), Susan Schneller (School of Historical Studies, Institute for Advanced Study, Princeton), Tom Ventimiglia (Princeton University), and William Wooldridge (City College of NY).\nMaterials have also been included from bibliography courses at the University of Pennsylvania 1975-1977. Thanks are especially due Professors Susan Naquin, W. Allyn Rickett, and more recently Nathan Sivin. This new version of the website is now located at Princeton University and is hosted in the Library's LibGuides East Asian Studies Portal. It has been updated and now includes three major new features:\n1) All entries are alphabetized within each section;\n2) The romanization has been switched to Pinyin. Although this website uses Pinyin, it splits up words into phonemes, making Chinese appear to be a monosyllabic language. The Library of Congress has preferred a character-by-character romanization, and thus we follow LOC guidelines. But users of this website should note that the division into words (ci 辭 or 詞) as opposed to characters (zi 字) is still the usual basis for the Pinyin romanization of Chinese in China and most libraries there.\n3) The entire site is now searchable.\n4) Cases where there are no topical subdivisions will be referred to as \"All Content\".\nAll materials are under copyright: 1996 by Benjamin A. Elman.\nLast Revision: October 2022\nThis list may be cited and reproduced for non-profit educational purposes only, provided credits and copyright are acknowledged. Links to this site should mention the Princeton University East Asian Library as the URL site and the compiler of the materials as the \"author\".\nComments and suggestions?\n(The opening image of reference books in the East Asian Gest Library most notably includes the Dai kanwa jiten 大漢和辞典 「Chinese-Japanese Dictionary」, by Morohashi Tetsuji 諸橋轍次, and others.)\n\nThese research guides are collections of resources created by library staff to assist you in your r",
+    "source_len": 2780
+  },
+  {
+    "file": "cnki-china-knowledge-resource-integrated-database-oversea.cnki.net-fd684aeb.md",
+    "title": "CNKI. China Knowledge Resource Integrated Database 中国知网",
+    "url": "https://oversea.cnki.net/index",
+    "tags": [
+      "art_history",
+      "database",
+      "digital_humanities",
+      "economic_history",
+      "guide",
+      "legal_history",
+      "newspaper_studies",
+      "periodical",
+      "political_science",
+      "prc",
+      "statistical",
+      "statistics"
+    ],
+    "current_description": "CNKI provides global users with a unified search and discovery service for Chinese academic resources such as journals, dissertations, yearbooks, conference papers, e-books, newspapers, e-books, and r...",
+    "source_text": "DIGITAL RESOURCES\nCNKI NEWSROOM\nCNKI Overseas Upcoming Event Calendar2025/05/23\nCNKI Overseas Platform Upgrade Announcement2026/01/06\nOne-Stop Solution for All Academic Essentials, Effortlessly Embrace the New Year2025/12/19\nCNKI Semester Sprint Academic Power-Up Plan: Ignite Your Research Potential!2025/11/20\nCNKI eBooks Reading and Sharing Recommend books to join the lucky draw!2025/10/13\n\nAbout CNKI\nIn 1995, CNKI was established at Tsinghua University.\nAs the world's largest provider of Chinese academic information, CNKI has always positioned its corporate development to serve scientific and technological innovation, promote academic dissemination, and assume social responsibility. Rooted in the wisdom of tens of millions of outstanding scholars in China, CNKI provides one-stop digital resources including academic journals, dissertations, e-books, newspapers, and conference papers to individuals and more than 1,000 institutions in over 100 countries and regions outside China, delivering high-quality and reliable knowledge services.\nNew technologies are continually emerging, and the paradigms of academic research and knowledge dissemination and services are evolving. Leveraging its extensive experience in integrating 300 million Chinese and foreign literature and knowledge, as well as its close academic ties with tens of thousands of research institutions and organizations within China, CNKI strives to create a more comprehensive academic research service system. CNKI aims to offer global users diverse service directions covering AI-generated research tools, open science publishing, knowledge platform construction, research data processing, and research talent management. This is to empower the knowledge infrastructure of different countries and institutions, driving their innovation and development.\nCooperation and mutual benefit will bring more development opportunities. CNKI is currently engaged in indexing cooperation with more than 1,000 internationally renowned publishers and research institutions to provide researchers worldwide with one-stop discovery of research literature in different languages. As a member of the global academic research ecosystem, CNKI hopes to collaborate more deeply with industry peers to create business opportunities together.\nWe firmly believe that knowledge innovation will play a key role in the United Nations' Sustainable Development Goals. With a long-term development vision to establish mechanisms for knowledge sharin",
+    "source_len": 31690
+  },
+  {
+    "file": "cnopendata-com-article-index-html.md",
+    "title": "CNopendata",
+    "url": "https://www.cnopendata.com/article/index.html",
+    "tags": [
+      "art_history",
+      "digital_humanities",
+      "statistical"
+    ],
+    "current_description": "一次偶然的机会让我们和一些高校老师建立了联系，为他们提供数据搜集和整理服务。过去几年，我们和不少高校老师建立了稳定、愉快的合作关系，在小范围内竟然产生了一定的影响力，越来越多的学者开始联系我们希望提供数据服务。随着客户数量的增加，我们萌生了建立数据平台的想法。 互联网产生了海量数据，记录着丰富信息，并以开放的姿态呈现出来，然而由于数据量巨大、搜集难度极高、清理整合耗时等问题，学者在使用这些数据时面...",
+    "source_text": "CnOpenData的诞生\n一次偶然的机会让我们和一些高校老师建立了联系，为他们提供数据搜集和整理服务。过去几年，我们和不少高校老师建立了稳定、愉快的合作关系，在小范围内竟然产生了一定的影响力，越来越多的学者开始联系我们希望提供数据服务。随着客户数量的增加，我们萌生了建立数据平台的想法。\n互联网产生了海量数据，记录着丰富信息，并以开放的姿态呈现出来，然而由于数据量巨大、搜集难度极高、清理整合耗时等问题，学者在使用这些数据时面临诸多障碍，而这恰是我们这些IT人最为擅长的地方。当然，我们也有强大的学术团队做支撑，他们曾经是我们的客户，今天成为我们的顾问！\n简约、清晰、有用，是我们追求的理念。数据是散落的金子，我们愿做挖矿者，期待与作为炼金人的您精诚合作。\nCnOpenData的发展\nCnOpenData是覆盖经济、金融、会计、法律、地理、新闻、医疗、体育等多个学科的综合型数据平台，并持续提供个性化数据定制服务。现拥有500+个专题数据库，包括全球专利及引用被引用数据（1.5亿+量级）、工商注册企业数据（3.5亿+量级）、线上招聘广告数据（3.6亿+量级）、招投标数据（5800万+量级）、各种上市公司另类数据、裁判文书数据、税收调查数据、全量省份报纸数据、财经文本数据、雪球数据、股吧数据、Glassdoor美国公司员工评价数据、Twitter数据、Linkedin员工简历数据、美国公司招聘数据等热门数据库，学术研究价值极高。为了更好地服务高校机构客户，CnOpenData还推出了中国社会科学研究数据库平台，现拥有10余个专题数据模块、140+个数据库。\n本平台集灵活的数据定制服务、专业度极强的数据整合能力、强大的学术性于一体，为各领域中不同主体的研究决策提供优质、专业的数据支持。我们不仅为国内多所高校和著名学者提供持续的数据服务，在海外我们也入选了普林斯顿图书馆“来自中国的数据”系列。同时，我们与Neudata达成战略合作伙伴关系，也致力于为投资管理、私募股权、风险投资和企业领域的客户提供高质量的数据服务。目前，我们已成功入驻福建大数据交易所门户网站，与该司达成友好意向合作。\nCnOpenData的今天\nCnOpenData始于对学术研究的深度理解与支持。我们最初专注于服务高校用户，以高质量的数据产品和专业的服务赢得了学术界的广泛信赖。这份来自严谨学术环境的认可，不仅是我们前进的动力，也为我们打开了更广阔的天地。\n随着影响力的扩大，我们积极与各行业领先平台建立战略合作。这使我们得以汇聚更丰富、更多元的优质数据资源，并持续吸收包括大语言模型、深度学习、图像识别等在内的前沿数字技术。\n在当今汹涌澎湃的大数据时代，CnOpenData早已超越“冰冷数字”的范畴。我们深刻理解数据背后的多元适用场景与核心底层需求，致力于将原始数据转化为有温度、可落地、能创造实际价值的应用服务。通过融合先进技术与深度洞察，我们成功将数据产品升级为智能解决方案。\n如今，CnOpenData不仅继续深耕学术领域，更将这份源于严谨、精于技术、赋予温度的能力，服务于众多企业与机构用户。我们帮助他们挖掘数据潜能，优化决策流程，提升运营效率，最终实现业务增长与创新突破。CnOpenData致力于连接数据本源与智能应用，赋能学术探索与商业成功。\nCnOpenData与清华大学计算社会科学平台、Neudata、综合开发研究院(中国·深圳)、人民数据、通联数据、城市数据团、CSMAR、经管之家等单位建立数据合作关系，并获取了西南财经大学家庭金融调查与研究中心、南师大智慧城市感知与模拟实验室、国家基础地理信息中心的数据授权，以及厦门大学、香港大学、中国人民大学、中央财经大学、南京师范大学、南京大学、广东金融学院等知名学者拥有的高质量公共数据的授权，并向学界提供公共数据索引服务。\n同时，CnOpenData的用户覆盖国内外多所著名高校，国内包括北京大学、清华大学、中国人民大学、复旦大学、上海财经大学、浙江大学、上海交通大学、同济大学、香港中文大学、香港大学、武汉大学、中央财经大学、厦门大学、中南财经政法大学、西南财经大学、对外经贸大学、中山大学、天津大学、东南大学、南开大学、哈尔滨工业大学、东北财经大学、首都经济贸易大学、合肥工业大学、广东财经大学、湖南大学、吉林财经大学、贵州大学、重庆大学、华中师范大学、中央民族大学、对外经济贸易大学、青岛大学、中国传媒大学、兰州大学、山东大学、上海对外经贸大学、江西财经大学、深圳大学、中国科学院大学、南京财经大学、四川大学、中国社会科学院大学、澳门大学、香港浸会大学、北京理工大学等知名院校，国外如斯坦福大学、不列颠哥伦比亚大学、普林斯顿大学、哈佛大学、波士顿大学、得克萨斯大学圣安东尼奥分校、挪威经济学院、加利福尼亚大学洛杉矶分校、伦敦大学学院、新加坡国立大学、华盛顿大学、纽约州立布法罗分校、伦敦政治经济学院、荷兰阿姆斯特丹自由大学、奥本大学、马来亚大学、纽约州立大学、帝国理工学院、诺丁汉大学、梅西大学、犹他大学、马里兰大学等。\n六年以来，我们的合作伙伴已经遍及全球多个国家和地区——从祖国大陆到港澳台，再到东南亚、北美、欧洲…… 五湖四海，我们携手共进。\nCnOpenData的服务\n- 线上平台已发布的数据，以及相关数据的二次定制（零星数据提取、数据统计、文本分析）\n- 与客服联系获取部分私有数据：部分私有数据已经在国内外顶级期刊上发表多篇学术论文\n- 外部网站抓取定制：客户提供的国内外网站的抓取工作\n- 热门技术服务定制：机器学习、API音频转换、地址定位、人脸识别、大语言模型分析\n- 其他：您有任何数据定制需求都可以联系我们！！\n联系我们\n关注我们：微博；知乎 ；Google Sites\n销售经理联系方式：\n- 丁筱雨 dingxiaoyu@cnopendata.com；13370290605\n- 王诗薇 wangshiwei@cnopendata.com；19101735809\n- 孙潇琦 sunxiaoqi@cnope",
+    "source_len": 3958
+  },
+  {
+    "file": "cnsda-org.md",
+    "title": "中国学术调查数据资料库 open access",
+    "url": "http://www.cnsda.org/",
+    "tags": [
+      "digital_humanities",
+      "taiwan"
+    ],
+    "current_description": "中国综合社会调查数据专区[数据推荐]中国综合社会调查（Chinese General Social Survey，CGSS）始于2003年，是我国最早的全国性、综合性、连续性的学术调查项目。2003年，中国人民大学社会学系与香港科技大学调查研究中心合作，在参考国际经验和自身经验的基础上，在国家“211工程”二期项目资金和香港特区政府大学研究资助局“重点研究项目”的支持下，设计并启动了第一次中国综合...",
+    "source_text": "-\n中国综合社会调查数据专区\n[数据推荐]\n中国综合社会调查（Chinese General Social Survey，CGSS）始于2003年，是我国最早的全国性、综合性、连续性的学术调查项目。2003年，中国人民大学社会学系与香港科技大学调查研究中心合作，在参考国际经验和自身经验的基础上，在国家“211工程”二期项目资金和香港特区政府大学研究资助局“重点研究项目”的支持下，设计并启动了第一次中国综合社会调查（Chinese General Social Survey，CGSS）及第一期项目。2010年以后的CGSS第二期项目由中国人民大学中国调查与数据中心主持，得到了中国人民大学 “985”基金、双一流建设基金和中国人民大学科研基金的资助。\n了解更多 -\n[数据视角]\n在调查数据的生命周期中，数据管理是一个致关重要的环节。数据能否有效的被开发利用，数据生命周期的长短，在很大程度上取决于数据管理的质量。从通过实地调查获得原始数据，到对数据进行分析之间，还有复杂的数据管理过程。一般来说，数据管理主要由以下内容： 数据编码 数据清洗 数据标签化 变量派生 合并与匹配数据 数据建档 其中，数据清洗所包括的具体项目有： 问卷数据的单变量非法值检查(含连续变量的不合理值检查)。 问卷数据的逻辑检查，项目为： 跳答题的检查。 复选题的检查。 偏好次序题的检查。 依据问卷问题 […]\n了解更多 -\n[数据讲堂]\n东亚社会调查项目由中国综合社会调查（Chinese General Social Survey, CGSS）、日本综合社会调查（Japanese General Social Survey, JGSS）、韩国综合社会调查（Korean General Social Survey, KGSS）、以及中国台湾的台湾社会变迁调查（Taiwan Social Change Survey， TSCS）共同发起的，从2006年开始，每两年一次，在这四个国家和地区选择一个共同的主题，采用统一的问卷，同时进行调查，以促区域性学术合作及比较研究。 东亚社会调查数据向全社会开放，网址为：http://eassda.skku.edu\n了解更多",
+    "source_len": 925
+  },
+  {
+    "file": "cognitivebase-com.md",
+    "title": "Cognitivebase Com",
+    "url": "http://cognitivebase.com/",
+    "tags": [
+      "database",
+      "digital_humanities"
+    ],
+    "current_description": "Cognitivebase is a digital platform providing tools and resources for Chinese language processing, text analysis, and knowledge management in computational linguistics and digital humanities research.",
+    "source_text": "Chinese CogBank Ver 1.0 ï¼Google Chrome is recommendedï¼\n| |\nã | |\n| English Bank è±æå±æ§ English English-Chinese Comparison (under construction) |\nChinese CogBank Visualization Search åç§å¯è§åæ¥è¯¢ Graph Search Extended Graph Search Word VS Word Property VS Property |\n|\n|\nåäº¬å¸èå¤§å¦æå¦é¢ ææ çæææ æªç»ææä¸å¾ä½¿ç¨ All rights reserved. Contact: Li Bin è¯´æï¼è¥åèæä½¿ç¨æ¬ç«æ°æ®ï¼è¯·å¼ç¨ ï¼åºäºäºèç½çæ±è¯è®¤ç¥å±æ§è·åååæ.è¯è¨æååºç¨ï¼2012å¹´ç¬¬3æï¼134-143.ï¼ æ´å¤å å®¹å¯åè ææ. è¯è¯è®¤ç¥å±æ§çç¥è¯åºæå»ºååºç¨ï¼ä¸èï¼. åäº¬ï¼ä¸çå¾ä¹¦åºçå ¬å¸Â·åäº¬å ¬å¸ï¼2017å¹´9ææ¬ç«ä¸ææ°æ®ä» å«ä¸æå ¨èªå¨è·åç4ä¸å¤æ¡è®¤ç¥å±æ§ï¼åå¨å°ééè¯¯ãå®æ´çäººå·¥æ ¡å¯¹è¿ç23ä¸æ¡å±æ§ææªä¸çº¿ãæ¬ç«4ä¸å¤æ¡æ°æ®å¯ç¾ç½²åè®®å è´¹å ±äº«ç»å¦æ¯æºæï¼å¦éè¦è¯·ä¸ä½è èç³»ã Last updated AUG. 2017 |",
+    "source_len": 746
+  },
+  {
+    "file": "columbia-gazetteer-of-the-world-columbiagazetteer.org-d557f7d2.md",
+    "title": "Columbia Gazetteer of the World",
+    "url": "http://www.columbiagazetteer.org/main/Home.page",
+    "tags": [
+      "art_history",
+      "database",
+      "dictionary",
+      "digital_humanities",
+      "geography",
+      "gis",
+      "guide",
+      "map",
+      "music",
+      "statistical"
+    ],
+    "current_description": "Due to recent system upgrades, IP Authentication is temporarily unavailable.Please contact your organization's Subscription Administrator or write to hp2356@columbia.",
+    "source_text": "Due to recent system upgrades, IP Authentication is temporarily unavailable.\nPlease contact your organization's Subscription Administrator or write to hp2356@columbia.edu to request a temporary username and password for access.\nWelcome to the Columbia Gazetteer of the World Online, the renowned geographic encyclopedia. To get started, you can type the name of a place or phrase in the quick search box and search place-names or the full text of Gazetteer articles.\nClick on Search above for advanced search options, such as searching by type of place, state or province, country, continent, population or even geographic coordinates. Post-search options include downloading search results metadata to spreadsheet or XML files.\nVenezuela Troubled by crippling inflation for years, Venezuela in 2019 been plunged into crisis after the re-election of President Maduro in voting that has been widely condemned as corrupt. Leader of the National Assembly Juan Guaid\n\nGETTING STARTED\nThe Columbia Gazetteer of the World Online has been designed to be easy to use, while dramatically expanding the ways in which you can access its wealth of information?ways that simply are not possible in a printed version. This page will provide a quick overview of some of the Gazetteer?s features. For more detailed explanations and help, see the specific help section by clicking on an option in the left-hand sidebar. For general tips on maximizing your use of the Gazetteer, see either Search Tips or Using the Gazetteer\nFinding Gazetteer Articles:\nThere are three primary ways of finding articles in the Gazetteer database:\nQuick Search\nOn nearly every page of the Gazetteer site, there is a Quick Search option near the top of the page. Quick Search allows you to search either just place-name entry headings or the full-text of Gazetteer articles. The default search is a place-name search: simply enter all or part of a name and click ?Go? or use your ?enter? key. Because place-name spellings can vary, you may have to try different spellings to locate the place you are looking for. To search the text of all entries, type your search terms in the Quick Search input box, then click on the ?full text? button, and then the ?Go? buttons. The full text option will search for occurrences of all of the terms entered, so you may want to try different combinations of terms to achieve the best results. See Search Tips or Using the Gazetteer for suggestions on making your use of the Gazetteer faster and more ef",
+    "source_len": 24995
+  }
+]

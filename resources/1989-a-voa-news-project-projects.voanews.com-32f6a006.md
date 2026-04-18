@@ -1,7 +1,7 @@
 ---
 title: Opening the 1989 Tiananmen Time Capsule - VOA News Project
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://projects.voanews.com/china/anniversary-of-june4th
 language: zh
 region: prc
@@ -12,6 +12,9 @@ tags:
 - social_history
 china_relevance: primary
 source_id: 1989-a-voa-news-project-projects.voanews.com-32f6a006
+description: “一些亲眼看见的人说，一个年轻人勇敢地冲过去，要用自己的血肉之躯挡住坦克车，在千钧一发之际让别人拉了回来。 这是1989年6月5日美国之音的中文广播。
+  天安门民主运动期间，美国之音的中文广播从每天8小时增加到12小时。 中国军队在天安门武力清场、血洗北京街头后，中文部取消了原定播出的所有广播节目，为听众带来有关这场民主运动的最新报道。
+  在美国哈佛燕京图书馆， 我们找到了这期节目的录音带。 同样是在这个图书馆，我们还找到了另一卷珍贵的录音。
 ---
 
 # Opening the 1989 Tiananmen Time Capsule - VOA News Project
@@ -22,7 +25,7 @@ source_id: 1989-a-voa-news-project-projects.voanews.com-32f6a006
 
 ## Summary
 
-A digital journalism project by Voice of America (VOA) focused on historical materials from 1989. The project serves as an online archive and exhibition presenting audio recordings, documents, photographs, and personal narratives collected during a significant period in modern Chinese history. Materials include radio broadcasts, written testimonies, photographs, and artifacts donated to Harvard-Yenching Library. The website presents these historical materials through multimedia storytelling, featuring interviews with eyewitnesses, scholars, and participants. The project aims to preserve historical documentation and make primary sources accessible for research and public understanding.
+“一些亲眼看见的人说，一个年轻人勇敢地冲过去，要用自己的血肉之躯挡住坦克车，在千钧一发之际让别人拉了回来。 这是1989年6月5日美国之音的中文广播。 天安门民主运动期间，美国之音的中文广播从每天8小时增加到12小时。 中国军队在天安门武力清场、血洗北京街头后，中文部取消了原定播出的所有广播节目，为听众带来有关这场民主运动的最新报道。 在美国哈佛燕京图书馆， 我们找到了这期节目的录音带。 同样是在这个图书馆，我们还找到了另一卷珍贵的录音。
 
 ## 摘要
 

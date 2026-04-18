@@ -15,10 +15,13 @@ tags:
 - music
 china_relevance: null
 source_id: visit-stanford-edu-plan
-description: Stanford University is a place where pioneering spirit meets 21st-century
-  possibility. The Stanford Visitor Center is generally open from Monday through Friday
-  from 9:00 a.m.
+description: The Stanford Visitor Center is generally open from Monday through Friday
+  from 9:00 a. (with the exception of most federal holidays and some breaks between
+  quarters) to provide information about visiting campus. The Office of Undergraduate
+  Admission offers a variety of tours and programs, both virtually and in person,
+  for prospective undergraduate students and their supporters.
 ---
+
 # Maps & Directions
 
 **URL:** https://visit.stanford.edu/plan
@@ -27,5 +30,5 @@ description: Stanford University is a place where pioneering spirit meets 21st-c
 
 ## Summary
 
-Stanford University is a place where pioneering spirit meets 21st-century possibility. The Stanford Visitor Center is generally open from Monday through Friday from 9:00 a.m. (with the exception of most federal holidays and some breaks between quarters) to provide information about visiting campus.
+The Stanford Visitor Center is generally open from Monday through Friday from 9:00 a. (with the exception of most federal holidays and some breaks between quarters) to provide information about visiting campus. The Office of Undergraduate Admission offers a variety of tours and programs, both virtually and in person, for prospective undergraduate students and their supporters.
 

@@ -11,9 +11,14 @@ tags:
 - newspaper_studies
 china_relevance: primary
 source_id: recap-chinese-journals-public-list-docs.google.com-431adcf2
-description: 十月.长篇小说 (part of the main journal) Quotes are not sourced from all markets
-  and may be delayed up to 20 minutes.
+description: '| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q
+  | R | S | T | U | V | W | X | Y | | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+  1 | No | Title | ISSN | Archival commitment | ||||||||||||||||||||| 2 | 1 | 解放军画报
+  | 0009-3823 | Harvard Yenching | ||||||||||||||||||||| 3 | 2 | 人民画报 | 0009-4420
+  | Princeton | ||||||||||||||||||||| 4 | 3 | 經濟導報 | 0013-0265 | Harvard Yenching
+  | |||||||||||||||||||||'
 ---
+
 # ReCAP Chinese Journals public list
 
 **URL:** https://docs.google.com/spreadsheets/d/165PydKvnv1nmWKMpi8bYFsKnY-ZMhkKNJ5gku7WdNCA/edit
@@ -22,5 +27,5 @@ description: 十月.长篇小说 (part of the main journal) Quotes are not sourc
 
 ## Summary
 
-十月.长篇小说 (part of the main journal) Quotes are not sourced from all markets and may be delayed up to 20 minutes. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.Disclaimer ReCAP Subscription and retention commitments 2024
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 1 | No | Title | ISSN | Archival commitment | ||||||||||||||||||||| 2 | 1 | 解放军画报 | 0009-3823 | Harvard Yenching | ||||||||||||||||||||| 3 | 2 | 人民画报 | 0009-4420 | Princeton | ||||||||||||||||||||| 4 | 3 | 經濟導報 | 0013-0265 | Harvard Yenching | |||||||||||||||||||||
 

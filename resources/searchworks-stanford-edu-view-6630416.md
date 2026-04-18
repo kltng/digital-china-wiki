@@ -10,8 +10,13 @@ tags:
 - catalog
 china_relevance: secondary
 source_id: searchworks-stanford-edu-view-6630416
-description: Worldcat. A digital resource for Chinese and East Asian studies.
+description: 'WorldCat [electronic resource]. - Dublin, Ohio : OCLC, Creators/Contributors
+  - WorldCat is a worldwide union catalog created and maintained collectively by more
+  than 9,000 member institutions. With millions of online records built from the bibliographic
+  and ownership information of contributing libraries, it is the largest and most
+  comprehensive database of its kind. Bibliographic information'
 ---
+
 # Worldcat
 
 **URL:** https://searchworks.stanford.edu/view/6630416
@@ -22,5 +27,5 @@ description: Worldcat. A digital resource for Chinese and East Asian studies.
 
 ## Summary
 
-Worldcat. A digital resource for Chinese and East Asian studies.
+WorldCat [electronic resource]. - Dublin, Ohio : OCLC, Creators/Contributors - WorldCat is a worldwide union catalog created and maintained collectively by more than 9,000 member institutions. With millions of online records built from the bibliographic and ownership information of contributing libraries, it is the largest and most comprehensive database of its kind. Bibliographic information
 

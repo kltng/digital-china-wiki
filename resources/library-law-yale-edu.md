@@ -11,9 +11,13 @@ tags:
 - legal_history
 china_relevance: null
 source_id: library-law-yale-edu
-description: The Lillian Goldman Law Library is where vast collections meet curiosity’s
-  demand, expertise deepens, and knowledge grows in service of the global legal community.
+description: Specialists in Research Our librarians and professional staff are experts
+  in information and knowledge management who guide students, support faculty, and
+  curate and expand our collections. Welcome to the Law Library! The research librarians
+  are available to assist Yale Law School and Yale University students, faculty, and
+  staff.
 ---
+
 # Lillian Goldman Law Library
 
 **URL:** https://library.law.yale.edu/
@@ -22,5 +26,5 @@ description: The Lillian Goldman Law Library is where vast collections meet curi
 
 ## Summary
 
-The Lillian Goldman Law Library is where vast collections meet curiosity’s demand, expertise deepens, and knowledge grows in service of the global legal community. Our librarians and professional staff are experts in information and knowledge management who guide students, support faculty, and curate and expand our collections. Our librarians are at the forefront of new technologies and how they apply to the law.
+Specialists in Research Our librarians and professional staff are experts in information and knowledge management who guide students, support faculty, and curate and expand our collections. Welcome to the Law Library! The research librarians are available to assist Yale Law School and Yale University students, faculty, and staff.
 

@@ -9,8 +9,10 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: minjian-danganguan-org-zh
-description: 中国民间档案馆 open access. A digital resource for Chinese and East Asian studies.
+description: ä¸å½æ°é´æ¡£æ¡é¦è´åäºæ¶éãä¿ååä¼ æè¢«å®¡æ¥ãè¢«åå¶çä¸å½æ°é´åå²ï¼é¦èå å®¹ä¸ºä¸å½æ°é´ç¤¾ä¼æ¢æãä¿®å¤ä¸å½åå²çåªåææï¼å
+  æ¬æåãå½±è§ãç½ç»èµæã
 ---
+
 # 中国民间档案馆 open access
 
 **URL:** https://minjian-danganguan.org/zh
@@ -19,5 +21,5 @@ description: 中国民间档案馆 open access. A digital resource for Chinese a
 
 ## Summary
 
-中国民间档案馆 open access. A digital resource for Chinese and East Asian studies.
+ä¸å½æ°é´æ¡£æ¡é¦è´åäºæ¶éãä¿ååä¼ æè¢«å®¡æ¥ãè¢«åå¶çä¸å½æ°é´åå²ï¼é¦èå å®¹ä¸ºä¸å½æ°é´ç¤¾ä¼æ¢æãä¿®å¤ä¸å½åå²çåªåææï¼å æ¬æåãå½±è§ãç½ç»èµæã
 

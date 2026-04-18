@@ -10,10 +10,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14208082
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: '- Hong Kong : Caixin Global Limited, 2016- - Caixin Global, affiliated
+  with Caixin Media, delivers fast-paced, reliable business and financial news about
+  China to the world. It offers its English news via a 24/7 digital and mobile platform
+  (caixinglobal.'
 ---
+
 # Caixin Global
 
 **URL:** https://searchworks.stanford.edu/view/14208082
@@ -22,5 +24,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+- Hong Kong : Caixin Global Limited, 2016- - Caixin Global, affiliated with Caixin Media, delivers fast-paced, reliable business and financial news about China to the world. It offers its English news via a 24/7 digital and mobile platform (caixinglobal.
 

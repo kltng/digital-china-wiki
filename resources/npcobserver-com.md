@@ -14,9 +14,14 @@ tags:
 - map
 china_relevance: null
 source_id: npcobserver-com
-description: An independent website offering original coverage of China's National
-  People's Congress and its Standing Committee
+description: The 14th NPC Standing Committee (NPCSC) will convene for its 22nd session
+  in late April. The Council of Chairpersons is expected to meet in mid-April to decide
+  on the agenda and the dates of the session. The Council is also expected to approve
+  the NPCSC’s 2026 work priorities as well as plans for legislative, oversight, and
+  delegates-related work. These documents will be released after the upcoming NPCSC
+  session (likely in early May).
 ---
+
 # Npcobserver Com
 
 **URL:** https://npcobserver.com/
@@ -25,5 +30,5 @@ description: An independent website offering original coverage of China's Nation
 
 ## Summary
 
-An independent website offering original coverage of China's National People's Congress and its Standing Committee
+The 14th NPC Standing Committee (NPCSC) will convene for its 22nd session in late April. The Council of Chairpersons is expected to meet in mid-April to decide on the agenda and the dates of the session. The Council is also expected to approve the NPCSC’s 2026 work priorities as well as plans for legislative, oversight, and delegates-related work. These documents will be released after the upcoming NPCSC session (likely in early May).
 

@@ -12,8 +12,9 @@ tags:
 - prc
 china_relevance: primary
 source_id: peking-university-legal-information-network-pkulaw-www-pkulaw-com.us1.proxy.openathens.net-56e665e6
-description: 北大法宝法律法规数据库，收录500万+件法律法规文件，来自《立法法》认可的权威文件来源，平均每日更新千余篇。是中国法律法规大全网站，同时是目前国内成熟、专业、先进的法律法规检索系统。
+description: 赠买1个库，赠1套法律智能辅助套装，体验30天装备升级 赠买2个库，赠2套法律智能辅助套装，体验60天装备升级 赠买3个库以上，赠3套法律智能辅助套装，体验90天装备升级
 ---
+
 # Peking University Legal Information Network (Pkulaw) 北大法律信息网 (北大法寳)
 
 **URL:** https://www.pkulaw.com/
@@ -24,5 +25,5 @@ description: 北大法宝法律法规数据库，收录500万+件法律法规文
 
 ## Summary
 
-北大法宝法律法规数据库，收录500万+件法律法规文件，来自《立法法》认可的权威文件来源，平均每日更新千余篇。是中国法律法规大全网站，同时是目前国内成熟、专业、先进的法律法规检索系统。
+赠买1个库，赠1套法律智能辅助套装，体验30天装备升级 赠买2个库，赠2套法律智能辅助套装，体验60天装备升级 赠买3个库以上，赠3套法律智能辅助套装，体验90天装备升级
 

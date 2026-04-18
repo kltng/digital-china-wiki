@@ -15,9 +15,13 @@ tags:
 - social_history
 china_relevance: primary
 source_id: early-photography-of-japan-on-curiosity-curiosity.lib.harvard.edu-582160c2
-description: An online collection of more than 40 souvenir photograph albums and illustrated
-  publications from across three Harvard libraries.
+description: A virtual collection of more than 40 souvenir photograph albums and illustrated
+  publications from Japan with over 2,000 images from Widener Library, the Fine Arts
+  Library, and Harvard-Yenching Library. These images primarily document the early
+  history of commercial photography in Japan and are representative of what is often
+  called Japanese tourist photography or Yokohama shashin.
 ---
+
 # Early Photography of Japan on CURIOSity
 
 **URL:** https://curiosity.lib.harvard.edu/early-photography-of-japan
@@ -26,5 +30,5 @@ description: An online collection of more than 40 souvenir photograph albums and
 
 ## Summary
 
-An online collection of more than 40 souvenir photograph albums and illustrated publications from across three Harvard libraries.
+A virtual collection of more than 40 souvenir photograph albums and illustrated publications from Japan with over 2,000 images from Widener Library, the Fine Arts Library, and Harvard-Yenching Library. These images primarily document the early history of commercial photography in Japan and are representative of what is often called Japanese tourist photography or Yokohama shashin.
 

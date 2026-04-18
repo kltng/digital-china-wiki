@@ -16,9 +16,13 @@ tags:
 - political_science
 china_relevance: null
 source_id: guides-library-harvard-edu-chineselegalresearch
-description: This guide provides an overview of some of the best resources for Chinese
-  legal research in both Chinese and English.
+description: Welcome to our People's Republic of China Legal Research Guide. This
+  guide provides some useful resources for the study of Chinese law and important
+  materials available through Harvard Library and the Harvard Law School Library.
+  If you have reference questions on Chinese law, you may request a research consultation,
+  or email our Reference Department at research@law.
 ---
+
 # Guides Library Harvard Edu Chineselegalresearch
 
 **URL:** https://guides.library.harvard.edu/ChineseLegalResearch
@@ -27,5 +31,5 @@ description: This guide provides an overview of some of the best resources for C
 
 ## Summary
 
-This guide provides an overview of some of the best resources for Chinese legal research in both Chinese and English.
+Welcome to our People's Republic of China Legal Research Guide. This guide provides some useful resources for the study of Chinese law and important materials available through Harvard Library and the Harvard Law School Library. If you have reference questions on Chinese law, you may request a research consultation, or email our Reference Department at research@law.
 

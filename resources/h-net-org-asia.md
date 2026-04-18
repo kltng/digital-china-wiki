@@ -16,8 +16,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: h-net-org-asia
-description: H-Net Network on Asian Studies and History
+description: 'Please join Cornell University''s Department of Asian Studies to celebrate
+  the life and contributions of the late Professor Emeritus Daniel Gold. His colleague,
+  Anne Blackburn, Old Dominion Foundation Professor in the Humanities in the Department
+  of Asian Studies at Cornell University, has written an academic obituary available
+  at: https://cornell.'
 ---
+
 # H-Asia
 
 **URL:** http://www.h-net.org/~asia
@@ -26,5 +31,5 @@ description: H-Net Network on Asian Studies and History
 
 ## Summary
 
-H-Net Network on Asian Studies and History
+Please join Cornell University's Department of Asian Studies to celebrate the life and contributions of the late Professor Emeritus Daniel Gold. His colleague, Anne Blackburn, Old Dominion Foundation Professor in the Humanities in the Department of Asian Studies at Cornell University, has written an academic obituary available at: https://cornell.
 

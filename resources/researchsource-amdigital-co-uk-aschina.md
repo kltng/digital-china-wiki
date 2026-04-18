@@ -14,9 +14,13 @@ tags:
 china_relevance: null
 source_id: researchsource-amdigital-co-uk-aschina
 description: You may not have permission to access this resource. For example, you
-  may have reached this page fromAM Explorer, an internet search or you may have afree
-  trial. Please contactsupport@amdigital.co.
+  may have reached this page from AM Explorer, an internet search or you may have
+  a free trial. Please contact support@amdigital. If you are attempting to access
+  off-campus, please use Proxy access by going via your library’s database list. If
+  you have visited this page via a proxy server please request your administrator
+  to allow access to https://www.
 ---
+
 # Area Studies: China and Southeast Asia
 
 **URL:** http://www.researchsource.amdigital.co.uk/ASChina
@@ -25,5 +29,5 @@ description: You may not have permission to access this resource. For example, y
 
 ## Summary
 
-You may not have permission to access this resource. For example, you may have reached this page fromAM Explorer, an internet search or you may have afree trial. Please contactsupport@amdigital.co.ukfor assistance If you are attempting to access off-campus, please use Proxy access by going via your library’s database list.
+You may not have permission to access this resource. For example, you may have reached this page from AM Explorer, an internet search or you may have a free trial. Please contact support@amdigital. If you are attempting to access off-campus, please use Proxy access by going via your library’s database list. If you have visited this page via a proxy server please request your administrator to allow access to https://www.
 

@@ -14,8 +14,12 @@ tags:
 - social_history
 china_relevance: null
 source_id: prchistory-org
-description: H-Net's network on the People's Republic of China
+description: The Chair of Sinology at Friedrich-Alexander-Universität Erlangen-Nürnberg
+  invites applications for its two-year Master of Arts program Chinese Studies with
+  an Optional Focus. This program is taught entirely in English and is designed to
+  deepen your understanding of Chinese society, politics, history, and culture.
 ---
+
 # The PRC History (open access)
 
 **URL:** http://prchistory.org/
@@ -24,5 +28,5 @@ description: H-Net's network on the People's Republic of China
 
 ## Summary
 
-H-Net's network on the People's Republic of China
+The Chair of Sinology at Friedrich-Alexander-Universität Erlangen-Nürnberg invites applications for its two-year Master of Arts program Chinese Studies with an Optional Focus. This program is taught entirely in English and is designed to deepen your understanding of Chinese society, politics, history, and culture.
 

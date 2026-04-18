@@ -10,10 +10,11 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: cognitivebase-com
-description: Cognitivebase is a digital platform providing tools and resources for
-  Chinese language processing, text analysis, and knowledge management in computational
-  linguistics and digital humanities research.
+description: Chinese CogBank Ver 1. 0 ï¼Google Chrome is recommendedï¼ Chinese CogBank
+  Visualization Search åç§å¯è§åæ¥è¯¢ Graph Search Extended Graph Search Word VS Word
+  Property VS Property |
 ---
+
 # Cognitivebase Com
 
 **URL:** http://cognitivebase.com/
@@ -22,5 +23,5 @@ description: Cognitivebase is a digital platform providing tools and resources f
 
 ## Summary
 
-Cognitivebase is a digital platform providing tools and resources for Chinese language processing, text analysis, and knowledge management in computational linguistics and digital humanities research.
+Chinese CogBank Ver 1. 0 ï¼Google Chrome is recommendedï¼ Chinese CogBank Visualization Search åç§å¯è§åæ¥è¯¢ Graph Search Extended Graph Search Word VS Word Property VS Property |
 

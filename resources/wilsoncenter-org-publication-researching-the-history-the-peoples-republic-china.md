@@ -20,10 +20,11 @@ tags:
 - social_history
 china_relevance: null
 source_id: wilsoncenter-org-publication-researching-the-history-the-peoples-republic-china
-description: What can scholars do to prepare for researching in China? How can scholars
-  mitigate the bureaucratic constraints on research, while identifying and exploiting
-  archival opportunities? Based on experien...
+description: 'CWIHP Working Paper #79 Researching the History of the People’s Republic
+  of China The history of the People’s Republic of China (PRC), as a field, is booming.
+  [1] This is in large measure due to the gradual opening of China’s archives.'
 ---
+
 # Researching the History of the People’s Republic of China
 
 **URL:** https://www.wilsoncenter.org/publication/researching-the-history-the-peoples-republic-china
@@ -32,5 +33,5 @@ description: What can scholars do to prepare for researching in China? How can s
 
 ## Summary
 
-What can scholars do to prepare for researching in China? How can scholars mitigate the bureaucratic constraints on research, while identifying and exploiting archival opportunities? Based on experiences at 25 different Chinese archives, Charles Kraus offers an in-depth overview of researching the history of the People's Republic of China.
+CWIHP Working Paper #79 Researching the History of the People’s Republic of China The history of the People’s Republic of China (PRC), as a field, is booming. [1] This is in large measure due to the gradual opening of China’s archives.
 

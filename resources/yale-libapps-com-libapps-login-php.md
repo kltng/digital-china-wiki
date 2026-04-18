@@ -1,7 +1,7 @@
 ---
 title: Yale Library LibApps Login Portal
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://yale.libapps.com/libapps/login.php?site_id=12&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTcwNTc0MyZwPTUwMTE5MTk%3D
 language: null
 region: global
@@ -11,6 +11,9 @@ tags:
 - political_science
 china_relevance: null
 source_id: yale-libapps-com-libapps-login-php
+description: 'Central Authentication Service Make sure your session is secure Before
+  entering your NetID and password, verify that the URL for this page begins with:
+  https://secure.'
 ---
 
 # Yale Library LibApps Login Portal
@@ -21,7 +24,7 @@ source_id: yale-libapps-com-libapps-login-php
 
 ## Summary
 
-The login portal for Yale Library's LibApps system, a Springshare platform used for managing library websites, research guides, and online services. This authentication page provides access to LibGuides (research guides), LibCal (event and room booking systems), LibAnswers (reference and FAQ management), and other library management tools. The system is primarily used by library staff to create and maintain subject-specific research guides, manage instructional content, coordinate library events and workshops, and provide online reference services. The login requires Yale University NetID authentication and is restricted to authorized library personnel.
+Central Authentication Service Make sure your session is secure Before entering your NetID and password, verify that the URL for this page begins with: https://secure.
 
 ## 摘要
 

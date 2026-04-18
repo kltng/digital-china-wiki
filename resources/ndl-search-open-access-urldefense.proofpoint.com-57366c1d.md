@@ -12,10 +12,14 @@ tags:
 - japan
 china_relevance: primary
 source_id: ndl-search-open-access-urldefense.proofpoint.com-57366c1d
-description: NDL Search is the National Diet Library of Japan's integrated search
-  service, providing open-access to bibliographic records and digitized materials
-  from Japan's national library.
+description: NDL Search allows you to search for materials and digital materials held
+  by the National Diet Library, You can request for browsing or copying, and use a
+  variety of other services. You can also search for materials held by libraries in
+  Japan with which has data linked. Materials held by the National Diet Library Searches
+  will be performed on materials held by and digital materials available at the National
+  Diet Library.
 ---
+
 # NDL Search OPEN ACCESS
 
 **URL:** https://ndlsearch.ndl.go.jp/en/
@@ -26,5 +30,5 @@ description: NDL Search is the National Diet Library of Japan's integrated searc
 
 ## Summary
 
-NDL Search is the National Diet Library of Japan's integrated search service, providing open-access to bibliographic records and digitized materials from Japan's national library. It includes historical documents, maps, and publications relevant to East Asian and Japanese studies.
+NDL Search allows you to search for materials and digital materials held by the National Diet Library, You can request for browsing or copying, and use a variety of other services. You can also search for materials held by libraries in Japan with which has data linked. Materials held by the National Diet Library Searches will be performed on materials held by and digital materials available at the National Diet Library.
 

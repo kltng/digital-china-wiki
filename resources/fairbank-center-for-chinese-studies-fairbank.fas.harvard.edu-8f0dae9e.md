@@ -12,9 +12,13 @@ tags:
 - organization
 china_relevance: primary
 source_id: fairbank-center-for-chinese-studies-fairbank.fas.harvard.edu-8f0dae9e
-description: The Fairbank Center for Chinese Studies at Harvard University is one
-  of the world's leading research centers for the study of China.
+description: Professor Michael Szonyi doesn’t mind that his students sometimes feel
+  uncomfortable in his undergraduate class on rural China. In fact, when it comes
+  to learning about the land reform movement in the early years following the Communist
+  Party’s victory in 1949, when hundreds of thousands of landlords were executed and
+  land was redistributed to the poorest, that’s exactly the point.
 ---
+
 # Fairbank Center for Chinese Studies
 
 **URL:** https://fairbank.fas.harvard.edu/
@@ -25,5 +29,5 @@ description: The Fairbank Center for Chinese Studies at Harvard University is on
 
 ## Summary
 
-The Fairbank Center for Chinese Studies at Harvard University is one of the world's leading research centers for the study of China. It supports scholarly research, hosts lectures and conferences, provides fellowship programs, and maintains resources for the study of Chinese history, politics, society, and culture from ancient times to the present.
+Professor Michael Szonyi doesn’t mind that his students sometimes feel uncomfortable in his undergraduate class on rural China. In fact, when it comes to learning about the land reform movement in the early years following the Communist Party’s victory in 1949, when hundreds of thousands of landlords were executed and land was redistributed to the poorest, that’s exactly the point.
 

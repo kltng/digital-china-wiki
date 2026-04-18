@@ -16,8 +16,12 @@ china_relevance: primary
 source_id: hollis-for-archival-discovery-hollisarchives.lib.harvard.edu-4aad93fe
 description: HOLLIS for Archival Discovery is a specialized catalog that provides
   access to finding aids (also called collection guides) from Harvard’s many special
-  collections libraries and archives (also known a...
+  collections libraries and archives (also known as repositories). Searching in this
+  tool connects you to a wide variety of primary source materials – spanning digital
+  content and physical material – which includes letters, diaries, business records,
+  photographs, audiovisual media, print items, obje...
 ---
+
 # HOLLIS FOR ARCHIVAL DISCOVERY
 
 **URL:** https://hollisarchives.lib.harvard.edu
@@ -26,5 +30,5 @@ description: HOLLIS for Archival Discovery is a specialized catalog that provide
 
 ## Summary
 
-HOLLIS for Archival Discovery is a specialized catalog that provides access to finding aids (also called collection guides) from Harvard’s many special collections libraries and archives (also known as repositories). Searching in this tool connects you to a wide variety of primary source materials – spanning digital content and physical material – which includes letters, diaries, business records, photographs, audiovisual media, print items, objects, and more. To find even more archival and manuscript collection materials that are not described in a finding aid, searchHOLLIS.
+HOLLIS for Archival Discovery is a specialized catalog that provides access to finding aids (also called collection guides) from Harvard’s many special collections libraries and archives (also known as repositories). Searching in this tool connects you to a wide variety of primary source materials – spanning digital content and physical material – which includes letters, diaries, business records, photographs, audiovisual media, print items, obje...
 

@@ -11,10 +11,14 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14177498
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'CEIC China premium database = Zhongguo jing ji shu ju ku ] : ISI Emerging
+  Market Creators/Contributors - A Chinese statistical database which provides more
+  than 230,000 time series of macroeconomic and industry data at national, provincial
+  and city level. Topics include national account, government and public finance,
+  labor market, consumer good market, foreign trade, money and banking, investment,
+  real estate, automobile and lots more.'
 ---
+
 # CEIC China premium database 中国经济数据库
 
 **URL:** https://searchworks.stanford.edu/view/14177498
@@ -23,5 +27,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+CEIC China premium database = Zhongguo jing ji shu ju ku ] : ISI Emerging Market Creators/Contributors - A Chinese statistical database which provides more than 230,000 time series of macroeconomic and industry data at national, provincial and city level. Topics include national account, government and public finance, labor market, consumer good market, foreign trade, money and banking, investment, real estate, automobile and lots more.
 

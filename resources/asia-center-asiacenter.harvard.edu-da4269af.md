@@ -12,9 +12,11 @@ tags:
 - guide
 china_relevance: primary
 source_id: asia-center-asiacenter.harvard.edu-da4269af
-description: Welcome to the Harvard University Asia Center. We are resource for students,
-  faculty, and others to gather information and learn more about Asian culture.
+description: Generating and sharing knowledge about Asia in transnational and transregional
+  perspective. Fostering teaching, collaboration, and innovation across and beyond
+  cultural and disciplinary boundaries.
 ---
+
 # Asia Center
 
 **URL:** https://asiacenter.harvard.edu
@@ -23,5 +25,5 @@ description: Welcome to the Harvard University Asia Center. We are resource for 
 
 ## Summary
 
-Welcome to the Harvard University Asia Center. We are resource for students, faculty, and others to gather information and learn more about Asian culture.
+Generating and sharing knowledge about Asia in transnational and transregional perspective. Fostering teaching, collaboration, and innovation across and beyond cultural and disciplinary boundaries.
 

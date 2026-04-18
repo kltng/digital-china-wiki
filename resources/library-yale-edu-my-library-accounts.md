@@ -10,8 +10,12 @@ tags:
 - digital_humanities
 china_relevance: null
 source_id: library-yale-edu-my-library-accounts
-description: A library resource from Yale University with a focus on global scope.
+description: 'View all your checked-out items, requests in process, and any pending
+  fines. Tell us about your research project, and we will connect you with with an
+  expert librarian, curator, or archivist to help you. Help is available Monday to
+  Friday, 9:00 a. Email: askyalelibrary@yale.'
 ---
+
 # My Library Accounts
 
 **URL:** https://library.yale.edu/my-library-accounts
@@ -20,5 +24,5 @@ description: A library resource from Yale University with a focus on global scop
 
 ## Summary
 
-A library resource from Yale University with a focus on global scope.
+View all your checked-out items, requests in process, and any pending fines. Tell us about your research project, and we will connect you with with an expert librarian, curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email: askyalelibrary@yale.
 

@@ -1,7 +1,7 @@
 ---
 title: Stanford University Archives
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 url: https://archives.stanford.edu/
 language: null
 region: global
@@ -12,6 +12,10 @@ tags:
 - website
 china_relevance: null
 source_id: archives-stanford-edu
+description: Find archival materials Detailed inventories of 6,186 collections Accessing
+  Special Collections - Located on the second floor of Green Library West. - Manuscripts,
+  Rare books, University Archives, and the California Historical Society Collection
+  can be accessed here.
 ---
 
 # Stanford University Archives
@@ -22,7 +26,7 @@ source_id: archives-stanford-edu
 
 ## Summary
 
-The Stanford University Archives is the official repository for records of enduring historical, administrative, legal, fiscal, and cultural value to Stanford University. The archives document the history and development of the university from its founding in 1885 to the present, including the papers of university presidents, faculty, and prominent alumni. The collection encompasses administrative records, departmental files, photographs, audiovisual materials, publications, and personal papers that reflect Stanford's academic, research, and institutional history. The online catalog provides searchable access to finding aids and digitized materials, enabling researchers to discover and request access to archival collections. The archives also hold materials related to Chinese studies and East Asian topics through various faculty papers and institutional records, making it a resource for studying the development of Chinese and East Asian studies programs at Stanford.
+Find archival materials Detailed inventories of 6,186 collections Accessing Special Collections - Located on the second floor of Green Library West. - Manuscripts, Rare books, University Archives, and the California Historical Society Collection can be accessed here.
 
 ## 摘要
 

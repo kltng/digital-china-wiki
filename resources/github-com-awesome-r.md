@@ -15,8 +15,11 @@ tags:
 - statistics
 china_relevance: null
 source_id: github-com-awesome-r
-description: A curated list of awesome R packages, frameworks and software. - qinwf/awesome-R
+description: A curated list of awesome R packages and tools. Inspired by awesome-machine-learning.
+  for Top 50 CRAN downloaded packages or repos with 400+ - Integrated Development
+  Environments - Reproducible Research - Web Technologies and Services
 ---
+
 # Github Com Awesome R
 
 **URL:** https://github.com/qinwf/awesome-R
@@ -25,5 +28,5 @@ description: A curated list of awesome R packages, frameworks and software. - qi
 
 ## Summary
 
-A curated list of awesome R packages, frameworks and software. - qinwf/awesome-R
+A curated list of awesome R packages and tools. Inspired by awesome-machine-learning. for Top 50 CRAN downloaded packages or repos with 400+ - Integrated Development Environments - Reproducible Research - Web Technologies and Services
 

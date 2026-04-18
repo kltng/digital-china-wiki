@@ -12,10 +12,13 @@ tags:
 - statistical
 china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000052710
-description: SearchWorks is Stanford University Libraries' online catalog, providing
-  access to books, journals, databases, digital collections, and special collections
-  with significant holdings in Chinese and East...
+description: 'A gu shang shi gong si zhong da shi xiang shu ju = Significant Events
+  Data of A-share Listed Companies of China A股上市公司重大事项数据 = Significant Events Data
+  of A-share Listed Companies of China - Henan han shu xin xi ji shu you xian gong
+  si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司,
+  2023. Creators/Contributors'
 ---
+
 # CNopendata: A股上市公司重大事项数据 = Significant Events Data of A-share Listed Companies of China
 
 **URL:** https://searchworks.stanford.edu/view/in00000052710
@@ -24,5 +27,5 @@ description: SearchWorks is Stanford University Libraries' online catalog, provi
 
 ## Summary
 
-SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
+A gu shang shi gong si zhong da shi xiang shu ju = Significant Events Data of A-share Listed Companies of China A股上市公司重大事项数据 = Significant Events Data of A-share Listed Companies of China - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors
 

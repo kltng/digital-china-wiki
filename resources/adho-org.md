@@ -14,10 +14,14 @@ tags:
 - newspaper_studies
 china_relevance: null
 source_id: adho-org
-description: Global support for digital humanitiesresearch,collaboration, andeducation
-  Upcoming conferences will be held inSouth Korea(27 July – 1 August 2026), Ireland
-  (28 June – 3 July 2027), and South Africa (4...
+description: Global support for digital humanities research, collaboration, and education
+  Upcoming conferences will be held in South Korea (27 July – 1 August 2026), Ireland
+  (28 June – 3 July 2027), and South Africa (4 – 7 July 2028). Special Interest Groups
+  The Alliance of Digital Humanities Organizations (ADHO) is an umbrella organization
+  whose goals are to promote and support digital research and teaching across arts
+  and humanities disciplines, drawing tog...
 ---
+
 # Adho Org
 
 **URL:** https://adho.org/
@@ -26,5 +30,5 @@ description: Global support for digital humanitiesresearch,collaboration, andedu
 
 ## Summary
 
-Global support for digital humanitiesresearch,collaboration, andeducation Upcoming conferences will be held inSouth Korea(27 July – 1 August 2026), Ireland (28 June – 3 July 2027), and South Africa (4 – 7 July 2028). We support member-led Special Interest Groups (SIGs) that drive focused research and collaboration. We support leading digital humanities journals and open scholarly communication across disciplines.
+Global support for digital humanities research, collaboration, and education Upcoming conferences will be held in South Korea (27 July – 1 August 2026), Ireland (28 June – 3 July 2027), and South Africa (4 – 7 July 2028). Special Interest Groups The Alliance of Digital Humanities Organizations (ADHO) is an umbrella organization whose goals are to promote and support digital research and teaching across arts and humanities disciplines, drawing tog...
 

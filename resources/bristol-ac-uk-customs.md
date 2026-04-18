@@ -10,10 +10,13 @@ tags:
 - social_history
 china_relevance: null
 source_id: bristol-ac-uk-customs
-description: This page provides access to some of the resources formerly hosted on
-  the now-closed website of the AHRC-funded History of the Chinese Maritime Customs
-  Project.
+description: This site allows you to search across 60,000 names of men and women who
+  lived, worked or died in China, between the 1850s and 1940s. The information is
+  drawn from ten different sources, and you can search each one of these individually,
+  but you can also search across all of them. There are many Chinese names here, as
+  well as the names of foreign residents.
 ---
+
 # Bristol Ac Uk Customs
 
 **URL:** https://www.chinafamilies.net/records/chinese-maritime-customs-service/chinese-maritime-customs-project-2003-2007/
@@ -22,5 +25,5 @@ description: This page provides access to some of the resources formerly hosted 
 
 ## Summary
 
-This page provides access to some of the resources formerly hosted on the now-closed website of the AHRC-funded History of the Chinese Maritime Customs Project. You may have been redirected here from that site (www.bristol.ac.uk/history/customs) and its subfolders — so please rest assured that you are in the right place. About the project and project team Meteorological work of the Chinese Maritime Customs Online digitized publications Writings by or about foreign members of the Customs Service and their families
+This site allows you to search across 60,000 names of men and women who lived, worked or died in China, between the 1850s and 1940s. The information is drawn from ten different sources, and you can search each one of these individually, but you can also search across all of them. There are many Chinese names here, as well as the names of foreign residents.
 
