@@ -3,7 +3,8 @@ title: "Taiwan Academic Classics 台灣學術經典"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://p-udpweb-com.ezp-prod1.hul.harvard.edu
+url: https://p.udpweb.com
+access_via_harvard: https://p-udpweb-com.ezp-prod1.hul.harvard.edu
 language: zh
 region: prc
 tags: []

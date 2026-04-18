@@ -3,7 +3,8 @@ title: "Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: https://newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu/mcttp/index.html
+url: https://newarchive.ihp.sinica.edu.tw/mcttp/index.html
+access_via_harvard: https://newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu/mcttp/index.html
 language: zh
 region: taiwan
 tags: []

@@ -3,7 +3,8 @@ title: "Scripta Sinica Database 漢籍電子文獻资料库"
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: http://hanchi.ihp.sinica.edu.tw.ezp-prod1.hul.harvard.edu/ihp/hanji.htm
+url: http://hanchi.ihp.sinica.edu.tw/ihp/hanji.htm
+access_via_harvard: http://hanchi.ihp.sinica.edu.tw.ezp-prod1.hul.harvard.edu/ihp/hanji.htm
 language: zh
 region: taiwan
 tags: []

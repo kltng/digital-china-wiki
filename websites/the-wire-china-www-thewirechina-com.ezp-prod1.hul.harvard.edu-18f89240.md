@@ -3,7 +3,8 @@ title: "The Wire China"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://www-thewirechina-com.ezp-prod1.hul.harvard.edu
+url: https://www.thewirechina.com
+access_via_harvard: https://www-thewirechina-com.ezp-prod1.hul.harvard.edu
 language: 
 region: global
 tags: []

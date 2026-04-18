@@ -3,7 +3,8 @@ title: "The Treasury of Lives, A Biographical Encyclopedia of Tibet, Inner Asia,
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://treasuryoflives-org.ezp-prod1.hul.harvard.edu
+url: https://treasuryoflives.org
+access_via_harvard: https://treasuryoflives-org.ezp-prod1.hul.harvard.edu
 language: zh
 region: prc
 tags: []

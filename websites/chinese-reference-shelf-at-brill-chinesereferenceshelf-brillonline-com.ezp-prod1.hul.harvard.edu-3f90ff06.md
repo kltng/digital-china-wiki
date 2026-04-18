@@ -3,7 +3,8 @@ title: "Chinese Reference Shelf at Brill"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu
+url: https://chinesereferenceshelf.brillonline.com
+access_via_harvard: https://chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu
 language: 
 region: global
 tags: []

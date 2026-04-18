@@ -3,7 +3,8 @@ title: "Chinese Studies in History ( English Journal)"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: http://www-tandfonline-com.ezp-prod1.hul.harvard.edu/loi/mcsh20
+url: http://www.tandfonline.com/loi/mcsh20
+access_via_harvard: http://www-tandfonline-com.ezp-prod1.hul.harvard.edu/loi/mcsh20
 language: 
 region: global
 tags: []

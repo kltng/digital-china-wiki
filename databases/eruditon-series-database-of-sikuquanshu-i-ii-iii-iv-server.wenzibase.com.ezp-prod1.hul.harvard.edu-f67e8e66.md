@@ -3,7 +3,8 @@ title: "ERUDITON Series Database of Sikuquanshu (I, II, III, IV) 爱如生四库
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: http://server.wenzibase.com.ezp-prod1.hul.harvard.edu
+url: http://server.wenzibase.com
+access_via_harvard: http://server.wenzibase.com.ezp-prod1.hul.harvard.edu
 language: zh
 region: prc
 tags: []

@@ -3,7 +3,8 @@ title: "Modern History Database 近代史數位資料庫"
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: http://mhdb.mh.sinica.edu.tw.ezp-prod1.hul.harvard.edu
+url: http://mhdb.mh.sinica.edu.tw
+access_via_harvard: http://mhdb.mh.sinica.edu.tw.ezp-prod1.hul.harvard.edu
 language: zh
 region: taiwan
 tags: []

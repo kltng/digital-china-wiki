@@ -3,7 +3,8 @@ title: "WiseSearch"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://wisesearch6-wisers-net.ezp-prod1.hul.harvard.edu/wevo/home
+url: https://wisesearch6.wisers.net/wevo/home
+access_via_harvard: https://wisesearch6-wisers-net.ezp-prod1.hul.harvard.edu/wevo/home
 language: 
 region: global
 tags: []

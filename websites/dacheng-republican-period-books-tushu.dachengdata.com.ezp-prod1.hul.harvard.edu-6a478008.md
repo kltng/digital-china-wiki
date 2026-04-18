@@ -3,7 +3,8 @@ title: "Dacheng. Republican period books 大成民国图书全文数据库"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: http://tushu.dachengdata.com.ezp-prod1.hul.harvard.edu/tuijian/showTuijianList.action
+url: http://tushu.dachengdata.com/tuijian/showTuijianList.action
+access_via_harvard: http://tushu.dachengdata.com.ezp-prod1.hul.harvard.edu/tuijian/showTuijianList.action
 language: zh
 region: prc
 tags: []

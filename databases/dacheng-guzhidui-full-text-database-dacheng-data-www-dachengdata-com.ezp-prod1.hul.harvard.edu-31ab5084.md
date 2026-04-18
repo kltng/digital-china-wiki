@@ -3,7 +3,8 @@ title: "Dacheng Guzhidui Full-text Database (Dacheng Data) 大成故纸堆"
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: https://www-dachengdata-com.ezp-prod1.hul.harvard.edu/search/toRealIndex.action
+url: https://www.dachengdata.com/search/toRealIndex.action
+access_via_harvard: https://www-dachengdata-com.ezp-prod1.hul.harvard.edu/search/toRealIndex.action
 language: zh
 region: prc
 tags: []

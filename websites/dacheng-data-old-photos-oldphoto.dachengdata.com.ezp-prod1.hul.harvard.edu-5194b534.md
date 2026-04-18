@@ -3,7 +3,8 @@ title: "Dacheng Data. Old Photos 大成老照片"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: http://oldphoto.dachengdata.com.ezp-prod1.hul.harvard.edu/index
+url: http://oldphoto.dachengdata.com/index
+access_via_harvard: http://oldphoto.dachengdata.com.ezp-prod1.hul.harvard.edu/index
 language: zh
 region: prc
 tags: []

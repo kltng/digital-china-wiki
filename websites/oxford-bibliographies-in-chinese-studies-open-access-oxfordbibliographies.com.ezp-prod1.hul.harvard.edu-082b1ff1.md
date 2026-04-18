@@ -3,7 +3,8 @@ title: "Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考�
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: http://www.oxfordbibliographies.com.ezp-prod1.hul.harvard.edu/obo/page/chinese-studies
+url: http://www.oxfordbibliographies.com/obo/page/chinese-studies
+access_via_harvard: http://www.oxfordbibliographies.com.ezp-prod1.hul.harvard.edu/obo/page/chinese-studies
 language: zh
 region: prc
 tags: []

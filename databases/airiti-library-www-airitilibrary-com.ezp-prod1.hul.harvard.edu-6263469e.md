@@ -3,7 +3,8 @@ title: "Airiti Library 華藝台灣電子期刊，論文，圖書全文檢索平
 created: 2026-04-18
 updated: 2026-04-18
 type: database
-url: https://www-airitilibrary-com.ezp-prod1.hul.harvard.edu
+url: https://www.airitilibrary.com
+access_via_harvard: https://www-airitilibrary-com.ezp-prod1.hul.harvard.edu
 language: zh
 region: taiwan
 tags: [ejournals, articles, theses, taiwan]

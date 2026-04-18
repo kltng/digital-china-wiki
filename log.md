@@ -19,3 +19,7 @@
 - Master index.md created
 - Total: 986 pages, 2,113 wikilinks, 0.7 MB
 - 150 broken links (110 single-occurrence tag links, 40 resolved with glossary redirects)
+
+## [2026-04-18] update | Rewrote 27 EZProxy URLs to canonical form
+- Preserved proxy URL in new `access_via_harvard:` frontmatter field
+- 0 skipped for manual review

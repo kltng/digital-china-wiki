@@ -3,7 +3,8 @@ title: "BKSY. Chinese and English Newspaper of Modern China- 字林洋行中英�
 created: 2026-04-18
 updated: 2026-04-18
 type: news
-url: https://www-cnbksy-com.ezp-prod1.hul.harvard.edu/horseRaceLamp/description?id=4
+url: https://www.cnbksy.com/horseRaceLamp/description?id=4
+access_via_harvard: https://www-cnbksy-com.ezp-prod1.hul.harvard.edu/horseRaceLamp/description?id=4
 language: zh
 region: prc
 tags: []

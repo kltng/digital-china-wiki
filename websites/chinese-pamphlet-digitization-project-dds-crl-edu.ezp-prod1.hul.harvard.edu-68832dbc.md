@@ -3,7 +3,8 @@ title: "Chinese Pamphlet Digitization Project 连环画"
 created: 2026-04-18
 updated: 2026-04-18
 type: website
-url: https://dds-crl-edu.ezp-prod1.hul.harvard.edu/search/collection/1?page=10&sort=title_sort&sort_order=asc
+url: https://dds.crl.edu/search/collection/1?page=10&sort=title_sort&sort_order=asc
+access_via_harvard: https://dds-crl-edu.ezp-prod1.hul.harvard.edu/search/collection/1?page=10&sort=title_sort&sort_order=asc
 language: zh
 region: prc
 tags: []
