@@ -1,25 +1,28 @@
 ---
-title: "Authority Dila Edu Tw Catalog"
+title: Authority Dila Edu Tw Catalog
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://authority.dila.edu.tw/catalog/
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- taiwan
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: authority-dila-edu-tw-catalog
+description: Authority Dila Edu Tw Catalog with a focus on Taiwan.
 ---
-
 # Authority Dila Edu Tw Catalog
 
 **URL:** https://authority.dila.edu.tw/catalog/
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+Authority Dila Edu Tw Catalog with a focus on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

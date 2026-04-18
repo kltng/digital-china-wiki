@@ -1,27 +1,32 @@
 ---
-title: "敦煌遗书数据库 Dunhuang Documents Database（敦煌研究院）"
+title: 敦煌遗书数据库 Dunhuang Documents Database（敦煌研究院）
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://dhyssjk.dha.ac.cn/dhh_p/zh_CN/index.aspx
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+china_relevance: null
 source_id: dhyssjk-dha-ac-cn-dhh-p-zh-cn-index-aspx
+description: 敦煌遗书数据库 Dunhuang Documents Database（敦煌研究院）. The site may be intermittently
+  unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # 敦煌遗书数据库 Dunhuang Documents Database（敦煌研究院）
 
 **URL:** https://dhyssjk.dha.ac.cn/dhh_p/zh_CN/index.aspx
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+敦煌遗书数据库 Dunhuang Documents Database（敦煌研究院）. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

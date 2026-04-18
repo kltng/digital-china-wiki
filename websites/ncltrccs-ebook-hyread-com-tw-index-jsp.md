@@ -1,27 +1,30 @@
 ---
-title: "TRCCS e-books"
+title: TRCCS e-books
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://ncltrccs.ebook.hyread.com.tw/index.jsp
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- taiwan
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: ncltrccs-ebook-hyread-com-tw-index-jsp
+description: TRCCS e-books. focusing on Taiwan.
+site_status: unknown
 ---
-
 # TRCCS e-books
 
 **URL:** https://ncltrccs.ebook.hyread.com.tw/index.jsp
 
-**Discovered via:** LibGuides > stanford
+**Region:** Taiwan
 
 ## Summary
 
-*Awaiting full description.*
+TRCCS e-books. focusing on Taiwan.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[taiwan]] — region

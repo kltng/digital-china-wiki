@@ -1,27 +1,36 @@
 ---
-title: "Haas Family Arts Library"
+title: Haas Family Arts Library
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://web.library.yale.edu/arts
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+- open_access
+- periodicals
+subjects:
+- art_history
+- chinese_history
+- east_asian_studies
+- education
+- journalism
+- library_science
+- social_history
+china_relevance: null
 source_id: web-library-yale-edu-arts
+description: What can we inspire you to create? We welcome the Yale community, researchers,
+  and the public to explore and find inspiration at Haas Arts Library.
 ---
-
 # Haas Family Arts Library
 
 **URL:** https://web.library.yale.edu/arts
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+What can we inspire you to create? We welcome the Yale community, researchers, and the public to explore and find inspiration at Haas Arts Library. Visiting|Workshops|Now On View|Arts Events|Researching Art, Architecture, and Drama|Special Collections|News Help us preserve our space and collections by following our policies: Food isnot permittedin the Haas Family Arts Library.
 
-## See Also
-
-- [[global]] — region

@@ -1,27 +1,31 @@
 ---
-title: "Tabloid newspapers 1897-1949 小报数据库"
+title: Tabloid newspapers 1897-1949 小报数据库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://cnbksy.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- periodicals
+subjects:
+- east_asian_studies
+- journalism
+china_relevance: null
 source_id: cnbksy-com
+description: Tabloid newspapers 1897-1949 小报数据库. The site may be intermittently unavailable
+  or geo-restricted.
+site_status: unreachable
 ---
-
 # Tabloid newspapers 1897-1949 小报数据库
 
 **URL:** https://cnbksy.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Tabloid newspapers 1897-1949 小报数据库. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

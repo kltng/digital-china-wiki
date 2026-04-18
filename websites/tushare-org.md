@@ -1,27 +1,27 @@
 ---
-title: "TuShare Financial Data Interface/TuShare财经数据包接口 open access"
+title: TuShare Financial Data Interface/TuShare财经数据包接口 open access
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://tushare.org/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: tushare-org
+description: TuShare Financial Data Interface/TuShare财经数据包接口 open access.
 ---
-
 # TuShare Financial Data Interface/TuShare财经数据包接口 open access
 
 **URL:** http://tushare.org/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+TuShare Financial Data Interface/TuShare财经数据包接口 open access.
 
-## See Also
-
-- [[global]] — region

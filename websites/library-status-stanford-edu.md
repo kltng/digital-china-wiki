@@ -1,27 +1,27 @@
 ---
-title: "System status"
+title: System status
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://library-status.stanford.edu/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: library-status-stanford-edu
+description: 'System status : Stanford Libraries.'
 ---
-
 # System status
 
 **URL:** https://library-status.stanford.edu/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+System status : Stanford Libraries.
 
-## See Also
-
-- [[global]] — region

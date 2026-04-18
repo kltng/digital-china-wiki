@@ -1,27 +1,30 @@
 ---
-title: "WiseNews"
+title: WiseNews
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://wisersone.com/?gid=stanuni/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- periodicals
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: wisersone-com
+description: WiseNews. The site may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # WiseNews
 
 **URL:** https://wisersone.com/?gid=stanuni/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+WiseNews. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

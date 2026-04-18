@@ -1,25 +1,28 @@
 ---
-title: "Dict Revised Moe Edu Tw Cbdic"
+title: Dict Revised Moe Edu Tw Cbdic
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://dict.revised.moe.edu.tw/index.jsp
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- taiwan
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: dict-revised-moe-edu-tw-cbdic
+description: The Revised Dictionary of Chinese Language (《重編國語辭典修訂本》) is the authoritative
+  Chinese language dictionary published by Taiwan's Ministry of Education.
 ---
-
 # Dict Revised Moe Edu Tw Cbdic
 
 **URL:** http://dict.revised.moe.edu.tw/index.jsp
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+The Revised Dictionary of Chinese Language (《重編國語辭典修訂本》) is the authoritative Chinese language dictionary published by Taiwan's Ministry of Education. It provides comprehensive definitions, pronunciation, and usage examples for standard Chinese characters and compounds.
 
-## See Also
-
-- [[taiwan]] — region

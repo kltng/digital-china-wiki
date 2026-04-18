@@ -1,25 +1,30 @@
 ---
-title: "Mdbg Net Dictionary"
+title: Mdbg Net Dictionary
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.mdbg.net/chinese/dictionary
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- reference_works
+subjects:
+- art_history
+- east_asian_studies
+- lexicography
+china_relevance: null
 source_id: mdbg-net-dictionary
+description: English to Chinese dictionary with Mandarin Pinyin & Handwriting Recognition
+  - learn Chinese faster with MDBG!
 ---
-
 # Mdbg Net Dictionary
 
 **URL:** https://www.mdbg.net/chinese/dictionary
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+English to Chinese dictionary with Mandarin Pinyin & Handwriting Recognition - learn Chinese faster with MDBG!
 
-## See Also
-
-- [[global]] — region

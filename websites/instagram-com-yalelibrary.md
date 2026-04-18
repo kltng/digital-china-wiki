@@ -1,27 +1,31 @@
 ---
-title: "Yale Library Instagram"
+title: Yale Library Instagram
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.instagram.com/yalelibrary
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: instagram-com-yalelibrary
+description: A library resource for Chinese and East Asian studies with a focus on
+  global scope.
+site_status: unknown
 ---
-
 # Yale Library Instagram
 
 **URL:** https://www.instagram.com/yalelibrary
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+A library resource for Chinese and East Asian studies with a focus on global scope.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

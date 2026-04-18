@@ -1,27 +1,31 @@
 ---
-title: "臺灣學術經典. 臺灣經典民論雜誌 Taiwan academic classics. Taiwan epochal democracy magazines"
+title: 臺灣學術經典. 臺灣經典民論雜誌 Taiwan academic classics. Taiwan epochal democracy magazines
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://p.udpweb.com/tdm
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+- periodicals
+subjects:
+- east_asian_studies
+- education
+- taiwan_studies
+china_relevance: null
 source_id: p-udpweb-com-tdm
+description: United Digital Publications (UDP) provides access to digital archives
+  and databases covering Chinese studies, including periodicals, historical documents,
+  and reference materials.
 ---
-
 # 臺灣學術經典. 臺灣經典民論雜誌 Taiwan academic classics. Taiwan epochal democracy magazines
 
 **URL:** https://p.udpweb.com/tdm
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+United Digital Publications (UDP) provides access to digital archives and databases covering Chinese studies, including periodicals, historical documents, and reference materials. Titles include LionArt, Repertoire of Chinese Classics, and other specialized collections.
 
-## See Also
-
-- [[global]] — region

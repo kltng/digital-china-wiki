@@ -1,27 +1,36 @@
 ---
-title: "Mongolian Rare Books 蒙文古籍 OPEN ACCESS"
+title: Mongolian Rare Books 蒙文古籍 OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://hollis.harvard.edu/primo-explore/search?query=lsr38%2Cexact%2CHarvard-Yenching+Library+Mongolian+rare+books+digitization+project%2CAND&tab=books&search_scope=default_scope&sortby=rank&vid=HVD2&mode=advanced&offset=0
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- databases
+- digital_humanities
+- libraries
+- open_access
+- prc
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
+- mongolian_studies
 china_relevance: primary
 source_id: mongolian-rare-books-open-access-hollis.harvard.edu-93b10833
+description: Mongolian Rare Books 蒙文古籍 OPEN ACCESS, provided by Harvard University,
+  is a catalog with a focus on mainland China.
 ---
-
 # Mongolian Rare Books 蒙文古籍 OPEN ACCESS
 
 **URL:** https://hollis.harvard.edu/primo-explore/search?query=lsr38%2Cexact%2CHarvard-Yenching+Library+Mongolian+rare+books+digitization+project%2CAND&tab=books&search_scope=default_scope&sortby=rank&vid=HVD2&mode=advanced&offset=0
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+Mongolian Rare Books 蒙文古籍 OPEN ACCESS, provided by Harvard University, is a catalog with a focus on mainland China.
 
-## See Also
-
-- [[prc]] — region

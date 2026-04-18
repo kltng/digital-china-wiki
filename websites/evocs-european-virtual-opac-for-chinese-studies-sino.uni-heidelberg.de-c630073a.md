@@ -1,25 +1,31 @@
 ---
-title: "EVOCS - European Virtual OPAC for Chinese Studies"
+title: EVOCS - European Virtual OPAC for Chinese Studies
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.sino.uni-heidelberg.de/evocs
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: evocs-european-virtual-opac-for-chinese-studies-sino.uni-heidelberg.de-c630073a
+description: EVOCS - European Virtual OPAC for Chinese Studies. The site may be intermittently
+  unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # EVOCS - European Virtual OPAC for Chinese Studies
 
 **URL:** http://www.sino.uni-heidelberg.de/evocs
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+EVOCS - European Virtual OPAC for Chinese Studies. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

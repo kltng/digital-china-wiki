@@ -1,25 +1,29 @@
 ---
-title: "Bibliography of Asian Studies (BAS)"
+title: Bibliography of Asian Studies (BAS)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://nrs.harvard.edu/urn-3:hul.eresource:ebscobas
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- bibliography
+- east_asian_studies
 china_relevance: primary
 source_id: bibliography-of-asian-studies-bas-nrs.harvard.edu-58ae4bf1
+description: Sign in with your account to access OpenAthens Upgrade now by installing
+  the OneDrive for Business Next Generation Sync Client to login to Okta If this page
+  does not reload automatically, please refre...
 ---
-
 # Bibliography of Asian Studies (BAS)
 
 **URL:** http://nrs.harvard.edu/urn-3:hul.eresource:ebscobas
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Sign in with your account to access OpenAthens Upgrade now by installing the OneDrive for Business Next Generation Sync Client to login to Okta If this page does not reload automatically, please refresh your browser.
 
-## See Also
-
-- [[global]] — region

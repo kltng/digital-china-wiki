@@ -1,27 +1,36 @@
 ---
-title: "Careers"
+title: Careers
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://stanford.referrals.selectminds.com/page/university-libraries-855
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- archives
+- databases
+- libraries
+- maps
+- statistical_data
+subjects:
+- archival_science
+- art_history
+- east_asian_studies
+- education
+- gis
+- library_science
+- medicine
+china_relevance: null
 source_id: stanford-referrals-selectminds-com-page-university-libraries-855
+description: Explore Careers at Stanford University
 ---
-
 # Careers
 
 **URL:** https://stanford.referrals.selectminds.com/page/university-libraries-855
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Explore Careers at Stanford University
 
-## See Also
-
-- [[global]] — region

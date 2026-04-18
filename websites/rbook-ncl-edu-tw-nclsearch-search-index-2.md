@@ -1,27 +1,34 @@
 ---
-title: "Union Catalog of Rare Books Database（中文古籍聯合目錄）"
+title: Union Catalog of Rare Books Database（中文古籍聯合目錄）
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://rbook.ncl.edu.tw/NCLSearch/Search/Index/2
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- statistical_data
+- taiwan
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: rbook-ncl-edu-tw-nclsearch-search-index-2
+description: Union Catalog of Rare Books Database（中文古籍聯合目錄）. focusing on Taiwan. The
+  site may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # Union Catalog of Rare Books Database（中文古籍聯合目錄）
 
 **URL:** http://rbook.ncl.edu.tw/NCLSearch/Search/Index/2
 
-**Discovered via:** LibGuides > stanford
+**Region:** Taiwan
 
 ## Summary
 
-*Awaiting full description.*
+Union Catalog of Rare Books Database（中文古籍聯合目錄）. focusing on Taiwan. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[taiwan]] — region

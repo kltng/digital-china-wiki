@@ -1,25 +1,29 @@
 ---
-title: "Virtual Media Lab (VML)"
+title: Virtual Media Lab (VML)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://icommons-tools.tlt.harvard.edu/shopping/course_selfreg/73232
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: virtual-media-lab-vml-icommons-tools.tlt.harvard.edu-7d217f29
+description: Sign in with your account to access HarvardKey Upgrade now by installing
+  the OneDrive for Business Next Generation Sync Client to login to Okta If this page
+  does not reload automatically, please refre...
 ---
-
 # Virtual Media Lab (VML)
 
 **URL:** https://icommons-tools.tlt.harvard.edu/shopping/course_selfreg/73232
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Sign in with your account to access HarvardKey Upgrade now by installing the OneDrive for Business Next Generation Sync Client to login to Okta If this page does not reload automatically, please refresh your browser.
 
-## See Also
-
-- [[global]] — region

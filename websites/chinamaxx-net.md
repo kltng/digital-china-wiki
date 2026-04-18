@@ -1,27 +1,27 @@
 ---
-title: "Chinamaxx"
+title: Chinamaxx
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.chinamaxx.net/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: chinamaxx-net
+description: Chinamaxx with a focus on global scope.
 ---
-
 # Chinamaxx
 
 **URL:** http://www.chinamaxx.net/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Chinamaxx with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

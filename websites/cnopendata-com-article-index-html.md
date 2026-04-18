@@ -1,27 +1,28 @@
 ---
-title: "CNopendata"
+title: CNopendata
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.cnopendata.com/article/index.html
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- art_history
+- east_asian_studies
+china_relevance: null
 source_id: cnopendata-com-article-index-html
+description: 一次偶然的机会让我们和一些高校老师建立了联系，为他们提供数据搜集和整理服务。过去几年，我们和不少高校老师建立了稳定、愉快的合作关系，在小范围内竟然产生了一定的影响力，越来越多的学者开始联系我们希望提供数据服务。随着客户数量的增加，我们萌生了建立数据平台的想法。
+  互联网产生了海量数据，记录着丰富信息，并以开放的姿态呈现出来，然而由于数据量巨大、搜集难度极高、清理整合耗时等问题，学者在使用这些数据时面...
 ---
-
 # CNopendata
 
 **URL:** https://www.cnopendata.com/article/index.html
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+一次偶然的机会让我们和一些高校老师建立了联系，为他们提供数据搜集和整理服务。过去几年，我们和不少高校老师建立了稳定、愉快的合作关系，在小范围内竟然产生了一定的影响力，越来越多的学者开始联系我们希望提供数据服务。随着客户数量的增加，我们萌生了建立数据平台的想法。 互联网产生了海量数据，记录着丰富信息，并以开放的姿态呈现出来，然而由于数据量巨大、搜集难度极高、清理整合耗时等问题，学者在使用这些数据时面临诸多障碍，而这恰是我们这些IT人最为擅长的地方。当然，我们也有强大的学术团队做支撑，他们曾经是我们的客户，今天成为我们的顾问！ 简约、清晰、有用，是我们追求的理念。数据是散落的金子，我们愿做挖矿者，期待与作为炼金人的您精诚合作。 CnOpenData是覆盖经济、金融、会计、法律、地理、新闻、医疗、体育等多个学科的综合型数据平台，并持续提供个性化数据定制服务。现拥有500+个专题数据库，包括全球专利及引用被引用数据（1.5亿+量级）、工商注册企业数据（3.5亿+量级）、线上招聘广告数据（3.
 
-## See Also
-
-- [[global]] — region

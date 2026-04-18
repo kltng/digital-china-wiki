@@ -1,25 +1,31 @@
 ---
-title: "Chinafile Com"
+title: Chinafile Com
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.chinafile.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- open_access
+subjects:
+- east_asian_studies
+- legal_history
+- military_history
+- political_science
+- taiwan_studies
+china_relevance: null
 source_id: chinafile-com
+description: ChinaFile is an online magazine publishing, showcasing, and contributing
+  to the best reporting and commentary on China.
 ---
-
 # Chinafile Com
 
 **URL:** https://www.chinafile.com/
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+ChinaFile is an online magazine publishing, showcasing, and contributing to the best reporting and commentary on China. We seek to both meet and expand the appetites of expert and non-expert audiences who want to better understand China and to provide them with a visually stimulating, well-designed platform on which they can encounter voices and topics that tend to be out of
 
-## See Also
-
-- [[global]] — region

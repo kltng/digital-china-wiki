@@ -1,27 +1,27 @@
 ---
-title: "高校古文獻資源庫 學苑汲古 Chinese Ancient Literature"
+title: 高校古文獻資源庫 學苑汲古 Chinese Ancient Literature
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://rbsc2.calis.edu.cn/index
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- east_asian_studies
+- literature
+china_relevance: null
 source_id: rbsc2-calis-edu-cn-index
+description: 高校古文獻資源庫 學苑汲古 Chinese Ancient Literature.
 ---
-
 # 高校古文獻資源庫 學苑汲古 Chinese Ancient Literature
 
 **URL:** https://rbsc2.calis.edu.cn/index
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+高校古文獻資源庫 學苑汲古 Chinese Ancient Literature.
 
-## See Also
-
-- [[global]] — region

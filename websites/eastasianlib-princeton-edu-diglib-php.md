@@ -1,27 +1,34 @@
 ---
-title: "Princeton East Asian Library Digitized Medical Texts"
+title: Princeton East Asian Library Digitized Medical Texts
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://eastasianlib.princeton.edu/diglib.php
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+- libraries
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
+- medicine
+china_relevance: null
 source_id: eastasianlib-princeton-edu-diglib-php
+description: Princeton East Asian Library Digitized Medical Texts. The site may be
+  intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # Princeton East Asian Library Digitized Medical Texts
 
 **URL:** http://eastasianlib.princeton.edu/diglib.php
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Princeton East Asian Library Digitized Medical Texts. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

@@ -1,27 +1,30 @@
 ---
-title: "Sinica sinoweb 中研院經典人文學刊"
+title: Sinica sinoweb 中研院經典人文學刊
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://searchworks.stanford.edu/view/13956868
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: searchworks-stanford-edu-view-13956868
+description: SearchWorks is Stanford University Libraries' online catalog, providing
+  access to books, journals, databases, digital collections, and special collections
+  with significant holdings in Chinese and East...
 ---
-
 # Sinica sinoweb 中研院經典人文學刊
 
 **URL:** https://searchworks.stanford.edu/view/13956868
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
 
-## See Also
-
-- [[global]] — region

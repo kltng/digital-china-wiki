@@ -1,27 +1,27 @@
 ---
-title: "中国综合社会调查 (Chinese General Social Survey, CGSS)"
+title: 中国综合社会调查 (Chinese General Social Survey, CGSS)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://cgss.ruc.edu.cn/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: cgss-ruc-edu-cn
+description: 中国综合社会调查 (Chinese General Social Survey, CGSS).
 ---
-
 # 中国综合社会调查 (Chinese General Social Survey, CGSS)
 
 **URL:** http://cgss.ruc.edu.cn/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+中国综合社会调查 (Chinese General Social Survey, CGSS).
 
-## See Also
-
-- [[global]] — region

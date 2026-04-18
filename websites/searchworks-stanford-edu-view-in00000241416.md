@@ -1,27 +1,30 @@
 ---
-title: "NICIP 中国近代图片库 = The Picture gallery of Chinese modern literature : 1833-1949"
+title: 'NICIP 中国近代图片库 = The Picture gallery of Chinese modern literature : 1833-1949'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://searchworks.stanford.edu/view/in00000241416
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+subjects:
+- east_asian_studies
+- literature
+china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000241416
+description: SearchWorks is Stanford University Libraries' online catalog, providing
+  access to books, journals, databases, digital collections, and special collections
+  with significant holdings in Chinese and East...
 ---
-
 # NICIP 中国近代图片库 = The Picture gallery of Chinese modern literature : 1833-1949
 
 **URL:** https://searchworks.stanford.edu/view/in00000241416
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
 
-## See Also
-
-- [[global]] — region

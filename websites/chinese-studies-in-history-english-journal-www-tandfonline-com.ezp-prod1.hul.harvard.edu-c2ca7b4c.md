@@ -1,26 +1,35 @@
 ---
-title: "Chinese Studies in History ( English Journal)"
+title: Chinese Studies in History ( English Journal)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.tandfonline.com/loi/mcsh20
 access_via_harvard: http://www-tandfonline-com.ezp-prod1.hul.harvard.edu/loi/mcsh20
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- chinese_history
+- east_asian_studies
+- journalism
 china_relevance: primary
 source_id: chinese-studies-in-history-english-journal-www-tandfonline-com.ezp-prod1.hul.harvard.edu-c2ca7b4c
+description: Chinese Studies in History ( English Journal). The site blocks automated
+  access.
+site_status: access_restricted
 ---
-
 # Chinese Studies in History ( English Journal)
 
-**URL:** http://www-tandfonline-com.ezp-prod1.hul.harvard.edu/loi/mcsh20
+**URL:** http://www.tandfonline.com/loi/mcsh20
+
+**Region:** Global
+
+**Harvard Access:** http://www-tandfonline-com.ezp-prod1.hul.harvard.edu/loi/mcsh20
 
 ## Summary
 
-*Awaiting full description.*
+Chinese Studies in History ( English Journal). The site blocks automated access.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

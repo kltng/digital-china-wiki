@@ -1,27 +1,34 @@
 ---
-title: "中国国家图书馆博士论文 (National Library of China Dissertations Database)"
+title: 中国国家图书馆博士论文 (National Library of China Dissertations Database)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://mylib.nlc.gov.cn/web/guest/boshilunwen
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: mylib-nlc-gov-cn-web-guest-boshilunwen
+description: 中国国家图书馆博士论文 (National Library of China Dissertations Database). a Chinese
+  government resource. The site may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # 中国国家图书馆博士论文 (National Library of China Dissertations Database)
 
 **URL:** http://mylib.nlc.gov.cn/web/guest/boshilunwen
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+中国国家图书馆博士论文 (National Library of China Dissertations Database). a Chinese government resource. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. Chinese government and academic sites may be geo-restricted.
 
-- [[global]] — region

@@ -1,27 +1,30 @@
 ---
-title: "全国报刊索引 National Index to Chinese Newspapers & Periodicals"
+title: 全国报刊索引 National Index to Chinese Newspapers & Periodicals
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.cnbksy.cn/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- periodicals
+subjects:
+- east_asian_studies
+- journalism
+china_relevance: null
 source_id: cnbksy-cn
+description: 全国报刊索引 National Index to Chinese Newspapers & Periodicals.
+site_status: unknown
 ---
-
 # 全国报刊索引 National Index to Chinese Newspapers & Periodicals
 
 **URL:** http://www.cnbksy.cn/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+全国报刊索引 National Index to Chinese Newspapers & Periodicals.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

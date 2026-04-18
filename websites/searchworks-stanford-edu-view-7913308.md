@@ -1,27 +1,33 @@
 ---
-title: "Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000 中国五次县级人口普查数据"
+title: 'Historical county population census data with maps : 1953, 1964, 1982, 1990,
+  2000 中国五次县级人口普查数据'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://searchworks.stanford.edu/view/7913308
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- maps
+- statistical_data
+subjects:
+- cartography
+- demography
+- east_asian_studies
+china_relevance: null
 source_id: searchworks-stanford-edu-view-7913308
+description: SearchWorks is Stanford University Libraries' online catalog, providing
+  access to books, journals, databases, digital collections, and special collections
+  with significant holdings in Chinese and East...
 ---
-
 # Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000 中国五次县级人口普查数据
 
 **URL:** https://searchworks.stanford.edu/view/7913308
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+SearchWorks is Stanford University Libraries' online catalog, providing access to books, journals, databases, digital collections, and special collections with significant holdings in Chinese and East Asian studies.
 
-## See Also
-
-- [[global]] — region

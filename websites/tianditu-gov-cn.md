@@ -1,27 +1,31 @@
 ---
-title: "国家地理信息公共服务平台“天地图”"
+title: 国家地理信息公共服务平台“天地图”
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.tianditu.gov.cn/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: tianditu-gov-cn
+description: 国家地理信息公共服务平台“天地图”. a Chinese government resource. The site may be intermittently
+  unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # 国家地理信息公共服务平台“天地图”
 
 **URL:** https://www.tianditu.gov.cn/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+国家地理信息公共服务平台“天地图”. a Chinese government resource. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. Chinese government and academic sites may be geo-restricted.
 
-- [[global]] — region

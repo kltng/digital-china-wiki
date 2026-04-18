@@ -1,27 +1,31 @@
 ---
-title: "Old Hong Kong Newspapers 香港舊報紙 Open Access"
+title: Old Hong Kong Newspapers 香港舊報紙 Open Access
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: news
 url: https://mmis.hkpl.gov.hk/old-hk-collection
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- open_access
+- periodicals
+- prc
+subjects:
+- east_asian_studies
+- journalism
 china_relevance: primary
 source_id: old-hong-kong-newspapers-open-access-mmis.hkpl.gov.hk-b1f26ea3
+description: Old Hong Kong Newspapers 香港舊報紙 Open Access with a focus on mainland China.
 ---
-
 # Old Hong Kong Newspapers 香港舊報紙 Open Access
 
 **URL:** https://mmis.hkpl.gov.hk/old-hk-collection
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+Old Hong Kong Newspapers 香港舊報紙 Open Access with a focus on mainland China.
 
-## See Also
-
-- [[prc]] — region

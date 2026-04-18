@@ -1,25 +1,27 @@
 ---
-title: "Char Iis Sinica Edu Tw Index Htm"
+title: Char Iis Sinica Edu Tw Index Htm
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://char.iis.sinica.edu.tw/index.htm
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- taiwan
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: char-iis-sinica-edu-tw-index-htm
+description: A resource from Academia Sinica. focusing on Taiwan.
 ---
-
 # Char Iis Sinica Edu Tw Index Htm
 
 **URL:** https://char.iis.sinica.edu.tw/index.htm
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+A resource from Academia Sinica. focusing on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

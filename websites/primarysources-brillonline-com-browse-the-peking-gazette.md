@@ -1,27 +1,31 @@
 ---
-title: "Translations of the Peking Gazette Online (1793-1912)"
+title: Translations of the Peking Gazette Online (1793-1912)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://primarysources.brillonline.com/browse/the-peking-gazette
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: primarysources-brillonline-com-browse-the-peking-gazette
+description: Translations of the Peking Gazette Online (1793-1912). The site blocks
+  automated access.
+site_status: access_restricted
 ---
-
 # Translations of the Peking Gazette Online (1793-1912)
 
 **URL:** http://primarysources.brillonline.com/browse/the-peking-gazette
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Translations of the Peking Gazette Online (1793-1912). The site blocks automated access.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

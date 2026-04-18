@@ -1,27 +1,29 @@
 ---
-title: "台灣日治時期統計資料庫 OPEN ACCESS"
+title: 台灣日治時期統計資料庫 OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://tcsd.lib.ntu.edu.tw/info_about/about.php
 language: zh
 region: taiwan
-tags: []
-subjects: []
+tags:
+- taiwan
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: open-access-tcsd.lib.ntu.edu.tw-db373d9f
+description: 台灣日治時期統計資料庫 OPEN ACCESS. focusing on Taiwan.
 ---
-
 # 台灣日治時期統計資料庫 OPEN ACCESS
 
 **URL:** http://tcsd.lib.ntu.edu.tw/info_about/about.php
 
 **Language:** Chinese
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+台灣日治時期統計資料庫 OPEN ACCESS. focusing on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

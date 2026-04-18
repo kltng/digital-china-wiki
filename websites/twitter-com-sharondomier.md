@@ -1,25 +1,28 @@
 ---
-title: "Twitter Com Sharondomier"
+title: Twitter Com Sharondomier
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: social
 url: https://x.com/SharonDomier
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: twitter-com-sharondomier
+description: Twitter Com Sharondomier. A digital resource for Chinese and East Asian
+  studies.
 ---
-
 # Twitter Com Sharondomier
 
 **URL:** https://x.com/SharonDomier
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Twitter Com Sharondomier. A digital resource for Chinese and East Asian studies.
 
-## See Also
-
-- [[global]] — region

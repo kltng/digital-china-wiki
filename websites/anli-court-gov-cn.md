@@ -1,25 +1,31 @@
 ---
-title: "Anli Court Gov Cn"
+title: Anli Court Gov Cn
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://anli.court.gov.cn/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- east_asian_studies
+- legal_history
+china_relevance: null
 source_id: anli-court-gov-cn
+description: Anli Court Gov Cn. a Chinese government resource. The site blocks automated
+  access.
+site_status: access_restricted
 ---
-
 # Anli Court Gov Cn
 
 **URL:** https://anli.court.gov.cn/
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Anli Court Gov Cn. a Chinese government resource. The site blocks automated access.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. Chinese government and academic sites may be geo-restricted.
 
-- [[global]] — region

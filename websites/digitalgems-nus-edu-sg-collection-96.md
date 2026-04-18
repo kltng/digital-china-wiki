@@ -1,27 +1,35 @@
 ---
-title: "Chinese Newspapers (National University of Singapore Libraries)"
+title: Chinese Newspapers (National University of Singapore Libraries)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://digitalgems.nus.edu.sg/collection/96
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+- libraries
+- periodicals
+subjects:
+- digital_humanities
+- east_asian_studies
+- education
+- journalism
+china_relevance: null
 source_id: digitalgems-nus-edu-sg-collection-96
+description: Chinese Newspapers (National University of Singapore Libraries). The
+  original site appears to be no longer available (404 error).
+site_status: dead
 ---
-
 # Chinese Newspapers (National University of Singapore Libraries)
 
 **URL:** https://digitalgems.nus.edu.sg/collection/96
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Chinese Newspapers (National University of Singapore Libraries). The original site appears to be no longer available (404 error).
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

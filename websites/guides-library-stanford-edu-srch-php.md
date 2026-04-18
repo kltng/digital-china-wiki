@@ -1,27 +1,28 @@
 ---
-title: "e-resources"
+title: e-resources
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://guides.library.stanford.edu/srch.php?tag=e-resources&default_lg=1
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: guides-library-stanford-edu-srch-php
+description: e-resources, provided by Stanford University, is a library resource with
+  a focus on global scope.
 ---
-
 # e-resources
 
 **URL:** https://guides.library.stanford.edu/srch.php?tag=e-resources&default_lg=1
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+e-resources, provided by Stanford University, is a library resource with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

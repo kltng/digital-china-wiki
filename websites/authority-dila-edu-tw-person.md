@@ -1,25 +1,27 @@
 ---
-title: "Authority Dila Edu Tw Person"
+title: Authority Dila Edu Tw Person
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://authority.dila.edu.tw/person/
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- taiwan
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: authority-dila-edu-tw-person
+description: Authority Dila Edu Tw Person with a focus on Taiwan.
 ---
-
 # Authority Dila Edu Tw Person
 
 **URL:** https://authority.dila.edu.tw/person/
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+Authority Dila Edu Tw Person with a focus on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

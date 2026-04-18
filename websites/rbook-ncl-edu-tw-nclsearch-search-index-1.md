@@ -1,27 +1,33 @@
 ---
-title: "Digital Images of Rare Books（古籍影像檢索系統）"
+title: Digital Images of Rare Books（古籍影像檢索系統）
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://rbook.ncl.edu.tw/NCLSearch/Search/Index/1
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+- taiwan
+subjects:
+- digital_humanities
+- east_asian_studies
+china_relevance: null
 source_id: rbook-ncl-edu-tw-nclsearch-search-index-1
+description: Digital Images of Rare Books（古籍影像檢索系統）. focusing on Taiwan. The site
+  may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # Digital Images of Rare Books（古籍影像檢索系統）
 
 **URL:** http://rbook.ncl.edu.tw/NCLSearch/Search/Index/1
 
-**Discovered via:** LibGuides > stanford
+**Region:** Taiwan
 
 ## Summary
 
-*Awaiting full description.*
+Digital Images of Rare Books（古籍影像檢索系統）. focusing on Taiwan. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[taiwan]] — region

@@ -1,25 +1,30 @@
 ---
-title: "OFFICE OF THE PROVOST"
+title: OFFICE OF THE PROVOST
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://provost.harvard.edu
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- databases
+subjects:
+- east_asian_studies
+- education
+- legal_history
 china_relevance: primary
 source_id: office-of-the-provost-provost.harvard.edu-f099e812
+description: The Office of the Provost works closely with the University’s academic
+  and administrative leaders to foster coordination and collaboration across Harvard;
+  promote a culture of experimentation in learn...
 ---
-
 # OFFICE OF THE PROVOST
 
 **URL:** https://provost.harvard.edu
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+The Office of the Provost works closely with the University’s academic and administrative leaders to foster coordination and collaboration across Harvard; promote a culture of experimentation in learning, teaching and research; and support academic excellence. Learn more about John F. Manning, Harvard University’s Provost and Chief Academic Officer and the Dane Professor of Law at Harvard Law School.
 
-## See Also
-
-- [[global]] — region

@@ -1,27 +1,31 @@
 ---
-title: "Five Classics with Selected Comments 五經體註"
+title: Five Classics with Selected Comments 五經體註
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://search.library.yale.edu/catalog/2212124
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: search-library-yale-edu-catalog-2212124
+description: Five Classics with Selected Comments 五經體註. a Yale University resource.
+site_status: unknown
 ---
-
 # Five Classics with Selected Comments 五經體註
 
 **URL:** http://search.library.yale.edu/catalog/2212124
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Five Classics with Selected Comments 五經體註. a Yale University resource.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

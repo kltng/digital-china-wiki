@@ -1,27 +1,27 @@
 ---
-title: "Zhonghua jing dian gu ji ku 中华经典古籍库"
+title: Zhonghua jing dian gu ji ku 中华经典古籍库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://publish.ancientbooks.cn/docShuju/platformSublibIndex.jspx?libId=6
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: publish-ancientbooks-cn-docshuju-platformsublibindex-jspx
+description: Zhonghua jing dian gu ji ku 中华经典古籍库 with a focus on global scope.
 ---
-
 # Zhonghua jing dian gu ji ku 中华经典古籍库
 
 **URL:** http://publish.ancientbooks.cn/docShuju/platformSublibIndex.jspx?libId=6
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Zhonghua jing dian gu ji ku 中华经典古籍库 with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

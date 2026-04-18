@@ -1,27 +1,27 @@
 ---
-title: "Factiva"
+title: Factiva
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://global.factiva.com/sb/default.aspx?lnep=hp
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: global-factiva-com-sb-default-aspx
+description: Factiva with a focus on global scope.
 ---
-
 # Factiva
 
 **URL:** https://global.factiva.com/sb/default.aspx?lnep=hp
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Factiva with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

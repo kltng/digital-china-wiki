@@ -1,27 +1,33 @@
 ---
-title: "CNPeReading 易閱通中文电子书平台"
+title: CNPeReading 易閱通中文电子书平台
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.cnpebook.com/
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- prc
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: cnpereading-hvd.userservices.exlibrisgroup.com-24c9d1e6
+description: CNPeReading 易閱通中文电子书平台. focusing on mainland China. The site may be intermittently
+  unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # CNPeReading 易閱通中文电子书平台
 
 **URL:** https://www.cnpebook.com/
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+CNPeReading 易閱通中文电子书平台. focusing on mainland China. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[prc]] — region

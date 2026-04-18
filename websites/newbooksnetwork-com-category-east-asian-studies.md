@@ -1,27 +1,33 @@
 ---
-title: "New Books in East Asian Studies"
+title: New Books in East Asian Studies
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://newbooksnetwork.com/category/east-asian-studies
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_history
+- east_asian_studies
+- economic_history
+- linguistics
+- literature
+- political_science
+china_relevance: null
 source_id: newbooksnetwork-com-category-east-asian-studies
+description: Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en Españolon
+  Patreon | VisitNew Books Network en Español! Children's Literature Comics and Graphic
+  Novels Young Adult Literature Economi...
 ---
-
 # New Books in East Asian Studies
 
 **URL:** https://newbooksnetwork.com/category/east-asian-studies
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Support Kritika|Support H-Net|Buy Books Here| Join theNBNandNBN en Españolon Patreon | VisitNew Books Network en Español! Children's Literature Comics and Graphic Novels Young Adult Literature Economic and Business History Revolutionary America African American Studies Asian American Studies Australian and New Zealand Studies Central Asian Studies Eastern European Studies Latin American Studies Middle Eastern Studies Russian and Eurasian Studies Southeast Asian Studies Western European Studies Business, Management, and Marketing Media and Communications Drugs, Addiction and Recovery Language a...
 
-## See Also
-
-- [[global]] — region

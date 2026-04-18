@@ -1,27 +1,30 @@
 ---
-title: "清季職官表查詢系統 OPEN ACCESS"
+title: 清季職官表查詢系統 OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://ssop.digital.ntu.edu.tw
 language: zh
 region: taiwan
-tags: []
-subjects: []
+tags:
+- digital_humanities
+- taiwan
+subjects:
+- digital_humanities
+- east_asian_studies
 china_relevance: primary
 source_id: open-access-ssop.digital.ntu.edu.tw-11bce8c1
+description: 清季職官表查詢系統 OPEN ACCESS. focusing on Taiwan.
 ---
-
 # 清季職官表查詢系統 OPEN ACCESS
 
 **URL:** http://ssop.digital.ntu.edu.tw
 
 **Language:** Chinese
 
+**Region:** Taiwan
+
 ## Summary
 
-*Awaiting full description.*
+清季職官表查詢系統 OPEN ACCESS. focusing on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

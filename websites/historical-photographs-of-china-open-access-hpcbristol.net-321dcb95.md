@@ -1,25 +1,30 @@
 ---
-title: "Historical Photographs of China OPEN ACCESS"
+title: Historical Photographs of China OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://hpcbristol.net
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- east_asian_studies
+- visual_studies
 china_relevance: primary
 source_id: historical-photographs-of-china-open-access-hpcbristol.net-321dcb95
+description: Historical Photographs of China OPEN ACCESS.
+site_status: unknown
 ---
-
 # Historical Photographs of China OPEN ACCESS
 
 **URL:** https://hpcbristol.net
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Historical Photographs of China OPEN ACCESS.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

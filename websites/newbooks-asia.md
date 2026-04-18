@@ -1,27 +1,28 @@
 ---
-title: "newbooks.asia"
+title: newbooks.asia
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://newbooks.asia/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: newbooks-asia
+description: We love reading books, we love reading about books. Here you can find
+  the latest reviews of new Asian Studies publications.
 ---
-
 # newbooks.asia
 
 **URL:** https://newbooks.asia/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+We love reading books, we love reading about books. Here you can find the latest reviews of new Asian Studies publications.
 
-## See Also
-
-- [[global]] — region

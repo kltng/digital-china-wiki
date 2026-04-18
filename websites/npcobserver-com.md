@@ -1,25 +1,31 @@
 ---
-title: "Npcobserver Com"
+title: Npcobserver Com
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://npcobserver.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- maps
+subjects:
+- art_history
+- east_asian_studies
+- economic_history
+- gis
+- legal_history
+china_relevance: null
 source_id: npcobserver-com
+description: An independent website offering original coverage of China's National
+  People's Congress and its Standing Committee
 ---
-
 # Npcobserver Com
 
 **URL:** https://npcobserver.com/
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+An independent website offering original coverage of China's National People's Congress and its Standing Committee
 
-## See Also
-
-- [[global]] — region

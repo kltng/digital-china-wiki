@@ -1,27 +1,28 @@
 ---
-title: "UDNdata 聯合知識庫全文報紙資料庫"
+title: UDNdata 聯合知識庫全文報紙資料庫
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://udndata.com/library
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+- statistical_data
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: udndata-com-library
+description: Áp¦Xª¾ÃÑ®w - ¥þ²y³Ì¤jªº¤¤¤å·s»D¸ê®Æ®w¥­¥x.
 ---
-
 # UDNdata 聯合知識庫全文報紙資料庫
 
 **URL:** http://udndata.com/library
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Áp¦Xª¾ÃÑ®w - ¥þ²y³Ì¤jªº¤¤¤å·s»D¸ê®Æ®w¥­¥x.
 
-## See Also
-
-- [[global]] — region

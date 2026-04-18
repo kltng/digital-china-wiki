@@ -1,27 +1,30 @@
 ---
-title: "Wan Qing Minguo Da Bao Ku 晚清民国大报库"
+title: Wan Qing Minguo Da Bao Ku 晚清民国大报库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://small.wenzibase.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+subjects:
+- digital_humanities
+- east_asian_studies
+china_relevance: null
 source_id: small-wenzibase-com
+description: HintsYour current service provider is the Erudition CentralServer in
+  the United States.Please choose product first .If your IP is authorized, please
+  directly login.
 ---
-
 # Wan Qing Minguo Da Bao Ku 晚清民国大报库
 
 **URL:** http://small.wenzibase.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+HintsYour current service provider is the Erudition CentralServer in the United States.Please choose product first .If your IP is authorized, please directly login.If your IP is unauthorized, please enter user ID andpassword, then login.If you have any questions, please contact theadministrator(help@wenzibase.com)Please choose productAncient ClassicsModern DocumentsYour Ip:172.93.50.206 is unauthorizedRefreshAdvanced user loginCopyright ©2017 by Beijing Erudition Digital Research Center.京ICP备12023608号-9 HintsYour current service provider is the Erudition CentralServer in the United States.
 
-## See Also
-
-- [[global]] — region

@@ -1,27 +1,33 @@
 ---
-title: "Cultural Revolution in Memories (open access)"
+title: Cultural Revolution in Memories (open access)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://culturalrevolution.pitt.edu/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+subjects:
+- art_history
+- chinese_history
+- east_asian_studies
+- education
+- library_science
+china_relevance: null
 source_id: culturalrevolution-pitt-edu
+description: The full name of China's Cultural Revolution is the "Great Proletarian
+  Cultural Revolution." Chairman Mao Zedong initiated this "Great Revolution" to prevent
+  capitalism's return to China, protect the...
 ---
-
 # Cultural Revolution in Memories (open access)
 
 **URL:** https://culturalrevolution.pitt.edu/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+The full name of China's Cultural Revolution is the "Great Proletarian Cultural Revolution." Chairman Mao Zedong initiated this "Great Revolution" to prevent capitalism's return to China, protect the purity of the Communist Party of China, and seek a path for further developing socialism in China. This "Great Revolution" was called a "cultural" revolution because it started from criticism of the intellectual and cultural arena. In May 1966, the Central Committee of the Communist Party of China convened an "expanded session" of the Politburo.
 
-## See Also
-
-- [[global]] — region

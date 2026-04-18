@@ -1,27 +1,27 @@
 ---
-title: "万方中国学位论文数据库 (Wanfang Dissertations of China)"
+title: 万方中国学位论文数据库 (Wanfang Dissertations of China)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://c.wanfangdata.com.cn/thesis
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: c-wanfangdata-com-cn-thesis
+description: 万方中国学位论文数据库 (Wanfang Dissertations of China).
 ---
-
 # 万方中国学位论文数据库 (Wanfang Dissertations of China)
 
 **URL:** https://c.wanfangdata.com.cn/thesis
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+万方中国学位论文数据库 (Wanfang Dissertations of China).
 
-## See Also
-
-- [[global]] — region

@@ -1,27 +1,27 @@
 ---
-title: "Wanfang Data: China Local Gazetteers 万方数据: 新方志"
+title: 'Wanfang Data: China Local Gazetteers 万方数据: 新方志'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://c.wanfangdata.com.cn/NewLocalChronicle.aspx
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: c-wanfangdata-com-cn-newlocalchronicle-aspx
+description: 'Wanfang Data: China Local Gazetteers 万方数据: 新方志.'
 ---
-
 # Wanfang Data: China Local Gazetteers 万方数据: 新方志
 
 **URL:** https://c.wanfangdata.com.cn/NewLocalChronicle.aspx
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Wanfang Data: China Local Gazetteers 万方数据: 新方志.
 
-## See Also
-
-- [[global]] — region

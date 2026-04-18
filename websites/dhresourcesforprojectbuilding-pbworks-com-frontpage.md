@@ -1,25 +1,35 @@
 ---
-title: "Dhresourcesforprojectbuilding Pbworks Com Frontpage"
+title: Dhresourcesforprojectbuilding Pbworks Com Frontpage
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+- open_access
+- statistical_data
+subjects:
+- art_history
+- chinese_history
+- digital_humanities
+- east_asian_studies
+- education
+china_relevance: null
 source_id: dhresourcesforprojectbuilding-pbworks-com-frontpage
+description: dhresourcesforprojectbuilding ViewEditTo edit this page,request accessto
+  the workspace.Already have an account?Log in!FrontPagePage historylast edited byAlan
+  Liu11 months, 2 weeks agoDHToychestDigital...
 ---
-
 # Dhresourcesforprojectbuilding Pbworks Com Frontpage
 
 **URL:** http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+dhresourcesforprojectbuilding ViewEditTo edit this page,request accessto the workspace.Already have an account?Log in!FrontPagePage historylast edited byAlan Liu11 months, 2 weeks agoDHToychestDigital Humanities Resources for Project Building(curated byAlan Liu)(DH Toychest started 2013; last update 2017)Guides to Digital Humanities|Tutorials|Tools|Examples|Data Collections & DatasetsGuides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated byAlan Liu, University of California, Santa Barbara.
 
-## See Also
-
-- [[global]] — region

@@ -1,27 +1,40 @@
 ---
-title: "Papers of Missionaries to China"
+title: Papers of Missionaries to China
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://web.library.yale.edu/divinity/china-papers
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- archives
+- databases
+- digital_humanities
+- libraries
+subjects:
+- archival_science
+- chinese_history
+- christianity_in_china
+- digital_humanities
+- east_asian_studies
+- education
+- geography
+- library_science
+- social_history
+- visual_studies
+china_relevance: null
 source_id: web-library-yale-edu-divinity-china-papers
+description: Welcome to the Yale Divinity Library Projects and Guides portal. We created
+  this website as a repository for information and content that has not (yet) transferred
+  to a more permanent Yale Library web...
 ---
-
 # Papers of Missionaries to China
 
 **URL:** https://web.library.yale.edu/divinity/china-papers
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Welcome to the Yale Divinity Library Projects and Guides portal. We created this website as a repository for information and content that has not (yet) transferred to a more permanent Yale Library website. It includes digitized archival materials, research guides, and historical resources related to world Christianity, mission history, and theological scholarship.
 
-## See Also
-
-- [[global]] — region

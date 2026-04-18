@@ -1,27 +1,31 @@
 ---
-title: "CNKI: China Yearbooks 中国年鉴数据库"
+title: 'CNKI: China Yearbooks 中国年鉴数据库'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://eng.oversea.cnki.net/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: eng-oversea-cnki-net
+description: 'CNKI: China Yearbooks 中国年鉴数据库. a CNKI (China National Knowledge Infrastructure)
+  resource. The site may be intermittently unavailable or geo-restricted.'
+site_status: unreachable
 ---
-
 # CNKI: China Yearbooks 中国年鉴数据库
 
 **URL:** http://eng.oversea.cnki.net/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+CNKI: China Yearbooks 中国年鉴数据库. a CNKI (China National Knowledge Infrastructure) resource. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

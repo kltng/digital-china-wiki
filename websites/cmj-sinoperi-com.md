@@ -1,27 +1,29 @@
 ---
-title: "China Multilingual Journal Database"
+title: China Multilingual Journal Database
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://cmj.sinoperi.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+- journalism
+china_relevance: null
 source_id: cmj-sinoperi-com
+description: EnglishDeutsch日本語FrançaisEspañol 中文EnglishEspañolFrançaisDeutsch
 ---
-
 # China Multilingual Journal Database
 
 **URL:** http://cmj.sinoperi.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+EnglishDeutsch日本語FrançaisEspañol 中文EnglishEspañolFrançaisDeutsch
 
-## See Also
-
-- [[global]] — region

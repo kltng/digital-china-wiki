@@ -1,27 +1,33 @@
 ---
-title: "British colonial policy and intelligence files on Asia and the Middle East, c. 1880-1950"
+title: British colonial policy and intelligence files on Asia and the Middle East,
+  c. 1880-1950
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.degruyter.com/database/bif/html?lang=en
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+china_relevance: null
 source_id: degruyter-com-database-bif-html
+description: British colonial policy and intelligence files on Asia and the Middle
+  East, c. 1880-1950.
+site_status: unknown
 ---
-
 # British colonial policy and intelligence files on Asia and the Middle East, c. 1880-1950
 
 **URL:** https://www.degruyter.com/database/bif/html?lang=en
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+British colonial policy and intelligence files on Asia and the Middle East, c. 1880-1950.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

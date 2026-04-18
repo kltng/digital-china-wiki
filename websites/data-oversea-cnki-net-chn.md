@@ -1,27 +1,32 @@
 ---
-title: "CNKI: China Statistical Yearbooks 中国统计年鉴数据库"
+title: 'CNKI: China Statistical Yearbooks 中国统计年鉴数据库'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://data.oversea.cnki.net/chn
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- east_asian_studies
+- statistics
+china_relevance: null
 source_id: data-oversea-cnki-net-chn
+description: 'CNKI: China Statistical Yearbooks 中国统计年鉴数据库. a CNKI (China National
+  Knowledge Infrastructure) resource. The original site appears to be no longer available
+  (404 error).'
+site_status: dead
 ---
-
 # CNKI: China Statistical Yearbooks 中国统计年鉴数据库
 
 **URL:** https://data.oversea.cnki.net/chn
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+CNKI: China Statistical Yearbooks 中国统计年鉴数据库. a CNKI (China National Knowledge Infrastructure) resource. The original site appears to be no longer available (404 error).
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

@@ -1,27 +1,28 @@
 ---
-title: "Internet archive"
+title: Internet archive
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://archive.org/index.php
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- archives
+subjects:
+- archival_science
+- east_asian_studies
+china_relevance: null
 source_id: archive-org-index-php
+description: 'Internet Archive: Digital Library of Free & Borrowable Texts, Movies,
+  Music & Wayback Machine.'
 ---
-
 # Internet archive
 
 **URL:** http://archive.org/index.php
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine.
 
-## See Also
-
-- [[global]] — region

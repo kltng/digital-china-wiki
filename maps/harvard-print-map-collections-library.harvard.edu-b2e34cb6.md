@@ -1,25 +1,35 @@
 ---
-title: "Harvard Print Map Collections"
+title: Harvard Print Map Collections
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: maps
 url: https://library.harvard.edu/collections/print-map-collections
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- archives
+- databases
+- libraries
+- maps
+subjects:
+- archival_science
+- art_history
+- cartography
+- east_asian_studies
+- library_science
+- military_history
 china_relevance: primary
 source_id: harvard-print-map-collections-library.harvard.edu-b2e34cb6
+description: The Harvard Map Collection houses more than 400,000 print maps that range
+  from 1493 to the present, along with tens of thousands more maps included in books.
 ---
-
 # Harvard Print Map Collections
 
 **URL:** https://library.harvard.edu/collections/print-map-collections
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+The Harvard Map Collection houses more than 400,000 print maps that range from 1493 to the present, along with tens of thousands more maps included in books. Explore a place, explore a subject, explore a time.
 
-## See Also
-
-- [[global]] — region

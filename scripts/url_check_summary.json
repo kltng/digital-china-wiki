@@ -1,0 +1,23 @@
+{
+  "total": 820,
+  "live": 615,
+  "dead_or_blocked": 205,
+  "categories": {
+    "live": 306,
+    "blocked_403": 44,
+    "timeout": 40,
+    "live_redirect": 309,
+    "error_412": 8,
+    "ssl_error": 11,
+    "dead_404": 44,
+    "connection_error": 34,
+    "error_405": 1,
+    "error_202": 13,
+    "error_502": 1,
+    "error_400": 2,
+    "error_500": 4,
+    "error_429": 1,
+    "other_error": 1,
+    "error_503": 1
+  }
+}

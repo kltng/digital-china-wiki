@@ -1,27 +1,31 @@
 ---
-title: "Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS"
+title: Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://kanji.zinbun.kyoto-u.ac.jp/kanseki
 language: zh
 region: japan
-tags: []
-subjects: []
+tags:
+- japan
+- open_access
+subjects:
+- chinese_studies
+- east_asian_studies
 china_relevance: primary
 source_id: premodern-chinese-books-in-japan-open-access-kanji.zinbun.kyoto-u.ac.jp-92bc22ee
+description: Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS.
+  focusing on Japan.
 ---
-
 # Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS
 
 **URL:** http://kanji.zinbun.kyoto-u.ac.jp/kanseki
 
 **Language:** Chinese
 
+**Region:** Japan
+
 ## Summary
 
-*Awaiting full description.*
+Premodern Chinese Books in Japan 全國漢籍データベース(日本所藏中文古籍數據庫) OPEN ACCESS. focusing on Japan.
 
-## See Also
-
-- [[japan]] — region

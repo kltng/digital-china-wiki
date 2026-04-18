@@ -1,27 +1,28 @@
 ---
-title: "Online Journals & Newspapers by Title"
+title: Online Journals & Newspapers by Title
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://wa4py6yj8t.search.serialssolutions.com/?L=WA4PY6YJ8T&tab=JOURNALS
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- periodicals
+subjects:
+- east_asian_studies
+- journalism
+china_relevance: null
 source_id: wa4py6yj8t-search-serialssolutions-com
+description: 'Serials Solutions: Invalid Library..'
 ---
-
 # Online Journals & Newspapers by Title
 
 **URL:** http://wa4py6yj8t.search.serialssolutions.com/?L=WA4PY6YJ8T&tab=JOURNALS
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Serials Solutions: Invalid Library..
 
-## See Also
-
-- [[global]] — region

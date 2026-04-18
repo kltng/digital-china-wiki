@@ -1,27 +1,34 @@
 ---
-title: "臺灣期刊論文索引系統 PerioPath: Index to Taiwan Periodical Literature System"
+title: '臺灣期刊論文索引系統 PerioPath: Index to Taiwan Periodical Literature System'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://readopac.ncl.edu.tw/nclJournal/index.htm
-language: 
+language: null
 region: taiwan
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- periodicals
+- taiwan
+subjects:
+- east_asian_studies
+- journalism
+- literature
+- taiwan_studies
+china_relevance: null
 source_id: readopac-ncl-edu-tw-ncljournal-index-htm
+description: '臺灣期刊論文索引系統 PerioPath: Index to Taiwan Periodical Literature System.
+  focusing on Taiwan. The site may be intermittently unavailable or geo-restricted.'
+site_status: unreachable
 ---
-
 # 臺灣期刊論文索引系統 PerioPath: Index to Taiwan Periodical Literature System
 
 **URL:** http://readopac.ncl.edu.tw/nclJournal/index.htm
 
-**Discovered via:** LibGuides > yale
+**Region:** Taiwan
 
 ## Summary
 
-*Awaiting full description.*
+臺灣期刊論文索引系統 PerioPath: Index to Taiwan Periodical Literature System. focusing on Taiwan. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[taiwan]] — region

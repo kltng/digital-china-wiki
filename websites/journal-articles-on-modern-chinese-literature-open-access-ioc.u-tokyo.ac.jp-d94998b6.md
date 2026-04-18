@@ -1,27 +1,32 @@
 ---
-title: "Journal Articles on Modern Chinese Literature 中国现当代文学研究 主要刊物总目录 检索服务 OPEN ACCESS"
+title: Journal Articles on Modern Chinese Literature 中国现当代文学研究 主要刊物总目录 检索服务 OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.ioc.u-tokyo.ac.jp/~ozaki/cnindex.html
 language: zh
 region: japan
-tags: []
-subjects: []
+tags:
+- japan
+subjects:
+- art_history
+- east_asian_studies
+- journalism
+- literature
 china_relevance: primary
 source_id: journal-articles-on-modern-chinese-literature-open-access-ioc.u-tokyo.ac.jp-d94998b6
+description: Journal Articles on Modern Chinese Literature 中国现当代文学研究 主要刊物总目录 检索服务
+  OPEN ACCESS. focusing on Japan.
 ---
-
 # Journal Articles on Modern Chinese Literature 中国现当代文学研究 主要刊物总目录 检索服务 OPEN ACCESS
 
 **URL:** http://www.ioc.u-tokyo.ac.jp/~ozaki/cnindex.html
 
 **Language:** Chinese
 
+**Region:** Japan
+
 ## Summary
 
-*Awaiting full description.*
+Journal Articles on Modern Chinese Literature 中国现当代文学研究 主要刊物总目录 检索服务 OPEN ACCESS. focusing on Japan.
 
-## See Also
-
-- [[japan]] — region

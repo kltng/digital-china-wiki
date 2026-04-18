@@ -1,28 +1,38 @@
 ---
-title: "Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via 授權使用"
+title: Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via 授權使用
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: database
 url: https://newarchive.ihp.sinica.edu.tw/mcttp/index.html
 access_via_harvard: https://newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu/mcttp/index.html
 language: zh
 region: taiwan
-tags: []
-subjects: []
+tags:
+- archives
+- taiwan
+subjects:
+- archival_science
+- chinese_history
+- east_asian_studies
+- economic_history
+- legal_history
+- military_history
 china_relevance: primary
 source_id: archives-of-the-grand-secretariat-access-via-newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu-64dbad7b
+description: Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via 授權使用. provided
+  by Academia Sinica. focusing on Taiwan.
 ---
-
 # Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via 授權使用
 
-**URL:** https://newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu/mcttp/index.html
+**URL:** https://newarchive.ihp.sinica.edu.tw/mcttp/index.html
 
 **Language:** Chinese
 
+**Region:** Taiwan
+
+**Harvard Access:** https://newarchive-ihp-sinica-edu-tw.ezp-prod1.hul.harvard.edu/mcttp/index.html
+
 ## Summary
 
-*Awaiting full description.*
+Archives of the Grand Secretariat 內閣大庫檔案資料庫 Access via 授權使用. provided by Academia Sinica. focusing on Taiwan.
 
-## See Also
-
-- [[taiwan]] — region

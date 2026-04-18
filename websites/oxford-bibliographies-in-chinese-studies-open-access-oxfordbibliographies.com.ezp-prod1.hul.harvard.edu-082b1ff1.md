@@ -1,28 +1,36 @@
 ---
-title: "Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考书目 OPEN ACCESS"
+title: Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考书目 OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.oxfordbibliographies.com/obo/page/chinese-studies
 access_via_harvard: http://www.oxfordbibliographies.com.ezp-prod1.hul.harvard.edu/obo/page/chinese-studies
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- prc
+subjects:
+- bibliography
+- east_asian_studies
 china_relevance: primary
 source_id: oxford-bibliographies-in-chinese-studies-open-access-oxfordbibliographies.com.ezp-prod1.hul.harvard.edu-082b1ff1
+description: Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考书目 OPEN ACCESS. focusing
+  on mainland China.
+site_status: unknown
 ---
-
 # Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考书目 OPEN ACCESS
 
-**URL:** http://www.oxfordbibliographies.com.ezp-prod1.hul.harvard.edu/obo/page/chinese-studies
+**URL:** http://www.oxfordbibliographies.com/obo/page/chinese-studies
 
 **Language:** Chinese
 
+**Region:** China
+
+**Harvard Access:** http://www.oxfordbibliographies.com.ezp-prod1.hul.harvard.edu/obo/page/chinese-studies
+
 ## Summary
 
-*Awaiting full description.*
+Oxford Bibliographies in Chinese Studies 中国研究牛津在线参考书目 OPEN ACCESS. focusing on mainland China.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[prc]] — region

@@ -1,27 +1,34 @@
 ---
-title: "Digital Catalogs of Buddist Tripitaka Catalogs 佛教藏經目錄數位資料庫"
+title: Digital Catalogs of Buddist Tripitaka Catalogs 佛教藏經目錄數位資料庫
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: database
 url: http://jinglu.cbeta.org/index.htm
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- databases
+- digital_humanities
+- prc
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
 china_relevance: primary
 source_id: digital-catalogs-of-buddist-tripitaka-catalogs-jinglu.cbeta.org-bc534320
+description: Digital Catalogs of Buddist Tripitaka Catalogs 佛教藏經目錄數位資料庫. focusing
+  on mainland China.
 ---
-
 # Digital Catalogs of Buddist Tripitaka Catalogs 佛教藏經目錄數位資料庫
 
 **URL:** http://jinglu.cbeta.org/index.htm
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+Digital Catalogs of Buddist Tripitaka Catalogs 佛教藏經目錄數位資料庫. focusing on mainland China.
 
-## See Also
-
-- [[prc]] — region

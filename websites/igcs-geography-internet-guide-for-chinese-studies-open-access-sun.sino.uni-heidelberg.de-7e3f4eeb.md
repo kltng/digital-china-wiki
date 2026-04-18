@@ -1,25 +1,31 @@
 ---
-title: "IGCS - Geography (Internet Guide for Chinese Studies) OPEN ACCESS"
+title: IGCS - Geography (Internet Guide for Chinese Studies) OPEN ACCESS
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://sun.sino.uni-heidelberg.de/igcs/iggeo.htm
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- digital_humanities
+subjects:
+- east_asian_studies
+- geography
 china_relevance: primary
 source_id: igcs-geography-internet-guide-for-chinese-studies-open-access-sun.sino.uni-heidelberg.de-7e3f4eeb
+description: IGCS - Geography (Internet Guide for Chinese Studies) OPEN ACCESS. The
+  site may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # IGCS - Geography (Internet Guide for Chinese Studies) OPEN ACCESS
 
 **URL:** http://sun.sino.uni-heidelberg.de/igcs/iggeo.htm
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+IGCS - Geography (Internet Guide for Chinese Studies) OPEN ACCESS. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

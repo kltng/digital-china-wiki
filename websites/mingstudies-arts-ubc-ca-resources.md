@@ -1,27 +1,38 @@
 ---
-title: "The Society for Ming Studies -- Resources"
+title: The Society for Ming Studies -- Resources
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://mingstudies.arts.ubc.ca/resources
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+- maps
+subjects:
+- art_history
+- bibliography
+- cartography
+- chinese_history
+- east_asian_studies
+- journalism
+- legal_history
+- library_science
+- literature
+- musicology
+china_relevance: null
 source_id: mingstudies-arts-ubc-ca-resources
+description: This page links to resources for scholars, teachers, and students of
+  the history and culture of the Ming period.
 ---
-
 # The Society for Ming Studies -- Resources
 
 **URL:** https://mingstudies.arts.ubc.ca/resources
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+This page links to resources for scholars, teachers, and students of the history and culture of the Ming period. We encourage visitors to contact us to send additional material or suggestions, and will gladly include primary or secondary documents, pedagogical material, etc. Currently, these resources include: The reference volume Ming History: An Introductory Guide to Research […]
 
-## See Also
-
-- [[global]] — region

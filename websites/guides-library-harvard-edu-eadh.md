@@ -1,25 +1,31 @@
 ---
-title: "Guides Library Harvard Edu Eadh"
+title: Guides Library Harvard Edu Eadh
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://guides.library.harvard.edu/EADH
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: guides-library-harvard-edu-eadh
+description: Guides Library Harvard Edu Eadh. a Harvard University resource. The original
+  site appears to be no longer available (404 error).
+site_status: dead
 ---
-
 # Guides Library Harvard Edu Eadh
 
 **URL:** https://guides.library.harvard.edu/EADH
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Guides Library Harvard Edu Eadh. a Harvard University resource. The original site appears to be no longer available (404 error).
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. Try accessing through a university library portal.
 
-- [[global]] — region

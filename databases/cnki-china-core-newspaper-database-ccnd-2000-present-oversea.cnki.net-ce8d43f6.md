@@ -1,27 +1,35 @@
 ---
-title: "CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present"
+title: CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: database
 url: https://oversea.cnki.net/kns?dbcode=CCND
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- databases
+- periodicals
+- prc
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+- journalism
 china_relevance: primary
 source_id: cnki-china-core-newspaper-database-ccnd-2000-present-oversea.cnki.net-ce8d43f6
+description: CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present, provided
+  by CNKI (China National Knowledge Infrastructure), is a database with a focus on
+  mainland China.
 ---
-
 # CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present
 
 **URL:** https://oversea.cnki.net/kns?dbcode=CCND
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+CNKI China Core Newspaper Database （CCND） 中国核心报纸全文库 2000 - present, provided by CNKI (China National Knowledge Infrastructure), is a database with a focus on mainland China.
 
-## See Also
-
-- [[prc]] — region

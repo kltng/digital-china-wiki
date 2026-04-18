@@ -1,27 +1,31 @@
 ---
-title: "China: Culture and Society"
+title: 'China: Culture and Society'
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://chinacultureandsociety.amdigital.co.uk/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- digital_humanities
+- libraries
+subjects:
+- digital_humanities
+- east_asian_studies
+- education
+- library_science
+china_relevance: null
 source_id: chinacultureandsociety-amdigital-co-uk
+description: 'Homepage for China: Culture and Society'
 ---
-
 # China: Culture and Society
 
 **URL:** https://chinacultureandsociety.amdigital.co.uk/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Homepage for China: Culture and Society
 
-## See Also
-
-- [[global]] — region

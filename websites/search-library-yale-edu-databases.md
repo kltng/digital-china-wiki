@@ -1,27 +1,33 @@
 ---
-title: "Library Databases by Title"
+title: Library Databases by Title
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://search.library.yale.edu/databases
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+- libraries
+- statistical_data
+subjects:
+- digital_humanities
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: search-library-yale-edu-databases
+description: Library Databases by Title. a Yale University resource.
+site_status: unknown
 ---
-
 # Library Databases by Title
 
 **URL:** http://search.library.yale.edu/databases
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Library Databases by Title. a Yale University resource.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

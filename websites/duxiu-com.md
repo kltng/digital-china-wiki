@@ -1,27 +1,28 @@
 ---
-title: "Duxiu 读秀知识库"
+title: Duxiu 读秀知识库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://www.duxiu.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: duxiu-com
+description: 读秀学术搜索是完整的文献搜索及获取服务平台，其后台建构在由海量全文数据及元数据组成的超大型数据库基础上。以10亿页中文资料为基础，为读者提供深入内容的章节和全文检索、部分文献试读、参考咨询等多种功能。收入中文图书300多万种，有包括中文期刊近7000万篇等中文元数据。
+  其一站式检索实现了馆藏纸质图书、电子图书、学术文章等各种异构资源在同一平台的统一检索和获取。为读者学习、研究、写论文、做课题提供全...
 ---
-
 # Duxiu 读秀知识库
 
 **URL:** https://www.duxiu.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+读秀学术搜索是完整的文献搜索及获取服务平台，其后台建构在由海量全文数据及元数据组成的超大型数据库基础上。以10亿页中文资料为基础，为读者提供深入内容的章节和全文检索、部分文献试读、参考咨询等多种功能。收入中文图书300多万种，有包括中文期刊近7000万篇等中文元数据。 其一站式检索实现了馆藏纸质图书、电子图书、学术文章等各种异构资源在同一平台的统一检索和获取。为读者学习、研究、写论文、做课题提供全面准确的学术资料和获取知识资源的捷径，为用户提供全面的数字图书馆整体解决方案和文献资源服务。
 
-## See Also
-
-- [[global]] — region

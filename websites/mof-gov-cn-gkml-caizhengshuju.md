@@ -1,27 +1,28 @@
 ---
-title: "Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access"
+title: Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.mof.gov.cn/gkml/caizhengshuju
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: mof-gov-cn-gkml-caizhengshuju
+description: Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open
+  access.
 ---
-
 # Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access
 
 **URL:** http://www.mof.gov.cn/gkml/caizhengshuju
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Ministry of Finance of the People's Republic of China/中华人民共和国财政部 open access.
 
-## See Also
-
-- [[global]] — region

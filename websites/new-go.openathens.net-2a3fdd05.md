@@ -1,27 +1,30 @@
 ---
-title: "唐代墓志铭数据库 New"
+title: 唐代墓志铭数据库 New
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://inscription.ancientbooks.cn/docShike/shikeSublibIndex.jspx?libId=5
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- epigraphy
+- prc
+subjects:
+- east_asian_studies
+- epigraphy
 china_relevance: primary
 source_id: new-go.openathens.net-2a3fdd05
+description: 唐代墓志铭数据库 New with a focus on mainland China.
 ---
-
 # 唐代墓志铭数据库 New
 
 **URL:** https://inscription.ancientbooks.cn/docShike/shikeSublibIndex.jspx?libId=5
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+唐代墓志铭数据库 New with a focus on mainland China.
 
-## See Also
-
-- [[prc]] — region

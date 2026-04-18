@@ -1,27 +1,29 @@
 ---
-title: "Caixin Global (2009-present)"
+title: Caixin Global (2009-present)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://web.library.yale.edu/access-caixin-global
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: web-library-yale-edu-access-caixin-global
+description: Yale University Library's online portal provides access to one of the
+  largest East Asian library collections in North America, including rare books, manuscripts,
+  archival materials, and digital resour...
 ---
-
 # Caixin Global (2009-present)
 
 **URL:** https://web.library.yale.edu/access-caixin-global
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Yale University Library's online portal provides access to one of the largest East Asian library collections in North America, including rare books, manuscripts, archival materials, and digital resources for Chinese studies.
 
-## See Also
-
-- [[global]] — region

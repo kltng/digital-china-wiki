@@ -1,27 +1,30 @@
 ---
-title: "EPS China Data"
+title: EPS China Data
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://epschinadata.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: epschinadata-com
+description: EPS China Data. The site may be intermittently unavailable or geo-restricted.
+site_status: unreachable
 ---
-
 # EPS China Data
 
 **URL:** https://epschinadata.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+EPS China Data. The site may be intermittently unavailable or geo-restricted.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

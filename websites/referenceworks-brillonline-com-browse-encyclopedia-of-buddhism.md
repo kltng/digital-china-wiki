@@ -1,27 +1,30 @@
 ---
-title: "Brill's Encyclopedia of Buddhism Online"
+title: Brill's Encyclopedia of Buddhism Online
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://referenceworks.brillonline.com/browse/encyclopedia-of-buddhism
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- reference_works
+subjects:
+- east_asian_studies
+- religion
+china_relevance: null
 source_id: referenceworks-brillonline-com-browse-encyclopedia-of-buddhism
+description: Brill's Encyclopedia of Buddhism Online. The site blocks automated access.
+site_status: access_restricted
 ---
-
 # Brill's Encyclopedia of Buddhism Online
 
 **URL:** https://referenceworks.brillonline.com/browse/encyclopedia-of-buddhism
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Brill's Encyclopedia of Buddhism Online. The site blocks automated access.
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

@@ -1,27 +1,27 @@
 ---
-title: "在线新华字典 Xinhua Online Dictionary"
+title: 在线新华字典 Xinhua Online Dictionary
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://xh.5156edu.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- reference_works
+subjects:
+- east_asian_studies
+- lexicography
+china_relevance: null
 source_id: xh-5156edu-com
+description: 在线新华字典 Xinhua Online Dictionary.
 ---
-
 # 在线新华字典 Xinhua Online Dictionary
 
 **URL:** http://xh.5156edu.com/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+在线新华字典 Xinhua Online Dictionary.
 
-## See Also
-
-- [[global]] — region

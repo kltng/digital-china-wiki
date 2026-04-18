@@ -1,27 +1,27 @@
 ---
-title: "Guangming Daily"
+title: Guangming Daily
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.gmw.cn/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- digital_humanities
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: gmw-cn
+description: Guangming Daily. A digital resource for Chinese and East Asian studies.
 ---
-
 # Guangming Daily
 
 **URL:** http://www.gmw.cn/
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Guangming Daily. A digital resource for Chinese and East Asian studies.
 
-## See Also
-
-- [[global]] — region

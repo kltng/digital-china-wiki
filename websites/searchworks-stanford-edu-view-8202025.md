@@ -1,27 +1,31 @@
 ---
-title: "南华早报英文版 (1903-1995)South China Morning Post"
+title: 南华早报英文版 (1903-1995)South China Morning Post
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://searchworks.stanford.edu/view/8202025
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- databases
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: searchworks-stanford-edu-view-8202025
+description: 南华早报英文版 (1903-1995)South China Morning Post. a Stanford University resource.
+  The original site appears to be no longer available (404 error).
+site_status: dead
 ---
-
 # 南华早报英文版 (1903-1995)South China Morning Post
 
 **URL:** https://searchworks.stanford.edu/view/8202025
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+南华早报英文版 (1903-1995)South China Morning Post. a Stanford University resource. The original site appears to be no longer available (404 error).
 
-## See Also
+> ⚠️ **Note:** This resource may be currently unavailable or require special access. The original URL may have changed or the resource has been archived.
 
-- [[global]] — region

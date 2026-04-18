@@ -1,27 +1,29 @@
 ---
-title: "Ancient Chinese Book Resources from the National Library of China (Hong Kong Public Libraries)"
+title: Ancient Chinese Book Resources from the National Library of China (Hong Kong
+  Public Libraries)
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://mmis.hkpl.gov.hk/nlc-ancient-books
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- libraries
+subjects:
+- east_asian_studies
+- library_science
+china_relevance: null
 source_id: mmis-hkpl-gov-hk-nlc-ancient-books
+description: Ancient Chinese Book Resources from the National Library of China (Hong
+  Kong Public Libraries) with a focus on global scope.
 ---
-
 # Ancient Chinese Book Resources from the National Library of China (Hong Kong Public Libraries)
 
 **URL:** https://mmis.hkpl.gov.hk/nlc-ancient-books
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Ancient Chinese Book Resources from the National Library of China (Hong Kong Public Libraries) with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

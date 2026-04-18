@@ -1,27 +1,27 @@
 ---
-title: "Encyclopedia of Chinese-American Relations"
+title: Encyclopedia of Chinese-American Relations
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://www.credoreference.com/book/mcfcham
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- reference_works
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: credoreference-com-book-mcfcham
+description: Encyclopedia of Chinese-American Relations with a focus on global scope.
 ---
-
 # Encyclopedia of Chinese-American Relations
 
 **URL:** http://www.credoreference.com/book/mcfcham
 
-**Discovered via:** LibGuides > yale
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Encyclopedia of Chinese-American Relations with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

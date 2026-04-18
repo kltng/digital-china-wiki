@@ -1,27 +1,27 @@
 ---
-title: "Da Cheng Lao Jiu Kan 大成老旧刊全文数据库"
+title: Da Cheng Lao Jiu Kan 大成老旧刊全文数据库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: http://laokan.dachengdata.com/
-language: 
+language: null
 region: global
-tags: []
-subjects: []
-china_relevance: 
+tags:
+- statistical_data
+subjects:
+- chinese_studies
+- east_asian_studies
+china_relevance: null
 source_id: laokan-dachengdata-com
+description: Da Cheng Lao Jiu Kan 大成老旧刊全文数据库 with a focus on global scope.
 ---
-
 # Da Cheng Lao Jiu Kan 大成老旧刊全文数据库
 
 **URL:** http://laokan.dachengdata.com/
 
-**Discovered via:** LibGuides > stanford
+**Region:** Global
 
 ## Summary
 
-*Awaiting full description.*
+Da Cheng Lao Jiu Kan 大成老旧刊全文数据库 with a focus on global scope.
 
-## See Also
-
-- [[global]] — region

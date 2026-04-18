@@ -1,27 +1,32 @@
 ---
-title: "Wikisource- The Free Library 维基文库"
+title: Wikisource- The Free Library 维基文库
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 language: zh
 region: prc
-tags: []
-subjects: []
+tags:
+- libraries
+- open_access
+- prc
+subjects:
+- east_asian_studies
+- library_science
 china_relevance: primary
 source_id: wikisource-the-free-library-zh.wikisource.org-7d1bbde3
+description: 维基文库自由的圖書館是一个由志愿者在线收集自由内容文本的站点。访问社区可以帮助您也开始参与这个计划。您可以在写字间询问有关维基文库的相关问题，并且可以在沙盒中进行实验来学习怎样使用这个网站。维基文库当前有496,475篇文档并且每天都在增加。热诚欢迎您参与我们的工作。多语言的维基文库：维基文库新闻
+  维基文库自由的圖書館是一个由志愿者在线收集自由内容文本的站点。 您可以在写字间询问有关维基文库的相关...
 ---
-
 # Wikisource- The Free Library 维基文库
 
 **URL:** https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 
 **Language:** Chinese
 
+**Region:** China
+
 ## Summary
 
-*Awaiting full description.*
+维基文库自由的圖書館是一个由志愿者在线收集自由内容文本的站点。访问社区可以帮助您也开始参与这个计划。您可以在写字间询问有关维基文库的相关问题，并且可以在沙盒中进行实验来学习怎样使用这个网站。维基文库当前有496,475篇文档并且每天都在增加。热诚欢迎您参与我们的工作。多语言的维基文库：维基文库新闻 维基文库自由的圖書館是一个由志愿者在线收集自由内容文本的站点。 您可以在写字间询问有关维基文库的相关问题，并且可以在沙盒中进行实验来学习怎样使用这个网站。 维基文库当前有496,475篇文档并且每天都在增加。热诚欢迎您参与我们的工作。 输入文献标题动态热门熱門文獻將進酒 (李白)天地陰陽交歡大樂賦推背圖滕王閣序琵琶行太上老君說常清靜經唐詩三百首孫子兵法孔乙己前出師表三字經三國志木蘭詩史記岳陽樓記長恨歌紅樓夢金瓶梅春江花月夜 (張若虛)千字文編輯動態舊唐書俛仰集雪汀集菴集竹牖先生文集石門先生文集后山先生文集 (李宗洙)伊溪先生續集濯溪集芝軒集足睡堂集脂硯齋重評石頭記宛丘遺集退軒集後彫堂先生文集伊溪先生文集藥圃先生續集華山集活山先生文集梧山文集社区维基文库是什么？|写字间|社区|帮助页面|版权信息|可能侵权的文章|请求删除|请求翻译|分类整理|管理员|机器人|新手入門指南计划多语言版本专题/佛学大辞典专题/法律专题/联合国 输入文献标题动态热门熱門文獻將進酒 (李白)天地陰陽交歡大樂賦推背圖...
 
-## See Also
-
-- [[prc]] — region

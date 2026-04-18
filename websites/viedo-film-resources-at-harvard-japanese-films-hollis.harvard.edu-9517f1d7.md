@@ -1,25 +1,29 @@
 ---
-title: "Viedo / Film resources at Harvard- Japanese films"
+title: Viedo / Film resources at Harvard- Japanese films
 created: 2026-04-18
-updated: 2026-04-18
+updated: '2026-04-18'
 type: website
 url: https://hollis.harvard.edu/primo-explore/search?query=lsr30%2Ccontains%2Cvideo%2CAND&tab=books&search_scope=default_scope&sortby=date&vid=HVD2&facet=lang%2Cinclude%2Cjpn&mode=advanced&offset=0
-language: 
+language: null
 region: global
-tags: []
-subjects: []
+tags:
+- databases
+- digital_humanities
+subjects:
+- east_asian_studies
+- film_studies
 china_relevance: primary
 source_id: viedo-film-resources-at-harvard-japanese-films-hollis.harvard.edu-9517f1d7
+description: Viedo / Film resources at Harvard- Japanese films, provided by Harvard
+  University, is a catalog with a focus on global scope.
 ---
-
 # Viedo / Film resources at Harvard- Japanese films
 
 **URL:** https://hollis.harvard.edu/primo-explore/search?query=lsr30%2Ccontains%2Cvideo%2CAND&tab=books&search_scope=default_scope&sortby=date&vid=HVD2&facet=lang%2Cinclude%2Cjpn&mode=advanced&offset=0
 
+**Region:** Global
+
 ## Summary
 
-*Awaiting full description.*
+Viedo / Film resources at Harvard- Japanese films, provided by Harvard University, is a catalog with a focus on global scope.
 
-## See Also
-
-- [[global]] — region
