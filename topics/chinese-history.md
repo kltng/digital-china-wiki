@@ -29,7 +29,7 @@ Digital resources for the study of Chinese history from antiquity to the present
 - [[gale-china-and-the-modern-world-records-of-the-maritime-customs-service-of-china-go.gale.com-033bf9b3|Gale. China and the Modern World: Records of the Maritime Customs Service of China 1854–1949]]
 - [[open-access-shanben.ioc.u-tokyo.ac.jp-59c1aa59|東京大學東洋文化研究所藏漢籍善本全文影像資料庫 OPEN ACCESS]]
 - [[c-g-wanfangdata-com-cn-localchronicle-aspx|Wanfang Data: China Local Gazetteers Database (万方数据: 新方志)]]
-- [[chinese-republican-period-collection-hollis.harvard.edu-c7b759d2|Chinese Republican Period Collection 民國時期文獻]]
+- [[library-harvard-edu-collections-chinese-republican-period-collection-0|哈佛燕京圖書館民國時期文獻 Harvard-Yenching Library Chinese Republican Period (1911-1949) Collection]]
 - [[www3-ihp-sinica-edu-tw-index-php|數位人文學研究室 Digital Humanities Research Lab (Institute of History and Philology, Academia Sinica)]]
 - [[tk-dhcdb-com-tw-tknewsc-tknewskm|Ta Kung Pao 大公報, 1902-1949]]
 - [[search-proquest-com-hnpchinesecollection|ProQuest Historical Newspapers: Chinese Newspapers Collection (1832-1953)]]

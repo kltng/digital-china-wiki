@@ -229,7 +229,6 @@ total_size_bytes: 1062946
 - [[resources/chinese-old-local-gazetteers-open-access-hollis.harvard.edu-c7cfe852|chinese-old-local-gazetteers-open-access-hollis.harvard.edu-c7cfe852]]
 - [[resources/chinese-pamphlet-digitization-project-dds-crl-edu.ezp-prod1.hul.harvard.edu-68832dbc|chinese-pamphlet-digitization-project-dds-crl-edu.ezp-prod1.hul.harvard.edu-68832dbc]]
 - [[resources/chinese-reference-shelf-at-brill-chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu-3f90ff06|chinese-reference-shelf-at-brill-chinesereferenceshelf-brillonline-com.ezp-prod1.hul.harvard.edu-3f90ff06]]
-- [[resources/chinese-republican-period-collection-hollis.harvard.edu-c7b759d2|chinese-republican-period-collection-hollis.harvard.edu-c7b759d2]]
 - [[resources/chinese-rubbings-curiosity-digital-collection-open-access-curiosity.lib.harvard.edu-030f0fce|chinese-rubbings-curiosity-digital-collection-open-access-curiosity.lib.harvard.edu-030f0fce]]
 - [[resources/chinese-social-science-library-cssl-sklib.cn-0599694b|chinese-social-science-library-cssl-sklib.cn-0599694b]]
 - [[resources/chinese-stone-inscription-database-open-access-csid.zju.edu.cn-23ea5ad4|chinese-stone-inscription-database-open-access-csid.zju.edu.cn-23ea5ad4]]
