@@ -355,9 +355,7 @@ total_size_bytes: 1062946
 - [[resources/digital-repository-at-hong-kong-university-library-open-access-digitalrepository.lib.hku.hk-7889c829|digital-repository-at-hong-kong-university-library-open-access-digitalrepository.lib.hku.hk-7889c829]]
 - [[resources/digitalgems-nus-edu-sg-collection-96|digitalgems-nus-edu-sg-collection-96]]
 - [[resources/digitalsinology-org|digitalsinology-org]]
-- [[resources/diglweb-zjlib-cn:8081-index1-htm
-|diglweb-zjlib-cn:8081-index1-htm
-]]
+- [[resources/diglweb-zjlib-cn:8081-index1-htm|diglweb-zjlib-cn:8081-index1-htm]]
 - [[resources/directorate-general-of-budget-accounting-and-statistics-executive-yuan-r-o-c-twa-dgbas.gov.tw-b8ac6aa7|directorate-general-of-budget-accounting-and-statistics-executive-yuan-r-o-c-twa-dgbas.gov.tw-b8ac6aa7]]
 - [[resources/dissertationreviews-org-9213|dissertationreviews-org-9213]]
 - [[resources/dlib-eastview-com-browse-publication-18406|dlib-eastview-com-browse-publication-18406]]
