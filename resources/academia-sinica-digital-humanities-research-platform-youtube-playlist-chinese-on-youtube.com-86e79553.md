@@ -1,25 +1,22 @@
 ---
-title: Academia Sinica Digital Humanities Research Platform 中央研究院數位人文研究平台操作說明 YouTube
-  Playlist (Chinese only)
+title: "Academia Sinica Digital Humanities Research Platform 中央研究院數位人文研究平台操作說明 YouTube"
 created: 2026-04-18
 updated: 2026-04-18
-url: https://www.youtube.com/playlist...
+url: https://www.youtube.com/playlist?list=PLcCxAfkNZg8JgXi2bBdMNcPaO07lCs1b3
 language: zh
-region: prc
-tags:
-- catalog
-- digital_humanities
-- guide
-- social_media
+region: taiwan
+tags: [catalog, digital_humanities, guide, social_media]
 china_relevance: primary
 source_id: academia-sinica-digital-humanities-research-platform-youtube-playlist-chinese-on-youtube.com-86e79553
 ---
 
 # Academia Sinica Digital Humanities Research Platform 中央研究院數位人文研究平台操作說明 YouTube Playlist (Chinese only)
 
-**URL:** https://www.youtube.com/playlist...
+**URL:** https://www.youtube.com/playlist?list=PLcCxAfkNZg8JgXi2bBdMNcPaO07lCs1b3
 
 **Language:** Chinese
+
+**Region:** Taiwan
 
 ## Summary
 
@@ -31,12 +28,11 @@ A YouTube playlist providing video tutorials and instructional content for the A
 
 ## Key Pages
 
-- YouTube playlist: https://www.youtube.com/playlist...
+- YouTube playlist: https://www.youtube.com/playlist?list=PLcCxAfkNZg8JgXi2bBdMNcPaO07lCs1b3
 - Academia Sinica Digital Humanities: https://dh.ascdc.sinica.edu.tw/
 
 ## See Also
 
-- [[prc]] — region
-- [[digital-humanities]] — topic
-- [[research-methods]] — topic
-- [[tutorials]] — topic
+- [[regions/taiwan]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/research-methods]] — topic

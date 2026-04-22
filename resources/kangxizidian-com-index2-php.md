@@ -1,14 +1,11 @@
 ---
-title: 康熙字典網上版 Kangxi Zidian
+title: "康熙字典網上版 Kangxi Zidian"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://www.kangxizidian.com/index2.php
 language: null
 region: global
-tags:
-- classics
-- dictionary
-- language
+tags: [classics, dictionary, language]
 china_relevance: null
 source_id: kangxizidian-com-index2-php
 ---
@@ -33,7 +30,7 @@ An online digital version of the Kangxi Zidian (康熙字典, Kangxi Dictionary)
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-language]] — topic
-- [[philology]] — topic
-- [[classical-chinese]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-classics]] — topic

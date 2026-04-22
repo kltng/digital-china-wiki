@@ -1,5 +1,5 @@
 ---
-title: Apabi China Digital Library (Not Available)
+title: "Apabi China Digital Library (Not Available)"
 created: 2026-04-18
 updated: 2026-04-18
 url: not_available_nrs.harvard.edu
@@ -36,7 +36,7 @@ Apabi China Digital Library 曾是綜合性的中文數位資源平台，提供�
 
 ## See Also
 
-- [[global]] — region
-- [[digital-collections]] — topic
-- [[chinese-studies]] — topic
-- [[academic-resources]] — topic
+- [[regions/global]] — region
+- [[glossary/digital-collections]] — topic
+- [[topics/chinese-studies]] — topic
+- [[glossary/academic-resources]] — topic

@@ -1,5 +1,5 @@
 ---
-title: Fu Ssu-nian Library Rare Books 傅斯年圖書館善本古籍數位典藏
+title: "Fu Ssu-nian Library Rare Books 傅斯年圖書館善本古籍數位典藏"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://ihparchive.ihp.sinica.edu.tw/ihpkmc/ihpkm
@@ -37,7 +37,7 @@ A digital archive of rare books and ancient Chinese manuscripts from the Fu Ssu-
 
 ## See Also
 
-- [[taiwan]] — region
-- [[chinese-classics]] — topic
-- [[rare-books]] — topic
-- [[bibliography]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-classics]] — topic
+- [[topics/rare-books]] — topic
+- [[topics/academic-research]] — topic

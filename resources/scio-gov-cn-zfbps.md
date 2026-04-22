@@ -1,13 +1,11 @@
 ---
-title: China State Council Information Office White Papers (中国国务院白皮书)
+title: "China State Council Information Office White Papers (中国国务院白皮书)"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://www.scio.gov.cn/zfbps
 language: null
 region: global
-tags:
-- archive
-- political_science
+tags: [archive, political_science]
 china_relevance: null
 source_id: scio-gov-cn-zfbps
 ---
@@ -33,7 +31,7 @@ Official repository of white papers (白皮书) published by the State Council I
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-politics]] — topic
-- [[foreign-policy]] — topic
-- [[human-rights]] — topic
+- [[regions/global]] — region
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic

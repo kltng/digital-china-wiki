@@ -1,5 +1,5 @@
 ---
-title: Dangdang.com (當當網) - Online Bookstore
+title: "Dangdang.com (當當網) - Online Bookstore"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://book.dangdang.com/
@@ -39,6 +39,6 @@ Dangdang.com (當當網) is one of China's largest online bookstores and e-comme
 
 ## See Also
 
-- [[global]] — region
-- [[general-academic]] — topic
-- [[book-history]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/book-history]] — topic

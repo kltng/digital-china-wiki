@@ -1,6 +1,5 @@
 ---
-title: Pre-Republican Chinese books and manuscripts at the Yale University Library
-  美國耶魯大學圖書館中文古籍目錄
+title: "Pre-Republican Chinese books and manuscripts at the Yale University Library"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://search.library.yale.edu/catalog/14044401
@@ -38,7 +37,7 @@ A Yale University Library catalog record representing the library's holdings of 
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[rare-books]] — topic
-- [[bibliography]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/rare-books]] — topic
+- [[topics/academic-research]] — topic

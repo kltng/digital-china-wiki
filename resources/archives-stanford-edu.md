@@ -1,21 +1,14 @@
 ---
-title: Stanford University Archives
+title: "Stanford University Archives"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://archives.stanford.edu/
 language: null
 region: global
-tags:
-- archive
-- organization
-- rare_books
-- website
+tags: [archive, organization, rare_books, website]
 china_relevance: null
 source_id: archives-stanford-edu
-description: Find archival materials Detailed inventories of 6,186 collections Accessing
-  Special Collections - Located on the second floor of Green Library West. - Manuscripts,
-  Rare books, University Archives, and the California Historical Society Collection
-  can be accessed here.
+description: "Find archival materials Detailed inventories of 6,186 collections Accessing"
 ---
 
 # Stanford University Archives
@@ -41,6 +34,6 @@ Find archival materials Detailed inventories of 6,186 collections Accessing Spec
 
 ## See Also
 
-- [[global]] — region
-- [[academic-institutions]] — topic
-- [[general]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/academic-research]] — topic

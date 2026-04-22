@@ -1,5 +1,5 @@
 ---
-title: Local Resources of Chinese Studies in Heidelberg
+title: "Local Resources of Chinese Studies in Heidelberg"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://www.uni-heidelberg.de/fakultaeten/philosophie/zo/boa/digital_resources/databases_en.html
@@ -35,7 +35,7 @@ A resource page maintained by Heidelberg University providing information about 
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-studies]] — topic
-- [[academic-libraries]] — topic
-- [[germany]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-studies]] — topic
+- [[glossary/academic-libraries]] — topic
+- [[topics/academic-research]] — topic

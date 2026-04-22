@@ -1,15 +1,11 @@
 ---
-title: Digital Yingge Ceramics Museum
+title: "Digital Yingge Ceramics Museum"
 created: 2026-04-18
 updated: 2026-04-18
-url: https://digital.ceramics.ntpc.gov.tw/index.htm#page1
+url: "https://digital.ceramics.ntpc.gov.tw/index.htm#page1"
 language: null
 region: taiwan
-tags:
-- art_history
-- database
-- museum_studies
-- taiwan
+tags: [art_history, database, museum_studies, taiwan]
 china_relevance: null
 source_id: digital-ceramics-ntpc-gov-tw-index-htm
 ---
@@ -32,7 +28,7 @@ The Digital Yingge Ceramics Museum is the online digital platform of the New Tai
 
 ## See Also
 
-- [[taiwan]] — region
-- [[art]] — topic
-- [[ceramics]] — topic
-- [[museum-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/museum-collections]] — topic
+- [[topics/museum-collections]] — topic
+- [[topics/museum-collections]] — topic

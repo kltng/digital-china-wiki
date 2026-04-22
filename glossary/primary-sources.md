@@ -8,5 +8,5 @@ redirect: "[[archives]]"
 
 # Primary Sources
 
-→ See [[archives]]
+→ See [[topics/archives]]
 

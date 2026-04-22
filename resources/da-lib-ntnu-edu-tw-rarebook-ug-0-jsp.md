@@ -1,5 +1,5 @@
 ---
-title: Digital Archive of Rare Books（善本古籍數位典藏系統）
+title: "Digital Archive of Rare Books（善本古籍數位典藏系統）"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://da.lib.ntnu.edu.tw/rarebook/ug-0.jsp
@@ -37,7 +37,7 @@ A digital archive system for rare books (善本古籍) maintained by the Nationa
 
 ## See Also
 
-- [[taiwan]] — region
-- [[chinese-classics]] — topic
-- [[bibliography]] — topic
-- [[east-asian-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-classics]] — topic
+- [[topics/academic-research]] — topic
+- [[topics/east-asian-studies]] — topic

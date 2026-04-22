@@ -1,14 +1,11 @@
 ---
-title: EIU ViewPoint (Economist Intelligence Unit)
+title: "EIU ViewPoint (Economist Intelligence Unit)"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://viewpoint.eiu.com/analysis
 language: null
 region: global
-tags:
-- digital_humanities
-- economic_history
-- political_science
+tags: [digital_humanities, economic_history, political_science]
 china_relevance: null
 source_id: viewpoint-eiu-com-analysis
 ---
@@ -35,7 +32,7 @@ An online platform from the Economist Intelligence Unit (EIU) providing comprehe
 
 ## See Also
 
-- [[global]] — region
-- [[economics]] — topic
-- [[political-analysis]] — topic
-- [[china-studies]] — topic
+- [[regions/global]] — region
+- [[topics/social-sciences]] — topic
+- [[topics/political-history]] — topic
+- [[topics/digital-humanities]] — topic

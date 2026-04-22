@@ -1,15 +1,11 @@
 ---
-title: Dictionary of East Asian Literary Terms (DEALT)
+title: "Dictionary of East Asian Literary Terms (DEALT)"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://buddhism-dict.net/dealt/
 language: null
 region: global
-tags:
-- dictionary
-- digital_humanities
-- japan
-- literature
+tags: [dictionary, digital_humanities, japan, literature]
 china_relevance: null
 source_id: buddhism-dict-net-dealt
 ---
@@ -38,7 +34,7 @@ The Dictionary of East Asian Literary Terms (DEALT) is a specialized online refe
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-studies]] — topic
-- [[japanese-studies]] — topic
-- [[literature]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-studies]] — topic
+- [[topics/east-asian-studies]] — topic
+- [[topics/literature]] — topic

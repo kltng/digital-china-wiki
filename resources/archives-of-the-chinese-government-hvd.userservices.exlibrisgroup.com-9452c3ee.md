@@ -1,13 +1,11 @@
 ---
-title: Archives of the Chinese Government 中国政府资料库
+title: "Archives of the Chinese Government 中国政府资料库"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://www.archives.gov.cn/
 language: zh
 region: prc
-tags:
-- archive
-- political_science
+tags: [archive, political_science]
 china_relevance: primary
 source_id: archives-of-the-chinese-government-hvd.userservices.exlibrisgroup.com-9452c3ee
 ---
@@ -33,7 +31,7 @@ A database providing access to official government archives and administrative d
 
 ## See Also
 
-- [[prc]] — region
-- [[chinese-government]] — topic
-- [[administrative-records]] — topic
-- [[official-documents]] — topic
+- [[regions/prc]] — region
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic

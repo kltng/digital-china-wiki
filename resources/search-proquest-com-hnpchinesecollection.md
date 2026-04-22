@@ -1,15 +1,11 @@
 ---
-title: 'ProQuest Historical Newspapers: Chinese Newspapers Collection (1832-1953)'
+title: "ProQuest Historical Newspapers: Chinese Newspapers Collection (1832-1953)"
 created: 2026-04-18
 updated: 2026-04-18
-url: https://search.proquest.com/hnpchinesecollection?accountid=14026
+url: "https://search.proquest.com/hnpchinesecollection?accountid=14026"
 language: null
 region: global
-tags:
-- archive
-- newspaper
-- newspaper_studies
-- social_history
+tags: [archive, newspaper, newspaper_studies, social_history]
 china_relevance: primary
 source_id: search-proquest-com-hnpchinesecollection
 ---
@@ -35,7 +31,7 @@ ProQuest資料庫收藏，數位化1832年至1953年期間發行的歷史中文�
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[qing-dynasty]] — topic
-- [[republican-china]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic

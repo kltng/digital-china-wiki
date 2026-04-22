@@ -1,21 +1,14 @@
 ---
-title: About Us - Yale University Library
+title: "About Us - Yale University Library"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://library.yale.edu/about-us
 language: null
 region: global
-tags:
-- catalog
-- guide
-- organization
+tags: [catalog, guide, organization]
 china_relevance: null
 source_id: library-yale-edu-about-us
-description: Mission, Vision, and Strategic Directions Yale University Library is
-  made up of almost 600 staff, over a dozen libraries and locations, vast physical
-  collections, extensive electronic resources, and a suite of user-focused services.
-  These elements are activated and connected by technology and deep expertise in the
-  service of teaching, learning, research, and practice.
+description: "Mission, Vision, and Strategic Directions Yale University Library is"
 ---
 
 # About Us - Yale University Library
@@ -40,7 +33,7 @@ Mission, Vision, and Strategic Directions Yale University Library is made up of 
 
 ## See Also
 
-- [[global]] — region
-- [[research-methods]] — topic
-- [[library-science]] — topic
-- [[academic-resources]] — topic
+- [[regions/global]] — region
+- [[topics/research-methods]] — topic
+- [[topics/library-science]] — topic
+- [[glossary/academic-resources]] — topic

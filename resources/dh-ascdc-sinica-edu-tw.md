@@ -1,23 +1,14 @@
 ---
-title: Academia Sinica Digital Humanities Research Platform (DASH)
+title: "Academia Sinica Digital Humanities Research Platform (DASH)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://dh.ascdc.sinica.edu.tw/member/
 language: null
 region: taiwan
-tags:
-- catalog
-- digital_humanities
-- guide
-- tool
+tags: [catalog, digital_humanities, guide, tool]
 china_relevance: null
 source_id: dh-ascdc-sinica-edu-tw
-description: éæ¼æ¸ä½äººæç ç©¶å¹³å° ä¸å¤®ç ç©¶é¢æ¸ä½æåä¸å¿æ ¹æäººæç ç©¶çéæ±ï¼ç¼å±åå©å¸è
-  æåç ç©¶è³ªéçæ¸ä½åå·¥å ·èå¹³å°ãææçµåç ç©¶è ãç ç©¶è³æèç ç©¶å·¥å ·ä¹ç¶æï¼æ´å¤§ç ç©¶çè¦æ¨¡åç¸®çç
-  ç©¶çæéï¼ä»¥æåäººæç ç©¶çè³ªéã æ¸ä½äººæç ç©¶å¹³å°æä¾ä¸åå®æ´çç ç©¶ç°å¢ï¼è®ç ç©¶è å¯ä»¥ééé²ç«¯æååå¾ç
-  ç©¶ä¸æéçè³æèå·¥å ·ãç ç©¶è å¯ä¸å³ææ¬èæ¬å¨è©ï¼ä¹å¯ä½¿ç¨å¹³å°ä¸å ¶ä»éæ¾çææ¬èæ¬å¨è©ä¾é²è¡ç
-  ç©¶ãæ¬å¨è©å ·ææåèèªåæ¨è¨ææ¬çåè½ï¼ä¸¦å¯ä»¥ä½¿ç¨éå±¤æ¹å¼åé¡æ¬å¨è©ãæ¨è¨ææ¬å®æå¾ï¼å¯é²è¡æ¬å¨è©èNåè©è©é
-  ...
+description: "éæ¼æ¸ä½äººæç ç©¶å¹³å° ä¸å¤®ç ç©¶é¢æ¸ä½æåä¸å¿æ ¹æäººæç ç©¶çéæ±ï¼ç¼å±åå©å¸è"
 ---
 
 # Academia Sinica Digital Humanities Research Platform (DASH)
@@ -40,7 +31,7 @@ description: éæ¼æ¸ä½äººæç ç©¶å¹³å° ä¸å¤®ç ç©¶é¢æ
 
 ## See Also
 
-- [[taiwan]] — region
-- [[digital-humanities]] — topic
-- [[text-analysis]] — topic
-- [[research-methods]] — topic
+- [[regions/taiwan]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/digital-humanities]] — topic
+- [[topics/research-methods]] — topic

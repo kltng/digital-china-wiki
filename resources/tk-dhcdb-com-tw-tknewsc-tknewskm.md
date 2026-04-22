@@ -1,15 +1,11 @@
 ---
-title: Ta Kung Pao 大公報, 1902-1949
+title: "Ta Kung Pao 大公報, 1902-1949"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://tk.dhcdb.com.tw/tknewsc/tknewskm
 language: null
 region: taiwan
-tags:
-- archive
-- newspaper
-- newspaper_studies
-- social_history
+tags: [archive, newspaper, newspaper_studies, social_history]
 china_relevance: null
 source_id: tk-dhcdb-com-tw-tknewsc-tknewskm
 ---
@@ -34,7 +30,7 @@ Digitized archive of Ta Kung Pao (大公報), one of China's most influential an
 
 ## See Also
 
-- [[taiwan]] — region
-- [[chinese-history]] — topic
-- [[republican-china]] — topic
-- [[media-history]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/newspapers]] — topic

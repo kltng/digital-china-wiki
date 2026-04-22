@@ -8,5 +8,5 @@ redirect: "[[rare-books]]"
 
 # Special Collections
 
-→ See [[rare-books]]
+→ See [[topics/rare-books]]
 

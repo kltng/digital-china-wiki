@@ -1,13 +1,11 @@
 ---
-title: General policies
+title: "General policies"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://guides.library.stanford.edu/general-policies
 language: null
 region: global
-tags:
-- catalog
-- guide
+tags: [catalog, guide]
 china_relevance: null
 source_id: guides-library-stanford-edu-general-policies
 ---
@@ -34,7 +32,7 @@ A library guide from Stanford University outlining general policies governing li
 
 ## See Also
 
-- [[global]] — region
-- [[library-science]] — topic
-- [[academic-services]] — topic
-- [[research-support]] — topic
+- [[regions/global]] — region
+- [[topics/library-science]] — topic
+- [[topics/academic-research]] — topic
+- [[topics/research-methods]] — topic

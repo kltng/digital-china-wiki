@@ -1,14 +1,11 @@
 ---
-title: History of the Party Database 中共党史期刊数据库
+title: "History of the Party Database 中共党史期刊数据库"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://dangshi.dachengdata.com/
 language: null
 region: global
-tags:
-- cold_war
-- database
-- political_science
+tags: [cold_war, database, political_science]
 china_relevance: null
 source_id: dangshi-dachengdata-com
 ---
@@ -34,7 +31,7 @@ A specialized academic database focusing on the history of the Chinese Communist
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-politics]] — topic
-- [[ccp-history]] — topic
-- [[political-history]] — topic
+- [[regions/global]] — region
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic

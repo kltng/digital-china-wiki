@@ -1,23 +1,14 @@
 ---
-title: Beinecke Library - Ordering Reproductions
+title: "Beinecke Library - Ordering Reproductions"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://beinecke.library.yale.edu/research/ordering-reproductions
 language: null
 region: global
-tags:
-- book_history
-- guide
-- rare_books
-- website
+tags: [book_history, guide, rare_books, website]
 china_relevance: null
 source_id: beinecke-library-yale-edu-research-ordering-reproductions
-description: The Beinecke Rare Book and Manuscript Library offers a range of reproduction
-  services for materials in its collections to assist scholars in their research.
-  See “Service Details” below. Many items from Beinecke’s collections have already
-  been digitized and are available to download for free from our Digital Collections.
-  Patrons are encouraged to check there before placing their order. Turnaround time
-  is 10-14 weeks.
+description: "The Beinecke Rare Book and Manuscript Library offers a range of reproduction"
 ---
 
 # Beinecke Library - Ordering Reproductions
@@ -44,7 +35,7 @@ The Beinecke Rare Book and Manuscript Library offers a range of reproduction ser
 
 ## See Also
 
-- [[global]] — region
-- [[book-history]] — topic
-- [[research-methods]] — topic
-- [[general]] — topic
+- [[regions/global]] — region
+- [[topics/book-history]] — topic
+- [[topics/research-methods]] — topic
+- [[topics/academic-research]] — topic

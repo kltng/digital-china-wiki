@@ -1,20 +1,14 @@
 ---
-title: 'CNopendata: A股上市公司基本信息数据 = Basic information of A-share listed companies of
-  China'
+title: "'CNopendata: A股上市公司基本信息数据 = Basic information of A-share listed companies of"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://searchworks.stanford.edu/view/in00000040142
 language: null
 region: global
-tags:
-- economic_history
-- statistical
+tags: [economic_history, statistical]
 china_relevance: null
 source_id: searchworks-stanford-edu-view-in00000040142
-description: 'A gu shang shi gong si ji ben xin xi shu ju = Basic information of A-share
-  listed companies of China A股上市公司基本信息数据 = Basic information of A-share listed companies
-  of China - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan han
-  shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors'
+description: "'A gu shang shi gong si ji ben xin xi shu ju = Basic information of A-share"
 ---
 
 # CNopendata: A股上市公司基本信息数据 = Basic information of A-share listed companies of China
@@ -38,7 +32,7 @@ A gu shang shi gong si ji ben xin xi shu ju = Basic information of A-share liste
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-economy]] — topic
-- [[corporate-data]] — topic
-- [[financial-markets]] — topic
+- [[regions/global]] — region
+- [[topics/social-sciences]] — topic
+- [[topics/social-sciences]] — topic
+- [[topics/social-sciences]] — topic

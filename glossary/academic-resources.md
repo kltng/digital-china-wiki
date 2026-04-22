@@ -8,5 +8,5 @@ redirect: "[[academic-research]]"
 
 # Academic Resources
 
-→ See [[academic-research]]
+→ See [[topics/academic-research]]
 

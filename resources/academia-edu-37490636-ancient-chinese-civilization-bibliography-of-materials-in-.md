@@ -1,15 +1,11 @@
 ---
-title: 'Ancient Chinese Civilization: Bibliography of Materials in Western Languages'
+title: "Ancient Chinese Civilization: Bibliography of Materials in Western Languages"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://www.academia.edu/37490636/Ancient_Chinese_Civilization_Bibliography_of_Materials_in_Western_Languages
 language: null
 region: global
-tags:
-- bibliography
-- classics
-- language
-- museum_studies
+tags: [bibliography, classics, language, museum_studies]
 china_relevance: null
 source_id: academia-edu-37490636-ancient-chinese-civilization-bibliography-of-materials-in-
 ---
@@ -34,7 +30,7 @@ A comprehensive bibliographic resource compiled by Dr. Lothar von Falkenhausen, 
 
 ## See Also
 
-- [[global]] — region
-- [[ancient-chinese-studies]] — topic
-- [[bibliographic-resources]] — topic
-- [[archaeological-studies]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-classics]] — topic
+- [[topics/academic-research]] — topic
+- [[topics/museum-collections]] — topic

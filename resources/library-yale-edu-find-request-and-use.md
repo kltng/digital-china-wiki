@@ -1,19 +1,14 @@
 ---
-title: Find, Request, and Use - Yale University Library
+title: "Find, Request, and Use - Yale University Library"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://library.yale.edu/find-request-and-use
 language: null
 region: global
-tags:
-- catalog
-- guide
+tags: [catalog, guide]
 china_relevance: null
 source_id: library-yale-edu-find-request-and-use
-description: 'Search books, articles, special collections, media, and more. Tell us
-  about your research project, and we will connect you with with an expert librarian,
-  curator, or archivist to help you. Help is available Monday to Friday, 9:00 a. Email:
-  askyalelibrary@yale.'
+description: "'Search books, articles, special collections, media, and more. Tell us"
 ---
 
 # Find, Request, and Use - Yale University Library
@@ -38,6 +33,6 @@ Search books, articles, special collections, media, and more. Tell us about your
 
 ## See Also
 
-- [[global]] — region
-- [[research-methods]] — topic
-- [[library-science]] — topic
+- [[regions/global]] — region
+- [[topics/research-methods]] — topic
+- [[topics/library-science]] — topic

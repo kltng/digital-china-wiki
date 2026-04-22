@@ -2,8 +2,8 @@
 title: "Chinese Intellectual History 中国思想史"
 created: 2026-04-18
 updated: 2026-04-18
-type: concept
-tags: [chinese_thought, intellectual_discourse]
+type: topic
+tags: [intellectual_history, philosophy]
 resource_count: 1
 ---
 
@@ -13,9 +13,8 @@ Digital resources for studying Chinese intellectual traditions, philosophical sc
 
 ## Key Resources (1 total)
 
-- [[aisixiang-com|愛思想 aisixiang.com]]
+- [[resources/aisixiang-com|愛思想 aisixiang.com]]
 
 ## Related Topics
 
-- [[chinese-thought]]
-- [[intellectual-discourse]]
+- [[glossary/chinese-thought]]

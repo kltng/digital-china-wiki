@@ -1,19 +1,14 @@
 ---
-title: Yale Library LibApps Login Portal
+title: "Yale Library LibApps Login Portal"
 created: 2026-04-18
-updated: '2026-04-18'
-url: https://yale.libapps.com/libapps/login.php?site_id=12&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTcwNTc0MyZwPTUwMTE5MTk%3D
+updated: 2026-04-18
+url: "https://yale.libapps.com/libapps/login.php?site_id=12&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTcwNTc0MyZwPTUwMTE5MTk%3D"
 language: null
 region: global
-tags:
-- catalog
-- guide
-- political_science
+tags: [catalog, guide, political_science]
 china_relevance: null
 source_id: yale-libapps-com-libapps-login-php
-description: 'Central Authentication Service Make sure your session is secure Before
-  entering your NetID and password, verify that the URL for this page begins with:
-  https://secure.'
+description: "'Central Authentication Service Make sure your session is secure Before"
 ---
 
 # Yale Library LibApps Login Portal
@@ -38,6 +33,6 @@ Central Authentication Service Make sure your session is secure Before entering 
 
 ## See Also
 
-- [[global]] — region
-- [[library-science]] — topic
-- [[academic-libraries]] — topic
+- [[regions/global]] — region
+- [[topics/library-science]] — topic
+- [[glossary/academic-libraries]] — topic

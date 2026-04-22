@@ -1,5 +1,5 @@
 ---
-title: (香港)政府統計處 (Hong Kong) Census and Statistics Department
+title: "(香港)政府統計處 (Hong Kong) Census and Statistics Department"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://www.censtatd.gov.hk/
@@ -39,7 +39,7 @@ The official statistics agency of the Hong Kong Special Administrative Region go
 
 ## See Also
 
-- [[hong_kong]] — region
-- [[demography]] — topic
-- [[economics]] — topic
-- [[social-sciences]] — topic
+- [[regions/hong-kong]] — region
+- [[topics/social-sciences]] — topic
+- [[topics/social-sciences]] — topic
+- [[topics/social-sciences]] — topic

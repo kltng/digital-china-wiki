@@ -8,5 +8,5 @@ redirect: "[[digital-libraries]]"
 
 # Digital Collections
 
-→ See [[digital-libraries]]
+→ See [[topics/digital-libraries]]
 

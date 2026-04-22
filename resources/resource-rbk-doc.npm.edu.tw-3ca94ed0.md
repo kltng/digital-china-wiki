@@ -1,8 +1,8 @@
 ---
-title: 國立故宮博物院圖書文獻數位典藏資料庫 (善本古籍-->明清輿圖)
+title: "國立故宮博物院圖書文獻數位典藏資料庫 (善本古籍-->明清輿圖)"
 created: 2026-04-18
 updated: 2026-04-18
-url: https://rbk-doc.npm.edu.tw/npmtpc/npmtpall?ID=32&SECU=1307740270&PAGE=rbmap%2Fmapdb%2Fsearch&ACTION=SC%2Cmapdb*%40%401820061207
+url: "https://rbk-doc.npm.edu.tw/npmtpc/npmtpall?ID=32&SECU=1307740270&PAGE=rbmap%2Fmapdb%2Fsearch&ACTION=SC%2Cmapdb*%40%401820061207"
 language: zh
 region: taiwan
 tags:
@@ -37,7 +37,7 @@ A digital database maintained by the National Palace Museum (Taipei) providing a
 
 ## See Also
 
-- [[taiwan]] — region
-- [[cartography]] — topic
-- [[ming-dynasty]] — topic
-- [[qing-dynasty]] — topic
+- [[regions/taiwan]] — region
+- [[topics/maps-and-gis]] — topic
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-history]] — topic

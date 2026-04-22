@@ -1,5 +1,5 @@
 ---
-title: HathiTrust Digital Library
+title: "HathiTrust Digital Library"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://hathitrust.org/digital_library
@@ -37,7 +37,7 @@ HathiTrust 數位圖書館是由主要學術和研究機構組成的夥伴關係
 
 ## See Also
 
-- [[global]] — region
-- [[general]] — topic
-- [[book-history]] — topic
-- [[research-methods]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/book-history]] — topic
+- [[topics/research-methods]] — topic

@@ -1,14 +1,11 @@
 ---
-title: Oxford Research Encyclopedia of Asian History
+title: "Oxford Research Encyclopedia of Asian History"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://asianhistory.oxfordre.com/
 language: null
 region: global
-tags:
-- dictionary
-- guide
-- social_history
+tags: [dictionary, guide, social_history]
 china_relevance: null
 source_id: asianhistory-oxfordre-com
 ---
@@ -36,7 +33,7 @@ The Oxford Research Encyclopedia of Asian History is a comprehensive, peer-revie
 
 ## See Also
 
-- [[global]] — region
-- [[asian-history]] — topic
-- [[chinese-history]] — topic
-- [[general-reference]] — topic
+- [[regions/global]] — region
+- [[topics/museum-collections]] — topic
+- [[topics/chinese-history]] — topic
+- [[glossary/academic-resources]] — topic

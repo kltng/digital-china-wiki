@@ -1,14 +1,11 @@
 ---
-title: National Central Library (Taipei) 國家圖書館（臺北）
+title: "National Central Library (Taipei) 國家圖書館（臺北）"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://aleweb.ncl.edu.tw/F
 language: null
 region: taiwan
-tags:
-- bibliography
-- catalog
-- taiwan
+tags: [bibliography, catalog, taiwan]
 china_relevance: null
 source_id: aleweb-ncl-edu-tw-f
 ---
@@ -34,7 +31,7 @@ The online catalog of Taiwan's National Central Library (國家圖書館) in Tai
 
 ## See Also
 
-- [[taiwan]] — region
-- [[library-studies]] — topic
-- [[taiwan-studies]] — topic
-- [[bibliographic-access]] — topic
+- [[regions/taiwan]] — region
+- [[topics/library-science]] — topic
+- [[topics/taiwan-studies]] — topic
+- [[topics/academic-research]] — topic

@@ -1,7 +1,7 @@
 ---
-title: National Taiwan University Digital Library & Museum of Buddhist Studies
+title: "National Taiwan University Digital Library & Museum of Buddhist Studies"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: http://buddhism.lib.ntu.edu.tw/DLMBS/index.jsp
 language: null
 region: taiwan
@@ -13,10 +13,7 @@ tags:
 - social_history
 china_relevance: null
 source_id: buddhism-lib-ntu-edu-tw-dlmbs-index-jsp
-description: 本館為致力於匯集佛教文獻之佛學主題資料庫,收錄書目 若您使用本網站協助您撰寫論文或學術研究,請加註引用本網站為資料來源. 為了推動佛學研究的發展，臺大文學院哲學系釋恆清教授推動國內整合性的合作研究，和促進國際的學術交流。
-  1995 年春與臺大多位教授，成立國立臺灣大學文學院「佛學研究中心」 (The Center for Buddhist Studies, National Taiwan
-  University) ，其設立宗旨為：以研究佛學為宗旨，凝聚校內、外從事佛學研究的專家和學者，藉由現代學術研究的方法，對佛學之特質、流變、潛在價值、現代意義等問題進行深入的研究。
-  並明文規定其研究活動內容除學術研究外，則為佛學研究資料之蒐集，因此，於 1995 年成立「佛學網路資料庫」，便積極推展佛學資料庫的籌備工作，廣泛收集國內外佛學文獻資料，建立系統化之佛學文獻資料庫，透過電腦建檔，提供國內外學者、研究人員及相關單位做佛學資料的蒐集。
+description: "本館為致力於匯集佛教文獻之佛學主題資料庫,收錄書目 若您使用本網站協助您撰寫論文或學術研究,請加註引用本網站為資料來源. 為了推動佛學研究的發展，臺大文學院哲學系釋恆清教授推動國內整合性的合作研究，和促進國際的學術交流。"
 ---
 
 # National Taiwan University Digital Library & Museum of Buddhist Studies
@@ -43,7 +40,7 @@ description: 本館為致力於匯集佛教文獻之佛學主題資料庫,收錄
 
 ## See Also
 
-- [[taiwan]] — region
-- [[buddhist-studies]] — topic
-- [[taiwan-history]] — topic
-- [[chinese-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/philosophy]] — topic
+- [[topics/taiwan-history]] — topic
+- [[topics/chinese-studies]] — topic

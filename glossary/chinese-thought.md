@@ -8,5 +8,5 @@ redirect: "[[chinese-intellectual-history]]"
 
 # Chinese Thought
 
-→ See [[chinese-intellectual-history]]
+→ See [[topics/chinese-intellectual-history]]
 

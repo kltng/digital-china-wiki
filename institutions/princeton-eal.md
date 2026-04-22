@@ -12,21 +12,21 @@ Princeton's East Asian Library holds notable Chinese rare book and manuscript co
 
 ## Digital Resources in This Wiki (7 linked)
 
-- [[princeton-edu-chinese-historiography|Classical Historigraphy for Chinese History 中國經典文獻工具書錄 (Compiled by Benjamin A. Elman)]]
-- [[libguides-princeton-edu|Home]]
-- [[classical-historiography-for-chinese-history-open-access-libguides.princeton.edu-90a4090e|Classical Historiography for Chinese History 中國經典文獻工具書錄 OPEN ACCESS]]
-- [[princeton-edu-lynn-chinabib-pdf|Contemporary China: A Book List]]
-- [[wenshi-ziliao-literary-and-historicl-materials-open-access-dpul.princeton.edu-b0e9c610|Wenshi ziliao 文史资料 (Literary and Historicl Materials) Open Access]]
-- [[libguides-princeton-edu-srch-php|Search]]
-- [[eastasianlib-princeton-edu-diglib-php|Princeton East Asian Library Digitized Medical Texts]]
+- [[resources/princeton-edu-chinese-historiography|Classical Historigraphy for Chinese History 中國經典文獻工具書錄 (Compiled by Benjamin A. Elman)]]
+- [[resources/libguides-princeton-edu|Home]]
+- [[resources/classical-historiography-for-chinese-history-open-access-libguides.princeton.edu-90a4090e|Classical Historiography for Chinese History 中國經典文獻工具書錄 OPEN ACCESS]]
+- [[resources/princeton-edu-lynn-chinabib-pdf|Contemporary China: A Book List]]
+- [[resources/wenshi-ziliao-literary-and-historicl-materials-open-access-dpul.princeton.edu-b0e9c610|Wenshi ziliao 文史资料 (Literary and Historicl Materials) Open Access]]
+- [[resources/libguides-princeton-edu-srch-php|Search]]
+- [[resources/eastasianlib-princeton-edu-diglib-php|Princeton East Asian Library Digitized Medical Texts]]
 
 ## Related Institutions
 
-- [[academia-sinica]]
-- [[harvard-yenching]]
-- [[yale-library]]
-- [[stanford-library]]
-- [[national-central-library-taiwan]]
-- [[cnki]]
-- [[airiti]]
-- [[columbia-eal]]
+- [[institutions/academia-sinica]]
+- [[institutions/harvard-yenching]]
+- [[institutions/yale-library]]
+- [[institutions/stanford-library]]
+- [[institutions/national-central-library-taiwan]]
+- [[institutions/cnki]]
+- [[institutions/airiti]]
+- [[institutions/columbia-eal]]

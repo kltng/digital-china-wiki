@@ -12,16 +12,16 @@ The National Palace Museum in Taipei houses one of the world's largest collectio
 
 ## Digital Resources in This Wiki (2 linked)
 
-- [[national-palace-museum-collection-database-open-access-npm.gov.tw-46afce2f|National Palace Museum Collection Database (台北) 故宮博物院典藏資料庫 OPEN ACCESS]]
-- [[database-of-genealogical-documents-npmhost.npm.gov.tw-4850a327|Database of Genealogical Documents 故宮博物院家族譜牒資料庫]]
+- [[resources/national-palace-museum-collection-database-open-access-npm.gov.tw-46afce2f|National Palace Museum Collection Database (台北) 故宮博物院典藏資料庫 OPEN ACCESS]]
+- [[resources/database-of-genealogical-documents-npmhost.npm.gov.tw-4850a327|Database of Genealogical Documents 故宮博物院家族譜牒資料庫]]
 
 ## Related Institutions
 
-- [[academia-sinica]]
-- [[harvard-yenching]]
-- [[yale-library]]
-- [[stanford-library]]
-- [[national-central-library-taiwan]]
-- [[cnki]]
-- [[airiti]]
-- [[columbia-eal]]
+- [[institutions/academia-sinica]]
+- [[institutions/harvard-yenching]]
+- [[institutions/yale-library]]
+- [[institutions/stanford-library]]
+- [[institutions/national-central-library-taiwan]]
+- [[institutions/cnki]]
+- [[institutions/airiti]]
+- [[institutions/columbia-eal]]

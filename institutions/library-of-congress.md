@@ -12,15 +12,15 @@ The LOC Asian Division holds significant Chinese-language collections and provid
 
 ## Digital Resources in This Wiki (1 linked)
 
-- [[library-of-congress-chinese-rare-book-digital-collection-open-access-loc.gov-d6d04450|Library of Congress Chinese Rare Book Digital Collection 美國國會圖書館中文善本數字文獻 OPEN ACCESS]]
+- [[resources/library-of-congress-chinese-rare-book-digital-collection-open-access-loc.gov-d6d04450|Library of Congress Chinese Rare Book Digital Collection 美國國會圖書館中文善本數字文獻 OPEN ACCESS]]
 
 ## Related Institutions
 
-- [[academia-sinica]]
-- [[harvard-yenching]]
-- [[yale-library]]
-- [[stanford-library]]
-- [[national-central-library-taiwan]]
-- [[cnki]]
-- [[airiti]]
-- [[columbia-eal]]
+- [[institutions/academia-sinica]]
+- [[institutions/harvard-yenching]]
+- [[institutions/yale-library]]
+- [[institutions/stanford-library]]
+- [[institutions/national-central-library-taiwan]]
+- [[institutions/cnki]]
+- [[institutions/airiti]]
+- [[institutions/columbia-eal]]

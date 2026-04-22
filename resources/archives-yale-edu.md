@@ -1,23 +1,14 @@
 ---
-title: Yale University Library Archives & Manuscripts
+title: "Yale University Library Archives & Manuscripts"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://archives.yale.edu/
 language: null
 region: global
-tags:
-- archive
-- organization
-- rare_books
-- website
+tags: [archive, organization, rare_books, website]
 china_relevance: null
 source_id: archives-yale-edu
-description: Welcome to Archives at Yale Archives at Yale brings together finding
-  aids from ten archival repositories. Seven of the repositories are part of Yale
-  Library, two are at the Yale Center for British Art, and one is at the Yale Peabody
-  Museum. Finding aids describe the creation, content, context, and arrangement of
-  archival materials, allowing users to identify and request materials relevant to
-  their research.
+description: "Welcome to Archives at Yale Archives at Yale brings together finding"
 ---
 
 # Yale University Library Archives & Manuscripts
@@ -43,6 +34,6 @@ Welcome to Archives at Yale Archives at Yale brings together finding aids from t
 
 ## See Also
 
-- [[global]] — region
-- [[academic-institutions]] — topic
-- [[general]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/academic-research]] — topic

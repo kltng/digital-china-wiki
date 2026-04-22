@@ -1,18 +1,14 @@
 ---
-title: How to Do Research FAQs
+title: "How to Do Research FAQs"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://ask.library.harvard.edu/howtodoresearch
 language: null
 region: global
-tags:
-- catalog
-- guide
+tags: [catalog, guide]
 china_relevance: primary
 source_id: how-to-do-research-faqs-ask.library.harvard.edu-22ae274b
-description: 'How to do research in. Last Updated: Sep 21, 2023 | Views: 1177 Last
-  Updated: Aug 21, 2025 | Views: 764 Last Updated: Nov 22, 2024 | Views: 679 Last
-  Updated: Feb 24, 2025 | Views: 645 Last Updated: Feb 05, 2026 | Views: 642'
+description: "'How to do research in. Last Updated: Sep 21, 2023 | Views: 1177 Last"
 ---
 
 # How to Do Research FAQs
@@ -35,7 +31,7 @@ How to do research in. Last Updated: Sep 21, 2023 | Views: 1177 Last Updated: Au
 
 ## See Also
 
-- [[global]] — region
-- [[research-methods]] — topic
-- [[library-science]] — topic
-- [[academic-support]] — topic
+- [[regions/global]] — region
+- [[topics/research-methods]] — topic
+- [[topics/library-science]] — topic
+- [[topics/research-methods]] — topic

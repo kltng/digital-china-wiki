@@ -1,5 +1,5 @@
 ---
-title: Sinica Sinoweb (台灣學術經典)
+title: "Sinica Sinoweb (台灣學術經典)"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://p.udpweb.com/sin
@@ -38,7 +38,7 @@ A digital collection platform for Taiwan academic classics (台灣學術經典),
 
 ## See Also
 
-- [[prc]] — region
-- [[chinese-history]] — topic
-- [[literature]] — topic
-- [[philosophy]] — topic
+- [[regions/prc]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/literature]] — topic
+- [[topics/philosophy]] — topic

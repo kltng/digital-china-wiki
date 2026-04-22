@@ -1,19 +1,14 @@
 ---
-title: Ask Yale Library
+title: "Ask Yale Library"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://ask.library.yale.edu/
 language: null
 region: global
-tags:
-- catalog
-- guide
-- website
+tags: [catalog, guide, website]
 china_relevance: null
 source_id: ask-library-yale-edu
-description: '- Bass Media Equipment - Center for Language Study - Citation Management
-  - Collaborative Learning Center - Contact Information - Cushing/Whitney Medical
-  Library'
+description: "'- Bass Media Equipment - Center for Language Study - Citation Management"
 ---
 
 # Ask Yale Library
@@ -40,6 +35,6 @@ Ask Yale Library 是耶魯大學的線上參考與研究協助服務，為學生
 
 ## See Also
 
-- [[global]] — region
-- [[research-methods]] — topic
-- [[general]] — topic
+- [[regions/global]] — region
+- [[topics/research-methods]] — topic
+- [[topics/academic-research]] — topic

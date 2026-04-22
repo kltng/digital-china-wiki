@@ -1,21 +1,14 @@
 ---
-title: Zhaohui Xue - Chinese Studies Librarian, Stanford University
+title: "Zhaohui Xue - Chinese Studies Librarian, Stanford University"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://profiles.stanford.edu/40980
 language: null
 region: global
-tags:
-- catalog
-- digital_humanities
-- guide
+tags: [catalog, digital_humanities, guide]
 china_relevance: null
 source_id: profiles-stanford-edu-40980
-description: I am the Chinese studies librarian at the East Asia Library, responsible
-  for reference service, instruction and collection development for the Chinese collection.
-  I select Chinese language materials for all formats in humanities and social sciences.
-  I help students, faculty and visiting scholars finding information they need for
-  their research, teaching and studies.
+description: "I am the Chinese studies librarian at the East Asia Library, responsible"
 ---
 
 # Zhaohui Xue - Chinese Studies Librarian, Stanford University
@@ -41,7 +34,7 @@ I am the Chinese studies librarian at the East Asia Library, responsible for ref
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-studies]] — topic
-- [[east-asian-studies]] — topic
-- [[library-science]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-studies]] — topic
+- [[topics/east-asian-studies]] — topic
+- [[topics/library-science]] — topic

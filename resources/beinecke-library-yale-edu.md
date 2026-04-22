@@ -1,7 +1,7 @@
 ---
-title: Beinecke Rare Book & Manuscript Library (Yale)
+title: "Beinecke Rare Book & Manuscript Library (Yale)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://beinecke.library.yale.edu/
 language: null
 region: global
@@ -13,10 +13,7 @@ tags:
 - website
 china_relevance: null
 source_id: beinecke-library-yale-edu
-description: Exhibition hall daily, reading room M-F Reading room to 4:30pm, exhibition
-  hall to 7pm Reading room to 4pm, exhibition hall to 7pm Reading room to 6:30pm,
-  exhibition hall to 7pm Reading room to 4:30pm, exhibition hall to 5pm About the
-  Collections
+description: "Exhibition hall daily, reading room M-F Reading room to 4:30pm, exhibition"
 ---
 
 # Beinecke Rare Book & Manuscript Library (Yale)
@@ -43,7 +40,7 @@ Exhibition hall daily, reading room M-F Reading room to 4:30pm, exhibition hall 
 
 ## See Also
 
-- [[global]] — region
-- [[book-history]] — topic
-- [[chinese-studies]] — topic
-- [[general]] — topic
+- [[regions/global]] — region
+- [[topics/book-history]] — topic
+- [[topics/chinese-studies]] — topic
+- [[topics/academic-research]] — topic

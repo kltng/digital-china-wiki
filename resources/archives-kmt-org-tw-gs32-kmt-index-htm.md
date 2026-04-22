@@ -1,15 +1,11 @@
 ---
-title: Kuomintang Party Archives System 中國國民黨黨史館館藏檔案目錄檢索系統
+title: "Kuomintang Party Archives System 中國國民黨黨史館館藏檔案目錄檢索系統"
 created: 2026-04-18
 updated: 2026-04-18
-url: http://archives.kmt.org.tw/gs32/kmt/index.htm?cache=1400701295256
+url: "http://archives.kmt.org.tw/gs32/kmt/index.htm?cache=1400701295256"
 language: null
 region: taiwan
-tags:
-- archive
-- political_science
-- social_history
-- taiwan
+tags: [archive, political_science, social_history, taiwan]
 china_relevance: null
 source_id: archives-kmt-org-tw-gs32-kmt-index-htm
 ---
@@ -37,7 +33,7 @@ The Kuomintang (Guomindang) Party Archives System is the official archival repos
 
 ## See Also
 
-- [[taiwan]] — region
-- [[taiwan-history]] — topic
-- [[political-history]] — topic
-- [[chinese-history]] — topic
+- [[regions/taiwan]] — region
+- [[topics/taiwan-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/chinese-history]] — topic

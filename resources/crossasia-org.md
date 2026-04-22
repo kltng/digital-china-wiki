@@ -1,21 +1,14 @@
 ---
-title: CrossAsia - East Asian Information Portal
+title: "CrossAsia - East Asian Information Portal"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://crossasia.org/
 language: null
 region: global
-tags:
-- database
-- digital_humanities
-- website
+tags: [database, digital_humanities, website]
 china_relevance: null
 source_id: crossasia-org
-description: Vietnamesische Buchcover der 1950er - 1970er Jahre Ein Panorama vietnamesischer
-  Buchcover aus den 1950ern, 1960ern und 1970ern. Sie zeigen einen kleinen Ausschnitt
-  aus der ca. 000 Bände umfassenden Vietnam-Sammlung der Staatsbibliothek zu Berlin.
-  Weitere Informationen hierzu finden Sie auch in unserem Blog. Die Flora Japanica
-  [sic!
+description: "Vietnamesische Buchcover der 1950er - 1970er Jahre Ein Panorama vietnamesischer"
 ---
 
 # CrossAsia - East Asian Information Portal
@@ -38,7 +31,7 @@ CrossAsia 是德國東亞資訊與數位資源的中心門戶，由柏林國家�
 
 ## See Also
 
-- [[global]] — region
-- [[east-asian-studies]] — topic
-- [[asian-studies]] — topic
-- [[information-science]] — topic
+- [[regions/global]] — region
+- [[topics/east-asian-studies]] — topic
+- [[topics/digital-humanities]] — topic
+- [[topics/digital-humanities]] — topic

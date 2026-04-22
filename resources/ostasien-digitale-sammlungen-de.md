@@ -1,21 +1,14 @@
 ---
-title: Digital East Asia Collections - Bavarian State Library
+title: "Digital East Asia Collections - Bavarian State Library"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://ostasien.digitale-sammlungen.de/
 language: null
 region: global
-tags:
-- archive
-- catalog
-- digital_humanities
-- rare_books
+tags: [archive, catalog, digital_humanities, rare_books]
 china_relevance: null
 source_id: ostasien-digitale-sammlungen-de
-description: Willkommen bei den DIGITALEN SAMMLUNGEN OSTASIEN der Bayerischen Staatsbibliothek!
-  Hier finden Sie digitalisierte chinesische, japanische und koreanische Handschriften
-  und Drucke aus dem Bestand der Bayerischen Staatsbibliothek (BSB), entstanden zwischen
-  dem 7. Insgesamt haben Sie Zugriff auf über 2 Millionen Einzelimages.
+description: "Willkommen bei den DIGITALEN SAMMLUNGEN OSTASIEN der Bayerischen Staatsbibliothek!"
 ---
 
 # Digital East Asia Collections - Bavarian State Library
@@ -40,7 +33,7 @@ Willkommen bei den DIGITALEN SAMMLUNGEN OSTASIEN der Bayerischen Staatsbibliothe
 
 ## See Also
 
-- [[global]] — region
-- [[east-asian-studies]] — topic
-- [[rare-books]] — topic
-- [[manuscripts]] — topic
+- [[regions/global]] — region
+- [[topics/east-asian-studies]] — topic
+- [[topics/rare-books]] — topic
+- [[glossary/manuscripts]] — topic

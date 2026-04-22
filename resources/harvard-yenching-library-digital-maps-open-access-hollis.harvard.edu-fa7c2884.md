@@ -1,8 +1,8 @@
 ---
-title: Harvard-Yenching Library Digital Maps OPEN ACCESS
+title: "Harvard-Yenching Library Digital Maps OPEN ACCESS"
 created: 2026-04-18
 updated: 2026-04-18
-url: https://hollis.harvard.edu/primo-explore/search?query=any%2Ccontains%2CHarvard-Yenching+Library+Digital+Maps%2CAND&tab=books&search_scope=default_scope&vid=HVD2&mode=advanced&offset=0
+url: "https://hollis.harvard.edu/primo-explore/search?query=any%2Ccontains%2CHarvard-Yenching+Library+Digital+Maps%2CAND&tab=books&search_scope=default_scope&vid=HVD2&mode=advanced&offset=0"
 language: zh
 region: prc
 tags: []
@@ -32,4 +32,4 @@ A digital collection of historical maps of China and East Asia held by Harvard-Y
 
 ## See Also
 
-- [[prc]] — region
+- [[regions/prc]] — region

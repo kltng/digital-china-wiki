@@ -1,5 +1,5 @@
 ---
-title: Ming Qing Women's Writings
+title: "Ming Qing Women's Writings"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://mhdb.mh.sinica.edu.tw/mingqing/mqww/
@@ -34,7 +34,7 @@ The Ming Qing Women's Writings digital archive is a specialized database dedicat
 
 ## See Also
 
-- [[taiwan]] — region
-- [[gender-studies]] — topic
-- [[chinese-history]] — topic
-- [[literature]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/literature]] — topic

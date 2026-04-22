@@ -1,23 +1,14 @@
 ---
-title: Stanford Trademark Policy (Guide Memo)
+title: "Stanford Trademark Policy (Guide Memo)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4
 language: null
 region: global
-tags:
-- catalog
-- guide
-- legal_history
-- website
+tags: [catalog, guide, legal_history, website]
 china_relevance: null
 source_id: adminguide-stanford-edu-chapter-1-subchapter-5-policy-1-5-4
-description: '4 Ownership and Use of Stanford Trademarks and Images Formerly Known
-  As Policy Number: 15. This Guide Memo applies to all uses of Stanford''s Marks.
-  Stanford’s Marks are owned by Stanford and they are a valuable university asset.
-  Faculty, students, staff and alumni share in the benefits associated with the Marks,
-  and therefore also share responsibilities to ensure correct use. Stanford’s Trademark
-  Licensing Office at trademark_licensing@stanford.'
+description: "'4 Ownership and Use of Stanford Trademarks and Images Formerly Known"
 ---
 
 # Stanford Trademark Policy (Guide Memo)
@@ -41,7 +32,7 @@ description: '4 Ownership and Use of Stanford Trademarks and Images Formerly Kno
 
 ## See Also
 
-- [[global]] — region
-- [[intellectual-property]] — topic
-- [[university-governance]] — topic
-- [[brand-management]] — topic
+- [[regions/global]] — region
+- [[topics/political-history]] — topic
+- [[topics/academic-research]] — topic
+- [[topics/academic-research]] — topic

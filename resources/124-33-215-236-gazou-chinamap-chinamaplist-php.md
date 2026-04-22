@@ -1,5 +1,5 @@
 ---
-title: 'Toyo Bunko Image Database: Maps of the Chinese Empire and East Asia'
+title: "Toyo Bunko Image Database: Maps of the Chinese Empire and East Asia"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://124.33.215.236/gazou/ChinaMap/ChinaMapList.php
@@ -38,7 +38,7 @@ The Toyo Bunko (Oriental Library) Image Database provides open access to digitiz
 
 ## See Also
 
-- [[prc]] — region
-- [[cartography]] — topic
-- [[chinese-history]] — topic
-- [[east-asian-studies]] — topic
+- [[regions/prc]] — region
+- [[topics/maps-and-gis]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/east-asian-studies]] — topic

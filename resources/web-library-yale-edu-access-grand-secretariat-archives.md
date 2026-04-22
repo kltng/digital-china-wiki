@@ -1,19 +1,14 @@
 ---
-title: Grand Secretariat Archives (內閣大庫檔案) - Yale University Library
+title: "Grand Secretariat Archives (內閣大庫檔案) - Yale University Library"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://web.library.yale.edu/access-grand-secretariat-archives
 language: null
 region: global
-tags:
-- archive
-- political_science
-- social_history
+tags: [archive, political_science, social_history]
 china_relevance: null
 source_id: web-library-yale-edu-access-grand-secretariat-archives
-description: 'Central Authentication Service Make sure your session is secure Before
-  entering your NetID and password, verify that the URL for this page begins with:
-  https://secure.'
+description: "'Central Authentication Service Make sure your session is secure Before"
 ---
 
 # Grand Secretariat Archives (內閣大庫檔案) - Yale University Library
@@ -37,7 +32,7 @@ Central Authentication Service Make sure your session is secure Before entering 
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[qing-dynasty]] — topic
-- [[government-records]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[glossary/government-records]] — topic

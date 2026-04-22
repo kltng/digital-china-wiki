@@ -1,22 +1,14 @@
 ---
-title: 'Archives Direct: Foreign Office Files for China (Adam Matthew Digital)'
+title: "Archives Direct: Foreign Office Files for China (Adam Matthew Digital)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://www.archivesdirect.amdigital.co.uk/Introduction/FO_China/Default.aspx
 language: null
 region: global
-tags:
-- archive
-- cold_war
-- social_history
+tags: [archive, cold_war, social_history]
 china_relevance: null
 source_id: archivesdirect-amdigital-co-uk-introduction-fo-china-default-aspx
-description: You may not have permission to access this resource. For example, you
-  may have reached this page from AM Explorer, an internet search or you may have
-  a free trial. Please contact support@amdigital. If you are attempting to access
-  off-campus, please use Proxy access by going via your library’s database list. If
-  you have visited this page via a proxy server please request your administrator
-  to allow access to https://www.
+description: "You may not have permission to access this resource. For example, you"
 ---
 
 # Archives Direct: Foreign Office Files for China (Adam Matthew Digital)
@@ -42,7 +34,7 @@ Archives Direct: China Foreign Office Files 是 Adam Matthew Digital 的數位�
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[diplomatic-history]] — topic
-- [[international-relations]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/political-history]] — topic

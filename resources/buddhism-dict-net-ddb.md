@@ -1,15 +1,11 @@
 ---
-title: Digital Dictionary of Buddhism
+title: "Digital Dictionary of Buddhism"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://buddhism-dict.net/ddb/
 language: null
 region: global
-tags:
-- buddhism
-- dictionary
-- digital_humanities
-- religion
+tags: [buddhism, dictionary, digital_humanities, religion]
 china_relevance: null
 source_id: buddhism-dict-net-ddb
 ---
@@ -38,7 +34,7 @@ The Digital Dictionary of Buddhism (DDB) is an authoritative online reference wo
 
 ## See Also
 
-- [[global]] — region
-- [[buddhist-studies]] — topic
-- [[chinese-studies]] — topic
-- [[religion]] — topic
+- [[regions/global]] — region
+- [[topics/philosophy]] — topic
+- [[topics/chinese-studies]] — topic
+- [[topics/philosophy]] — topic

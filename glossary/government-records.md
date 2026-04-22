@@ -8,5 +8,5 @@ redirect: "[[archives]]"
 
 # Government Records
 
-→ See [[archives]]
+→ See [[topics/archives]]
 

@@ -1,5 +1,5 @@
 ---
-title: CNKI Overseas Book Database
+title: "CNKI Overseas Book Database"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://book.oversea.cnki.net/ccgbweb/book/index
@@ -39,6 +39,6 @@ CNKI海外圖書資料庫是透過中國知網（CNKI）網絡提供中文学術
 
 ## See Also
 
-- [[global]] — region
-- [[general-academic]] — topic
-- [[chinese-studies]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/chinese-studies]] — topic

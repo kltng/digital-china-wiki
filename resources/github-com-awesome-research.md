@@ -1,20 +1,14 @@
 ---
-title: Awesome Research Tools
+title: "Awesome Research Tools"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://github.com/emptymalei/awesome-research
 language: null
 region: global
-tags:
-- guide
-- open_access
-- tool
+tags: [guide, open_access, tool]
 china_relevance: null
 source_id: github-com-awesome-research
-description: A list of tools for research. Also available on https://tools. - Publishing
-  and Sharing - Data Visualization and Graph Making First things first, everyone should
-  know version control system, aka VCS. VCS helps us track changes in our documents
-  as well as collaborations on the documents.
+description: "A list of tools for research. Also available on https://tools. - Publishing"
 ---
 
 # Awesome Research Tools
@@ -37,7 +31,7 @@ Awesome Research Tools 是一份為支持各學術領域研究活動的綜合性
 
 ## See Also
 
-- [[global]] — region
-- [[research-methods]] — topic
-- [[academic-tools]] — topic
-- [[productivity]] — topic
+- [[regions/global]] — region
+- [[topics/research-methods]] — topic
+- [[topics/digital-humanities]] — topic
+- [[topics/digital-humanities]] — topic

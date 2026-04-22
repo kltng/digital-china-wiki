@@ -1,20 +1,14 @@
 ---
-title: 'RRO. Routledge Resources Online: Chinese Studies NEW'
+title: "RRO. Routledge Resources Online: Chinese Studies NEW"
 created: 2026-04-18
-updated: '2026-04-18'
-url: https://taylorfrancis.com/rrocs/?context=rrocs
+updated: 2026-04-18
+url: "https://taylorfrancis.com/rrocs/?context=rrocs"
 language: null
 region: global
-tags:
-- database
-- digital_humanities
-- organization
-- social_history
+tags: [database, digital_humanities, organization, social_history]
 china_relevance: primary
 source_id: rro-routledge-resources-online-chinese-studies-new-go.openathens.net-eb2f45e2
-description: '- Chinaâs International Relations - Chinese Business and Economy - Chinese
-  History and War - Chinese Language and Literary Studies - Chinese Law and Criminology
-  - Chinese Media, Communication and Technology'
+description: "'- Chinaâs International Relations - Chinese Business and Economy - Chinese"
 ---
 
 # RRO. Routledge Resources Online: Chinese Studies NEW
@@ -37,7 +31,7 @@ Routledge Resources Online: Chinese Studies 是一個綜合數位平台，提供
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-studies]] — topic
-- [[humanities]] — topic
-- [[social-sciences]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-studies]] — topic
+- [[topics/academic-research]] — topic
+- [[topics/social-sciences]] — topic

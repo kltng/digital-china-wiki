@@ -8,5 +8,5 @@ redirect: "[[chinese-classics]]"
 
 # Chinese Books
 
-→ See [[chinese-classics]]
+→ See [[topics/chinese-classics]]
 

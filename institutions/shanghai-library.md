@@ -12,15 +12,15 @@ One of China's largest public research libraries, with significant rare book and
 
 ## Digital Resources in This Wiki (1 linked)
 
-- [[digital-humanities-platform-of-shanghai-library-dhc.library.sh.cn-3d0a1a39|Digital Humanities Platform of Shanghai Library 上海圖書館歷史人文大數據平台]]
+- [[resources/digital-humanities-platform-of-shanghai-library-dhc.library.sh.cn-3d0a1a39|Digital Humanities Platform of Shanghai Library 上海圖書館歷史人文大數據平台]]
 
 ## Related Institutions
 
-- [[academia-sinica]]
-- [[harvard-yenching]]
-- [[yale-library]]
-- [[stanford-library]]
-- [[national-central-library-taiwan]]
-- [[cnki]]
-- [[airiti]]
-- [[columbia-eal]]
+- [[institutions/academia-sinica]]
+- [[institutions/harvard-yenching]]
+- [[institutions/yale-library]]
+- [[institutions/stanford-library]]
+- [[institutions/national-central-library-taiwan]]
+- [[institutions/cnki]]
+- [[institutions/airiti]]
+- [[institutions/columbia-eal]]

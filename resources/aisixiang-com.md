@@ -1,15 +1,11 @@
 ---
-title: 愛思想 aisixiang.com
+title: "愛思想 aisixiang.com"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://www.aisixiang.com/
 language: zh
 region: prc
-tags:
-- intellectual_history
-- organization
-- periodical
-- philosophy
+tags: [intellectual_history, organization, periodical, philosophy]
 china_relevance: primary
 source_id: aisixiang-com
 ---
@@ -38,7 +34,7 @@ A Chinese intellectual discourse website featuring academic articles, essays, an
 
 ## See Also
 
-- [[prc]] — region
-- [[chinese-intellectual-history]] — topic
-- [[political-thought]] — topic
-- [[philosophy]] — topic
+- [[regions/prc]] — region
+- [[topics/chinese-intellectual-history]] — topic
+- [[topics/chinese-intellectual-history]] — topic
+- [[topics/philosophy]] — topic

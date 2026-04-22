@@ -1,22 +1,14 @@
 ---
-title: Access Newspaper Archive
+title: "Access Newspaper Archive"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: http://access.newspaperarchive.com/
 language: null
 region: global
-tags:
-- digital_humanities
-- genealogy
-- newspaper
-- newspaper_studies
+tags: [digital_humanities, genealogy, newspaper, newspaper_studies]
 china_relevance: null
 source_id: access-newspaperarchive-com
-description: Welcome to one of the world’s largest historical newspaper archives.
-  If you are seeing this page after clicking a link from your library or institution
-  then there was a problem with the authentication. You can check with your host library
-  or institution to confirm they have an active service. You can also email clientsupport@worldarchives.
-  com to report the library or institution you are attempting to access through.
+description: "Welcome to one of the world’s largest historical newspaper archives."
 ---
 
 # Access Newspaper Archive
@@ -41,7 +33,7 @@ Access NewspaperARCHIVE.com 是全球最大的歷史報紙檔案館之一，提�
 
 ## See Also
 
-- [[global]] — region
-- [[historical-research]] — topic
-- [[newspaper-studies]] — topic
-- [[genealogy]] — topic
+- [[regions/global]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/newspapers]] — topic
+- [[topics/chinese-history]] — topic

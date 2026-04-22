@@ -1,14 +1,11 @@
 ---
-title: China Survey Data Archive (CSDA) - Peking University Open Research Data Platform
+title: "China Survey Data Archive (CSDA) - Peking University Open Research Data Platform"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://opendata.pku.edu.cn/dataverse/CSDA
 language: null
 region: global
-tags:
-- economic_history
-- social_history
-- statistical
+tags: [economic_history, social_history, statistical]
 china_relevance: null
 source_id: opendata-pku-edu-cn-dataverse-csda
 ---
@@ -36,7 +33,7 @@ The China Survey Data Archive (CSDA) is an open access research data repository 
 
 ## See Also
 
-- [[global]] — region
-- [[social-research]] — topic
-- [[demography]] — topic
-- [[economics]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/social-sciences]] — topic
+- [[topics/social-sciences]] — topic

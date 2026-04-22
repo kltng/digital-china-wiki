@@ -1,7 +1,7 @@
 ---
-title: 'CNopendata: CCTV news broadcast text data June 2006-June 2022 CCTV新闻联播文本数据'
+title: "CNopendata: CCTV news broadcast text data June 2006-June 2022 CCTV新闻联播文本数据"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://searchworks.stanford.edu/view/14461384
 language: null
 region: global
@@ -13,10 +13,7 @@ tags:
 - political_science
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14461384
-description: 'CCTV xin wen lian bo wen ben shu ju = CCTV news broadcast text data
-  : June 2006 - June 2022 CCTV新闻联播文本数据 = CCTV news broadcast text data : June 2006
-  - June 2022 - Henan han shu xin xi ji shu you xian gong si - [Zhengzhou] : Henan
-  han shu xin xi ji shu you xian gong si, 2023 - [郑州] : 河南汉数信息技术有限公司, 2023. Creators/Contributors'
+description: "'CCTV xin wen lian bo wen ben shu ju = CCTV news broadcast text data"
 ---
 
 # CNopendata: CCTV news broadcast text data June 2006-June 2022 CCTV新闻联播文本数据
@@ -40,7 +37,7 @@ CCTV xin wen lian bo wen ben shu ju = CCTV news broadcast text data : June 2006 
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-media]] — topic
-- [[political-communication]] — topic
-- [[computational-analysis]] — topic
+- [[regions/global]] — region
+- [[topics/newspapers]] — topic
+- [[topics/political-history]] — topic
+- [[topics/digital-humanities]] — topic

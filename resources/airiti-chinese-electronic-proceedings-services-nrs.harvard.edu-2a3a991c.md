@@ -1,5 +1,5 @@
 ---
-title: Airiti Chinese Electronic Proceedings Services 華藝中文會議論文資料庫
+title: "Airiti Chinese Electronic Proceedings Services 華藝中文會議論文資料庫"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://nrs.harvard.edu/urn-3:hul.eresource:airitilibrary
@@ -36,7 +36,7 @@ A Chinese academic database providing electronic access to conference proceeding
 
 ## See Also
 
-- [[taiwan]] — region
-- [[academic-research]] — topic
-- [[conference-papers]] — topic
-- [[chinese-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/academic-research]] — topic
+- [[topics/newspapers]] — topic
+- [[topics/chinese-studies]] — topic

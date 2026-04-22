@@ -1,5 +1,5 @@
 ---
-title: Taiwan Documents Collection Database
+title: "Taiwan Documents Collection Database"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://tcss.ith.sinica.edu.tw
@@ -34,7 +34,7 @@ The Taiwan Documents Collection Database (臺灣文獻叢刊資料庫系統) is 
 
 ## See Also
 
-- [[taiwan]] — region
-- [[history]] — topic
-- [[taiwan-studies]] — topic
-- [[primary-sources]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/taiwan-studies]] — topic
+- [[glossary/primary-sources]] — topic

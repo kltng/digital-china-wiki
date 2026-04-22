@@ -1,15 +1,11 @@
 ---
-title: 'Wanfang Data: China Local Gazetteers Database (万方数据: 新方志)'
+title: "Wanfang Data: China Local Gazetteers Database (万方数据: 新方志)"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://c.g.wanfangdata.com.cn/LocalChronicle.aspx
 language: null
 region: global
-tags:
-- database
-- full_text
-- geography
-- social_history
+tags: [database, full_text, geography, social_history]
 china_relevance: null
 source_id: c-g-wanfangdata-com-cn-localchronicle-aspx
 ---
@@ -35,7 +31,7 @@ A specialized database within the Wanfang Data platform providing access to Chin
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[local-history]] — topic
-- [[geography]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/maps-and-gis]] — topic

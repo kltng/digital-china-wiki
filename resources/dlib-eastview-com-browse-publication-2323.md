@@ -1,20 +1,14 @@
 ---
-title: People's Liberation Army (PLA) Daily 解放军报
+title: "People's Liberation Army (PLA) Daily 解放军报"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://dlib.eastview.com/browse/publication/2323
 language: zh
 region: prc
-tags:
-- military_history
-- newspaper
-- newspaper_studies
-- political_science
+tags: [military_history, newspaper, newspaper_studies, political_science]
 china_relevance: primary
 source_id: dlib-eastview-com-browse-publication-2323
-description: East View offers a broad range of library services and databases of global
-  authoritative content, including numerous collections from Russia and the former
-  Soviet states, East Asia, and the Middle East.
+description: "East View offers a broad range of library services and databases of global"
 ---
 
 # People's Liberation Army (PLA) Daily 解放军报
@@ -40,7 +34,7 @@ East View offers a broad range of library services and databases of global autho
 
 ## See Also
 
-- [[prc]] — region
-- [[chinese-military]] — topic
-- [[chinese-media]] — topic
-- [[political-communication]] — topic
+- [[regions/prc]] — region
+- [[topics/political-history]] — topic
+- [[topics/newspapers]] — topic
+- [[topics/political-history]] — topic

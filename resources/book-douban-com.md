@@ -1,7 +1,7 @@
 ---
-title: Douban Books (豆瓣读书)
+title: "Douban Books (豆瓣读书)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: http://book.douban.com/
 language: null
 region: global
@@ -13,10 +13,7 @@ tags:
 - website
 china_relevance: null
 source_id: book-douban-com
-description: '[美] 艾丽斯·玛丽恩·杨 / 2026-4 / 上海文艺出版社 -编辑推荐- 借着阅读这本书，把自己活生生的身体找回来！ 20世纪女性主义政治哲学经典
-  艾丽斯·玛丽恩·杨最后之作 兼具学术研究的严谨冷静与自传体叙事的动人恳切 运动、怀孕、乳房、月经、照护、服装、老年、家……直击女性经验的核心面向 台版豆瓣评分9.
-  3 拜德雅读者催更TOP1 简体中文版首次出版 备受好评的繁体中文译本原样引进 ●以女性主体的立场，书写隐蔽的女性身体. 何其亮 / 2026-4 / 广东人民出版社
-  当黄慧如决定和男仆私奔时 绝不会想到，舆论洪流会将她吞没 众生喧嚣，无人在意她到底是谁 —————————— 【内容简介】 一九二八年，上海富家小姐黄慧如与男仆陆根荣暗生情愫，私奔至苏州。'
+description: "'[美] 艾丽斯·玛丽恩·杨 / 2026-4 / 上海文艺出版社 -编辑推荐- 借着阅读这本书，把自己活生生的身体找回来！ 20世纪女性主义政治哲学经典"
 ---
 
 # Douban Books (豆瓣读书)
@@ -43,6 +40,6 @@ description: '[美] 艾丽斯·玛丽恩·杨 / 2026-4 / 上海文艺出版社 -
 
 ## See Also
 
-- [[global]] — region
-- [[general-academic]] — topic
-- [[book-history]] — topic
+- [[regions/global]] — region
+- [[topics/academic-research]] — topic
+- [[topics/book-history]] — topic

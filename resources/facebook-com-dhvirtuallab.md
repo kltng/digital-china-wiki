@@ -1,15 +1,11 @@
 ---
-title: Digital Humanities Virtual Lab (Facebook)
+title: "Digital Humanities Virtual Lab (Facebook)"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://www.facebook.com/DHVirtualLab/
 language: null
 region: taiwan
-tags:
-- digital_humanities
-- organization
-- social_media
-- taiwan
+tags: [digital_humanities, organization, social_media, taiwan]
 china_relevance: null
 source_id: facebook-com-dhvirtuallab
 ---
@@ -32,6 +28,6 @@ The Digital Humanities Virtual Lab is a Facebook-based community page focused on
 
 ## See Also
 
-- [[taiwan]] — region
-- [[digital-humanities]] — topic
-- [[academic-community]] — topic
+- [[regions/taiwan]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/academic-research]] — topic

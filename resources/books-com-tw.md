@@ -1,5 +1,5 @@
 ---
-title: Books.com.tw (讀冊生活) - Taiwanese Online Bookstore
+title: "Books.com.tw (讀冊生活) - Taiwanese Online Bookstore"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://www.books.com.tw/
@@ -35,6 +35,6 @@ Books.com.tw (讀冊生活), formerly known as Boqun (博書網), is Taiwan's le
 
 ## See Also
 
-- [[taiwan]] — region
-- [[general-academic]] — topic
-- [[book-history]] — topic
+- [[regions/taiwan]] — region
+- [[topics/academic-research]] — topic
+- [[topics/book-history]] — topic

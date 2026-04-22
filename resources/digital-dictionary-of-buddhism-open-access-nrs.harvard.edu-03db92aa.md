@@ -1,14 +1,11 @@
 ---
-title: Digital Dictionary of Buddhism 電子佛教辭典 OPEN ACCESS
+title: "Digital Dictionary of Buddhism 電子佛教辭典 OPEN ACCESS"
 created: 2026-04-18
 updated: 2026-04-18
 url: http://nrs.harvard.edu/urn-3:hul.eresource:ddicbudd
 language: zh
 region: prc
-tags:
-- buddhism
-- dictionary
-- religion
+tags: [buddhism, dictionary, religion]
 china_relevance: primary
 source_id: digital-dictionary-of-buddhism-open-access-nrs.harvard.edu-03db92aa
 ---
@@ -34,7 +31,7 @@ An authoritative digital reference work providing comprehensive coverage of Budd
 
 ## See Also
 
-- [[prc]] — region
-- [[buddhism]] — topic
-- [[religious-studies]] — topic
-- [[chinese-religion]] — topic
+- [[regions/prc]] — region
+- [[topics/philosophy]] — topic
+- [[topics/philosophy]] — topic
+- [[topics/philosophy]] — topic

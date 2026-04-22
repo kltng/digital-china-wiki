@@ -1,22 +1,14 @@
 ---
-title: Museum of Fine Arts Boston - Art of Asia
+title: "Museum of Fine Arts Boston - Art of Asia"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://www.mfa.org/collections/asia
 language: null
 region: global
-tags:
-- art_history
-- database
-- museum_studies
+tags: [art_history, database, museum_studies]
 china_relevance: null
 source_id: mfa-org-asia
-description: The MFA has one of the most comprehensive collections of Japanese art
-  anywhere in the world. Reimagined galleries explore Japan’s art and visual The MFA’s
-  Asian art collection reflects the creative achievements of artists on the continent
-  of Asia from 4000 BCE to the present. The collection of more than 115,000 objects
-  includes works from Japan, China, Korea, South and Southeast Asia, and the Islamic
-  world.
+description: "The MFA has one of the most comprehensive collections of Japanese art"
 ---
 
 # Museum of Fine Arts Boston - Art of Asia
@@ -38,7 +30,7 @@ The MFA has one of the most comprehensive collections of Japanese art anywhere i
 
 ## See Also
 
-- [[global]] — region
-- [[art-history]] — topic
-- [[asian-art]] — topic
-- [[museum-studies]] — topic
+- [[regions/global]] — region
+- [[topics/museum-collections]] — topic
+- [[topics/museum-collections]] — topic
+- [[topics/museum-collections]] — topic

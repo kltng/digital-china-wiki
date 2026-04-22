@@ -1,15 +1,11 @@
 ---
-title: Apabi China Reference Book Resources Database (Not Available)
+title: "Apabi China Reference Book Resources Database (Not Available)"
 created: 2026-04-18
 updated: 2026-04-18
 url: not_avalable_nrs.harvard.edu
 language: null
 region: global
-tags:
-- database
-- dictionary
-- digital_humanities
-- guide
+tags: [database, dictionary, digital_humanities, guide]
 china_relevance: null
 source_id: apabi-china-reference-book-resources-database-not-avalable-nrs.harvard.edu-e127a254
 ---
@@ -35,7 +31,7 @@ Apabi China Reference Book Resources Database 曾是專注於參考工具書、�
 
 ## See Also
 
-- [[global]] — region
-- [[reference-studies]] — topic
-- [[chinese-studies]] — topic
-- [[academic-resources]] — topic
+- [[regions/global]] — region
+- [[glossary/academic-resources]] — topic
+- [[topics/chinese-studies]] — topic
+- [[glossary/academic-resources]] — topic

@@ -8,5 +8,5 @@ redirect: "[[library-science]]"
 
 # Library Services
 
-→ See [[library-science]]
+→ See [[topics/library-science]]
 

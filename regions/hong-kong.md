@@ -23,6 +23,6 @@ Digital resources related to Hong Kong and its role in China studies. Hong Kong'
 
 ## Related Regions
 
-- [[prc]]
-- [[taiwan]]
-- [[global]]
+- [[regions/prc]]
+- [[regions/taiwan]]
+- [[regions/global]]

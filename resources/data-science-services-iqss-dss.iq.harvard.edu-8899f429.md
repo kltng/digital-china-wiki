@@ -1,14 +1,11 @@
 ---
-title: Data Science Services 哈佛定量社會科學分析中心IQSS
+title: "Data Science Services 哈佛定量社會科學分析中心IQSS"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://dss.iq.harvard.edu/contact-us
 language: zh
 region: prc
-tags:
-- digital_humanities
-- guide
-- social_history
+tags: [digital_humanities, guide, social_history]
 china_relevance: primary
 source_id: data-science-services-iqss-dss.iq.harvard.edu-8899f429
 ---
@@ -35,7 +32,7 @@ Data Science Services provided by the Institute for Quantitative Social Science 
 
 ## See Also
 
-- [[prc]] — region
-- [[data-science]] — topic
-- [[social-sciences]] — topic
-- [[computational-methods]] — topic
+- [[regions/prc]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/social-sciences]] — topic
+- [[topics/digital-humanities]] — topic

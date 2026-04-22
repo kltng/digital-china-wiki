@@ -16,11 +16,11 @@ One of China's most important university libraries, with extensive historical co
 
 ## Related Institutions
 
-- [[academia-sinica]]
-- [[harvard-yenching]]
-- [[yale-library]]
-- [[stanford-library]]
-- [[national-central-library-taiwan]]
-- [[cnki]]
-- [[airiti]]
-- [[columbia-eal]]
+- [[institutions/academia-sinica]]
+- [[institutions/harvard-yenching]]
+- [[institutions/yale-library]]
+- [[institutions/stanford-library]]
+- [[institutions/national-central-library-taiwan]]
+- [[institutions/cnki]]
+- [[institutions/airiti]]
+- [[institutions/columbia-eal]]

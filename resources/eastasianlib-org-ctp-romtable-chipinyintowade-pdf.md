@@ -1,13 +1,11 @@
 ---
-title: Pinyin to Wade-Giles to Zhuyin Conversion Table
+title: "Pinyin to Wade-Giles to Zhuyin Conversion Table"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://www.eastasianlib.org/ctp/RomTable/Chipinyintowade.pdf
 language: null
 region: global
-tags:
-- dictionary
-- language
+tags: [dictionary, language]
 china_relevance: null
 source_id: eastasianlib-org-ctp-romtable-chipinyintowade-pdf
 ---
@@ -34,7 +32,7 @@ A comprehensive PDF conversion table providing mappings between three major Chin
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-language]] — topic
-- [[romanization]] — topic
-- [[transliteration]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-classics]] — topic

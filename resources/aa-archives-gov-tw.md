@@ -1,15 +1,11 @@
 ---
-title: National Archives Information Network (Taiwan) 國家檔案資訊網
+title: "National Archives Information Network (Taiwan) 國家檔案資訊網"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://aa.archives.gov.tw/
 language: null
 region: taiwan
-tags:
-- archive
-- political_science
-- social_history
-- taiwan
+tags: [archive, political_science, social_history, taiwan]
 china_relevance: null
 source_id: aa-archives-gov-tw
 ---
@@ -37,7 +33,7 @@ The National Archives Information Network (國家檔案資訊網) is Taiwan's of
 
 ## See Also
 
-- [[taiwan]] — region
-- [[taiwan-history]] — topic
-- [[political-history]] — topic
-- [[government-documents]] — topic
+- [[regions/taiwan]] — region
+- [[topics/taiwan-history]] — topic
+- [[topics/political-history]] — topic
+- [[topics/archives]] — topic

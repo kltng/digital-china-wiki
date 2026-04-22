@@ -8,5 +8,5 @@ redirect: "[[library-science]]"
 
 # Academic Libraries
 
-→ See [[library-science]]
+→ See [[topics/library-science]]
 

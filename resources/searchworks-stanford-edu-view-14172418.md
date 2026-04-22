@@ -1,20 +1,14 @@
 ---
-title: Tang dai mu zhi ming 唐代墓志铭数据库 (Tang Dynasty Epitaph Database)
+title: "Tang dai mu zhi ming 唐代墓志铭数据库 (Tang Dynasty Epitaph Database)"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://searchworks.stanford.edu/view/14172418
 language: null
 region: global
-tags:
-- classics
-- database
-- epigraphy
-- social_history
+tags: [classics, database, epigraphy, social_history]
 china_relevance: null
 source_id: searchworks-stanford-edu-view-14172418
-description: 'Tang dai mu zhi ming shu ju ku - Peng Xinglin zhu bian - [Beijing Shi]
-  : Zhonghua shu ju, [2016]- - [北京市] : 中华书局, [2016]- Creators/Contributors - Detailed
-  summary in vernacular field'
+description: "'Tang dai mu zhi ming shu ju ku - Peng Xinglin zhu bian - [Beijing Shi]"
 ---
 
 # Tang dai mu zhi ming 唐代墓志铭数据库 (Tang Dynasty Epitaph Database)
@@ -38,7 +32,7 @@ Tang dai mu zhi ming shu ju ku - Peng Xinglin zhu bian - [Beijing Shi] : Zhonghu
 
 ## See Also
 
-- [[global]] — region
-- [[chinese-history]] — topic
-- [[tang-dynasty]] — topic
-- [[epigraphy]] — topic
+- [[regions/global]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-classics]] — topic
+- [[topics/chinese-classics]] — topic

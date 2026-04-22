@@ -2,8 +2,8 @@
 title: "Chinese Philosophy 中国哲学"
 created: 2026-04-18
 updated: 2026-04-18
-type: concept
-tags: [chinese_classics, chinese_thought]
+type: topic
+tags: [philosophy, intellectual_history]
 resource_count: 4
 ---
 
@@ -13,12 +13,12 @@ Digital resources for the study of Chinese philosophy, religion, and spiritual t
 
 ## Key Resources (4 total)
 
-- [[aisixiang-com|愛思想 aisixiang.com]]
-- [[p-udpweb-com-sin|Sinica Sinoweb (台灣學術經典)]]
-- [[ctext-org|Chinese Text Project | 中國哲學書電子化計劃]]
-- [[open-access-shanben.ioc.u-tokyo.ac.jp-59c1aa59|東京大學東洋文化研究所藏漢籍善本全文影像資料庫 OPEN ACCESS]]
+- [[resources/aisixiang-com|愛思想 aisixiang.com]]
+- [[resources/p-udpweb-com-sin|Sinica Sinoweb (台灣學術經典)]]
+- [[resources/ctext-org|Chinese Text Project | 中國哲學書電子化計劃]]
+- [[resources/open-access-shanben.ioc.u-tokyo.ac.jp-59c1aa59|東京大學東洋文化研究所藏漢籍善本全文影像資料庫 OPEN ACCESS]]
 
 ## Related Topics
 
-- [[chinese-classics]]
-- [[chinese-thought]]
+- [[topics/chinese-classics]]
+- [[glossary/chinese-thought]]

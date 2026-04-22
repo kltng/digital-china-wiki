@@ -1,6 +1,5 @@
 ---
-title: 哈佛燕京圖書館民國時期文獻 Harvard-Yenching Library Chinese Republican Period
-  (1911-1949) Collection
+title: "哈佛燕京圖書館民國時期文獻 Harvard-Yenching Library Chinese Republican Period"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://library.harvard.edu/collections/chinese-republican-period-collection-0
@@ -38,7 +37,7 @@ A digitization project by Harvard-Yenching Library making accessible Chinese mat
 
 ## See Also
 
-- [[prc]] — region
-- [[chinese-history]] — topic
-- [[republican-china]] — topic
-- [[archives]] — topic
+- [[regions/prc]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/chinese-history]] — topic
+- [[topics/archives]] — topic

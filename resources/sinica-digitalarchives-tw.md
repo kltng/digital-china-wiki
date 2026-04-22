@@ -1,7 +1,7 @@
 ---
-title: Academia Sinica Digital Cultural Center Collection Website
+title: "Academia Sinica Digital Cultural Center Collection Website"
 created: 2026-04-18
-updated: '2026-04-18'
+updated: 2026-04-18
 url: https://ascdc.digitalarchives.tw/
 language: null
 region: taiwan
@@ -13,10 +13,7 @@ tags:
 - taiwan
 china_relevance: null
 source_id: sinica-digitalarchives-tw
-description: 識別資訊 全球唯一識別碼:urn:lsid:fishdb. tw:catalogue:444_002 著作者 命名者:Valenciennes,
-  1835 資料類型 紀錄類別:魚類名錄 主題與關. 「數位文化中心典藏網」以研究與保存為核心理念，承襲中央研究院在「數位典藏國家型計畫」期間累積的豐富數位成果，並將本中心後續執行的數位化相關計畫之成果一併納入，讓網站內容不斷擴充，形塑重要的數位文化資源入口。
-  為了協助網路使用者更便捷地認識與運用本院的數位成果，本站致力於提供兼具推廣與服務的多樣內容，包括： - 多元科普內容與主題介紹：以親切易讀的方式呈現專業知識，使社會大眾能輕鬆接觸數位典藏資源。
-  - 豐富的典藏展示與研究素材呈現：以清晰的架構整理院內各單位的數位典藏成果，協助研究者掌握並運用其所需的參考資料。
+description: "識別資訊 全球唯一識別碼:urn:lsid:fishdb. tw:catalogue:444_002 著作者 命名者:Valenciennes,"
 ---
 
 # Academia Sinica Digital Cultural Center Collection Website
@@ -40,7 +37,7 @@ description: 識別資訊 全球唯一識別碼:urn:lsid:fishdb. tw:catalogue:44
 
 ## See Also
 
-- [[taiwan]] — region
-- [[digital-humanities]] — topic
-- [[cultural-heritage]] — topic
-- [[museum-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/digital-humanities]] — topic
+- [[topics/museum-collections]] — topic
+- [[topics/museum-collections]] — topic

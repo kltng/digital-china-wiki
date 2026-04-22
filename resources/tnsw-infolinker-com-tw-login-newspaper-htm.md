@@ -1,8 +1,8 @@
 ---
-title: Central Daily News 中央日報 1928-2006 (Taiwan News Wisdom Network)
+title: "Central Daily News 中央日報 1928-2006 (Taiwan News Wisdom Network)"
 created: 2026-04-18
 updated: 2026-04-18
-url: http://tnsw.infolinker.com.tw/login_newspaper.htm?tpl=basic_search
+url: "http://tnsw.infolinker.com.tw/login_newspaper.htm?tpl=basic_search"
 language: null
 region: taiwan
 tags:
@@ -37,7 +37,7 @@ Digitized archive of the Central Daily News (中央日報), spanning from 1928 t
 
 ## See Also
 
-- [[taiwan]] — region
-- [[chinese-history]] — topic
-- [[taiwan-history]] — topic
-- [[media-studies]] — topic
+- [[regions/taiwan]] — region
+- [[topics/chinese-history]] — topic
+- [[topics/taiwan-history]] — topic
+- [[topics/media-studies]] — topic

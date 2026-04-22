@@ -1,5 +1,5 @@
 ---
-title: 'Brill: Asian Studies E-Books Online Collection'
+title: "Brill: Asian Studies E-Books Online Collection"
 created: 2026-04-18
 updated: 2026-04-18
 url: https://brill.com/view/package/9789004389212
@@ -39,7 +39,7 @@ Brill 亞洲研究電子書線上收藏是 Brill 這個國際學術出版社出�
 
 ## See Also
 
-- [[global]] — region
-- [[asian-history]] — topic
-- [[chinese-studies]] — topic
-- [[general-academic]] — topic
+- [[regions/global]] — region
+- [[topics/museum-collections]] — topic
+- [[topics/chinese-studies]] — topic
+- [[topics/academic-research]] — topic
