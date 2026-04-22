@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - title
+      - description
+      - url
+      - file.name
+    columnSize:
+      note.title: 647
