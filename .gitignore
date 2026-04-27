@@ -2,3 +2,5 @@ raw/
 .obsidian/
 scripts/scraped_v2.json
 scripts/scraped_v2_checkpoint.json
+__pycache__/
+*.pyc
